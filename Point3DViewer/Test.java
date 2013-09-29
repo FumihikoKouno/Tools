@@ -7,23 +7,13 @@ class Test{
 		Quaternion q = new Quaternion(a,b);
 		Scanner sc = new Scanner(System.in);
 		while(true){
-			double t = sc.nextDouble();
 			double x = sc.nextDouble();
 			double y = sc.nextDouble();
 			double z = sc.nextDouble();
-			if(x == 0 && y == 0 && z == 0) break;
-			Quaternion tmp = new Quaternion(t,x,y,z);
-			t = sc.nextDouble();
-			x = sc.nextDouble();
-			y = sc.nextDouble();
-			z = sc.nextDouble();
-			if(x == 0 && y == 0 && z == 0) break;
-			Quaternion tmp2 = new Quaternion(t,x,y,z);
-			System.out.println(tmp+ " X "+ tmp2+ " = "+ tmp.mul(tmp2));
-			/*
 			Vec3D t = new Vec3D(x,y,z);
-			System.out.println(t + " to " + q.rotate(t));
-			*/
+			Quaternion q1 = new Quaternion(a,t);
+			System.out.println(q1);
+			System.out.println(a +" to "+ q1.rotate(a));
 		}
 	}
 }

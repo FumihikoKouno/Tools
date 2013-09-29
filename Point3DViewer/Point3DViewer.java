@@ -181,15 +181,36 @@ class Point3DViewer extends JPanel implements MouseListener, MouseMotionListener
 	 * こっからマウス関係のメソッド
 	 */
 	public void mousePressed(MouseEvent e){
-		mouseX = e.getX();
-		mouseY = e.getY();
+		mouseX = e.getX()-WIDTH/2;
+		mouseY = e.getY()-HEIGHT/2;
 	}
 	public void mouseDragged(MouseEvent e){
-		int mx = e.getX();
-		int my = e.getY();
+		int mx = e.getX()-WIDTH/2;
+		int my = e.getY()-HEIGHT/2;
+		/*
 		double xDiff = 1.0*(mx-mouseX)/zoom;
 		double yDiff = 1.0*(my-mouseY)/zoom;
-		eye = eye.add(new Vec3D(xDiff,yDiff,0)).unit();
+		*/
+		double xDiff = mx-mouseX;
+		double yDiff = my-mouseY;
+		
+		double abs = 300;
+		Vec3D from = new Vec3D(mouseX,mouseY,Math.sqrt(abs*abs-(mouseX*mouseX+mouseY*mouseY)));
+		Vec3D to = new Vec3D(mouseX+xDiff,mouseY+yDiff,0);
+		double tx = to.getX();
+		double ty = to.getY();
+		if(abs < to.abs()){
+			Vec3D unit = to.times(abs/to.abs());
+			to = unit.times(2).sub(to);
+			to.setZ(Math.sqrt((tx*tx+ty*ty)-abs*abs));
+		}else{
+			to.setZ(Math.sqrt(abs*abs-(tx*tx+ty*ty)));
+		}
+		Quaternion rot = new Quaternion(from,to);
+		eye = rot.rotate(eye);
+		
+//		System.out.println(from+" : " + to);
+		System.out.println("eye : " + eye);
 		mouseX = mx;
 		mouseY = my;
 	}
