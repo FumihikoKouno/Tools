@@ -1,4 +1,6 @@
-class Quaternion{
+package Tools.Data;
+
+public class Quaternion{
 	private double t;
 	private Vec3D v;
 	public Quaternion(){

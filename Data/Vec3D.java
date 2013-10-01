@@ -1,4 +1,6 @@
-class Vec3D{
+package Tools.Data;
+
+public class Vec3D{
 	private double x, y, z;
 	public Vec3D(){ this(0,0,0); }
 	public Vec3D(double x, double y, double z){

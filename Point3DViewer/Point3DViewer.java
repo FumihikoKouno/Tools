@@ -1,3 +1,5 @@
+package Tools.Point3DViewer;
+
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
@@ -13,8 +15,12 @@ import java.awt.event.MouseWheelEvent;
 
 import javax.swing.JPanel;
 
-class Point3DViewer extends JPanel implements MouseListener, MouseMotionListener, MouseWheelListener{
+import Tools.Data.*;
 
+public class Point3DViewer extends JPanel implements MouseListener, MouseMotionListener, MouseWheelListener{
+
+
+    public double ONE_POINT_PERSPECTIVE_Z = 1000;
     public static final double MIN_ZOOM = 0;
     public double zoom = 1;
 	
@@ -22,15 +28,16 @@ class Point3DViewer extends JPanel implements MouseListener, MouseMotionListener
 	
     public Vec3D[] point;
     public Vec3D[] rotatedPoint;
+    public Vec3D[] drawnPoint;
 
     public Vec3D origin = new Vec3D(WIDTH/2.0,HEIGHT/2.0,0);
 
     public Point[] line;
-    public static final Vec3D first = new Vec3D(0,0,1);
-    public Vec3D eye = new Vec3D(0,0,1);
+    public static final Vec3D first = new Vec3D(0,0,-1);
+    public Vec3D eye = new Vec3D(0,0,-1);
 	
-    private static final int WIDTH = 1280;
-    private static final int HEIGHT = 960;
+    private static final int WIDTH = 640;
+    private static final int HEIGHT = 480;
 	
     private Image dbImage;
     private Graphics dbg;
@@ -41,30 +48,22 @@ class Point3DViewer extends JPanel implements MouseListener, MouseMotionListener
 	
     public Point3DViewer() {
 	point = new Vec3D[8];
-	line = new Point[12];
+	line = new Point[4];
 
-	point[0] = new Vec3D(-100,-100,-100);
-	point[1] = new Vec3D(-100,-100,100);
-	point[2] = new Vec3D(-100,100,100);
-	point[3] = new Vec3D(-100,100,-100);
-	point[4] = new Vec3D(100,100,-100);
-	point[5] = new Vec3D(100,100,100);
-	point[6] = new Vec3D(100,-100,100);
-	point[7] = new Vec3D(100,-100,-100);
+	point[0] = new Vec3D(-1000,0,0);
+	point[1] = new Vec3D(1000,0,0);
+	point[2] = new Vec3D(0,1000,0);
+	point[3] = new Vec3D(0,-1000,0);
+	point[4] = new Vec3D(0,0,-1000);
+	point[5] = new Vec3D(0,0,1000);
+	point[6] = new Vec3D(100,100,100);
+	point[7] = new Vec3D(-100,-100,-100);
 		
 	line[0] = new Point(0,1);
-	line[1] = new Point(0,3);
-	line[2] = new Point(0,7);
-	line[3] = new Point(1,2);
-	line[4] = new Point(1,6);
-	line[5] = new Point(2,3);
-	line[6] = new Point(2,5);
-	line[7] = new Point(3,4);
-	line[8] = new Point(4,5);
-	line[9] = new Point(4,7);
-	line[10] = new Point(5,6);
-	line[11] = new Point(6,7);
-		
+	line[1] = new Point(2,3);
+	line[2] = new Point(4,5);
+	line[3] = new Point(6,7);
+
 	addMouseListener(this);
 	addMouseMotionListener(this);
 	addMouseWheelListener(this);
@@ -88,35 +87,44 @@ class Point3DViewer extends JPanel implements MouseListener, MouseMotionListener
 	}
 	dbg.setColor(Color.BLACK);
 	dbg.fillRect(0,0,WIDTH,HEIGHT);
-	    
-	setPoint();
+	  
+       	setPoint();
+	//	setPointByOnePointPerspective();
 	    
 	draw();
     }
-    
-    public void setPoint(){
-	dbg.setColor(Color.WHITE);
+
+    public void setPointByOnePointPerspective(){
+	drawnPoint = new Vec3D[rotatedPoint.length];
 	for(int i = 0; i < rotatedPoint.length; i++){
-	    int x = (int)(rotatedPoint[i].getX()*zoom+origin.getX());
-	    int y = (int)(rotatedPoint[i].getY()*zoom+origin.getY());
+	    drawnPoint[i] = new Vec3D(rotatedPoint[i].getX(), rotatedPoint[i].getY(), -ONE_POINT_PERSPECTIVE_Z);
+	    drawnPoint[i] = drawnPoint[i].times(1.0-(rotatedPoint[i].getZ()/ONE_POINT_PERSPECTIVE_Z));
+	}
+    }
+
+    public void setPoint(){
+	drawnPoint = rotatedPoint;
+    }
+    
+    public void drawPointAndLine(){
+	dbg.setColor(Color.WHITE);
+	for(int i = 0; i < drawnPoint.length; i++){
+	    int x = (int)(origin.getX()+drawnPoint[i].getX()*zoom);
+	    int y = (int)(origin.getY()-drawnPoint[i].getY()*zoom);
 	    dbg.fillOval(x-2,y-2,8,8);
 	    for(int j = 0; j < line.length; j++){
 		int tmpI = 0;
-		if(line[j].x == i){
-		    tmpI = line[j].y;
-		}else{
-		    continue;
-		}
-
-		int x2 = (int)(rotatedPoint[tmpI].getX()*zoom+origin.getX());
-		int y2 = (int)(rotatedPoint[tmpI].getY()*zoom+origin.getY());
+		if(line[j].x == i) tmpI = line[j].y;
+		else continue;
+		int x2 = (int)(origin.getX()+drawnPoint[tmpI].getX()*zoom);
+		int y2 = (int)(origin.getY()-drawnPoint[tmpI].getY()*zoom);
 		dbg.drawLine(x+3,y+3,x2+3,y2+3);
 	    }
 	}
     }
     
     private void rotatePoints(Quaternion q, Vec3D[] p){
-	if(rotatedPoint == null) rotatedPoint = new Vec3D[p.length];
+	if(rotatedPoint == null || rotatedPoint.length != p.length) rotatedPoint = new Vec3D[p.length];
 	for(int i = 0; i < p.length; i++){
 	    rotatedPoint[i] = q.rotate(p[i]);
 	    if(rotatedPoint[i] == null){
@@ -126,6 +134,7 @@ class Point3DViewer extends JPanel implements MouseListener, MouseMotionListener
     }
 	
     public void draw(){
+	drawPointAndLine();
 	try{
 	    Graphics g = getGraphics();
 	    if((g != null) && (dbImage != null)){
@@ -159,8 +168,8 @@ class Point3DViewer extends JPanel implements MouseListener, MouseMotionListener
 	double yDiff = my-mouseY;
 	if((e.getModifiers() & MouseEvent.BUTTON1_MASK) != 0){
 	    double abs = Math.max(WIDTH,HEIGHT);
-	    Vec3D from = new Vec3D(0,0,1);
-	    Vec3D to = new Vec3D(xDiff,yDiff,Math.sqrt(abs*abs-(xDiff*xDiff+yDiff*yDiff)));
+	    Vec3D from = new Vec3D(0,0,-1);
+	    Vec3D to = new Vec3D(xDiff,yDiff,-Math.sqrt(abs*abs-(xDiff*xDiff+yDiff*yDiff)));
 	    Quaternion rot = new Quaternion(from,to);
 	    eye = rot.rotate(eye);
 	    rotatePoints(rot, rotatedPoint);
