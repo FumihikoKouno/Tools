@@ -9,6 +9,9 @@ public class Vec3D{
     public Vec3D(Vec3D v){
         set(v.getX(),v.getY(),v.getZ());
     }
+    public Vec3D clone(){
+	return new Vec3D(this);
+    }
     public Vec3D unit(){
         if(abs() == 0) return new Vec3D();
         else return times(1.0/abs());

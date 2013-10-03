@@ -1,5 +1,7 @@
 package Tools.Point3DViewer;
 
+import java.util.ArrayList;
+
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
@@ -15,34 +17,45 @@ import Tools.Data.*;
 
 public class Point3DPlayer extends JPanel{
 
-    public static final int WIDTH = 1280;
-    public static final int HEIGHT = 640;
+    public int WIDTH;
+    public int HEIGHT;
 
     public Point3DViewer pv;
-    public Point3DViewer pv2;
-	
-    public Point3DPlayer() {
+
+    public int playPosition;
+
+    public ArrayList<MotionData> mdList = new ArrayList<MotionData>();
+
+    public Point3DPlayer(){
+	this(640,640);
+    }
+
+    public Point3DPlayer(int width, int height) {
+	WIDTH = width;
+	HEIGHT = height;
+
 	JButton pl = new JButton("Play");
 	JButton st = new JButton("Stop");
 	JPanel buttons = new JPanel();
 	buttons.add(pl,BorderLayout.EAST);
 	buttons.add(st,BorderLayout.WEST);
-	pv = new Point3DViewer();
-	pv2 = new Point3DViewer();
-	add(pv,BorderLayout.EAST);
-	add(pv2,BorderLayout.WEST);
+	pv = new Point3DViewer(WIDTH, HEIGHT-60);
+
+	add(pv,BorderLayout.NORTH);
 	add(buttons,BorderLayout.SOUTH);
 	setPreferredSize(new Dimension(WIDTH, HEIGHT));
     }
+
+    public void next(){
+	
+    }    
 	
     public void start(){
 	pv.start();
-	pv2.start();
     }
 	
     public void update() {
 	pv.update();
-	pv2.update();
 	/*
 	if(dbImage == null){
 	    dbImage = createImage(WIDTH,HEIGHT);
