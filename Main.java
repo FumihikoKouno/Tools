@@ -8,31 +8,31 @@ import javax.swing.JFrame;
 import Tools.Point3DViewer.*;
 
 public class Main extends JFrame {
-    Point3DPlayer pp;
-    Point3DPlayer pp2;
-    public Main() {
-	setTitle("Point3DPPlayer");
-	pp = new Point3DPlayer(320,640);
-	pp2 = new Point3DPlayer(320,640);
-	Container contentPane = getContentPane();
-	contentPane.add(pp,BorderLayout.EAST);
-	contentPane.add(pp2,BorderLayout.WEST);
-	pack();
-    }
+	Point3DPlayer pp;
+	Point3DPlayer pp2;
+	public Main() {
+		setTitle("Point3DPPlayer");
+		pp = new Point3DPlayer(640,640);
+	//	pp2 = new Point3DPlayer(320,640);
+		Container contentPane = getContentPane();
+		contentPane.add(pp,BorderLayout.EAST);
+	//	contentPane.add(pp2,BorderLayout.WEST);
+		pack();
+	}
 	
 	public void start(){
-	    pp.start();
-	    pp2.start();
-	    /*
-	    while(true){
+		pp.start();
+//		pp2.start();
+		/*
+		while(true){
 		try{
-		    Thread.sleep(30);
+			Thread.sleep(30);
 		}catch(InterruptedException e){
-		    e.printStackTrace();
+			e.printStackTrace();
 		}
 		pp.update();
-	    }
-	    */
+		}
+		*/
 	}
 
 	public static void main(String[] args) {
