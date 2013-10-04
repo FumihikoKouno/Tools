@@ -9,36 +9,44 @@ import Tools.Point3DViewer.*;
 
 public class Main extends JFrame {
 	Point3DPlayer pp;
-	Point3DPlayer pp2;
+	
+	int fps = 30;
+	
 	public Main() {
-		setTitle("Point3DPPlayer");
+		setTitle("Point3DPlayer");
 		pp = new Point3DPlayer(640,640);
-	//	pp2 = new Point3DPlayer(320,640);
 		Container contentPane = getContentPane();
 		contentPane.add(pp,BorderLayout.EAST);
-	//	contentPane.add(pp2,BorderLayout.WEST);
 		pack();
 	}
 	
-	public void start(){
-		pp.start();
-//		pp2.start();
-		/*
+	public void run(){
+		int mspf = 1000/fps;
+		long time;
 		while(true){
-		try{
-			Thread.sleep(30);
-		}catch(InterruptedException e){
-			e.printStackTrace();
+			try{
+				time = System.currentTimeMillis();
+				update();
+				time = System.currentTimeMillis()-time;
+				if(mspf > time){
+					Thread.sleep(mspf-time);
+				}else{
+					System.out.println("SlowDown");
+				}
+			}catch(InterruptedException e){
+				e.printStackTrace();
+			}
 		}
+	}
+	
+	public void update(){
 		pp.update();
-		}
-		*/
 	}
 
 	public static void main(String[] args) {
 		Main frame = new Main();
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setVisible(true);
-		frame.start();
+		frame.run();
 	}
 }

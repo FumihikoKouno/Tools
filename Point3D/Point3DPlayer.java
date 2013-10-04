@@ -30,13 +30,24 @@ public class Point3DPlayer extends JPanel implements ActionListener{
 	public Point3DViewer pv;
 
 	public int playPosition;
+	
+	public boolean playing;
 
-//	public ArrayList<MotionData> mdList = new ArrayList<MotionData>();
+	public ArrayList<MotionData> mdList = new ArrayList<MotionData>();
 	public ArrayList<Vec3D[]> data = new ArrayList<Vec3D[]>();
 	public Point[] line;
 	
 	public void actionPerformed(ActionEvent e){
-		play();
+		String s = e.getActionCommand();
+		if(s == "Play"){
+			play();
+		}
+		if(s == "Stop"){
+			stop();
+		}
+		if(s == "Pause"){
+			pause();
+		}
 	}
 	
 	public Point3DPlayer(){
@@ -46,22 +57,53 @@ public class Point3DPlayer extends JPanel implements ActionListener{
 	public Point3DPlayer(int width, int height) {
 		WIDTH = width;
 		HEIGHT = height;
-
+		
+		playPosition = 0;
+		initGUI();
+	}
+	
+	public void initGUI(){
 		JButton pl = new JButton("Play");
 		pl.addActionListener(this);
-		
+		JButton pa = new JButton("Pause");
+		pa.addActionListener(this);
 		JButton st = new JButton("Stop");
+		st.addActionListener(this);
 		JPanel buttons = new JPanel();
+		
 		buttons.add(pl,BorderLayout.EAST);
+		buttons.add(pa,BorderLayout.CENTER);
 		buttons.add(st,BorderLayout.WEST);
 		pv = new Point3DViewer(WIDTH, HEIGHT-60);
-		
 		add(pv,BorderLayout.NORTH);
 		add(buttons,BorderLayout.SOUTH);
+		
 		setPreferredSize(new Dimension(WIDTH, HEIGHT));
+	}
+	
+	public void pause(){ playing = false; }
+	
+	public void stop(){
+		playing = false;
+		playPosition = 0;
+	}
+	
+	public void next(){
+		playPosition++;
+		for(int i = 0; i < mdList.size(); i++){
+			Vec3D[] tmp = null;
+			// Vec3D tmp = mdList.get(i).get(playPosition);
+			if(tmp == null){
+				pause();
+				return;
+			}
+			pv.updatePoints(i,tmp);
+		}
 	}
 
 	public void play(){
+		playing = true;
+		/*
 		int idx = 1;
 		while(true){
 			try{
@@ -94,53 +136,21 @@ public class Point3DPlayer extends JPanel implements ActionListener{
 				e.printStackTrace();
 			}
 		}
+		*/
 	}	
 	
-	public void start(){
-		Vec3D[] test = new Vec3D[6];
-		for(int i = 0; i < 6; i++){
-			test[i] = new Vec3D();
-		}
-		pv.addPoints(test.clone(),null,Color.WHITE);
-		pv.addPoints(test.clone(),null,Color.RED);
-		pv.start();
-		update();
+	public void setNext(){
+		
 	}
 	
-	public void update() {
-		pv.update();
-	/*
-	if(dbImage == null){
-		dbImage = createImage(WIDTH,HEIGHT);
-		if(dbImage == null){
-			System.out.println("dbImage is null");
-			return;
-		}else{
-			dbg = dbImage.getGraphics();
+	public void update(){
+		if(playing){
+			setNext();
 		}
+		pv.update();
 	}
-		dbg.setColor(Color.BLACK);
-		dbg.fillRect(0,0,WIDTH,HEIGHT);
-		draw();
-	*/
-	}
-
 	
 	public void draw(){
-		/*
-		try{
-			Graphics g = getGraphics();
-			if((g != null) && (dbImage != null)){
-				g.drawImage(dbImage,0,0,null);
-			}
-			Toolkit.getDefaultToolkit().sync();
-			if(g != null){
-				g.dispose();
-			}
-		}catch(Exception e){
-			e.printStackTrace();
-		}
-		*/
 	}
 
 }

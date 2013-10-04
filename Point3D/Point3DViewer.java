@@ -1,3 +1,5 @@
+// http://www.atmarkit.co.jp/fjava/javatips/137java027.html
+
 package Tools.Point3DViewer;
 
 import java.lang.IndexOutOfBoundsException;
@@ -18,6 +20,8 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseWheelEvent;
 
 import javax.swing.JPanel;
+import javax.swing.JPopupMenu;
+import javax.swing.JMenuItem;
 
 import Tools.Data.*;
 
@@ -35,6 +39,10 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 	
 	public int mouseX, mouseY;
 	
+	public int viewMethod;
+	public static final int ONE_POINT_PERSPECTIVE = 0;
+	public static final int NO_PERSPECTIVE = 1;
+	
 	public ArrayList<Vec3D[]> point = new ArrayList<Vec3D[]>();
 	public ArrayList<Vec3D[]> rotatedPoint = new ArrayList<Vec3D[]>();
 	public ArrayList<Vec3D> drawnPoint= new ArrayList<Vec3D>();
@@ -47,6 +55,9 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 	public Vec3D origin;
 
 	public static final Vec3D first = new Vec3D(0,0,-1);
+	
+	private JPopupMenu popupMenu;
+	private JPanel menuPanel;
 	
 	private int WIDTH;
 	private int HEIGHT;
@@ -68,6 +79,7 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 			rotatedPoint.set(i,point.get(i).clone());
 			qu.set(i,new Quaternion(1,0,0,0));
 		}
+		update();
 	}
 
 	public void updatePoints(int i, Vec3D[] v){
@@ -101,9 +113,10 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		addMouseListener(this);
 		addMouseMotionListener(this);
 		addMouseWheelListener(this);
-
+		
 		setPreferredSize(new Dimension(WIDTH, HEIGHT));
 
+		viewMethod = ONE_POINT_PERSPECTIVE;
 		ROTATE_ORIGIN = new Vec3D(0,0,0);
 		ONE_POINT_PERSPECTIVE_POINT = new Vec3D(0,0,500);
 		origin = new Vec3D(WIDTH/2.0,HEIGHT/2.0,0);
@@ -111,9 +124,11 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		SIZE_ORIGIN = new Vec3D(0,0,300);
 	}
 	
-	public void start(){
-		update();
-	}
+	public void setRotateOrigin(Vec3D v){ ROTATE_ORIGIN = v; }
+	public void setOnePointPerspectivePoint(Vec3D v){ ONE_POINT_PERSPECTIVE_POINT = v; }
+	public void setSizeOrigin(Vec3D v){ SIZE_ORIGIN = v; }
+	public void setSizeUnit(double d){ SIZE_UNIT_BY_PERSPECTIVE = d; }
+	public void setViewMethod(int i){ viewMethod = i; }
 	
 	public void update() {
 		if(dbImage == null){
@@ -128,8 +143,14 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		dbg.setColor(Color.BLACK);
 		dbg.fillRect(0,0,WIDTH,HEIGHT);
 
-		//setPoint();
-		setPointByOnePointPerspective();
+		switch(viewMethod){
+		case ONE_POINT_PERSPECTIVE:
+			setPointByOnePointPerspective();
+			break;
+		case NO_PERSPECTIVE:
+			setPoint();
+			break;
+		}
 		drawPointAndLine();
 
 		draw();
@@ -240,7 +261,7 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 			if((g != null) && (dbImage != null)){
 				g.drawImage(dbImage,0,0,null);
 			}
-			Toolkit.getDefaultToolkit().sync();
+//			Toolkit.getDefaultToolkit().sync();
 			if(g != null){
 				g.dispose();
 			}
@@ -248,21 +269,12 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 			e.printStackTrace();
 		}
 	}
-	
-	
 	/**
 	 * mouse methods
 	 */
 	public void mousePressed(MouseEvent e){
 		mouseX = e.getX();
 		mouseY = e.getY();
-		if((e.getModifiers() & MouseEvent.BUTTON2_MASK) != 0){
-			currentID = (currentID+1)%point.size();
-			//origin = new Vec3D(mouseX,mouseY,0);
-			//setDefaultView();
-			autoRotate();
-		}
-		update();
 	}
 	public void mouseDragged(MouseEvent e){
 		int mx = e.getX();
