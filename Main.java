@@ -5,7 +5,7 @@ import java.awt.BorderLayout;
 
 import javax.swing.JFrame;
 
-import Tools.Point3DViewer.*;
+import Tools.Point3D.*;
 
 public class Main extends JFrame {
 	Point3DPlayer pp;
@@ -39,12 +39,19 @@ public class Main extends JFrame {
 		}
 	}
 	
+	public void load(String[] args){
+		for(int i = 0; i < args.length; i++){
+			pp.loadData(args[i]);
+		}
+	}
+	
 	public void update(){
 		pp.update();
 	}
 
 	public static void main(String[] args) {
 		Main frame = new Main();
+		frame.load(args);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setVisible(true);
 		frame.run();

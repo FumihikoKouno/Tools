@@ -1,4 +1,4 @@
-package Tools.Point3DViewer;
+package Tools.Point3D;
 
 import java.util.ArrayList;
 
@@ -32,10 +32,21 @@ public class Point3DPlayer extends JPanel implements ActionListener{
 	public int playPosition;
 	
 	public boolean playing;
+	public ArrayList<Boolean> sentFlag = new ArrayList<Boolean>();
 
 	public ArrayList<MotionData> mdList = new ArrayList<MotionData>();
-	public ArrayList<Vec3D[]> data = new ArrayList<Vec3D[]>();
-	public Point[] line;
+//	public ArrayList<Vec3D[]> data = new ArrayList<Vec3D[]>();
+	public ArrayList<Point[]> line = new ArrayList<Point[]>();
+	
+	public Color[] color = {
+		Color.WHITE,
+		Color.RED,
+		Color.GREEN,
+		Color.BLUE,
+		Color.YELLOW,
+		Color.PINK,
+		Color.ORANGE
+	};
 	
 	public void actionPerformed(ActionEvent e){
 		String s = e.getActionCommand();
@@ -81,18 +92,28 @@ public class Point3DPlayer extends JPanel implements ActionListener{
 		setPreferredSize(new Dimension(WIDTH, HEIGHT));
 	}
 	
-	public void pause(){ playing = false; }
+	public void loadData(String s){
+		MotionData tmp = new MotionData();
+		if(!tmp.readFile(s)) return;
+		mdList.add(tmp);
+		line.add(tmp.getLine());
+		sentFlag.add(false);
+		sendPoints();
+	}
+	
+	public void pause(){
+		playing = false;
+	}
 	
 	public void stop(){
 		playing = false;
 		playPosition = 0;
+		updatePoints();
 	}
 	
-	public void next(){
-		playPosition++;
+	public void updatePoints(){
 		for(int i = 0; i < mdList.size(); i++){
-			Vec3D[] tmp = null;
-			// Vec3D tmp = mdList.get(i).get(playPosition);
+			Vec3D[] tmp = mdList.get(i).get(playPosition);
 			if(tmp == null){
 				pause();
 				return;
@@ -100,52 +121,35 @@ public class Point3DPlayer extends JPanel implements ActionListener{
 			pv.updatePoints(i,tmp);
 		}
 	}
+	
+	public void next(){
+		playPosition++;
+		updatePoints();
+	}
+	
+	public void sendPoints(){
+		for(int i = 0; i < mdList.size(); i++){
+			if(playPosition >= mdList.get(i).size()) playPosition = 0;
+			if(!sentFlag.get(i)){
+				pv.addPoints(mdList.get(i).get(playPosition),line.get(i),color[i%color.length]);
+				sentFlag.set(i,true);
+			}
+		}
+	}
 
 	public void play(){
 		playing = true;
-		/*
-		int idx = 1;
-		while(true){
-			try{
-				if(idx >=60) break;
-				idx++;
-				long time = System.currentTimeMillis();
-				for(int i = 0; i < 2; i++){
-					Vec3D[] test = new Vec3D[6];
-					if(i==0){
-						test[0] = new Vec3D(idx<<2,0,0);
-						test[1] = new Vec3D(0,idx<<2,0);
-						test[2] = new Vec3D(0,0,idx<<2);
-						test[3] = new Vec3D(-idx<<2,0,0);
-						test[4] = new Vec3D(0,-idx<<2,0);
-						test[5] = new Vec3D(0,0,-idx<<2);
-					}else{
-						test[0] = new Vec3D(idx<<2,idx<<2,0);
-						test[1] = new Vec3D(0,idx<<2,idx<<2);
-						test[2] = new Vec3D(idx<<2,0,idx<<2);
-						test[3] = new Vec3D(-idx<<2,0,-idx<<2);
-						test[4] = new Vec3D(-idx<<2,-idx<<2,0);
-						test[5] = new Vec3D(0,-idx<<2,-idx<<2);
-					}
-					pv.updatePoints(i,test);
-				}
-				pv.update();
-				time = System.currentTimeMillis()-time;
-				if(time < 33) Thread.sleep(33-time);
-			}catch(InterruptedException e){
-				e.printStackTrace();
+		for(int i = 0; i < mdList.size(); i++){
+			if(playPosition >= mdList.get(i).size()){
+				playPosition = 0;
+				break;
 			}
 		}
-		*/
-	}	
-	
-	public void setNext(){
-		
 	}
 	
 	public void update(){
 		if(playing){
-			setNext();
+			next();
 		}
 		pv.update();
 	}

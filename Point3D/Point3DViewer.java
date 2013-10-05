@@ -1,6 +1,4 @@
-// http://www.atmarkit.co.jp/fjava/javatips/137java027.html
-
-package Tools.Point3DViewer;
+package Tools.Point3D;
 
 import java.lang.IndexOutOfBoundsException;
 
@@ -39,6 +37,8 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 	
 	public int mouseX, mouseY;
 	
+	public boolean endDrawnConvert = true;
+	
 	public int viewMethod;
 	public static final int ONE_POINT_PERSPECTIVE = 0;
 	public static final int NO_PERSPECTIVE = 1;
@@ -64,7 +64,7 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 	
 	private Image dbImage;
 	private Graphics dbg;
-
+	
 	public void reset(){
 		point.clear();
 		rotatedPoint.clear();
@@ -130,7 +130,7 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 	public void setSizeUnit(double d){ SIZE_UNIT_BY_PERSPECTIVE = d; }
 	public void setViewMethod(int i){ viewMethod = i; }
 	
-	public void update() {
+	public synchronized void update() {
 		if(dbImage == null){
 			dbImage = createImage(WIDTH,HEIGHT);
 			if(dbImage == null){
@@ -143,15 +143,25 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		dbg.setColor(Color.BLACK);
 		dbg.fillRect(0,0,WIDTH,HEIGHT);
 
-		switch(viewMethod){
-		case ONE_POINT_PERSPECTIVE:
-			setPointByOnePointPerspective();
-			break;
-		case NO_PERSPECTIVE:
-			setPoint();
-			break;
+		synchronized(drawnPoint){
+			while(!endDrawnConvert){
+				try{
+						wait();
+				}catch(InterruptedException e){}
+			}
+			endDrawnConvert = false;
+			switch(viewMethod){
+			case ONE_POINT_PERSPECTIVE:
+				setPointByOnePointPerspective();
+				break;
+			case NO_PERSPECTIVE:
+				setPoint();
+				break;
+			}
+			drawPointAndLine();
+			endDrawnConvert = true;
+			notifyAll();
 		}
-		drawPointAndLine();
 
 		draw();
 	}
@@ -220,8 +230,8 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 	
 	private void drawPointAndLine(){
 		for(int i = 0; i < drawnPoint.size(); i++){
-			Point id = ids.get(i);
-			Vec3D dp = drawnPoint.get(i);
+			Point id = new Point(ids.get(i).x, ids.get(i).y);
+			Vec3D dp = drawnPoint.get(i).clone();
 			int x = (int)(origin.getX()+dp.getX()*zoom);
 			int y = (int)(origin.getY()-dp.getY()*zoom);
 			int size = (int)((SIZE_ORIGIN.getZ()-dp.getZ())/SIZE_UNIT_BY_PERSPECTIVE);
@@ -231,7 +241,7 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 				for(int j = 0; j < line.get(id.x).length; j++){
 					Vec3D tmpV;
 					Point tmpL = line.get(id.x)[j];
-					if(tmpL.x == id.y) tmpV = drawnPoint.get(ids.indexOf(new Point(id.x,tmpL.y)));
+					if(tmpL.x == id.y) tmpV = drawnPoint.get(ids.indexOf(new Point(id.x,tmpL.y))).clone();
 					else continue;
 					int x2 = (int)(origin.getX()+tmpV.getX()*zoom);
 					int y2 = (int)(origin.getY()-tmpV.getY()*zoom);
