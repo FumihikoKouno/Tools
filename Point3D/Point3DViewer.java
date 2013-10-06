@@ -143,25 +143,15 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		dbg.setColor(Color.BLACK);
 		dbg.fillRect(0,0,WIDTH,HEIGHT);
 
-		synchronized(drawnPoint){
-			while(!endDrawnConvert){
-				try{
-						wait();
-				}catch(InterruptedException e){}
-			}
-			endDrawnConvert = false;
-			switch(viewMethod){
-			case ONE_POINT_PERSPECTIVE:
-				setPointByOnePointPerspective();
-				break;
-			case NO_PERSPECTIVE:
-				setPoint();
-				break;
-			}
-			drawPointAndLine();
-			endDrawnConvert = true;
-			notifyAll();
+		switch(viewMethod){
+		case ONE_POINT_PERSPECTIVE:
+			setPointByOnePointPerspective();
+			break;
+		case NO_PERSPECTIVE:
+			setPoint();
+			break;
 		}
+		drawPointAndLine();
 
 		draw();
 	}
@@ -271,7 +261,7 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 			if((g != null) && (dbImage != null)){
 				g.drawImage(dbImage,0,0,null);
 			}
-//			Toolkit.getDefaultToolkit().sync();
+			Toolkit.getDefaultToolkit().sync();
 			if(g != null){
 				g.dispose();
 			}
@@ -306,13 +296,11 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		}
 		mouseX = mx;
 		mouseY = my;
-		update();
 	}
 
 	public void mouseWheelMoved(MouseWheelEvent e){
 		zoom -= e.getWheelRotation()/10.0;
 		if(zoom < MIN_ZOOM) zoom = MIN_ZOOM;
-		update();
 	}
 	public void mouseEntered(MouseEvent e){
 	}
