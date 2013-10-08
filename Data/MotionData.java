@@ -69,7 +69,7 @@ public class MotionData{
 			while((str = in.readLine()) != null){
 				Vec3D[] newData = new Vec3D[JOINT_NUMBER];
 				for(int i = 0; i < JOINT_NUMBER; i++){
-					if(str == null){
+					if(str == null && i > 0){
 						data.clear();
 						System.out.println("Illegal data format");
 						return false;
@@ -80,8 +80,8 @@ public class MotionData{
 						d[j] = Double.parseDouble(tmp[j]);
 					}
 					newData[i] = new Vec3D(d);
-//					System.out.println("("+data.size()+","+i+") : "+newData[i]);
-					str = in.readLine();
+					//					System.out.println("("+data.size()+","+i+") : "+newData[i]);
+					if(i < JOINT_NUMBER-1) str = in.readLine();
 				}
 				data.add(newData);
 			}
