@@ -12,10 +12,12 @@ import java.awt.Toolkit;
 import javax.swing.JPanel;
 import javax.swing.JButton;
 import javax.swing.JScrollBar;
+import javax.swing.JOptionPane;
+import javax.swing.JFileChooser;
 
 import java.awt.BorderLayout;
+import java.awt.GridLayout;
 import java.awt.FlowLayout;
-
 
 import java.awt.event.ActionListener;
 import java.awt.event.AdjustmentListener;
@@ -23,6 +25,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.AdjustmentEvent;
 
 import java.io.IOException;
+import java.io.File;
 
 import Tools.Data.*;
 
@@ -74,6 +77,16 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		if(s == "Pause"){
 			pause();
 		}
+		if(s == "Option"){
+		    Option option = new Option(JOptionPane.getFrameForComponent(this));
+		    option.setVisible(true);
+		}
+		if(s == "Add Data"){
+		    JFileChooser jfc = new JFileChooser();
+		    if(jfc.showOpenDialog(this) == JFileChooser.APPROVE_OPTION){
+			addData(jfc.getSelectedFile());
+		    }
+		}
 	}
 	
 	public Point3DPlayer(){
@@ -95,21 +108,28 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		pa.addActionListener(this);
 		JButton st = new JButton("Stop");
 		st.addActionListener(this);
+		JButton op = new JButton("Option");
+		op.addActionListener(this);
+		JButton ad = new JButton("Add Data");
+		ad.addActionListener(this);
 		JPanel buttons = new JPanel();
-		buttons.setLayout(new FlowLayout());
-		setLayout(new BorderLayout());
+		buttons.setLayout(new GridLayout(2,3));
+
+		buttons.add(pl);
+		buttons.add(pa);
+		buttons.add(st);
+		buttons.add(op);
+		buttons.add(ad);
+		buttons.add(new JButton(""));
 		
 		sb = new JScrollBar(JScrollBar.HORIZONTAL);
 		sb.setMaximum(0);
 //		sb.setVisibleAmount(WIDTH);
 		sb.addAdjustmentListener(this);
-		
-//		buttons.add(sb,BorderLayout.NORTH);
-		buttons.add(pl);
-		buttons.add(pa);
-		buttons.add(st);
 
-		pv = new Point3DViewer(WIDTH, HEIGHT-60);
+		setLayout(new BorderLayout());
+		
+		pv = new Point3DViewer(WIDTH, HEIGHT-80);
 		add(pv,BorderLayout.NORTH);
 		add(sb,BorderLayout.CENTER);
 		add(buttons,BorderLayout.SOUTH);
@@ -120,6 +140,16 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 	public void loadData(String s){
 		MotionData tmp = new MotionData();
 		if(!tmp.readFile(s)) return;
+		if(sb.getMaximum()-1 < tmp.size()) sb.setMaximum(tmp.size()-1);
+		mdList.add(tmp);
+		line.add(tmp.getLine());
+		sentFlag.add(false);
+		sendPoints();
+	}
+
+        public void addData(File f){
+		MotionData tmp = new MotionData();
+		if(!tmp.readFile(f)) return;
 		if(sb.getMaximum()-1 < tmp.size()) sb.setMaximum(tmp.size()-1);
 		mdList.add(tmp);
 		line.add(tmp.getLine());

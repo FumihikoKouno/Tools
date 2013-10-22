@@ -28,8 +28,6 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 	public int currentID = 0;
 
 	public double SIZE_UNIT_BY_PERSPECTIVE;
-	public Vec3D ONE_POINT_PERSPECTIVE_POINT;
-	public Vec3D ROTATE_ORIGIN;
 	public Vec3D SIZE_ORIGIN;
 
 	public static final double MIN_ZOOM = 0;
@@ -39,10 +37,6 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 	
 	public boolean endDrawnConvert = true;
 	
-	public int viewMethod;
-	public static final int ONE_POINT_PERSPECTIVE = 0;
-	public static final int NO_PERSPECTIVE = 1;
-	
 	public ArrayList<Vec3D[]> point = new ArrayList<Vec3D[]>();
 	public ArrayList<Vec3D[]> rotatedPoint = new ArrayList<Vec3D[]>();
 	public ArrayList<Vec3D> drawnPoint= new ArrayList<Vec3D>();
@@ -51,9 +45,8 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 	public ArrayList<Color> color = new ArrayList<Color>();
 
 	public ArrayList<Quaternion> qu = new ArrayList<Quaternion>();
-	
-	public Vec3D origin;
 
+        public Vec3D origin;
 	public static final Vec3D first = new Vec3D(0,0,-1);
 	
 	private JPopupMenu popupMenu;
@@ -116,19 +109,15 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		
 		setPreferredSize(new Dimension(WIDTH, HEIGHT));
 
-		viewMethod = ONE_POINT_PERSPECTIVE;
-		ROTATE_ORIGIN = new Vec3D(0,0,0);
-		ONE_POINT_PERSPECTIVE_POINT = new Vec3D(0,0,500);
+		Option.rot = new Vec3D(0,0,0);
+		Option.onePP = new Vec3D(0,0,500);
 		origin = new Vec3D(WIDTH/2.0,HEIGHT/2.0,0);
 		SIZE_UNIT_BY_PERSPECTIVE = 50;
 		SIZE_ORIGIN = new Vec3D(0,0,300);
 	}
 	
-	public void setRotateOrigin(Vec3D v){ ROTATE_ORIGIN = v; }
-	public void setOnePointPerspectivePoint(Vec3D v){ ONE_POINT_PERSPECTIVE_POINT = v; }
 	public void setSizeOrigin(Vec3D v){ SIZE_ORIGIN = v; }
 	public void setSizeUnit(double d){ SIZE_UNIT_BY_PERSPECTIVE = d; }
-	public void setViewMethod(int i){ viewMethod = i; }
 	
 	public synchronized void update() {
 		if(dbImage == null){
@@ -143,11 +132,11 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		dbg.setColor(Color.BLACK);
 		dbg.fillRect(0,0,WIDTH,HEIGHT);
 
-		switch(viewMethod){
-		case ONE_POINT_PERSPECTIVE:
+		switch(Option.perspective){
+		case Option.ONE_POINT_PERSPECTIVE:
 			setPointByOnePointPerspective();
 			break;
-		case NO_PERSPECTIVE:
+		case Option.NO_PERSPECTIVE:
 			setPoint();
 			break;
 		}
@@ -168,9 +157,9 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		for(int i = 0; i < rotatedPoint.size(); i++){
 			Vec3D[] rp = rotatedPoint.get(i);
 			for(int j = 0; j < rp.length; j++){
-				Vec3D tmp = rp[j].sub(ONE_POINT_PERSPECTIVE_POINT);
-				tmp = tmp.times(1.0-(rp[j].getZ()/ONE_POINT_PERSPECTIVE_POINT.getZ()));
-				tmp = tmp.add(ONE_POINT_PERSPECTIVE_POINT);
+				Vec3D tmp = rp[j].sub(Option.onePP);
+				tmp = tmp.times(1.0-(rp[j].getZ()/Option.onePP.getZ()));
+				tmp = tmp.add(Option.onePP);
 				boolean insert = false;
 				for(int k = 0; k < drawnPoint.size(); k++){
 					if(tmp.getZ() > drawnPoint.get(k).getZ()){
@@ -247,15 +236,15 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		Vec3D[] rp = rotatedPoint.get(id);
 		if(rp == null || rp.length != p.length) rp = new Vec3D[p.length];
 		for(int i = 0; i < p.length; i++){
-			rp[i] = q.rotate(p[i].sub(ROTATE_ORIGIN));
-			rp[i] = rp[i].add(ROTATE_ORIGIN);
+			rp[i] = q.rotate(p[i].sub(Option.rot));
+			rp[i] = rp[i].add(Option.rot);
 		}
 	}
 	
 	public void draw(){
 		drawPointAndLine();
-		drawPoint(ROTATE_ORIGIN,Color.RED);
-		drawPoint(ONE_POINT_PERSPECTIVE_POINT,Color.BLUE);
+		if(Option.viewR) drawPoint(Option.rot,Color.RED);
+		if(Option.viewO) drawPoint(Option.onePP,Color.BLUE);
 		try{
 			Graphics g = getGraphics();
 			if((g != null) && (dbImage != null)){
