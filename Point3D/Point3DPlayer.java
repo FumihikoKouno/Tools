@@ -45,7 +45,6 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 	public ArrayList<Boolean> sentFlag = new ArrayList<Boolean>();
 
 	public ArrayList<MotionData> mdList = new ArrayList<MotionData>();
-//	public ArrayList<Vec3D[]> data = new ArrayList<Vec3D[]>();
 	public ArrayList<Point[]> line = new ArrayList<Point[]>();
 	
 	public Color[] color = {
