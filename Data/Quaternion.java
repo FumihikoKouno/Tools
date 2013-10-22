@@ -4,7 +4,7 @@ public class Quaternion{
 	private double t;
 	private Vec3D v;
 	public Quaternion(){
-		this(0,0,0,0);
+		this(1,0,0,0);
 	}
 	
 	public double getT(){ return t; }

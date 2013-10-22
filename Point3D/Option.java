@@ -26,6 +26,7 @@ public class Option extends JDialog implements ActionListener{
     public static Vec3D onePP = new Vec3D();
     public static boolean viewR = false;
     public static boolean viewO = false;
+    public static boolean shareRot = true;
 
     public static final int NO_PERSPECTIVE = 0;
     public static final int ONE_POINT_PERSPECTIVE = 1;
@@ -45,6 +46,7 @@ public class Option extends JDialog implements ActionListener{
 
     private JRadioButton viewRot;
     private JRadioButton viewOne;
+    private JRadioButton share = new JRadioButton("Share Rotation",shareRot);
 
     Option(){
 	super();
@@ -64,6 +66,8 @@ public class Option extends JDialog implements ActionListener{
 	    
 	    viewR = viewRot.isSelected();
 	    viewO = viewOne.isSelected();
+
+	    shareRot = share.isSelected();
 	    try{
 		double x = Double.parseDouble(rotX.getText());
 		double y = Double.parseDouble(rotY.getText());
@@ -116,6 +120,9 @@ public class Option extends JDialog implements ActionListener{
 	btns.add(ok);
 	btns.add(cancel);
 
+	JPanel sharePanel = new JPanel();
+	sharePanel.add(share);
+
 	JLabel rotOrigin = new JLabel("Rotate Origin : (");
 	JLabel rotEnd = new JLabel(")");
 
@@ -138,12 +145,13 @@ public class Option extends JDialog implements ActionListener{
 	onePanel.add(oneZ);
 	onePanel.add(oneEnd);
 
-	container.setLayout(new GridLayout(5,1));
+	container.setLayout(new GridLayout(6,1));
 
 	container.add(persPanel);
 	container.add(rotPanel);
 	container.add(onePanel);
 	container.add(viewPointPanel);
+	container.add(sharePanel);
 	container.add(btns);
 	pack();
     }

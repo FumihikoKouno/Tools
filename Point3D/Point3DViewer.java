@@ -45,6 +45,7 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 	public ArrayList<Color> color = new ArrayList<Color>();
 
 	public ArrayList<Quaternion> qu = new ArrayList<Quaternion>();
+        public Quaternion sharedQu = new Quaternion(1,0,0,0);
 
         public Vec3D origin;
 	public static final Vec3D first = new Vec3D(0,0,-1);
@@ -146,9 +147,15 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 	}
 	
 	public void autoRotate(){
+	    if(Option.shareRot){
+		for(int i = 0; i < point.size(); i++){
+		    rotatePoints(sharedQu, point.get(i), i);
+		}
+	    }else{
 		for(int i = 0; i < point.size(); i++){
 			rotatePoints(qu.get(i), point.get(i), i);
 		}
+	    }
 	}
 
 	private void setPointByOnePointPerspective(){
@@ -275,8 +282,12 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 			Vec3D from = new Vec3D(0,0,-1);
 			Vec3D to = new Vec3D(xDiff,-yDiff,-Math.sqrt(abs*abs-(xDiff*xDiff+yDiff*yDiff)));
 			Quaternion rot = new Quaternion(from,to);
-			for(int i = 0; i < point.size(); i++){
+			if(Option.shareRot){
+			    sharedQu = sharedQu.mul(rot);
+			}else{
+			    for(int i = 0; i < point.size(); i++){
 				qu.set(i,qu.get(i).mul(rot));
+			    }
 			}
 			autoRotate();
 		}
