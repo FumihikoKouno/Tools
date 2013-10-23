@@ -40,7 +40,11 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 	public JScrollBar sb;
 	
 	public int playPosition;
-	
+
+    private JFileChooser jfc = new JFileChooser();
+
+    //    private Option option = new Option(JOptionPane.getFrameForComponent(this));
+
 	public boolean playing;
 	public ArrayList<Boolean> sentFlag = new ArrayList<Boolean>();
 
@@ -78,13 +82,16 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		}
 		if(s == "Option"){
 		    Option option = new Option(JOptionPane.getFrameForComponent(this));
+		    option.init();
 		    option.setVisible(true);
 		}
 		if(s == "Add Data"){
-		    JFileChooser jfc = new JFileChooser();
 		    if(jfc.showOpenDialog(this) == JFileChooser.APPROVE_OPTION){
 			addData(jfc.getSelectedFile());
 		    }
+		}
+		if(s == "Reset View"){
+		    pv.setDefaultView();
 		}
 	}
 	
@@ -111,6 +118,8 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		op.addActionListener(this);
 		JButton ad = new JButton("Add Data");
 		ad.addActionListener(this);
+		JButton rv = new JButton("Reset View");
+		rv.addActionListener(this);
 		JPanel buttons = new JPanel();
 		buttons.setLayout(new GridLayout(2,3));
 
@@ -119,7 +128,7 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		buttons.add(st);
 		buttons.add(op);
 		buttons.add(ad);
-		buttons.add(new JButton(""));
+		buttons.add(rv);
 		
 		sb = new JScrollBar(JScrollBar.HORIZONTAL);
 		sb.setMaximum(0);

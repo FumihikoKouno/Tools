@@ -54,7 +54,7 @@ public class Option extends JDialog implements ActionListener{
     }
     Option(Frame frame){
 	super(frame,true);
-	init();
+       	init();
     }
 
     public void actionPerformed(ActionEvent e){
@@ -68,6 +68,10 @@ public class Option extends JDialog implements ActionListener{
 	    viewO = viewOne.isSelected();
 
 	    shareRot = share.isSelected();
+	    try{
+
+	    }catch(NumberFormatException ne){
+	    }
 	    try{
 		double x = Double.parseDouble(rotX.getText());
 		double y = Double.parseDouble(rotY.getText());
@@ -89,7 +93,7 @@ public class Option extends JDialog implements ActionListener{
 	}
     }
 
-    private void init(){
+    public void init(){
 	Container container = getContentPane();
         noPers = new JRadioButton("No Perspective", perspective==NO_PERSPECTIVE);
 	onePers = new JRadioButton("One Point Perspective", perspective==ONE_POINT_PERSPECTIVE);

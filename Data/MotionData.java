@@ -11,21 +11,22 @@ import java.util.ArrayList;
 import java.awt.Point;
 
 public class MotionData{
-	public static final int TORSO = 0;
+	public static final int HEAD = 0;
 	public static final int NECK = 1;
-	public static final int HEAD = 2;
+	public static final int L_SHOULDER = 2;
 	public static final int R_SHOULDER = 3;
-	public static final int R_ELBOW = 4;
-	public static final int R_HAND = 5;
-	public static final int L_SHOULDER = 6;
-	public static final int L_ELBOW = 7;
-	public static final int L_HAND = 8;
-	public static final int R_HIP = 9;
-	public static final int R_KNEE = 10;
-	public static final int R_FOOT = 11;
-	public static final int L_HIP = 12;
-	public static final int L_KNEE = 13;
-	public static final int L_FOOT = 14;
+	public static final int L_ELBOW = 4;
+	public static final int R_ELBOW = 5;
+	public static final int L_HAND = 6;
+	public static final int R_HAND = 7;
+	public static final int TORSO = 8;
+	public static final int L_HIP = 9;
+	public static final int R_HIP = 10;
+	public static final int L_KNEE = 11;
+	public static final int R_KNEE = 12;
+	public static final int L_FOOT = 13;
+	public static final int R_FOOT = 14;
+
 	
 	private static final Point[] line = {
 		new Point(TORSO,NECK),
@@ -62,6 +63,18 @@ public class MotionData{
 	public int size(){
 		return data.size();
 	}
+
+    public void normalization(){
+	if(size()==0) return;
+	Vec3D origin = get(0,TORSO);
+	for(int i = 0; i < size(); i++){
+	    Vec3D[] after = get(i);
+	    for(int j = 0; j < JOINT_NUMBER; j++){
+		after[j] = after[j].sub(origin);
+	    }
+	    data.set(i,after);
+	}
+    }
 	
 	public boolean readFile(BufferedReader in){
 		String str;
@@ -77,8 +90,14 @@ public class MotionData{
 					}
 					double[] d = new double[3];
 					String[] tmp = str.split(" ");
-					for(int j = 0; j < 3; j++){
+					try{
+					    for(int j = 0; j < 3; j++){
 						d[j] = Double.parseDouble(tmp[j]);
+					    }
+					}catch(NumberFormatException ne){
+					    data.clear();
+					    System.out.println("Illiegal data format");
+					    return false;
 					}
 					newData[i] = new Vec3D(d);
 					//					System.out.println("("+data.size()+","+i+") : "+newData[i]);
@@ -90,6 +109,7 @@ public class MotionData{
 		}catch(IOException e){
 			return false;
 		}
+		normalization();
 		return true;
 	}
 	

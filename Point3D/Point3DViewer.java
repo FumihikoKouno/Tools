@@ -65,14 +65,18 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		color.clear();
 		line.clear();
 		qu.clear();
+		sharedQu = new Quaternion(1,0,0,0);
+		zoom = 1;
 	}
 
-	private void setDefaultView(){
+	public void setDefaultView(){
 		origin = new Vec3D(WIDTH/2,HEIGHT/2,0);
 		for(int i = 0; i < point.size(); i++){
 			rotatedPoint.set(i,point.get(i).clone());
 			qu.set(i,new Quaternion(1,0,0,0));
 		}
+		sharedQu = new Quaternion(1,0,0,0);
+		zoom = 1;
 		update();
 	}
 
