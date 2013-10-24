@@ -56,6 +56,6 @@ public class Vec3D{
 	public void setZ(double z){ this.z = z; }
 
 	public String toString(){
-		return "( " + x + " , " + y + " , " + z + " )";
+		return x + " " + y + " " + z;
 	}
 }

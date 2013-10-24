@@ -5,10 +5,11 @@ import java.util.ArrayList;
 import java.awt.Point;
 import java.awt.Color;
 import java.awt.Dimension;
+/*
 import java.awt.Graphics;
 import java.awt.Image;
 import java.awt.Toolkit;
-
+*/
 import javax.swing.JPanel;
 import javax.swing.JButton;
 import javax.swing.JScrollBar;
@@ -28,7 +29,6 @@ import java.io.IOException;
 import java.io.File;
 
 import Tools.Data.*;
-
 
 public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentListener{
 

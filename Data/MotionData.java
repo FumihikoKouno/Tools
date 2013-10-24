@@ -187,5 +187,15 @@ public class MotionData{
 		unit = unit.times(1.0/unit.abs());
 		return ret[from].add(unit.times((get(t,to).sub(get(t,from)).abs())));
 	}
+	
+	public String toString(){
+		String ret = "";
+		for(int i = 0; i < size(); i++){
+			for(int j = 0; j < JOINT_NUMBER; j++){
+				ret = ret + data.get(i)[j] + "\n";
+			}
+		}
+		return ret;
+	}
 
 }
