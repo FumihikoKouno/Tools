@@ -64,17 +64,17 @@ public class MotionData{
 		return data.size();
 	}
 
-    public void normalization(){
+	public void normalization(){
 	if(size()==0) return;
 	Vec3D origin = get(0,TORSO);
 	for(int i = 0; i < size(); i++){
-	    Vec3D[] after = get(i);
-	    for(int j = 0; j < JOINT_NUMBER; j++){
+		Vec3D[] after = get(i);
+		for(int j = 0; j < JOINT_NUMBER; j++){
 		after[j] = after[j].sub(origin);
-	    }
-	    data.set(i,after);
+		}
+		data.set(i,after);
 	}
-    }
+	}
 	
 	public boolean readFile(BufferedReader in){
 		String str;
@@ -91,13 +91,13 @@ public class MotionData{
 					double[] d = new double[3];
 					String[] tmp = str.split(" ");
 					try{
-					    for(int j = 0; j < 3; j++){
+						for(int j = 0; j < 3; j++){
 						d[j] = Double.parseDouble(tmp[j]);
-					    }
+						}
 					}catch(NumberFormatException ne){
-					    data.clear();
-					    System.out.println("Illiegal data format");
-					    return false;
+						data.clear();
+						System.out.println("Illiegal data format");
+						return false;
 					}
 					newData[i] = new Vec3D(d);
 					//					System.out.println("("+data.size()+","+i+") : "+newData[i]);
@@ -128,10 +128,10 @@ public class MotionData{
 	public boolean readFile(File f){
 		boolean ret;
 		try{
-                        BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream(f)));
+						BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream(f)));
 			ret = readFile(in);
 		}catch(IOException e){
-		        System.out.println("Cannot find \""+f.getName()+"\"");
+				System.out.println("Cannot find \""+f.getName()+"\"");
 			return false;
 		}
 		return ret;
@@ -151,21 +151,21 @@ public class MotionData{
 		if(empty() || model.empty()){ return null; }
 		Vec3D diff = new Vec3D(get(0,TORSO).sub(model.get(0,TORSO)));
 		Vec3D[] vec = new Vec3D[JOINT_NUMBER];
-		vec[TORSO]      = get(i,TORSO).add(diff);
-		vec[NECK]       = makeNext(model,vec,i, TORSO,      NECK);
-		vec[HEAD]       = makeNext(model,vec,i, NECK,       HEAD);
-		vec[R_SHOULDER] = makeNext(model,vec,i, TORSO,      R_SHOULDER);
-		vec[R_ELBOW]    = makeNext(model,vec,i, R_SHOULDER, R_ELBOW);
-		vec[R_HAND]     = makeNext(model,vec,i, R_ELBOW,    R_HAND);
-		vec[L_SHOULDER] = makeNext(model,vec,i, TORSO,      L_SHOULDER);
-		vec[L_ELBOW]    = makeNext(model,vec,i, L_SHOULDER, L_ELBOW);
-		vec[L_HAND]     = makeNext(model,vec,i, L_ELBOW,    L_HAND);
-		vec[R_HIP]      = makeNext(model,vec,i, TORSO,      R_HIP);
-		vec[R_KNEE]     = makeNext(model,vec,i, R_HIP,      R_KNEE);
-		vec[R_FOOT]     = makeNext(model,vec,i, R_KNEE,     R_FOOT);
-		vec[L_HIP]      = makeNext(model,vec,i, TORSO,      L_HIP);
-		vec[L_KNEE]     = makeNext(model,vec,i, L_HIP,      L_KNEE);
-		vec[L_FOOT]     = makeNext(model,vec,i, L_KNEE,     L_FOOT);
+		vec[TORSO]	  = get(i,TORSO).add(diff);
+		vec[NECK]	   = makeNext(model,vec,i, TORSO,	  NECK);
+		vec[HEAD]	   = makeNext(model,vec,i, NECK,	   HEAD);
+		vec[R_SHOULDER] = makeNext(model,vec,i, TORSO,	  R_SHOULDER);
+		vec[R_ELBOW]	= makeNext(model,vec,i, R_SHOULDER, R_ELBOW);
+		vec[R_HAND]	 = makeNext(model,vec,i, R_ELBOW,	R_HAND);
+		vec[L_SHOULDER] = makeNext(model,vec,i, TORSO,	  L_SHOULDER);
+		vec[L_ELBOW]	= makeNext(model,vec,i, L_SHOULDER, L_ELBOW);
+		vec[L_HAND]	 = makeNext(model,vec,i, L_ELBOW,	L_HAND);
+		vec[R_HIP]	  = makeNext(model,vec,i, TORSO,	  R_HIP);
+		vec[R_KNEE]	 = makeNext(model,vec,i, R_HIP,	  R_KNEE);
+		vec[R_FOOT]	 = makeNext(model,vec,i, R_KNEE,	 R_FOOT);
+		vec[L_HIP]	  = makeNext(model,vec,i, TORSO,	  L_HIP);
+		vec[L_KNEE]	 = makeNext(model,vec,i, L_HIP,	  L_KNEE);
+		vec[L_FOOT]	 = makeNext(model,vec,i, L_KNEE,	 L_FOOT);
 		return vec;
 	}
 	

@@ -34,16 +34,17 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 
 	public int WIDTH;
 	public int HEIGHT;
-
+	
+	public static final int BUTTON_HEIGHT = 52;
+	
 	public Point3DViewer pv;
 
-	public JScrollBar sb;
+	public JPanel scrollPanel = new JPanel();
+	public ArrayList<JScrollBar> sb = new ArrayList<JScrollBar>();
 	
-	public int playPosition;
+	public ArrayList<Integer> playPosition = new ArrayList<Integer>();
 
-    private JFileChooser jfc = new JFileChooser();
-
-    //    private Option option = new Option(JOptionPane.getFrameForComponent(this));
+	private JFileChooser jfc = new JFileChooser();
 
 	public boolean playing;
 	public ArrayList<Boolean> sentFlag = new ArrayList<Boolean>();
@@ -62,11 +63,13 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 	};
 	
 	public void adjustmentValueChanged(AdjustmentEvent e){
-		if(sb.getValue() != playPosition){
-			pause();
-			playPosition = sb.getValue();
-			updatePoints();
+		for(int i = 0; i < mdList.size(); i++){
+			if(sb.get(i).getValue() != playPosition.get(i)){
+				pause();
+				playPosition.set(i,sb.get(i).getValue());
+			}
 		}
+		updatePoints();
 	}
 	
 	public void actionPerformed(ActionEvent e){
@@ -81,17 +84,16 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 			pause();
 		}
 		if(s == "Option"){
-		    Option option = new Option(JOptionPane.getFrameForComponent(this));
-		    option.init();
-		    option.setVisible(true);
+			Option option = new Option(JOptionPane.getFrameForComponent(this),sb.size());
+			option.setVisible(true);
 		}
 		if(s == "Add Data"){
-		    if(jfc.showOpenDialog(this) == JFileChooser.APPROVE_OPTION){
-			addData(jfc.getSelectedFile());
-		    }
+			if(jfc.showOpenDialog(this) == JFileChooser.APPROVE_OPTION){
+				addData(jfc.getSelectedFile());
+			}
 		}
 		if(s == "Reset View"){
-		    pv.setDefaultView();
+			pv.setDefaultView();
 		}
 	}
 	
@@ -102,8 +104,6 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 	public Point3DPlayer(int width, int height) {
 		WIDTH = width;
 		HEIGHT = height;
-		
-		playPosition = 0;
 		initGUI();
 	}
 	
@@ -130,39 +130,46 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		buttons.add(ad);
 		buttons.add(rv);
 		
-		sb = new JScrollBar(JScrollBar.HORIZONTAL);
-		sb.setMaximum(0);
-//		sb.setVisibleAmount(WIDTH);
-		sb.addAdjustmentListener(this);
-
 		setLayout(new BorderLayout());
 		
-		pv = new Point3DViewer(WIDTH, HEIGHT-80);
+		pv = new Point3DViewer(WIDTH, HEIGHT-BUTTON_HEIGHT);
 		add(pv,BorderLayout.NORTH);
-		add(sb,BorderLayout.CENTER);
+		add(scrollPanel,BorderLayout.CENTER);
 		add(buttons,BorderLayout.SOUTH);
 		
 		setPreferredSize(new Dimension(WIDTH, HEIGHT));
 	}
 	
+	public void reSize(int w, int h){
+		WIDTH = w;
+		HEIGHT = h;
+		setPreferredSize(new Dimension(WIDTH, HEIGHT));
+		pv.reSize(WIDTH,HEIGHT-BUTTON_HEIGHT-sb.size()*20);
+		validate();
+		repaint();
+	}
+	
 	public void loadData(String s){
-		MotionData tmp = new MotionData();
-		if(!tmp.readFile(s)) return;
-		if(sb.getMaximum()-1 < tmp.size()) sb.setMaximum(tmp.size()-1);
-		mdList.add(tmp);
-		line.add(tmp.getLine());
-		sentFlag.add(false);
-		sendPoints();
+		addData(new File("./"+s));
 	}
 
-        public void addData(File f){
+	public void addData(File f){
 		MotionData tmp = new MotionData();
 		if(!tmp.readFile(f)) return;
-		if(sb.getMaximum()-1 < tmp.size()) sb.setMaximum(tmp.size()-1);
+		JScrollBar sbTmp = new JScrollBar(JScrollBar.HORIZONTAL);
+		sbTmp.setMaximum(tmp.size()-1+sbTmp.getVisibleAmount());
+		sbTmp.addAdjustmentListener(this);
+		sb.add(sbTmp);
+		scrollPanel.setLayout(new GridLayout(sb.size(),1));
+		scrollPanel.add(sbTmp);
+		playPosition.add(new Integer(0));
 		mdList.add(tmp);
 		line.add(tmp.getLine());
 		sentFlag.add(false);
 		sendPoints();
+		scrollPanel.validate();
+		scrollPanel.repaint();
+		reSize(WIDTH,HEIGHT);
 	}
 	
 	public void pause(){
@@ -171,15 +178,17 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 	
 	public void stop(){
 		playing = false;
-		playPosition = 0;
-		sb.setValue(0);
+		for(int i = 0; i < mdList.size(); i++){
+			playPosition.set(i,0);
+			sb.get(i).setValue(0);
+		}
 		updatePoints();
 	}
 	
 	public void updatePoints(){
 		boolean allEnd = true;
 		for(int i = 0; i < mdList.size(); i++){
-			Vec3D[] tmp = mdList.get(i).get(playPosition);
+			Vec3D[] tmp = mdList.get(i).get(playPosition.get(i));
 			if(tmp == null){ continue; }
 			allEnd = false;
 			pv.updatePoints(i,tmp);
@@ -189,17 +198,27 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		}
 	}
 	
+	public void printStatus(){
+		for(int i = 0; i < mdList.size(); i++){
+			System.out.println(i+"= position:"+playPosition.get(i)+"/"+mdList.get(i).size()+", bar:"+sb.get(i).getValue()+"/"+sb.get(i).getMaximum());
+		}
+	}
+	
 	public void next(){
-		playPosition++;
-		sb.setValue(playPosition);
+		for(int i = 0; i < mdList.size(); i++){
+			if(playPosition.get(i) < mdList.get(i).size()-1){
+				playPosition.set(i,playPosition.get(i)+1);
+				sb.get(i).setValue(playPosition.get(i));
+			}
+		}
 		updatePoints();
 	}
 	
 	public void sendPoints(){
 		for(int i = 0; i < mdList.size(); i++){
-			if(playPosition >= mdList.get(i).size()) playPosition = 0;
+			if(playPosition.get(i) >= mdList.get(i).size()) continue; //playPosition = 0;
 			if(!sentFlag.get(i)){
-				pv.addPoints(mdList.get(i).get(playPosition),line.get(i),color[i%color.length]);
+				pv.addPoints(mdList.get(i).get(playPosition.get(i)),line.get(i),color[i%color.length]);
 				sentFlag.set(i,true);
 			}
 		}
@@ -209,12 +228,11 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		playing = true;
 		boolean allEnd = true;
 		for(int i = 0; i < mdList.size(); i++){
-			if(playPosition >= mdList.get(i).size()){ continue; }
+			if(playPosition.get(i) >= mdList.get(i).size()){ continue; }
 			allEnd = false;
 		}
 		if(allEnd){
-			playPosition = 0; 
-			sb.setValue(0);
+			stop();
 		}
 	}
 	
