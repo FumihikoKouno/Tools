@@ -151,7 +151,7 @@ public class MotionData{
 		if(empty() || model.empty()){ return null; }
 		Vec3D diff = new Vec3D(get(0,TORSO).sub(model.get(0,TORSO)));
 		Vec3D[] vec = new Vec3D[JOINT_NUMBER];
-		vec[TORSO]	  = get(i,TORSO).add(diff);
+		vec[TORSO]	  = model.get(i,TORSO).add(diff);
 		vec[NECK]	   = makeNext(model,vec,i, TORSO,	  NECK);
 		vec[HEAD]	   = makeNext(model,vec,i, NECK,	   HEAD);
 		vec[R_SHOULDER] = makeNext(model,vec,i, TORSO,	  R_SHOULDER);
