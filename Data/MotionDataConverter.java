@@ -93,7 +93,7 @@ public class MotionDataConverter extends JPanel implements ActionListener{
 					File tmp = fileChooser.getSelectedFile();
 					if(!data[i].readFile(tmp)) return;
 					fileNameLabel[i].setText("File Name : " + tmp.getName());
-					fileLengthLabel[i].setText("" + data[i].size()/30.0 + " s");
+					fileLengthLabel[i].setText("" + data[i].size() + " frame");
 				}
 			}
 		}
@@ -104,7 +104,7 @@ public class MotionDataConverter extends JPanel implements ActionListener{
 					BufferedWriter bw = new BufferedWriter(new FileWriter(tmp));
 					bw.write(""+data[2]);
 					fileNameLabel[2].setText("File Name : " + tmp.getName());
-					fileLengthLabel[2].setText("" + data[2].size()/30.0 + " s");
+					fileLengthLabel[2].setText("" + data[2].size() + " frame");
 					bw.close();
 				}
 			}catch(NullPointerException npe){
@@ -115,7 +115,7 @@ public class MotionDataConverter extends JPanel implements ActionListener{
 			try{
 				data[2] = data[1].convertAll(data[0]);
 				fileNameLabel[2].setText("File Name : New File");
-				fileLengthLabel[2].setText("" + data[2].size()/30.0 + " s");
+				fileLengthLabel[2].setText("" + data[2].size() + " frame");
 			}catch(NullPointerException npe){
 			}
 		}

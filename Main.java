@@ -4,6 +4,7 @@ import java.awt.Container;
 import java.awt.BorderLayout;
 
 import javax.swing.JFrame;
+import javax.swing.JTabbedPane;
 
 import Tools.Point3D.*;
 import Tools.Data.*;
@@ -11,16 +12,22 @@ import Tools.Data.*;
 public class Main extends JFrame {
 	Point3DPlayer pp;
 	MotionDataConverter mdc;
-	
+    JTabbedPane tab = new JTabbedPane();
+
 	int fps = 30;
 	
 	public Main() {
 		setTitle("Point3DPlayer");
-		mdc = new MotionDataConverter(160,160);
+		mdc = new MotionDataConverter(640,640);
 		pp = new Point3DPlayer(640,640);
+		tab.addTab("Player",pp);
+		tab.addTab("Converter",mdc);
 		Container contentPane = getContentPane();
+		/*
 		contentPane.add(pp,BorderLayout.EAST);
 		contentPane.add(mdc,BorderLayout.WEST);
+		*/
+		contentPane.add(tab,BorderLayout.CENTER);
 		pack();
 	}
 	
@@ -50,7 +57,15 @@ public class Main extends JFrame {
 	}
 	
 	public void update(){
-		pp.update();
+	    switch(tab.getSelectedIndex()){
+	    case 0:
+      		pp.update();
+		break;
+	    case 1:
+		break;
+	    default:
+		break;
+	    }
 	}
 
 	public static void main(String[] args) {
