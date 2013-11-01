@@ -17,7 +17,7 @@ import java.io.IOException;
 
 public class Runner extends JPanel implements ActionListener{
 	private int WIDTH, HEIGHT;
-	private JTextField path = new JTextField("",20);
+	private JTextField path = new JTextField("",5);
 	
 	public Runner(int w, int h){
 		init();

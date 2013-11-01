@@ -39,6 +39,12 @@ public class MotionDataConverter extends JPanel implements ActionListener{
 		setPreferredSize(new Dimension(WIDTH,HEIGHT));
 	}
 	
+	public void resize(){
+		int ppX,ppY;
+		int mdcX,mdcY;
+		int runnerX,runnerY;
+	}
+	
 	public void init(){
 		setLayout(new BorderLayout());
 		JPanel parts = new JPanel();
@@ -82,7 +88,7 @@ public class MotionDataConverter extends JPanel implements ActionListener{
 		
 		convertButton.addActionListener(this);
 		
-		add(parts,BorderLayout.NORTH);
+		add(parts,BorderLayout.CENTER);
 		add(convertButton,BorderLayout.SOUTH);
 	}
 	
