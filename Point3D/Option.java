@@ -31,8 +31,6 @@ public class Option extends JDialog implements ActionListener{
 	public static boolean viewR = false;
 	public static boolean viewO = false;
 	
-	public static int selected = -1;
-
 	public static final int NO_PERSPECTIVE = 0;
 	public static final int ONE_POINT_PERSPECTIVE = 1;
 	public static final int TWO_POINT_PERSPECTIVE = 2;
@@ -51,8 +49,6 @@ public class Option extends JDialog implements ActionListener{
 
 	private JRadioButton viewRot = new JRadioButton("View Rotate Origin Point", viewR);
 	private JRadioButton viewOne = new JRadioButton("View One Point Persective Point", viewO);
-	private JRadioButton share = new JRadioButton("Share",selected == -1);
-	private ArrayList<JRadioButton> selectedButtons = new ArrayList<JRadioButton>();
 
 	Option(Frame frame){
 		this(frame,0);
@@ -72,16 +68,6 @@ public class Option extends JDialog implements ActionListener{
 		viewR = viewRot.isSelected();
 		viewO = viewOne.isSelected();
 		
-		if(share.isSelected()){
-			selected = -1;
-		}else{
-			for(int i = 0; i < selectedButtons.size(); i++){
-				if(selectedButtons.get(i).isSelected()){
-					selected = i;
-					break;
-				}
-			}
-		}
 		try{
 		double x = Double.parseDouble(rotX.getText());
 		double y = Double.parseDouble(rotY.getText());
@@ -160,23 +146,13 @@ public class Option extends JDialog implements ActionListener{
 		JPanel selectedPanel = new JPanel();
 		selectedPanel.setLayout(new FlowLayout());
 		selectedPanel.setBorder(new EtchedBorder());
-		ButtonGroup selectedGroup = new ButtonGroup();
-		selectedPanel.add(share);
-		selectedGroup.add(share);
-		for(int i = 0; i < num; i++){
-			JRadioButton tmp = new JRadioButton("Data "+i ,selected == i);
-			selectedButtons.add(tmp);
-			selectedPanel.add(tmp);
-			selectedGroup.add(tmp);
-		}
 		
-	container.setLayout(new GridLayout(6,1));
+	container.setLayout(new GridLayout(5,1));
 
 	container.add(persPanel);
 	container.add(rotPanel);
 	container.add(onePanel);
 	container.add(viewPointPanel);
-	container.add(selectedPanel);
 	container.add(btns);
 	pack();
 	}

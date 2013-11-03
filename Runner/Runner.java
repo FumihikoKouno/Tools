@@ -19,11 +19,8 @@ public class Runner extends JPanel implements ActionListener{
 	private int WIDTH, HEIGHT;
 	private JTextField path = new JTextField("",5);
 	
-	public Runner(int w, int h){
+	public Runner(){
 		init();
-		WIDTH = w;
-		HEIGHT = h;
-		setPreferredSize(new Dimension(WIDTH,HEIGHT));
 	}
 	public void init(){
 		JPanel pathPanel = new JPanel();

@@ -8,9 +8,13 @@ import javax.swing.JButton;
 import javax.swing.JFileChooser;
 
 import javax.swing.border.TitledBorder;
+import javax.swing.JRadioButton;
+import javax.swing.ButtonGroup;
 
 import java.awt.GridLayout;
+import java.awt.FlowLayout;
 import java.awt.BorderLayout;
+import java.awt.Color;
 
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
@@ -19,6 +23,8 @@ import java.io.File;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+
+import Tools.Point3D.Point3DPlayer;
 
 public class MotionDataConverter extends JPanel implements ActionListener{
 	public int WIDTH,HEIGHT;
@@ -29,8 +35,27 @@ public class MotionDataConverter extends JPanel implements ActionListener{
 	public JLabel[] fileNameLabel = new JLabel[3];
 	public JLabel[] fileLengthLabel = new JLabel[3];
 	public JPanel[] panels = new JPanel[3];
+	public JRadioButton[] showButtons = new JRadioButton[3];
+	public JRadioButton[] movableButtons = new JRadioButton[3];
+	
+	public static final int COLOR_NUM = 3;
+	public static Color[] colors =
+	{
+		Color.WHITE,
+		Color.RED,
+		Color.YELLOW,
+	};
+	
+	public JRadioButton[][] colorButtons = new JRadioButton[3][COLOR_NUM];
 	
 	public JButton convertButton = new JButton("Convert");
+	
+	public Point3DPlayer pp;
+	
+	public MotionDataConverter(Point3DPlayer p){
+		pp = p;
+		init();
+	}
 	
 	public MotionDataConverter(int w, int h){
 		WIDTH = w;
@@ -48,48 +73,69 @@ public class MotionDataConverter extends JPanel implements ActionListener{
 	public void init(){
 		setLayout(new BorderLayout());
 		JPanel parts = new JPanel();
-		parts.setLayout(new GridLayout(1,3));
+		parts.setLayout(new GridLayout(3,1));
+		String[] colorStrTmp = {"White","Red","Yellow"};
 		for(int i = 0; i < 3; i++){
+			ButtonGroup tmpGroup = new ButtonGroup();
+			for(int j = 0; j < COLOR_NUM; j++){
+				if(j == 0){
+					colorButtons[i][j] = new JRadioButton(colorStrTmp[j],true);
+				}else{
+					colorButtons[i][j] = new JRadioButton(colorStrTmp[j]);
+				}
+				tmpGroup.add(colorButtons[i][j]);
+			}
 			if(i == 2){
 				selectFileButton[i] = new JButton("Save File");
 			}else{
 				selectFileButton[i] = new JButton("Select File");
 			}
+			movableButtons[i] = new JRadioButton("Movable");
+			movableButtons[i].addActionListener(this);
 			selectFileButton[i].addActionListener(this);
 			data[i] = new MotionData();
 			fileNameLabel[i] = new JLabel("File Name : null");
 			fileLengthLabel[i] = new JLabel("0");
+			showButtons[i] = new JRadioButton("show",false);
+			showButtons[i].addActionListener(this);
 		}
+		String[] strTmp = {"Model Data", "User Data", "Result Data"};
 		
-		panels[0] = new JPanel();
-		panels[0].setLayout(new GridLayout(3,1));
-		panels[0].add(fileNameLabel[0]);
-		panels[0].add(fileLengthLabel[0]);
-		panels[0].add(selectFileButton[0]);
-		panels[0].setBorder(new TitledBorder("Model Data"));
-		
-		panels[1] = new JPanel();
-		panels[1].setLayout(new GridLayout(3,1));
-		panels[1].add(fileNameLabel[1]);
-		panels[1].add(fileLengthLabel[1]);
-		panels[1].add(selectFileButton[1]);
-		panels[1].setBorder(new TitledBorder("User Data"));
-		
-		panels[2] = new JPanel();
-		panels[2].setLayout(new GridLayout(3,1));
-		panels[2].add(fileNameLabel[2]);
-		panels[2].add(fileLengthLabel[2]);
-		panels[2].add(selectFileButton[2]);
-		panels[2].setBorder(new TitledBorder("Result Data"));
-		
+		for(int i = 0; i < 3; i++){
+			JPanel tmpPanel = new JPanel();
+			tmpPanel.setLayout(new GridLayout(3,1));
+			tmpPanel.add(fileNameLabel[i]);
+			tmpPanel.add(fileLengthLabel[i]);
+			JPanel playerButtons = new JPanel();
+			playerButtons.setLayout(new GridLayout(1,2));
+			playerButtons.add(showButtons[i]);
+			playerButtons.add(movableButtons[i]);
+			tmpPanel.add(playerButtons);
+			panels[i] = new JPanel();
+			panels[i].setLayout(new BorderLayout());
+			panels[i].add(tmpPanel,BorderLayout.NORTH);
+			tmpPanel = new JPanel();
+			tmpPanel.setLayout(new GridLayout(1,3));
+			for(int j = 0; j < 3; j++){
+				tmpPanel.add(colorButtons[i][j]);
+			}
+			tmpPanel.setBorder(new TitledBorder("Color"));
+			panels[i].add(tmpPanel,BorderLayout.CENTER);
+			panels[i].add(selectFileButton[i],BorderLayout.SOUTH);
+			panels[i].setBorder(new TitledBorder(strTmp[i]));
+		}
+
 		for(int i = 0; i < 3; i++){
 			parts.add(panels[i]);
 		}
 		
 		convertButton.addActionListener(this);
-		
 		add(parts,BorderLayout.CENTER);
 		add(convertButton,BorderLayout.SOUTH);
+		/*
+		add(parts);
+		add(convertButton);
+		*/
 	}
 	
 	public void actionPerformed(ActionEvent e){
@@ -115,6 +161,38 @@ public class MotionDataConverter extends JPanel implements ActionListener{
 				}
 			}catch(NullPointerException npe){
 			}catch(IOException ie){
+			}
+		}
+		String[] strTmp = {"Model", "User", "Result"};
+		for(int i = 0; i < 3; i++){
+			if(e.getSource() == showButtons[i]){
+				if(data[i].size() == 0) return;
+				else{
+					int colorIdx = -1;
+					for(int j = 0; j < COLOR_NUM; j++){
+						if(colorButtons[i][j].isSelected()){
+							colorIdx = j;
+							break;
+						}
+					}
+					if(showButtons[i].isSelected()){
+						pp.addData(strTmp[i],data[i],colors[colorIdx],movableButtons[i].isSelected());
+					}else{
+						pp.rmData(strTmp[i]);
+					}
+				}
+			}
+		}
+		for(int i = 0; i < 3; i++){
+			if(e.getSource() == movableButtons[i]){
+				if(data[i].size() == 0) return;
+				else{
+					if(movableButtons[i].isSelected()){
+						pp.setMovable(strTmp[i],true);
+					}else{
+						pp.setMovable(strTmp[i],false);
+					}
+				}
 			}
 		}
 		if(e.getSource() == convertButton){

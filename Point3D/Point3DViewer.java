@@ -50,6 +50,8 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 	public ArrayList<Vec3D> origin = new ArrayList<Vec3D>();
 	public Vec3D sharedOrigin;
 	public static final Vec3D first = new Vec3D(0,0,-1);
+	public ArrayList<String> names = new ArrayList<String>();
+	public ArrayList<Boolean> selected = new ArrayList<Boolean>();
 	
 	private JPopupMenu popupMenu;
 	private JPanel menuPanel;
@@ -66,6 +68,8 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		color.clear();
 		line.clear();
 		qu.clear();
+		names.clear();
+		selected.clear();
 		sharedQu = new Quaternion(1,0,0,0);
 		zoom = 1;
 	}
@@ -87,10 +91,34 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		autoRotate();
 	}
 	
+	public void updatePoints(String s, Vec3D[] v){
+		int idx = nameToIdx(s);
+		if(idx == -1) return;
+		updatePoints(idx,v);
+	}
+	
 	public void updatePoints(int i, Vec3D[] v, Point[] l, Color c){
 		point.set(i,v);
 		line.set(i,l);
 		color.set(i,c);
+		autoRotate();
+	}
+	
+	public int nameToIdx(String s){
+		for(int i = 0; i < point.size(); i++){
+			if(s.equals(names.get(i))){
+				return i;
+			}
+		}
+		return -1;
+	}
+	
+	public void updatePoints(String s, Vec3D[] v, Point[]l, Color c){
+		int idx = nameToIdx(s);
+		if(idx == -1) return;
+		point.set(idx,v);
+		line.set(idx,l);
+		color.set(idx,c);
 		autoRotate();
 	}
 	
@@ -101,6 +129,30 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		line.add(l);
 		origin.add(new Vec3D(WIDTH/2,HEIGHT/2,0));
 		qu.add(new Quaternion(1,0,0,0));
+	}
+	
+	public void addPoints(String s, Vec3D[] v, Point[] l, Color c, boolean b){
+		names.add(s);
+		point.add(v);
+		rotatedPoint.add(v.clone());
+		color.add(c);
+		line.add(l);
+		selected.add(b);
+		origin.add(new Vec3D(WIDTH/2,HEIGHT/2,0));
+		qu.add(new Quaternion(1,0,0,0));
+	}
+	
+	public void rmPoints(String s){
+		int i = nameToIdx(s);
+		if(i == -1) return;
+		names.remove(i);
+		point.remove(i);
+		rotatedPoint.remove(i);
+		color.remove(i);
+		line.remove(i);
+		selected.remove(i);
+		origin.remove(i);
+		qu.remove(i);
 	}
 
 	public Point3DViewer(){
@@ -124,11 +176,14 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 	}
 	
 	public void reSize(int w, int h){
+		if(w<0||h<0)return;
 		WIDTH = w;
 		HEIGHT = h;
 		setPreferredSize(new Dimension(WIDTH, HEIGHT));
-		validate();
+		revalidate();
 		repaint();
+		dbImage = createImage(WIDTH,HEIGHT);
+		dbg = dbImage.getGraphics();
 	}
 	
 	public void setSizeOrigin(Vec3D v){ SIZE_ORIGIN = v; }
@@ -161,14 +216,8 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 	}
 	
 	public void autoRotate(){
-		if(Option.selected==-1){
 		for(int i = 0; i < point.size(); i++){
-			rotatePoints(sharedQu, point.get(i), i);
-		}
-		}else{
-			for(int i = 0; i < point.size(); i++){
-				rotatePoints(qu.get(i), point.get(i), i);
-			}
+			rotatePoints(qu.get(i), point.get(i), i);
 		}
 	}
 
@@ -229,40 +278,39 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		dbg.fillOval(x-2,y-2,8,8);
 	}
 	
+	public void setMovable(String s, boolean b){
+		int i = nameToIdx(s);
+		if(i == -1) return;
+		selected.set(i,b);
+	}
+	
 	private void drawPointAndLine(){
-		for(int i = 0; i < drawnPoint.size(); i++){
-			Point id = new Point(ids.get(i).x, ids.get(i).y);
-			Vec3D dp = drawnPoint.get(i).clone();
-			int x,y;
-			if(Option.selected==-1){
-				x = (int)(sharedOrigin.getX()+dp.getX()*zoom);
-				y = (int)(sharedOrigin.getY()-dp.getY()*zoom);
-			}else{
+		try{
+			for(int i = 0; i < drawnPoint.size(); i++){
+				Point id = new Point(ids.get(i).x, ids.get(i).y);
+				Vec3D dp = drawnPoint.get(i).clone();
+				int x,y;
 				x = (int)(origin.get(id.x).getX()+dp.getX()*zoom);
 				y = (int)(origin.get(id.x).getY()-dp.getY()*zoom);
-			}
-			int size = (int)((SIZE_ORIGIN.getZ()-dp.getZ())/SIZE_UNIT_BY_PERSPECTIVE);
-			dbg.setColor(color.get(id.x));
-			dbg.fillOval(x-2,y-2,size,size);
-			try{
+				int size = (int)((SIZE_ORIGIN.getZ()-dp.getZ())/SIZE_UNIT_BY_PERSPECTIVE);
+				dbg.setColor(color.get(id.x));
+				dbg.fillOval(x-2,y-2,size,size);
 				for(int j = 0; j < line.get(id.x).length; j++){
 					Vec3D tmpV;
 					Point tmpL = line.get(id.x)[j];
 					if(tmpL.x == id.y) tmpV = drawnPoint.get(ids.indexOf(new Point(id.x,tmpL.y))).clone();
 					else continue;
 					int x2,y2;
-					if(Option.selected==-1){
-						x2 = (int)(sharedOrigin.getX()+tmpV.getX()*zoom);
-						y2 = (int)(sharedOrigin.getY()-tmpV.getY()*zoom);
-					}else{
-						x2 = (int)(origin.get(id.x).getX()+tmpV.getX()*zoom);
-						y2 = (int)(origin.get(id.x).getY()-tmpV.getY()*zoom);
-					}
+					x2 = (int)(origin.get(id.x).getX()+tmpV.getX()*zoom);
+					y2 = (int)(origin.get(id.x).getY()-tmpV.getY()*zoom);
 					int size2 = (int)((SIZE_ORIGIN.getZ()-tmpV.getZ())/SIZE_UNIT_BY_PERSPECTIVE);
 					dbg.drawLine(x+size/2,y+size/2,x2+size2/2,y2+size2/2);
 				}
-			}catch(IndexOutOfBoundsException e){
-			}catch(NullPointerException e){}
+			}
+		}catch(IndexOutOfBoundsException e){
+			System.out.println("IndexOut");
+		}catch(NullPointerException e){
+			System.out.println("‚Ê‚é‚Û");
 		}
 	}
 	
@@ -309,18 +357,18 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 			Vec3D from = new Vec3D(0,0,-1);
 			Vec3D to = new Vec3D(xDiff,-yDiff,-Math.sqrt(abs*abs-(xDiff*xDiff+yDiff*yDiff)));
 			Quaternion rot = new Quaternion(from,to);
-			if(Option.selected == -1){
-				sharedQu = sharedQu.mul(rot);
-			}else{
-				qu.set(Option.selected,qu.get(Option.selected).mul(rot));
+			for(int i = 0; i < selected.size(); i++){
+				if(selected.get(i)){
+					qu.set(i,qu.get(i).mul(rot));
+				}
 			}
 			autoRotate();
 		}
 		if((e.getModifiers() & MouseEvent.BUTTON3_MASK) != 0){
-			if(Option.selected == -1){
-				sharedOrigin = sharedOrigin.add(new Vec3D(xDiff,yDiff,0));
-			}else{
-				origin.set(Option.selected,origin.get(Option.selected).add(new Vec3D(xDiff,yDiff,0)));
+			for(int i = 0; i < selected.size(); i++){
+				if(selected.get(i)){
+					origin.set(i,origin.get(i).add(new Vec3D(xDiff,yDiff,0)));
+				}
 			}
 		}
 		mouseX = mx;

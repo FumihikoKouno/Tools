@@ -25,34 +25,26 @@ public class Main extends JFrame implements ComponentListener{
 	JSplitPane splitPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT);
 	JSplitPane right = new JSplitPane(JSplitPane.VERTICAL_SPLIT);
 	int fps = 30;
+	Container contentPane;
 	
 	public Main() {
 		setTitle("Main");
-		mdc = new MotionDataConverter(480,160);
 		pp = new Point3DPlayer(480,480);
-		runner = new Runner(160,540);
+		pp.addComponentListener(this);
+		mdc = new MotionDataConverter(pp);
+		mdc.addComponentListener(this);
+		runner = new Runner();
+		runner.addComponentListener(this);
 		JPanel left = new JPanel();
-		left.add(runner);
+		left.add(mdc);
 		right.setLeftComponent(pp);
-		right.setRightComponent(mdc);
+		right.setRightComponent(runner);
 		splitPane.setLeftComponent(left);
 		splitPane.setRightComponent(right);
-		Container contentPane = getContentPane();
+		contentPane = getContentPane();
 		contentPane.add(splitPane);
-		
-		splitPane.addComponentListener(this);
-		right.addComponentListener(this);
-		addComponentListener(this);
+//		addComponentListener(this);
 		pack();
-	}
-	
-	public void debugPrint(){
-    Dimension pre = pp.getPreferredSize();
-    Dimension max = pp.getMaximumSize();
-    Dimension mix = pp.getMinimumSize();
-    System.out.println("êÑèß:(" + pre.width + "," + pre.height + ")");
-    System.out.println("ç≈ëÂ:(" + max.width + "," + max.height + ")");
-    System.out.println("ç≈è¨:(" + mix.width + "," + mix.height + ")");
 	}
 	
 	public void run(){
@@ -82,20 +74,18 @@ public class Main extends JFrame implements ComponentListener{
 	
 	public void update(){
 		pp.update();
-		/*
-	    switch(tab.getSelectedIndex()){
-	    case 0:
-      		pp.update();
-		break;
-	    case 1:
-		break;
-	    default:
-		break;
-	    }
-		*/
 	}
 	
 	public void componentResized(ComponentEvent e){
+		Dimension frameD = getSize();
+		Dimension mdcD = mdc.getSize();
+		Dimension runnerD = runner.getSize();
+		int newW = frameD.width-mdcD.width;
+		int newH = frameD.height-runnerD.height;
+		pp.reSize(newW,newH);
+		contentPane.validate();
+		contentPane.repaint();
+		/*
 		Component comp = e.getComponent();
 		if(comp == this){
 			System.out.println("this resize");
@@ -105,19 +95,9 @@ public class Main extends JFrame implements ComponentListener{
 		}
 		if(comp == right){
 			System.out.println("right resize");
-		}
+		}*/
 	}
 	public void componentMoved(ComponentEvent e){
-		Component comp = e.getComponent();
-		if(comp == this){
-			System.out.println("this move");
-		}
-		if(comp == splitPane){
-			System.out.println("splitPane move");
-		}
-		if(comp == right){
-			System.out.println("right move");
-		}
 	}
 	public void componentShown(ComponentEvent e){
 	}
