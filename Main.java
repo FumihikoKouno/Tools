@@ -10,14 +10,20 @@ import javax.swing.JTabbedPane;
 import javax.swing.JSplitPane;
 import javax.swing.JPanel;
 
+import javax.swing.JMenuBar;
+import javax.swing.JMenu;
+import javax.swing.JMenuItem;
+
 import java.awt.event.ComponentListener;
 import java.awt.event.ComponentEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
 
 import Tools.Point3D.*;
 import Tools.Data.*;
 import Tools.Runner.*;
 
-public class Main extends JFrame implements ComponentListener{
+public class Main extends JFrame implements ComponentListener, ActionListener{
 	Point3DPlayer pp;
 	MotionDataConverter mdc;
 	Runner runner;
@@ -33,7 +39,7 @@ public class Main extends JFrame implements ComponentListener{
 		pp.addComponentListener(this);
 		mdc = new MotionDataConverter(pp);
 		mdc.addComponentListener(this);
-		runner = new Runner();
+		runner = new Runner(mdc);
 		runner.addComponentListener(this);
 		JPanel left = new JPanel();
 		left.add(mdc);
@@ -44,7 +50,32 @@ public class Main extends JFrame implements ComponentListener{
 		contentPane = getContentPane();
 		contentPane.add(splitPane);
 //		addComponentListener(this);
+		makeMenu();
 		pack();
+	}
+	
+	public void actionPerformed(ActionEvent e){
+		
+	}
+	
+	public void makeMenu(){
+		// create menu
+		JMenuBar menuBar = new JMenuBar();
+		
+		JMenu menuFile = new JMenu("File");
+		JMenuItem exit = new JMenuItem("Exit");
+		exit.addActionListener(this);
+		menuFile.add(exit);
+		JMenu menuOption = new JMenu("Option");
+		JMenuItem playerOption = new JMenuItem("Player Option");
+		JMenuItem kimoissOption = new JMenuItem("Kimoiss Option");
+		playerOption.addActionListener(this);
+		kimoissOption.addActionListener(this);
+		menuOption.add(playerOption);
+		menuOption.add(kimoissOption);
+		menuBar.add(menuFile);
+		menuBar.add(menuOption);
+		setJMenuBar(menuBar);
 	}
 	
 	public void run(){
@@ -85,17 +116,6 @@ public class Main extends JFrame implements ComponentListener{
 		pp.reSize(newW,newH);
 		contentPane.validate();
 		contentPane.repaint();
-		/*
-		Component comp = e.getComponent();
-		if(comp == this){
-			System.out.println("this resize");
-		}
-		if(comp == splitPane){
-			System.out.println("splitPane resize");
-		}
-		if(comp == right){
-			System.out.println("right resize");
-		}*/
 	}
 	public void componentMoved(ComponentEvent e){
 	}
