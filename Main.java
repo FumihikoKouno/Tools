@@ -23,18 +23,21 @@ import Tools.Point3D.*;
 import Tools.Data.*;
 import Tools.Runner.*;
 
-public class Main extends JFrame implements ComponentListener, ActionListener{
+public class Main extends JFrame implements ComponentListener{
 	Point3DPlayer pp;
 	MotionDataConverter mdc;
 	Runner runner;
-	//JTabbedPane tab = new JTabbedPane();
 	JSplitPane splitPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT);
 	JSplitPane right = new JSplitPane(JSplitPane.VERTICAL_SPLIT);
 	int fps = 30;
 	Container contentPane;
+	Tools.Point3D.Option playerOption;
+	Tools.Runner.Option runneeOption;
 	
 	public Main() {
 		setTitle("Main");
+		playerOption = new Tools.Point3D.Option(this);
+		runneeOption = new Tools.Runner.Option(this);
 		pp = new Point3DPlayer(480,480);
 		pp.addComponentListener(this);
 		mdc = new MotionDataConverter(pp);
@@ -49,33 +52,51 @@ public class Main extends JFrame implements ComponentListener, ActionListener{
 		splitPane.setRightComponent(right);
 		contentPane = getContentPane();
 		contentPane.add(splitPane);
-//		addComponentListener(this);
 		makeMenu();
 		pack();
 	}
 	
-	public void actionPerformed(ActionEvent e){
-		
-	}
-	
 	public void makeMenu(){
-		// create menu
 		JMenuBar menuBar = new JMenuBar();
-		
 		JMenu menuFile = new JMenu("File");
 		JMenuItem exit = new JMenuItem("Exit");
-		exit.addActionListener(this);
+		exit.addActionListener(
+			new ActionListener(){
+				public void actionPerformed(ActionEvent e){
+					System.exit(0);
+				}
+			}
+		);
 		menuFile.add(exit);
 		JMenu menuOption = new JMenu("Option");
 		JMenuItem playerOption = new JMenuItem("Player Option");
 		JMenuItem kimoissOption = new JMenuItem("Kimoiss Option");
-		playerOption.addActionListener(this);
-		kimoissOption.addActionListener(this);
+		playerOption.addActionListener(
+			new ActionListener(){
+				public void actionPerformed(ActionEvent e){
+					callPlayerOption();
+				}
+			}
+		);
+		kimoissOption.addActionListener(
+			new ActionListener(){
+				public void actionPerformed(ActionEvent e){
+					callRunneeOption();
+				}
+			}
+		);
 		menuOption.add(playerOption);
 		menuOption.add(kimoissOption);
 		menuBar.add(menuFile);
 		menuBar.add(menuOption);
 		setJMenuBar(menuBar);
+	}
+	
+	public void callPlayerOption(){
+		playerOption.setVisible(true);
+	}
+	public void callRunneeOption(){
+		runneeOption.setVisible(true);
 	}
 	
 	public void run(){

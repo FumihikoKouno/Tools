@@ -1,10 +1,10 @@
-// TODO: Runボタン以外はツールバーからのオプションに
 package Tools.Runner;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 import javax.swing.JPanel;
-import javax.swing.JRadioButton;
-import javax.swing.JTextField;
-import javax.swing.JFileChooser;
+import javax.swing.JEditorPane;
 import javax.swing.JLabel;
 import javax.swing.JButton;
 import javax.swing.ButtonGroup;
@@ -19,6 +19,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
 import java.io.IOException;
+import java.io.BufferedInputStream;
 
 import Tools.Data.MotionDataConverter;
 
@@ -27,17 +28,8 @@ public class Runner extends JPanel implements ActionListener{
 	
 	private MotionDataConverter mdc;
 	
-	private JFileChooser fc = new JFileChooser();
-	private JTextField path = new JTextField("",10);
-	private JRadioButton asUser = new JRadioButton("User Mode",true);
-	private JTextField modelFilePath = new JTextField("ModelData.dat");
-	private JTextField savedUserFileName = new JTextField("UserData.dat");
-	private JTextField savedResultFileName = new JTextField("ConvertedData.dat");
-	private JTextField savedModelFileName = new JTextField("ModelData.dat");
-	private JRadioButton asModel = new JRadioButton("Model Mode",false);
-	private JButton selectProgramFile = new JButton("Select File");
-	private JButton selectModelFile = new JButton("Select File");
 	private JButton runButton = new JButton("Run");
+	private JEditorPane out = new JEditorPane();
 
 	public Runner(MotionDataConverter mdc){
 		this.mdc = mdc;
@@ -46,56 +38,55 @@ public class Runner extends JPanel implements ActionListener{
 	public void init(){
 		JPanel pathPanel = new JPanel();
 		pathPanel.setLayout(new FlowLayout(FlowLayout.LEFT));
-		pathPanel.add(new JLabel("KiMoiss Path:"));
-		pathPanel.add(path);
-		pathPanel.add(selectProgramFile);
-		/*
-		ButtonGroup modeGroup = new ButtonGroup();
-		modeGroup.add(asUser);
-		modeGroup.add(asModel);
-		
-		JPanel userModePanel = new JPanel();
-		userModePanel.setLayout(new GridLayout(5,1));
-		userModePanel.add(asUser);
-		JPanel userModeModelPanel = new JPanel();
-		userModeModelPanel.setLayout(new FlowLayout(FlowLayout.LEFT));
-		userModeModelPanel.add(new JLabel("Model File : "));
-		userModeModelPanel.add(modelFilePath);
-		userModePanel.add(userModeModelPanel);
-		JPanel userModeSelectModelPanel = new JPanel();
-		userModeSelectModelPanel.setLayout(new FlowLayout(FlowLayout.LEFT));
-		userModeSelectModelPanel.add(new JLabel("Model Data File : "));
-		userModeSelectModelPanel.add(modelFilePath);
-		userModeSelectModelPanel.add(selectModelFile);
-		userModePanel.add(userModeSelectModelPanel);
-		JPanel userModeSavedUserPanel = new JPanel();
-		userModeSavedUserPanel.setLayout(new FlowLayout(FlowLayout.LEFT));
-		userModeSavedUserPanel.add(new JLabel("Saved User File Name : "));
-		userModeSavedUserPanel.add(savedUserFileName);
-		userModePanel.add(userModeSavedUserPanel);
-		JPanel userModeResultPanel = new JPanel();
-		userModeResultPanel.setLayout(new FlowLayout(FlowLayout.LEFT));
-		userModeResultPanel.add(new JLabel("Saved Converted File Name : "));
-		userModeResultPanel.add(savedResultFileName);
-		userModePanel.add(userModeResultPanel);
-		
-		JPanel modelModePanel = new JPanel();
-		modelModePanel.add(asModel);
-		modelModePanel.add(savedModelFileName);
-		
-		runButton.addActionListener(this);
-*/
-		add(pathPanel);
-//		add(userModePanel);
-//		add(modelModePanel);
+		runButton.addActionListener(
+			new ActionListener(){
+				public void actionPerformed(ActionEvent e){
+					run();
+				}
+			}
+		);
 		add(runButton);
+		add(out);
 	}
+	
+	
 	public void run(){
 		Runtime rt = Runtime.getRuntime();
-		String str = path.getText();
+		ArrayList<String> command = new ArrayList<String>();
+		command.add(Option.kPath);
+		command.add("-f "+Option.fps);
+		switch(Option.mode){
+		case Option.MODEL_MODE:
+			command.add("-m m");
+			command.add("-sm "+Option.saveModel);
+			break;
+		case Option.USER_MODE:
+			command.add("-m u");
+			command.add("-mo "+Option.modelPath);
+			command.add("-su "+Option.saveUser);
+			command.add("-sc "+Option.saveConvert);
+			break;
+		}
 		try{
-			rt.exec(str);
+			Process process = rt.exec(command.toArray(new String[0]));
+			String tmp = "exec ";
+			for(int i = 0; i < command.size(); i++){
+				tmp += command.get(i) + " ";
+			}
+			tmp += "\n";
+			System.out.println(tmp);
+			byte[] output = new byte[1];
+			BufferedInputStream in = new BufferedInputStream(process.getInputStream());
+			while(in.read(output) >= 0){
+				tmp += new String(output);
+			}
+			System.out.println(tmp);
+			out.setText(tmp);
+			revalidate();
+			repaint();
+
 		}catch(IOException e){
+			e.printStackTrace();
 		}
 	}
 	

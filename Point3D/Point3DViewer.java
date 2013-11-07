@@ -45,7 +45,6 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 	public ArrayList<Color> color = new ArrayList<Color>();
 
 	public ArrayList<Quaternion> qu = new ArrayList<Quaternion>();
-	public Quaternion sharedQu = new Quaternion(1,0,0,0);
 
 	public ArrayList<Vec3D> origin = new ArrayList<Vec3D>();
 	public Vec3D sharedOrigin;
@@ -70,7 +69,6 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		qu.clear();
 		names.clear();
 		selected.clear();
-		sharedQu = new Quaternion(1,0,0,0);
 		zoom = 1;
 	}
 
@@ -81,7 +79,6 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 			qu.set(i,new Quaternion(1,0,0,0));
 			origin.set(i,new Vec3D(WIDTH/2,HEIGHT/2,0));
 		}
-		sharedQu = new Quaternion(1,0,0,0);
 		zoom = 1;
 		update();
 	}
@@ -169,8 +166,6 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		
 		setPreferredSize(new Dimension(WIDTH, HEIGHT));
 		sharedOrigin = new Vec3D(WIDTH/2,HEIGHT/2,0);
-		Option.rot = new Vec3D(0,0,0);
-		Option.onePP = new Vec3D(0,0,500);
 		SIZE_UNIT_BY_PERSPECTIVE = 50;
 		SIZE_ORIGIN = new Vec3D(0,0,300);
 	}

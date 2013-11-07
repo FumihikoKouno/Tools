@@ -76,23 +76,6 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		if(s == "Pause"){
 			pause();
 		}
-		/*
-		if(s == "Option"){
-			Option option = new Option(JOptionPane.getFrameForComponent(this),sb.size());
-			option.setVisible(true);
-		}
-		if(s == "Add Data"){
-			if(jfc.showOpenDialog(this) == JFileChooser.APPROVE_OPTION){
-//				addData(jfc.getSelectedFile());
-				MotionData tmp = new MotionData();
-				tmp.readFile(jfc.getSelectedFile());
-				addData("test",tmp);
-			}
-		}
-		if(s == "Reset View"){
-			pv.setDefaultView();
-		}
-		*/
 	}
 	
 	public Point3DPlayer(){
@@ -112,25 +95,12 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		pa.addActionListener(this);
 		JButton st = new JButton("Stop");
 		st.addActionListener(this);
-		/*
-		JButton op = new JButton("Option");
-		op.addActionListener(this);
-		JButton ad = new JButton("Add Data");
-		ad.addActionListener(this);
-		JButton rv = new JButton("Reset View");
-		rv.addActionListener(this);
-		*/
 		JPanel buttons = new JPanel();
 		buttons.setLayout(new GridLayout(1,3));
 
 		buttons.add(pl);
 		buttons.add(pa);
 		buttons.add(st);
-		/*
-		buttons.add(op);
-		buttons.add(ad);
-		buttons.add(rv);
-		*/
 		setLayout(new BorderLayout());
 		
 		pv = new Point3DViewer(WIDTH, HEIGHT-BUTTON_HEIGHT);
@@ -146,7 +116,7 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		WIDTH = w;
 		HEIGHT = h;
 		setPreferredSize(new Dimension(WIDTH, HEIGHT));
-		pv.reSize(WIDTH,HEIGHT-BUTTON_HEIGHT-sb.size()*20-20);
+		pv.reSize(WIDTH,HEIGHT-BUTTON_HEIGHT-sb.size()*20-50);
 		
 		scrollPanel.setLayout(new GridLayout(sb.size(),1));
 		scrollPanel.revalidate();
