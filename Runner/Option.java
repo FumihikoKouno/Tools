@@ -33,7 +33,7 @@ public class Option extends JDialog{
 	public static String saveUser = "UserData.dat";
 	public static String saveConvert = "ConvertedData.dat";
 	public static String modelPath = "Model File Path";
-	public static String kPath = "";
+	public static String kPath = "./main.exe";
 	public static final int MODEL_MODE = 0;
 	public static final int USER_MODE = 1;
 	public static int mode = MODEL_MODE;

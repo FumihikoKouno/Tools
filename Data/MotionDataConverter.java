@@ -23,6 +23,7 @@ import java.io.File;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.FileNotFoundException;
 
 import Tools.Point3D.Point3DPlayer;
 
@@ -138,6 +139,22 @@ public class MotionDataConverter extends JPanel implements ActionListener{
 		*/
 	}
 	
+
+	    public void readFile(String[] s){
+		if(s.length != 2) return;
+		String[] idx = {"m","u","c"};
+		File f = new File(s[1]);
+		if(!f.isFile()) return;
+		for(int i = 0; i < idx.length; i++){
+		    if(s[0].equals(idx[i])){
+			if(!data[i].readFile(f)) return;
+			fileNameLabel[i].setText("File Name : " + f.getName());
+			fileLengthLabel[i].setText("" + data[i].size()+ " frame");
+			break;
+		    }
+		}
+	    }
+
 	public void actionPerformed(ActionEvent e){
 		for(int i = 0; i < 2; i++){
 			if(e.getSource() == selectFileButton[i]){

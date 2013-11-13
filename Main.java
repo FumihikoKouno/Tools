@@ -70,7 +70,7 @@ public class Main extends JFrame implements ComponentListener{
 		menuFile.add(exit);
 		JMenu menuOption = new JMenu("Option");
 		JMenuItem playerOption = new JMenuItem("Player Option");
-		JMenuItem kimoissOption = new JMenuItem("Kimoiss Option");
+		//		JMenuItem kimoissOption = new JMenuItem("Kimoiss Option");
 		playerOption.addActionListener(
 			new ActionListener(){
 				public void actionPerformed(ActionEvent e){
@@ -78,6 +78,7 @@ public class Main extends JFrame implements ComponentListener{
 				}
 			}
 		);
+		/*
 		kimoissOption.addActionListener(
 			new ActionListener(){
 				public void actionPerformed(ActionEvent e){
@@ -85,8 +86,9 @@ public class Main extends JFrame implements ComponentListener{
 				}
 			}
 		);
+		*/
 		menuOption.add(playerOption);
-		menuOption.add(kimoissOption);
+		//		menuOption.add(kimoissOption);
 		menuBar.add(menuFile);
 		menuBar.add(menuOption);
 		setJMenuBar(menuBar);
