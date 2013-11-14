@@ -140,20 +140,20 @@ public class MotionDataConverter extends JPanel implements ActionListener{
 	}
 	
 
-	    public void readFile(String[] s){
-		if(s.length != 2) return;
+	public void readFile(String s){
+		if(s.length() < 3) return;
 		String[] idx = {"m","u","c"};
-		File f = new File(s[1]);
+		File f = new File(s.substring(2));
 		if(!f.isFile()) return;
 		for(int i = 0; i < idx.length; i++){
-		    if(s[0].equals(idx[i])){
-			if(!data[i].readFile(f)) return;
-			fileNameLabel[i].setText("File Name : " + f.getName());
-			fileLengthLabel[i].setText("" + data[i].size()+ " frame");
-			break;
-		    }
+			if(s.startsWith(idx[i])){
+				if(!data[i].readFile(f)) return;
+				fileNameLabel[i].setText("File Name : " + f.getName());
+				fileLengthLabel[i].setText("" + data[i].size()+ " frame");
+				break;
+			}
 		}
-	    }
+	}
 
 	public void actionPerformed(ActionEvent e){
 		for(int i = 0; i < 2; i++){
