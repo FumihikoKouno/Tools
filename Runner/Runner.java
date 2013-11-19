@@ -114,10 +114,7 @@ import Tools.Data.MotionDataConverter;
 				    line[0] = tmp;
 				}
 				for(int i = 0; i < line.length; i++){
-				    String[] idxFile = line[i].split(":");
-				    if(idxFile.length == 2){
-					mdc.readFile(idxFile);
-				    }
+					mdc.readFile(line[i]);
 				}
 				//				out.setText(tmp);
 			    }
