@@ -91,7 +91,9 @@ import Tools.Data.MotionDataConverter;
 		    try{
 			Runtime rt = Runtime.getRuntime();
 			//			Process process = rt.exec(command.toArray(new String[0]));
-			Process process = rt.exec(path.getText());
+			String[] str = new String[1];
+			str[0] = path.getText();
+			Process process = rt.exec(str);
 
        			String tmp = "";
 			byte[] output = new byte[1];
