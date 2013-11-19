@@ -115,6 +115,7 @@ import Tools.Data.MotionDataConverter;
 				}
 				for(int i = 0; i < line.length; i++){
 					mdc.readFile(line[i]);
+					System.out.println("---" + line[i]);
 				}
 				//				out.setText(tmp);
 			    }
