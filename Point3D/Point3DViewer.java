@@ -73,14 +73,25 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 	}
 
 	public void setDefaultView(){
-		sharedOrigin = new Vec3D(WIDTH/2,HEIGHT/2,0);
+		zoom = Double.MAX_VALUE;
 		for(int i = 0; i < point.size(); i++){
-			rotatedPoint.set(i,point.get(i).clone());
+			double minX = Double.MAX_VALUE;
+			double minY = Double.MAX_VALUE;
+			double maxX = Double.MIN_VALUE;
+			double maxY = Double.MIN_VALUE;
+			Vec3D[] v = point.get(i);
+			for(int j = 0; j < v.length; j++){
+				if(minX > v[j].getX()) minX = v[j].getX();
+				if(maxX < v[j].getX()) maxX = v[j].getX();
+				if(minY > v[j].getY()) minY = v[j].getY();
+				if(maxY < v[j].getY()) maxY = v[j].getY();
+			}
+			double tmpX = (WIDTH-50)/(maxX-minX);
+			double tmpY = (HEIGHT-50)/(maxY-minY);
+			zoom = (tmpX < tmpY ? tmpX : tmpY);
+			origin.set(i,new Vec3D(((-minX-maxX)*zoom+WIDTH)/2.0,((minY+maxY)*zoom+HEIGHT)/2.0,0));
 			qu.set(i,new Quaternion(1,0,0,0));
-			origin.set(i,new Vec3D(WIDTH/2,HEIGHT/2,0));
 		}
-		zoom = 1;
-		update();
 	}
 
 	public void updatePoints(int i, Vec3D[] v){
@@ -119,24 +130,32 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		autoRotate();
 	}
 	
-	public void addPoints(Vec3D[] v, Point[] l, Color c){
-		point.add(v);
-		rotatedPoint.add(v.clone());
-		color.add(c);
-		line.add(l);
-		origin.add(new Vec3D(WIDTH/2,HEIGHT/2,0));
-		qu.add(new Quaternion(1,0,0,0));
-	}
-	
 	public void addPoints(String s, Vec3D[] v, Point[] l, Color c, boolean b){
+		double minX = Double.MAX_VALUE;
+		double minY = Double.MAX_VALUE;
+		double maxX = Double.MIN_VALUE;
+		double maxY = Double.MIN_VALUE;
+		for(int i = 0; i < v.length; i++){
+			if(minX > v[i].getX()) minX = v[i].getX();
+			if(maxX < v[i].getX()) maxX = v[i].getX();
+			if(minY > v[i].getY()) minY = v[i].getY();
+			if(maxY < v[i].getY()) maxY = v[i].getY();
+		}
+		double tmpX = (WIDTH-50)/(maxX-minX);
+		double tmpY = (HEIGHT-50)/(maxY-minY);
+		zoom = (tmpX < tmpY ? tmpX : tmpY);
 		names.add(s);
 		point.add(v);
 		rotatedPoint.add(v.clone());
 		color.add(c);
 		line.add(l);
 		selected.add(b);
-		origin.add(new Vec3D(WIDTH/2,HEIGHT/2,0));
+		origin.add(new Vec3D(((minX+maxX)*zoom+WIDTH)/2.0,((minY+maxY)*zoom+HEIGHT)/2.0-10,0));
 		qu.add(new Quaternion(1,0,0,0));
+	}
+	
+	public void setColor(int i, Color c){
+		color.set(i,c);
 	}
 	
 	public void rmPoints(String s){
@@ -305,7 +324,7 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		}catch(IndexOutOfBoundsException e){
 			System.out.println("IndexOut");
 		}catch(NullPointerException e){
-			System.out.println("‚Ê‚é‚Û");
+			System.out.println("NullPointer");
 		}
 	}
 	

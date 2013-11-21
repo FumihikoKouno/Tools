@@ -84,6 +84,7 @@ public class MotionDataConverter extends JPanel implements ActionListener{
 				}else{
 					colorButtons[i][j] = new JRadioButton(colorStrTmp[j]);
 				}
+				colorButtons[i][j].addActionListener(this);
 				tmpGroup.add(colorButtons[i][j]);
 			}
 			if(i == 2){
@@ -197,6 +198,14 @@ public class MotionDataConverter extends JPanel implements ActionListener{
 					}else{
 						pp.rmData(strTmp[i]);
 					}
+				}
+			}
+		}
+		for(int i = 0; i < 3; i++){
+			for(int j = 0; j < COLOR_NUM; j++){
+				if(e.getSource() == colorButtons[i][j]){
+					if(showButtons[i].isSelected()) pp.setColor(i,colors[j]);
+					break;
 				}
 			}
 		}

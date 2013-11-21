@@ -64,6 +64,17 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		}
 		updatePoints();
 	}
+
+	public void setColor(int i, Color c){
+		try{
+			JLabel tmp = labelList.get(i);
+			pv.setColor(i,c);
+			tmp.setForeground(c);
+			labelList.set(i,tmp);
+		}catch(IndexOutOfBoundsException e){
+			e.printStackTrace();
+		}
+	}
 	
 	public void actionPerformed(ActionEvent e){
 		String s = e.getActionCommand();
@@ -75,6 +86,9 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		}
 		if(s == "Pause"){
 			pause();
+		}
+		if(s == "Reset View"){
+			pv.setDefaultView();
 		}
 	}
 	
@@ -95,12 +109,19 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		pa.addActionListener(this);
 		JButton st = new JButton("Stop");
 		st.addActionListener(this);
-		JPanel buttons = new JPanel();
-		buttons.setLayout(new GridLayout(1,3));
+		JPanel playButtons = new JPanel();
+		playButtons.setLayout(new GridLayout(1,3));
 
-		buttons.add(pl);
-		buttons.add(pa);
-		buttons.add(st);
+		playButtons.add(pl);
+		playButtons.add(pa);
+		playButtons.add(st);
+		
+		JButton reset = new JButton("Reset View");
+		reset.addActionListener(this);
+		JPanel buttons = new JPanel();
+		buttons.setLayout(new GridLayout(2,1));
+		buttons.add(playButtons);
+		buttons.add(reset);
 		setLayout(new BorderLayout());
 		
 		pv = new Point3DViewer(WIDTH, HEIGHT-BUTTON_HEIGHT);
@@ -116,7 +137,7 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		WIDTH = w;
 		HEIGHT = h;
 		setPreferredSize(new Dimension(WIDTH, HEIGHT));
-		pv.reSize(WIDTH,HEIGHT-BUTTON_HEIGHT-sb.size()*20-50);
+		pv.reSize(WIDTH,HEIGHT-BUTTON_HEIGHT-sb.size()*20-70);
 		
 		scrollPanel.setLayout(new GridLayout(sb.size(),1));
 		scrollPanel.revalidate();

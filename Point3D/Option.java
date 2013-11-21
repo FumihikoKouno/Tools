@@ -26,6 +26,7 @@ import Tools.Data.*;
 
 public class Option extends JDialog{
 	public static int perspective = 0;
+	public static int fps = 30;
 	public static Vec3D rot = new Vec3D();
 	public static Vec3D onePP = new Vec3D(0,0,500);
 	public static boolean viewR = false;
@@ -42,6 +43,8 @@ public class Option extends JDialog{
 	private JTextField oneX = new JTextField(Double.toString(onePP.getX()),5);
 	private JTextField oneY = new JTextField(Double.toString(onePP.getY()),5);
 	private JTextField oneZ = new JTextField(Double.toString(onePP.getZ()),5);
+
+	private JTextField fpsText = new JTextField(Integer.toString(fps),5);
 
 	private JRadioButton noPers;
 	private JRadioButton onePers;
@@ -68,6 +71,8 @@ public class Option extends JDialog{
 		oneX.setText(Double.toString(onePP.getX()));
 		oneY.setText(Double.toString(onePP.getY()));
 		oneZ.setText(Double.toString(onePP.getZ()));
+		
+		fpsText.setText(Integer.toString(fps));
 	}
 
 	public void close(boolean b){
@@ -80,17 +85,23 @@ public class Option extends JDialog{
 			viewO = viewOne.isSelected();
 			
 			try{
-			double x = Double.parseDouble(rotX.getText());
-			double y = Double.parseDouble(rotY.getText());
-			double z = Double.parseDouble(rotZ.getText());
-			rot = new Vec3D(x,y,z);
+				double x = Double.parseDouble(rotX.getText());
+				double y = Double.parseDouble(rotY.getText());
+				double z = Double.parseDouble(rotZ.getText());
+				rot = new Vec3D(x,y,z);
 			}catch(NumberFormatException ne){
+				setValues();
 			}
 			try{
-			double x = Double.parseDouble(oneX.getText());
-			double y = Double.parseDouble(oneY.getText());
-			double z = Double.parseDouble(oneZ.getText());
-			onePP = new Vec3D(x,y,z);
+				double x = Double.parseDouble(oneX.getText());
+				double y = Double.parseDouble(oneY.getText());
+				double z = Double.parseDouble(oneZ.getText());
+				onePP = new Vec3D(x,y,z);
+			}catch(NumberFormatException ne){
+				setValues();
+			}
+			try{
+				fps = Integer.parseInt(fpsText.getText());
 			}catch(NumberFormatException ne){
 				setValues();
 			}
@@ -109,7 +120,7 @@ public class Option extends JDialog{
 		JPanel persPanel = new JPanel();
 		persPanel.setBorder(new EtchedBorder());
 		persPanel.setLayout(new FlowLayout(FlowLayout.LEFT));
-
+		
 		pers.add(noPers);
 		pers.add(onePers);
 		persPanel.add(noPers);
@@ -167,12 +178,14 @@ public class Option extends JDialog{
 		onePanel.add(oneZ);
 		onePanel.add(oneEnd);
 		
-		JPanel selectedPanel = new JPanel();
-		selectedPanel.setLayout(new FlowLayout(FlowLayout.LEFT));
-		selectedPanel.setBorder(new EtchedBorder());
+		JPanel fpsPanel = new JPanel();
+		fpsPanel.setLayout(new FlowLayout(FlowLayout.LEFT));
+		fpsPanel.add(new JLabel("fps:"));
+		fpsPanel.add(fpsText);
 		
-		container.setLayout(new GridLayout(5,1));
+		container.setLayout(new GridLayout(6,1));
 
+		container.add(fpsPanel);
 		container.add(persPanel);
 		container.add(rotPanel);
 		container.add(onePanel);

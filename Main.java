@@ -29,15 +29,13 @@ public class Main extends JFrame implements ComponentListener{
 	Runner runner;
 	JSplitPane splitPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT);
 	JSplitPane right = new JSplitPane(JSplitPane.VERTICAL_SPLIT);
-	int fps = 30;
+
 	Container contentPane;
 	Tools.Point3D.Option playerOption;
-	Tools.Runner.Option runneeOption;
 	
 	public Main() {
 		setTitle("Main");
 		playerOption = new Tools.Point3D.Option(this);
-		runneeOption = new Tools.Runner.Option(this);
 		pp = new Point3DPlayer(480,480);
 		pp.addComponentListener(this);
 		mdc = new MotionDataConverter(pp);
@@ -78,15 +76,6 @@ public class Main extends JFrame implements ComponentListener{
 				}
 			}
 		);
-		/*
-		kimoissOption.addActionListener(
-			new ActionListener(){
-				public void actionPerformed(ActionEvent e){
-					callRunneeOption();
-				}
-			}
-		);
-		*/
 		menuOption.add(playerOption);
 		//		menuOption.add(kimoissOption);
 		menuBar.add(menuFile);
@@ -97,14 +86,12 @@ public class Main extends JFrame implements ComponentListener{
 	public void callPlayerOption(){
 		playerOption.setVisible(true);
 	}
-	public void callRunneeOption(){
-		runneeOption.setVisible(true);
-	}
 	
 	public void run(){
-		int mspf = 1000/fps;
+		int mspf;
 		long time;
 		while(true){
+			mspf = 1000/Tools.Point3D.Option.fps;
 			try{
 				time = System.currentTimeMillis();
 				update();
