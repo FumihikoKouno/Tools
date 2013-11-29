@@ -88,7 +88,8 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 			}
 			double tmpX = (WIDTH-50)/(maxX-minX);
 			double tmpY = (HEIGHT-50)/(maxY-minY);
-			zoom = (tmpX < tmpY ? tmpX : tmpY);
+			double tmpZoom = (tmpX < tmpY ? tmpX : tmpY);
+			if(zoom > tmpZoom) zoom = tmpZoom;
 			origin.set(i,new Vec3D(((-minX-maxX)*zoom+WIDTH)/2.0,((minY+maxY)*zoom+HEIGHT)/2.0,0));
 			qu.set(i,new Quaternion(1,0,0,0));
 		}
@@ -143,14 +144,15 @@ public class Point3DViewer extends JPanel implements MouseListener, MouseMotionL
 		}
 		double tmpX = (WIDTH-50)/(maxX-minX);
 		double tmpY = (HEIGHT-50)/(maxY-minY);
-		zoom = (tmpX < tmpY ? tmpX : tmpY);
+		double tmpZoom = (tmpX < tmpY ? tmpX : tmpY);
+		if(zoom > tmpZoom || point.size() == 0) zoom = tmpZoom;
 		names.add(s);
 		point.add(v);
 		rotatedPoint.add(v.clone());
 		color.add(c);
 		line.add(l);
 		selected.add(b);
-		origin.add(new Vec3D(((minX+maxX)*zoom+WIDTH)/2.0,((minY+maxY)*zoom+HEIGHT)/2.0-10,0));
+		origin.add(new Vec3D(((-minX-maxX)*zoom+WIDTH)/2.0,((minY+maxY)*zoom+HEIGHT)/2.0-10,0));
 		qu.add(new Quaternion(1,0,0,0));
 	}
 	

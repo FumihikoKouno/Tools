@@ -65,12 +65,21 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		updatePoints();
 	}
 
-	public void setColor(int i, Color c){
+	public void setColor(String s, Color c){
 		try{
-			JLabel tmp = labelList.get(i);
-			pv.setColor(i,c);
+			String searchStr = " " + s + ": ";
+			int idx = -1;
+			for(int i = 0; i < labelList.size(); i++){
+				if(labelList.get(i).getText().equals(searchStr)){
+					idx = i;
+					break;
+				}
+			}
+			if(idx < 0) return;
+			JLabel tmp = labelList.get(idx);
+			pv.setColor(idx,c);
 			tmp.setForeground(c);
-			labelList.set(i,tmp);
+			labelList.set(idx,tmp);
 		}catch(IndexOutOfBoundsException e){
 			e.printStackTrace();
 		}
@@ -173,8 +182,8 @@ public class Point3DPlayer extends JPanel implements ActionListener, AdjustmentL
 		mdList.add(md);
 		line.add(md.getLine());
 		sentFlag.add(false);
-		sendPoints(c,b);
 		reSize(WIDTH,HEIGHT);
+		sendPoints(c,b);
 	}
 	
 	public void rmData(String l){

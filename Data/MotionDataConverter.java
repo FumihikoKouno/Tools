@@ -204,7 +204,7 @@ public class MotionDataConverter extends JPanel implements ActionListener{
 		for(int i = 0; i < 3; i++){
 			for(int j = 0; j < COLOR_NUM; j++){
 				if(e.getSource() == colorButtons[i][j]){
-					if(showButtons[i].isSelected()) pp.setColor(i,colors[j]);
+					if(showButtons[i].isSelected()) pp.setColor(strTmp[i],colors[j]);
 					break;
 				}
 			}
