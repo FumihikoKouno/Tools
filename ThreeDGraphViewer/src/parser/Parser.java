@@ -181,9 +181,7 @@ public class Parser {
 		Node fact = negaposi();
 		int index = lexer.getPosition();
 		if(lexer.getToken()==Lexer.Token.POW)
-		{
-			System.out.println(lexer.getPosition());
-			
+		{			
 			Node pow = power();
 			if(pow!=null)
 			{

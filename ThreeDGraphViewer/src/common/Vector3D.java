@@ -31,6 +31,15 @@ public class Vector3D {
 			x[i] = v.at(i);
 		}
 	}
+	public double abs()
+	{
+		double ret = 0;
+		for(int i = 0; i < DIMENSION; i++)
+		{
+			ret += at(i)*at(i);
+		}
+		return Math.sqrt(ret);
+	}
 	public static Vector3D normalize(Vector3D v)
 	{
 		double c = 0;

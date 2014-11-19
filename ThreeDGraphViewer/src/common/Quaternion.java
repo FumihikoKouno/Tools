@@ -9,16 +9,34 @@ public class Quaternion {
 		t = d;
 		v = v3;
 	}
-	public static Vector3D rotate(Vector3D point, Vector3D axis, double s)
+	public Quaternion conjugate()
+	{
+		return new Quaternion(getDouble(),Vector3D.mul(-1,getVector3D()));
+	}
+	public Vector3D rotate(Vector3D point)
+	{
+		Quaternion ret = Quaternion.mul(Quaternion.mul(this,new Quaternion(0,point)),conjugate());
+		return ret.getVector3D();
+	}
+	public static Quaternion createQuaternion(Vector3D axis, double s)
 	{
 		double cos = Math.cos(s/2.0);
 		double sin = Math.sin(s/2.0);
-		Vector3D normalizedAxis = Vector3D.normalize(axis);
-		Quaternion p = new Quaternion(0,point);
-		Quaternion q = new Quaternion(cos,Vector3D.mul(sin,normalizedAxis));
-		Quaternion r = new Quaternion(cos,Vector3D.mul(-sin,normalizedAxis));
-		Quaternion ret = Quaternion.mul(Quaternion.mul(r,p),q);
-		return ret.getVector3D();
+		Vector3D normalized = Vector3D.normalize(axis);
+		return new Quaternion(cos,Vector3D.mul(-sin,normalized));
+	}
+	public static Vector3D rotate(Vector3D point, Vector3D axis, double s)
+	{
+		return createQuaternion(axis,s).rotate(point);
+	}
+	public static Quaternion createQuaternion(Vector3D begin, Vector3D end)
+	{
+		double cosS = Vector3D.dot(begin,end)/(begin.abs()*end.abs());
+		double cosS2 = Math.sqrt(0.5*(1.0+cosS));
+		double sinS2 = Math.sqrt(0.5*(1.0-cosS));
+		Vector3D axis = Vector3D.cross(end,begin);
+		axis = Vector3D.mul(1.0/axis.abs(),axis);
+		return new Quaternion(cosS2,Vector3D.mul(-sinS2,axis));
 	}
 	public static Quaternion mul(Quaternion q1, Quaternion q2)
 	{
@@ -41,5 +59,9 @@ public class Quaternion {
 	public Vector3D getVector3D()
 	{
 		return v;
+	}
+	public String toString()
+	{
+		return "(" + getDouble() + ", " + getVector3D() + ")";
 	}
 }
