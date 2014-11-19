@@ -92,9 +92,12 @@ public class Viewer extends JPanel{
 						(nodes.get(i))[1].getValue().getValue(),
 						(nodes.get(i))[2].getValue().getValue());
 
+				/*
 				points.add(Quaternion.rotate(newPoint,
 											new Vector3D(0,0,1),
 											sita));
+				*/
+				points.add(newPoint);
 
 			}
 			for(int j = 0; j < points.size()-1; j++)

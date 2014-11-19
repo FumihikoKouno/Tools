@@ -9,10 +9,15 @@ public class ThreeDGraphViewer extends JFrame{
 	public void init()
 	{
 		Node[] x = new Node[3];
-		Parser parser = new Parser("t");
+		Parser parser = new Parser("x:100*t");
+		parser.parseVariable();
+		parser.setString("x");
 		x[0] = parser.expression();
-		parser.setString("200*sin[t/10]");
+		parser.setString("y:(x^3-4.5345699*x^2+8)^(-1/3)");
+		parser.parseVariable();
+		parser.setString("1000*y");
 		x[1] = parser.expression();
+		System.out.println(x[1]+" : "+x[1].getValue());
 		parser.setString("0");
 		x[2] = parser.expression();
 		Viewer viewer = new Viewer();

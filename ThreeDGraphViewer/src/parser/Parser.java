@@ -105,9 +105,7 @@ public class Parser {
 	}
 	
 	/**
-	 * expression := term
-	 *             | term "+" expression
-	 *             | term "-" expression
+	 * expression := term (("+"|"-") term)*
 	 */
 	public Node expression()
 	{
@@ -115,22 +113,25 @@ public class Parser {
 		if(lhs!=null)
 		{
 			int index = lexer.getPosition();
-			if(lexer.getToken()==Lexer.Token.PLUS)
+			Lexer.Token token = lexer.getToken();
+			while(token == Lexer.Token.PLUS
+				||token == Lexer.Token.MINUS)
 			{
-				Node rhs = expression(); 
+				Node rhs = term(); 
 				if(rhs!=null)
 				{
-					return new Add(lhs,rhs);
+					if(token == Lexer.Token.PLUS)
+					{
+						lhs = new Add(lhs,rhs);
+					}
+					if(token == Lexer.Token.MINUS)
+					{
+						lhs = new Sub(lhs,rhs);
+					}
+					index = lexer.getPosition();
+					token = lexer.getToken();
 				}
-			}
-			lexer.setPosition(index);
-			if(lexer.getToken()==Lexer.Token.MINUS)
-			{
-				Node rhs = expression(); 
-				if(rhs!=null)
-				{
-					return new Sub(lhs,rhs);
-				}
+				else break;
 			}
 			lexer.setPosition(index);
 		}
@@ -138,9 +139,7 @@ public class Parser {
 	}
 	
 	/**
-	 * term := power
-	 *       | power "*" term
-	 *       | power "/" term
+	 * term := power (("*"|"/") power)*
 	 */
 	public Node term()
 	{
@@ -148,22 +147,25 @@ public class Parser {
 		if(lhs!=null)
 		{
 			int index = lexer.getPosition();
-			if(lexer.getToken()==Lexer.Token.TIMES)
+			Lexer.Token token = lexer.getToken();
+			while(token == Lexer.Token.TIMES
+				||token == Lexer.Token.DIVIDE)
 			{
-				Node rhs = term(); 
+				Node rhs = power(); 
 				if(rhs!=null)
 				{
-					return new Mul(lhs,rhs);
+					if(token == Lexer.Token.TIMES)
+					{
+						lhs = new Mul(lhs,rhs);
+					}
+					if(token == Lexer.Token.DIVIDE)
+					{
+						lhs = new Div(lhs,rhs);
+					}
+					index = lexer.getPosition();
+					token = lexer.getToken();
 				}
-			}
-			lexer.setPosition(index);
-			if(lexer.getToken()==Lexer.Token.DIVIDE)
-			{
-				Node rhs = term(); 
-				if(rhs!=null)
-				{
-					return new Div(lhs,rhs);
-				}
+				else break;
 			}
 			lexer.setPosition(index);
 		}
@@ -180,6 +182,8 @@ public class Parser {
 		int index = lexer.getPosition();
 		if(lexer.getToken()==Lexer.Token.POW)
 		{
+			System.out.println(lexer.getPosition());
+			
 			Node pow = power();
 			if(pow!=null)
 			{
@@ -224,6 +228,7 @@ public class Parser {
 	 *         | parameter
 	 *         | t
 	 *         | variable
+	 *         | "(" expression ")"
 	 */
 	public Node factor()
 	{
@@ -239,6 +244,19 @@ public class Parser {
 		if(ret!=null) return ret;
 		ret = variable();
 		if(ret!=null) return ret;
+		int index = lexer.getPosition();
+		if(lexer.getToken()==Lexer.Token.LEFT_PARENTHESIS)
+		{
+			ret = expression();
+			if(ret!=null)
+			{
+				if(lexer.getToken()==Lexer.Token.RIGHT_PARENTHESIS)
+				{
+					return ret;
+				}
+			}
+		}
+		lexer.setPosition(index);
 		return null;
 	}
 	
