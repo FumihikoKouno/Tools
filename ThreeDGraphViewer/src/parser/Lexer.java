@@ -28,16 +28,34 @@ public class Lexer {
 	public Lexer(String expression)
 	{
 		this.expression = expression;
+		eliminateSpace();
 		index = 0;
 	}
 	
 	public Lexer() {
 		index = 0;
 	}
+	
+	public void eliminateSpace()
+	{
+		String eliminated = "";
+		for(int i = 0; i < expression.length(); i++)
+		{
+			if(expression.charAt(i) != ' '
+			&& expression.charAt(i) != '\n'
+			&& expression.charAt(i) != '\t'
+			&& expression.charAt(i) != '\r')
+			{
+				eliminated = eliminated + expression.charAt(i);
+			}
+		}
+		expression = eliminated;
+	}
 
 	public void setString(String str)
 	{
 		expression = str;
+		eliminateSpace();
 	}
 	
 	public boolean finished()

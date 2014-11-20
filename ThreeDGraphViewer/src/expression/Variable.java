@@ -26,7 +26,7 @@ public class Variable extends UnaryNode {
 		return getChild().getValue();
 	}
 	public String toString() {
-		if(getChild()!=null) return name + "{" + getChild() + "}";
+		if(getChild()!=null) return name + ":" + getChild();
 		else return name;
 	}
 }

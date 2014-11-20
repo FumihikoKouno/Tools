@@ -70,7 +70,7 @@ public class Parameter extends UnaryNode {
 
 	@Override
 	public String toString() {
-		if(getChild()!=null) return "p"+"["+name+","+derivative+","+phase+"]"+"{"+getChild()+"}";
+		if(getChild()!=null) return "p"+"["+name+","+derivative+","+phase+"]"+":"+getChild();
 		else return "p"+"["+name+","+derivative+","+phase+"]";
 	}
 

@@ -64,6 +64,12 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 	public void viewInterval(boolean b)
 	{
 		intervalMode = b;
+		resetViewing();
+	}
+	
+	public boolean getIntervalMode()
+	{
+		return intervalMode;
 	}
 	
 	public void setParameterInterval(int i, double d)
@@ -87,6 +93,7 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 		}
 		return -1;
 	}
+	
 	public void addGraph(Node[] n, double l, double u, double i, double p, Color c)
 	{
 		if(n.length!=3) return;
@@ -111,6 +118,32 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 		colors.add(c);
 		resetViewing();
 	}
+	
+	public void setGraph(int index, Node[] n, double l, double u, double i, double p, Color c)
+	{
+		if(n.length!=3) return;
+		for(double t = l; t <= u; t += i)
+		{
+			n[0].substitute(t);
+			n[1].substitute(t);
+			
+			double x = n[0].getValue().getValue();
+			double y = n[1].getValue().getValue();
+			
+			if(maxX < x) maxX = x;
+			if(minX > x) minX = x;
+			if(maxY < y) maxY = y;
+			if(minY > y) minY = y;
+		}
+		nodes.set(index,n);
+		lowers.set(index,l);
+		uppers.set(index,u);
+		intervals.set(index,i);
+		parameterIntervals.set(index,p);
+		colors.set(index,c);
+		resetViewing();
+	}
+	
 	public void clear()
 	{
 		dps.clear();

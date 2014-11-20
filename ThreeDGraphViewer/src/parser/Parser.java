@@ -12,9 +12,21 @@ public class Parser {
 	{
 		lexer = new Lexer(str);
 	}
-	public Parser() {
+	public Parser()
+	{
 		lexer = new Lexer();
 	}
+	
+	public ArrayList<Variable> getVariables()
+	{
+		return variables;
+	}
+	
+	public ArrayList<Parameter> getParameters()
+	{
+		return parameters;
+	}
+	
 	public boolean parseVariable()
 	{
 		int index = lexer.getPosition();
@@ -99,12 +111,15 @@ public class Parser {
 	public void setString(String str)
 	{
 		lexer.setString(str);
-		reset();
+		lexer.setPosition(0);
+		lexer.eliminateSpace();
 	}
 	
 	public void reset()
 	{
-		lexer.setPosition(0);
+		lexer = new Lexer();
+		variables.clear();
+		parameters.clear();
 	}
 	
 	/**
@@ -242,6 +257,8 @@ public class Parser {
 		ret = parameter();
 		if(ret!=null) return ret;
 		ret = t();
+		if(ret!=null) return ret;
+		ret = infinity();
 		if(ret!=null) return ret;
 		ret = variable();
 		if(ret!=null) return ret;
@@ -390,6 +407,23 @@ public class Parser {
 		if(lexer.getToken()==Lexer.Token.NUM)
 		{
 			return new Num(Double.parseDouble(lexer.getString()));
+		}
+		lexer.setPosition(index);
+		return null;
+	}
+	
+	/**
+	 * infinity := "inf"
+	 */
+	public Node infinity()
+	{
+		int index = lexer.getPosition();
+		if(lexer.getToken()==Lexer.Token.IDENTIFIER)
+		{
+			if(lexer.getString() == "inf")
+			{
+				return new Infinity();
+			}
 		}
 		lexer.setPosition(index);
 		return null;
