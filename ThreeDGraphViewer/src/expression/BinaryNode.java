@@ -1,5 +1,7 @@
 package expression;
 
+import java.util.ArrayList;
+
 import common.Value;
 
 public abstract class BinaryNode extends Node {
@@ -46,6 +48,23 @@ public abstract class BinaryNode extends Node {
 	{
 		getLhs().substitute(d);
 		getRhs().substitute(d);
+	}
+	
+	public ArrayList<Parameter> getParameters()
+	{
+		ArrayList<Parameter> ret = new ArrayList<Parameter>();
+		ArrayList<Parameter> tmp;
+		tmp = getLhs().getParameters();
+		for(int i = 0; i < tmp.size(); i++)
+		{
+			ret.add(tmp.get(i));
+		}
+		tmp = getRhs().getParameters();
+		for(int i = 0; i < tmp.size(); i++)
+		{
+			ret.add(tmp.get(i));
+		}
+		return ret;
 	}
 	
 	public abstract Value getValue();

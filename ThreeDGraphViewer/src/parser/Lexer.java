@@ -31,6 +31,10 @@ public class Lexer {
 		index = 0;
 	}
 	
+	public Lexer() {
+		index = 0;
+	}
+
 	public void setString(String str)
 	{
 		expression = str;

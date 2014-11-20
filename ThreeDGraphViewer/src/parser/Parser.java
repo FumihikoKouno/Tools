@@ -12,6 +12,9 @@ public class Parser {
 	{
 		lexer = new Lexer(str);
 	}
+	public Parser() {
+		lexer = new Lexer();
+	}
 	public boolean parseVariable()
 	{
 		int index = lexer.getPosition();
@@ -139,11 +142,11 @@ public class Parser {
 	}
 	
 	/**
-	 * term := power (("*"|"/") power)*
+	 * term := negaposi (("*"|"/") negaposi)*
 	 */
 	public Node term()
 	{
-		Node lhs = power();
+		Node lhs = negaposi();
 		if(lhs!=null)
 		{
 			int index = lexer.getPosition();
@@ -151,7 +154,7 @@ public class Parser {
 			while(token == Lexer.Token.TIMES
 				||token == Lexer.Token.DIVIDE)
 			{
-				Node rhs = power(); 
+				Node rhs = negaposi(); 
 				if(rhs!=null)
 				{
 					if(token == Lexer.Token.TIMES)
@@ -173,12 +176,12 @@ public class Parser {
 	}
 	
 	/**
-	 * power := negaposi "^" power
-	 *        | negaposi
+	 * power := factor "^" power
+	 *        | factor
 	 */
 	public Node power()
 	{
-		Node fact = negaposi();
+		Node fact = factor();
 		int index = lexer.getPosition();
 		if(lexer.getToken()==Lexer.Token.POW)
 		{			
@@ -192,16 +195,16 @@ public class Parser {
 		return fact;
 	}
 	/**
-	 * negaposi = "+" factor
-	 *          | "-" factor
-	 *          | factor
+	 * negaposi = "+" power
+	 *          | "-" power
+	 *          | power
 	 */
 	public Node negaposi()
 	{
 		int index = lexer.getPosition();
 		if(lexer.getToken()==Lexer.Token.PLUS)
 		{
-			Node fact = factor();
+			Node fact = power();
 			if(fact!=null)
 			{
 				return new Positive(fact);
@@ -210,14 +213,14 @@ public class Parser {
 		lexer.setPosition(index);
 		if(lexer.getToken()==Lexer.Token.MINUS)
 		{
-			Node fact = factor();
+			Node fact = power();
 			if(fact!=null)
 			{
 				return new Negative(fact);
 			}
 		}
 		lexer.setPosition(index);
-		return factor();
+		return power();
 	}
 	
 	/**

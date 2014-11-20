@@ -1,5 +1,7 @@
 package expression;
 
+import java.util.ArrayList;
+
 import common.Value;
 
 public abstract class UnaryNode extends Node {
@@ -38,6 +40,11 @@ public abstract class UnaryNode extends Node {
 	public void substitute(double d)
 	{
 		getChild().substitute(d);
+	}
+	
+	public ArrayList<Parameter> getParameters()
+	{
+		return getChild().getParameters();
 	}
 	
 	public abstract Value getValue();

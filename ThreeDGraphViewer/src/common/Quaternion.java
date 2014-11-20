@@ -9,6 +9,11 @@ public class Quaternion {
 		t = d;
 		v = v3;
 	}
+	public Quaternion(Quaternion q)
+	{
+		t = q.getDouble();
+		v = new Vector3D(q.getVector3D());
+	}
 	public Quaternion conjugate()
 	{
 		return new Quaternion(getDouble(),Vector3D.mul(-1,getVector3D()));

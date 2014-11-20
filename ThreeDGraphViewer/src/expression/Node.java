@@ -1,5 +1,7 @@
 package expression;
 
+import java.util.ArrayList;
+
 import common.Value;
 
 public abstract class Node
@@ -13,4 +15,5 @@ public abstract class Node
 	public abstract void setParameter(String n, int d, int p, double r);
 	public abstract void substitute(double d);
 	public abstract boolean equals(Node n);
+	public abstract ArrayList<Parameter> getParameters();
 }

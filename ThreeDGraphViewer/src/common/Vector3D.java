@@ -48,7 +48,7 @@ public class Vector3D {
 			c += v.at(i)*v.at(i);
 		}
 		c = Math.sqrt(c);
-		return Vector3D.mul(c,v);
+		return Vector3D.mul(1.0/c,v);
 	}
 	public double get(int i)
 	{

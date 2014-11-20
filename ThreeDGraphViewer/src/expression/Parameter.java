@@ -1,5 +1,7 @@
 package expression;
 
+import java.util.ArrayList;
+
 import common.Value;
 
 public class Parameter extends UnaryNode {
@@ -46,6 +48,19 @@ public class Parameter extends UnaryNode {
 		{
 			getChild().setParameter(n, d, p, r);
 		}
+	}
+
+	public ArrayList<Parameter> getParameters()
+	{
+		ArrayList<Parameter> ret = new ArrayList<Parameter>();
+		ArrayList<Parameter> tmp;
+		tmp = getChild().getParameters();
+		for(int i = 0; i < tmp.size(); i++)
+		{
+			ret.add(tmp.get(i));
+		}
+		ret.add(this);
+		return ret;
 	}
 	
 	@Override

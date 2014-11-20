@@ -1,5 +1,7 @@
 package expression;
 
+import java.util.ArrayList;
+
 import common.Value;
 
 public class Num extends Node {
@@ -26,6 +28,11 @@ public class Num extends Node {
 	
 	public void setParameter(String n, int d, int p, double r){}
 	public void substitute(double d){}
+	
+	public ArrayList<Parameter> getParameters()
+	{
+		return new ArrayList<Parameter>();
+	}
 	
 	public Value getValue() {
 		return num;
