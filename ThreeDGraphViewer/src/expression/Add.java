@@ -8,6 +8,11 @@ public class Add extends BinaryNode {
 	{
 		super(l,r);
 	}
+	
+	public Node clone()
+	{
+		return new Add(getLhs().clone(),getRhs().clone());
+	}
 
 	public Value getValue() {
 		return Value.add(getLhs().getValue(),getRhs().getValue());

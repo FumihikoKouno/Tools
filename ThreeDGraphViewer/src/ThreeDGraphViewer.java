@@ -23,7 +23,7 @@ public class ThreeDGraphViewer extends JPanel{
 	ArrayList<Variable> variables;
 	ArrayList<Parameter> parameters;
 	
-	ArrayList<Variable[]> axes;
+	ArrayList<Node[]> axes;
 	
 	int nextSendIndex = 0;
 	
@@ -34,7 +34,7 @@ public class ThreeDGraphViewer extends JPanel{
 	
 	public void init()
 	{
-		axes = new ArrayList<Variable[]>();
+		axes = new ArrayList<Node[]>();
 		viewer = new Viewer();
 		parser = new Parser();
 		variables = new ArrayList<Variable>();
@@ -61,9 +61,19 @@ public class ThreeDGraphViewer extends JPanel{
 		viewer.viewInterval(b);
 	}
 	
+	public void viewSeveralLines(boolean b)
+	{
+		viewer.viewSeveralLines(b);
+	}
+	
 	public boolean getIntervalMode()
 	{
 		return viewer.getIntervalMode();
+	}
+	
+	public boolean getSeveralMode()
+	{
+		return viewer.getSeveralMode();
 	}
 	
 	public void setVariables()
@@ -78,19 +88,24 @@ public class ThreeDGraphViewer extends JPanel{
 	
 	public boolean setAxes(int index, String[] name, double lt, double ut, double iv, double piv, Color c)
 	{
-		Variable[] axis = new Variable[3];
+		Node[] axis = new Node[3];
 		for(int i = 0; i < name.length; i++)
 		{
 			parser.setString(name[i]);
-			Variable var = (Variable)parser.variable();
-			if(var!=null && parser.finished())
+			Node n = parser.expression();
+			if(n!=null && parser.finished())
 			{
 				for(int j = 0; j < variables.size(); j++)
 				{
-					if(var.equals(variables.get(j)))
+					if(n.equals(variables.get(j)))
 					{
 						axis[i] = variables.get(j);
+						break;
 					}
+				}
+				if(axis[i]==null)
+				{
+					axis[i] = n;
 				}
 			}
 		}

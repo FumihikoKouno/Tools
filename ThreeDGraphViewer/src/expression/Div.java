@@ -10,6 +10,10 @@ public class Div extends BinaryNode {
 	public Value getValue() {
 		return Value.div(getLhs().getValue(),getRhs().getValue());
 	}
+	public Node clone()
+	{
+		return new Div(getLhs().clone(),getRhs().clone());
+	}
 
 	public String toString() {
 		return "(" + getLhs() + "/" + getRhs() + ")";

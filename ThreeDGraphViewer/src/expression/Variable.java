@@ -13,6 +13,10 @@ public class Variable extends UnaryNode {
 	{
 		return name;
 	}
+	public Node clone()
+	{
+		return new Variable(name,getChild().clone());
+	}
 	public boolean equals(Node n)
 	{
 		if(n instanceof Variable)

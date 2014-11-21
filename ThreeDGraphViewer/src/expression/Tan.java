@@ -11,6 +11,10 @@ public class Tan extends UnaryNode {
 		return new Value(Math.tan(getChild().getValue().getValue()));
 	}
 
+	public Node clone()
+	{
+		return new Tan(getChild().clone());
+	}
 	public String toString() {
 		return "tan(" + getChild() + ")";
 	}

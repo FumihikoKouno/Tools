@@ -11,6 +11,10 @@ public class Positive extends UnaryNode {
 		return getChild().getValue();
 	}
 
+	public Node clone()
+	{
+		return new Positive(getChild().clone());
+	}
 	public String toString() {
 		return "+" + getChild();
 	}

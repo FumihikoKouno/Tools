@@ -16,6 +16,11 @@ public class Num extends Node {
 		this.num = new Value(num);
 	}
 	
+	public Node clone()
+	{
+		return new Num(num);
+	}
+	
 	public boolean equals(Node n)
 	{
 		if(n instanceof Num)

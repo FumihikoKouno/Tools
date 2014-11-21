@@ -3,6 +3,8 @@ package common;
 public class Vector3D {
 	private static final int DIMENSION = 3;
 	private double[] x = new double[DIMENSION]; 
+	
+	private final double accurateUnit = 1e-6;
 	public Vector3D(double x1, double x2, double x3)
 	{
 		x[0] = x1;
@@ -30,6 +32,22 @@ public class Vector3D {
 		{
 			x[i] = v.at(i);
 		}
+	}
+	
+	public boolean equals(Vector3D v)
+	{
+		boolean ret = true;
+		for(int i = 0; i < DIMENSION; i++)
+		{
+		//	ret = ret && (Math.abs(x[i] - v.get(i)) <= accurateUnit);
+			ret = ret && (x[i] == v.get(i));
+		}
+		return ret;
+	}
+	
+	public void set(int i, double d)
+	{
+		x[i] = d;
 	}
 	public double abs()
 	{

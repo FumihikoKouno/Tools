@@ -17,6 +17,11 @@ public class Infinity extends Node {
 	{
 		return "inf";
 	}
+	
+	public Node clone()
+	{
+		return new Infinity();
+	}
 
 	@Override
 	public void setParameter(String n, int d, int p, double r) {}

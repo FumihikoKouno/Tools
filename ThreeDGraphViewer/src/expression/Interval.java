@@ -14,6 +14,13 @@ public class Interval extends BinaryNode {
 		rhsClosed = false;
 		ratio = 0;
 	}
+	public Node clone()
+	{
+		Interval iv = new Interval(getLhs().clone(),getRhs().clone());
+		iv.lhsClosed(lhsClosed);
+		iv.rhsClosed(rhsClosed);
+		return iv;
+	}
 	
 	public void lhsClosed(boolean b)
 	{

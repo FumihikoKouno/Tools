@@ -11,6 +11,10 @@ public class Sin extends UnaryNode {
 		return new Value(Math.sin(getChild().getValue().getValue()));
 	}
 
+	public Node clone()
+	{
+		return new Sin(getChild().clone());
+	}
 	public String toString() {
 		return "sin(" + getChild() + ")";
 	}

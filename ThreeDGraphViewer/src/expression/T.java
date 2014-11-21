@@ -15,6 +15,10 @@ public class T extends Node {
 	{
 		time = d;
 	}
+	public Node clone()
+	{
+		return new T();
+	}
 	
 	public boolean equals(Node n)
 	{

@@ -17,6 +17,10 @@ public class Parameter extends UnaryNode {
 		derivative = d;
 		phase = i;
 	}
+	public Node clone()
+	{
+		return new Parameter(name, derivative, phase, (Interval)getChild().clone());
+	}
 	
 	public String getName(){ return name; }
 	public int getDerivative(){ return derivative; }

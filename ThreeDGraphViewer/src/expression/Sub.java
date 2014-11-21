@@ -11,6 +11,11 @@ public class Sub extends BinaryNode {
 		return Value.sub(getLhs().getValue(),getRhs().getValue());
 	}
 
+	public Node clone()
+	{
+		return new Sub(getLhs().clone(),getRhs().clone());
+	}
+
 	public String toString() {
 		return "(" + getLhs() + "-" + getRhs() + ")";
 	}

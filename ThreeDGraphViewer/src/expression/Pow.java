@@ -10,6 +10,11 @@ public class Pow extends BinaryNode {
 	public Value getValue() {
 		return Value.pow(getLhs().getValue(),getRhs().getValue());
 	}
+	public Node clone()
+	{
+		return new Pow(getLhs().clone(),getRhs().clone());
+	}
+
 
 	public String toString() {
 		return "(" + getLhs() + "^" + getRhs() + ")";

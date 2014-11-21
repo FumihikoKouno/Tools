@@ -17,11 +17,11 @@ import expression.Node;
 
 public class Test extends JFrame{
 	
-	private JTextField x = new JTextField("input x");
-	private JTextField y = new JTextField("input y");
-	private JTextField z = new JTextField("input z");
+	private JTextField x = new JTextField("t");
+	private JTextField y = new JTextField("p[a,0,1]*t");
+	private JTextField z = new JTextField("t");
 	private JTextField v = new JTextField("input variable");
-	private JTextField p = new JTextField("input parameter");
+	private JTextField p = new JTextField("p[a,0,1]:(1,5)");
 	private ThreeDGraphViewer viewer = new ThreeDGraphViewer();
 	private JTextArea tf = new JTextArea(30,10);
 	
@@ -56,7 +56,7 @@ public class Test extends JFrame{
 				String expY = y.getText();
 				String expZ = z.getText();
 				String[] str = {expX,expY,expZ};
-				viewer.addAxes(str, 0.0, 10.0, 0.1, 0.5, Color.BLUE);
+				viewer.addAxes(str, 0.0, 3.0, 1, 0.3, Color.BLUE);
 				repaint();
 			}
 		});
@@ -89,10 +89,18 @@ public class Test extends JFrame{
 			}
 		});
 		
-		JButton changeMode = new JButton("changeMode");
-		changeMode.addActionListener(new ActionListener() {
+		JButton changeInterval = new JButton("changeInterval");
+		changeInterval.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
 				viewer.viewInterval(!viewer.getIntervalMode());
+				tf.setText(viewer.toString());
+			}
+		});
+
+		JButton changeSeveral = new JButton("changeSeveral");
+		changeSeveral.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				viewer.viewSeveralLines(!viewer.getSeveralMode());
 				tf.setText(viewer.toString());
 			}
 		});
@@ -102,7 +110,8 @@ public class Test extends JFrame{
 		buttons.add(addVariable);
 		buttons.add(addParameter);
 		buttons.add(reset);
-		buttons.add(changeMode);
+		buttons.add(changeInterval);
+		buttons.add(changeSeveral);
 		
 		add(viewer,BorderLayout.NORTH);
 		add(texts,BorderLayout.CENTER);

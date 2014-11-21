@@ -11,6 +11,10 @@ public class Negative extends UnaryNode {
 		return Value.sub(new Value(0),getChild().getValue());
 	}
 
+	public Node clone()
+	{
+		return new Negative(getChild().clone());
+	}
 	public String toString() {
 		return "-" + getChild();
 	}

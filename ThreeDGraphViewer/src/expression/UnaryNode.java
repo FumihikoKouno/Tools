@@ -17,7 +17,7 @@ public abstract class UnaryNode extends Node {
 	{
 		child = n;
 	}
-	
+		
 	public Node getChild()
 	{
 		return child;

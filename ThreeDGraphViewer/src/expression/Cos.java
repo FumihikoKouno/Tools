@@ -8,6 +8,10 @@ public class Cos extends UnaryNode {
 	{
 		super(n);
 	}
+	public Node clone()
+	{
+		return new Cos(getChild().clone());
+	}
 	public Value getValue() {
 		return new Value(Math.cos(getChild().getValue().getValue()));
 	}

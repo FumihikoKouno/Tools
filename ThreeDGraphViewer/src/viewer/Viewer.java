@@ -18,6 +18,7 @@ import javax.swing.JPanel;
 
 import common.Quaternion;
 import common.Vector3D;
+import common.VectorHeightComparator;
 
 public class Viewer extends JPanel implements MouseListener, MouseMotionListener, MouseWheelListener{
 	private int width = 500;
@@ -32,6 +33,7 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 	private Vector3D displacement = new Vector3D(0,0,0);
 	private Vector3D prevDisplacement = new Vector3D(0,0,0);
 	private boolean intervalMode = false;
+	private boolean severalLines = false;
 	private double axisLengthUnit = 20;
 	private Vector3D clickPoint = new Vector3D(0,0,0);
 	private Vector3D clickDisplacement = new Vector3D(0,0,0);
@@ -67,6 +69,17 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 		resetViewing();
 	}
 	
+	public void viewSeveralLines(boolean b)
+	{
+		severalLines = b;
+		resetViewing();
+	}
+	
+	public boolean getSeveralMode()
+	{
+		return severalLines;
+	}
+	
 	public boolean getIntervalMode()
 	{
 		return intervalMode;
@@ -97,19 +110,6 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 	public void addGraph(Node[] n, double l, double u, double i, double p, Color c)
 	{
 		if(n.length!=3) return;
-		for(double t = l; t <= u; t += i)
-		{
-			n[0].substitute(t);
-			n[1].substitute(t);
-			
-			double x = n[0].getValue().getValue();
-			double y = n[1].getValue().getValue();
-			
-			if(maxX < x) maxX = x;
-			if(minX > x) minX = x;
-			if(maxY < y) maxY = y;
-			if(minY > y) minY = y;
-		}
 		nodes.add(n);
 		lowers.add(l);
 		uppers.add(u);
@@ -122,19 +122,6 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 	public void setGraph(int index, Node[] n, double l, double u, double i, double p, Color c)
 	{
 		if(n.length!=3) return;
-		for(double t = l; t <= u; t += i)
-		{
-			n[0].substitute(t);
-			n[1].substitute(t);
-			
-			double x = n[0].getValue().getValue();
-			double y = n[1].getValue().getValue();
-			
-			if(maxX < x) maxX = x;
-			if(minX > x) minX = x;
-			if(maxY < y) maxY = y;
-			if(minY > y) minY = y;
-		}
 		nodes.set(index,n);
 		lowers.set(index,l);
 		uppers.set(index,u);
@@ -246,6 +233,98 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 			dps.add(z);
 		}
 	}
+	
+	public DrawPoints calculateConvex(ArrayList<Vector3D> vecs)
+	{
+		Collections.sort(vecs,new VectorHeightComparator());
+		
+		ArrayList<Vector3D> plainPoints = new ArrayList<Vector3D>();
+		
+		for(int i = 0; i < vecs.size(); i++)
+		{
+			boolean included = false;
+			Vector3D plain = vecs.get(i);
+			plain.set(2,0);
+			for(int j = 0; j < plainPoints.size(); j++)
+			{
+				if(plain.equals(plainPoints.get(j)))
+				{
+					included = true;
+					break;
+				}
+			}
+			if(!included)
+			{
+				plainPoints.add(plain);
+			}
+		}
+		
+		
+		DrawPoints ret = new DrawPoints();
+
+		if(plainPoints.size()<=2)
+		{
+			for(int i = 0; i < plainPoints.size(); i++)
+			{
+				ret.addPoint(plainPoints.get(i));
+			}
+			return ret;
+		}
+		
+		
+		Vector3D startPoint = plainPoints.get(0);
+		
+		Vector3D prevVec = new Vector3D(1,0,0);
+		double minimumRadian = Double.MAX_VALUE;
+		Vector3D nextPoint = new Vector3D(0,0,0);
+		Vector3D prevPoint = new Vector3D(0,0,0);
+		
+		Vector3D currentPoint = startPoint;
+				
+		ret.addPoint(startPoint);
+		String debug = ""+startPoint;
+		for(int count = 0; count < plainPoints.size(); count++)
+		{
+			for(int i = 0; i < plainPoints.size(); i++)
+			{
+				Vector3D candidatePoint = plainPoints.get(i);
+				
+				if(candidatePoint.equals(currentPoint)
+				|| candidatePoint.equals(prevPoint))
+				{
+					continue;
+				}
+				
+				Vector3D currentVec = Vector3D.sub(candidatePoint,currentPoint);
+				
+				double radian = Math.acos(Vector3D.dot(prevVec,currentVec)/(prevVec.abs()*currentVec.abs()));
+
+				if(minimumRadian > radian)
+				{
+					minimumRadian = radian;
+					nextPoint = new Vector3D(candidatePoint);
+				}
+			}
+
+			if(startPoint.equals(nextPoint))
+			{
+				return ret;
+			}
+			
+			debug += " - " + nextPoint;
+			
+			ret.addPoint(nextPoint);
+
+			prevVec = Vector3D.sub(nextPoint,currentPoint);
+			
+			prevPoint = new Vector3D(currentPoint);
+			currentPoint = new Vector3D(nextPoint);
+			minimumRadian = Double.MAX_VALUE;
+		}
+		
+		return ret;
+	}
+	
 	public void fillPolygon(Graphics g)
 	{
 		int n = dps.size();
@@ -262,21 +341,28 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 			point.setColor(dps.get(i).getColor());
 			points.add(point);
 		}
-		try{
-			Collections.sort(points,new DepthComparator());
-		}catch(IllegalArgumentException e){
-			update();
-			return;
-		}
+		
+		Collections.sort(points,new DepthComparator());
+
+		ArrayList<DrawPoints> convexPoints = new ArrayList<DrawPoints>();
 		for(int i = 0; i < n; i++)
 		{
-			g.setColor(points.get(i).getColor());
-			int numOfPoint = points.get(i).getPoints().size();
+			ArrayList<Vector3D> vecs = points.get(i).getPoints();
+			DrawPoints convexPoint = calculateConvex(vecs);
+			convexPoint.setColor(points.get(i).getColor());
+			convexPoints.add(convexPoint);
+		}
+		n = convexPoints.size();
+		
+		for(int i = 0; i < n; i++)
+		{
+			g.setColor(convexPoints.get(i).getColor());
+			int numOfPoint = convexPoints.get(i).getPoints().size();
 			int[] x = new int[numOfPoint];
 			int[] y = new int[numOfPoint];
 			for(int j = 0; j < numOfPoint; j++)
 			{
-				Vector3D vec = toViewerPoint(points.get(i).getPoints().get(j));
+				Vector3D vec = toViewerPoint(convexPoints.get(i).getPoints().get(j));
 				x[j] = (int)(vec.get(0));
 				y[j] = (int)(vec.get(1));
 			}
@@ -296,6 +382,7 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 	
 	public void resetViewing()
 	{
+		makePlot();
 		xUnit = (width/(maxX-minX))*(1-spaceRatio);
 		yUnit = (height/(maxY-minY))*(1-spaceRatio);
 		prevDisplacement = new Vector3D(0,0,0);
@@ -303,7 +390,6 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 		quaternion = new Quaternion(1,new Vector3D(0,0,0));
 		draggingQuaternion = new Quaternion(1,new Vector3D(0,0,0));
 		rotationPoint = new Vector3D(0,0,1);
-		makePlot();
 	}
 	
 	public void addPointsWithParameters(
@@ -311,53 +397,30 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 			Node[] nodes,
 			ArrayList<Parameter> params, 
 			int idx, 
-			double parIv,
-			boolean back)
+			double parIv)
 	{
-		if(back)
+		double par;
+		for(par = 0; par <= 1; par += parIv)
 		{
-			double par;
-			for(par = 0; par <= 1; par += parIv);
-			par -= parIv;
-			for(; par >= 0; par -= parIv)
+			for(int i = 0; i < nodes.length; i++)
 			{
-				for(int i = 0; i < nodes.length; i++)
-				{
-					nodes[i].setParameter(params.get(idx),par);
-				}
-				if(idx == 0)
-				{
-					points.addPoint(new Vector3D(nodes[0].getValue().getValue(),
-												nodes[1].getValue().getValue(),
-												nodes[2].getValue().getValue()));
-				}
-				else
-				{
-					addPointsWithParameters(points, nodes, params, idx-1, parIv, back);
-				}
+				nodes[i].setParameter(params.get(idx),par);
 			}
-		}
-		else
-		{
-			double par;
-			for(par = 0; par <= 1; par += parIv)
+			if(idx == params.size()-1)
 			{
-				for(int i = 0; i < nodes.length; i++)
-				{
-					nodes[i].setParameter(params.get(idx),par);
-				}
-				if(idx == params.size()-1)
-				{
-					points.addPoint(new Vector3D(nodes[0].getValue().getValue(),
-												nodes[1].getValue().getValue(),
-												nodes[2].getValue().getValue()));
-				}
-				else
-				{
-					addPointsWithParameters(points, nodes, params, idx+1, parIv, back);
-				}
+				if(maxX<nodes[0].getValue().getValue()) maxX = nodes[0].getValue().getValue();
+				if(minX>nodes[0].getValue().getValue()) minX = nodes[0].getValue().getValue();
+				if(maxY<nodes[1].getValue().getValue()) maxY = nodes[1].getValue().getValue();
+				if(minY>nodes[1].getValue().getValue()) minY = nodes[1].getValue().getValue();
+				
+				points.addPoint(new Vector3D(nodes[0].getValue().getValue(),
+											nodes[1].getValue().getValue(),
+											nodes[2].getValue().getValue()));
 			}
-			
+			else
+			{
+				addPointsWithParameters(points, nodes, params, idx+1, parIv);
+			}
 		}
 	}
 	
@@ -410,6 +473,11 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 		dp.reset();
 		for(int i = 0; i < newDp.getPoints().size(); i++)
 		{
+			if(maxX<newDp.getPoints().get(i).get(0)) maxX = newDp.getPoints().get(i).get(0);
+			if(minX>newDp.getPoints().get(i).get(0)) minX = newDp.getPoints().get(i).get(0);
+			if(maxY<newDp.getPoints().get(i).get(1)) maxY = newDp.getPoints().get(i).get(1);
+			if(minY>newDp.getPoints().get(i).get(1)) minY = newDp.getPoints().get(i).get(1);
+			
 			dp.addPoint(newDp.getPoints().get(i));
 		}
 	}
@@ -418,7 +486,7 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 	{
 		double x = displacement.get(0)+(((width)*spaceRatio)/2.0)+((vec.get(0)-minX)*xUnit);
 		double y = displacement.get(1)+(((height)*spaceRatio)/2.0)+((maxY-vec.get(1))*yUnit);
-
+		
 		return new Vector3D(x,y,0);
 	}
 	
@@ -433,24 +501,69 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 		}
 	}
 	
-	public void makePlot(){
+	public void makeSingleLinePlot()
+	{
 		dps.clear();
 		for(int i = 0; i < nodes.size(); i++)
 		{
 			for(double t = lowers.get(i); t <= uppers.get(i)-intervals.get(i); t += intervals.get(i))
 			{
-				ArrayList<Parameter> parameters = new ArrayList<Parameter>();
-				for(int idx = 0; idx < nodes.get(i).length; idx++)
+				DrawPoints dp = new DrawPoints();
+				
+				// add data f(t)
+				(nodes.get(i))[0].substitute(t);
+				(nodes.get(i))[1].substitute(t);
+				(nodes.get(i))[2].substitute(t);
+				
+				if(maxX<nodes.get(i)[0].getValue().getValue()) maxX = nodes.get(i)[0].getValue().getValue();
+				if(minX>nodes.get(i)[0].getValue().getValue()) minX = nodes.get(i)[0].getValue().getValue();
+				if(maxY<nodes.get(i)[1].getValue().getValue()) maxY = nodes.get(i)[1].getValue().getValue();
+				if(minY>nodes.get(i)[1].getValue().getValue()) minY = nodes.get(i)[1].getValue().getValue();
+				
+				dp.addPoint(new Vector3D(nodes.get(i)[0].getValue().getValue(),
+										nodes.get(i)[1].getValue().getValue(),
+										nodes.get(i)[2].getValue().getValue()));
+
+				// add data f(t+interval)
+				(nodes.get(i))[0].substitute(t+intervals.get(i));
+				(nodes.get(i))[1].substitute(t+intervals.get(i));
+				(nodes.get(i))[2].substitute(t+intervals.get(i));
+
+				if(maxX<nodes.get(i)[0].getValue().getValue()) maxX = nodes.get(i)[0].getValue().getValue();
+				if(minX>nodes.get(i)[0].getValue().getValue()) minX = nodes.get(i)[0].getValue().getValue();
+				if(maxY<nodes.get(i)[1].getValue().getValue()) maxY = nodes.get(i)[1].getValue().getValue();
+				if(minY>nodes.get(i)[1].getValue().getValue()) minY = nodes.get(i)[1].getValue().getValue();
+					
+				dp.addPoint(new Vector3D(nodes.get(i)[0].getValue().getValue(),
+						nodes.get(i)[1].getValue().getValue(),
+						nodes.get(i)[2].getValue().getValue()));
+			
+				dp.setColor(colors.get(i));
+				dps.add(dp);
+			}
+		}
+		drawAxes();
+	}
+	
+	public void makeIntervalPlot()
+	{
+		dps.clear();
+		for(int i = 0; i < nodes.size(); i++)
+		{
+			ArrayList<Parameter> parameters = new ArrayList<Parameter>();
+			for(int idx = 0; idx < nodes.get(i).length; idx++)
+			{
+				for(int j = 0; j < DIMENSION; j++)
 				{
-					for(int j = 0; j < DIMENSION; j++)
+					ArrayList<Parameter> tmp = (nodes.get(i))[j].getParameters();
+					for(int k = 0; k < tmp.size(); k++)
 					{
-						ArrayList<Parameter> tmp = (nodes.get(i))[j].getParameters();
-						for(int k = 0; k < tmp.size(); k++)
-						{
-							parameters.add(tmp.get(k));
-						}
+						parameters.add(tmp.get(k));
 					}
 				}
+			}
+			for(double t = lowers.get(i); t <= uppers.get(i)-intervals.get(i); t += intervals.get(i))
+			{
 				
 				DrawPoints dp = new DrawPoints();
 				
@@ -458,64 +571,156 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 				(nodes.get(i))[0].substitute(t);
 				(nodes.get(i))[1].substitute(t);
 				(nodes.get(i))[2].substitute(t);
-				if(intervalMode)
+				if(parameters.size()>0)
 				{
-					if(parameters.size()>0)
-					{
-						addPointsWithParameters(dp,nodes.get(i),parameters,0,parameterIntervals.get(i),false);
-					}
-					else
-					{
-						dp.addPoint(new Vector3D(nodes.get(i)[0].getValue().getValue(),
-								nodes.get(i)[1].getValue().getValue(),
-								nodes.get(i)[2].getValue().getValue()));
-					}
+					addPointsWithParameters(dp,nodes.get(i),parameters,0,parameterIntervals.get(i));
 				}
 				else
 				{
+					if(maxX<nodes.get(i)[0].getValue().getValue()) maxX = nodes.get(i)[0].getValue().getValue();
+					if(minX>nodes.get(i)[0].getValue().getValue()) minX = nodes.get(i)[0].getValue().getValue();
+					if(maxY<nodes.get(i)[1].getValue().getValue()) maxY = nodes.get(i)[1].getValue().getValue();
+					if(minY>nodes.get(i)[1].getValue().getValue()) minY = nodes.get(i)[1].getValue().getValue();
+					
 					dp.addPoint(new Vector3D(nodes.get(i)[0].getValue().getValue(),
-											nodes.get(i)[1].getValue().getValue(),
-											nodes.get(i)[2].getValue().getValue()));
+							nodes.get(i)[1].getValue().getValue(),
+							nodes.get(i)[2].getValue().getValue()));
 				}
 				// add data f(t+interval)
 				(nodes.get(i))[0].substitute(t+intervals.get(i));
 				(nodes.get(i))[1].substitute(t+intervals.get(i));
 				(nodes.get(i))[2].substitute(t+intervals.get(i));
-				if(intervalMode)
+
+				if(parameters.size()>0)
 				{
-					if(parameters.size()>0)
-					{
-						addPointsWithParameters(dp,nodes.get(i),parameters,parameters.size()-1,parameterIntervals.get(i),true);
-					}
-					else
-					{
-						dp.addPoint(new Vector3D(nodes.get(i)[0].getValue().getValue(),
-								nodes.get(i)[1].getValue().getValue(),
-								nodes.get(i)[2].getValue().getValue()));
-					}
+					addPointsWithParameters(dp,nodes.get(i),parameters,0,parameterIntervals.get(i));
 				}
 				else
 				{
+					if(maxX<nodes.get(i)[0].getValue().getValue()) maxX = nodes.get(i)[0].getValue().getValue();
+					if(minX>nodes.get(i)[0].getValue().getValue()) minX = nodes.get(i)[0].getValue().getValue();
+					if(maxY<nodes.get(i)[1].getValue().getValue()) maxY = nodes.get(i)[1].getValue().getValue();
+					if(minY>nodes.get(i)[1].getValue().getValue()) minY = nodes.get(i)[1].getValue().getValue();
+					
 					dp.addPoint(new Vector3D(nodes.get(i)[0].getValue().getValue(),
 							nodes.get(i)[1].getValue().getValue(),
 							nodes.get(i)[2].getValue().getValue()));
 				}
-				dp.setColor(colors.get(i));
-				if(intervalMode && parameters.size()==0)
+
+				if(parameters.size()==0)
 				{
 					makeThicknessLine(dp);
 				}
+				
+				dp.setColor(colors.get(i));
 				dps.add(dp);
 			}
 		}
-		if(intervalMode)
+		addAxes();
+	}
+		
+	public void makeSeveralLinesPlot(){
+		dps.clear();
+		for(int i = 0; i < nodes.size(); i++)
 		{
-			addAxes();
+			ArrayList<Parameter> parameters = new ArrayList<Parameter>();
+			
+			for(int idx = 0; idx < nodes.get(i).length; idx++)
+			{
+				for(int j = 0; j < DIMENSION; j++)
+				{
+					ArrayList<Parameter> tmp = (nodes.get(i))[j].getParameters();
+					for(int k = 0; k < tmp.size(); k++)
+					{
+						parameters.add(tmp.get(k));
+					}
+				}
+			}
+			
+			if(parameters.size()==0)
+			{
+				makeSingleLinePlot();
+				return;
+			}
+			
+			double[] parameterRatios = new double[parameters.size()];
+			
+			for(int j = 0; j < parameterRatios.length; j++)
+			{
+				parameterRatios[j] = 0;
+			}
+			
+			boolean allPlotted = false;
+			
+			while(!allPlotted){
+				
+				for(int j = 0; j < parameters.size(); j++)
+				{
+					(nodes.get(i))[0].setParameter(parameters.get(j), parameterRatios[j]);
+					(nodes.get(i))[1].setParameter(parameters.get(j), parameterRatios[j]);
+					(nodes.get(i))[2].setParameter(parameters.get(j), parameterRatios[j]);
+				}
+				
+				for(double t = lowers.get(i); t <= uppers.get(i)-intervals.get(i); t += intervals.get(i))
+				{
+					DrawPoints dp = new DrawPoints();
+					
+					// add data f(t)
+					(nodes.get(i))[0].substitute(t);
+					(nodes.get(i))[1].substitute(t);
+					(nodes.get(i))[2].substitute(t);
+					
+					if(maxX<nodes.get(i)[0].getValue().getValue()) maxX = nodes.get(i)[0].getValue().getValue();
+					if(minX>nodes.get(i)[0].getValue().getValue()) minX = nodes.get(i)[0].getValue().getValue();
+					if(maxY<nodes.get(i)[1].getValue().getValue()) maxY = nodes.get(i)[1].getValue().getValue();
+					if(minY>nodes.get(i)[1].getValue().getValue()) minY = nodes.get(i)[1].getValue().getValue();
+					
+					dp.addPoint(new Vector3D(nodes.get(i)[0].getValue().getValue(),
+											nodes.get(i)[1].getValue().getValue(),
+											nodes.get(i)[2].getValue().getValue()));
+
+					// add data f(t+interval)
+					(nodes.get(i))[0].substitute(t+intervals.get(i));
+					(nodes.get(i))[1].substitute(t+intervals.get(i));
+					(nodes.get(i))[2].substitute(t+intervals.get(i));
+
+					if(maxX<nodes.get(i)[0].getValue().getValue()) maxX = nodes.get(i)[0].getValue().getValue();
+					if(minX>nodes.get(i)[0].getValue().getValue()) minX = nodes.get(i)[0].getValue().getValue();
+					if(maxY<nodes.get(i)[1].getValue().getValue()) maxY = nodes.get(i)[1].getValue().getValue();
+					if(minY>nodes.get(i)[1].getValue().getValue()) minY = nodes.get(i)[1].getValue().getValue();
+					
+					dp.addPoint(new Vector3D(nodes.get(i)[0].getValue().getValue(),
+							nodes.get(i)[1].getValue().getValue(),
+							nodes.get(i)[2].getValue().getValue()));
+
+						
+					dp.setColor(colors.get(i));
+					dps.add(dp);
+				}
+				
+				for(int j = 0; j < parameterRatios.length; j++)
+				{
+					if(parameterRatios[j] < 1)
+					{
+						parameterRatios[j] += parameterIntervals.get(i);
+						break;
+					}
+					else
+					{
+						parameterRatios[j] = 0;
+						if(j == parameterRatios.length-1) allPlotted = true;
+					}
+				}
+			}
 		}
-		else
-		{
-			drawAxes();
-		}
+		
+		drawAxes();
+	}
+	
+	public void makePlot(){
+		if(intervalMode) makeIntervalPlot();
+		else if(severalLines) makeSeveralLinesPlot();
+		else makeSingleLinePlot();
 	}
 	
 	@Override
@@ -549,14 +754,20 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 	public void mouseDragged(MouseEvent e) {
 		if((e.getModifiers() & MouseEvent.BUTTON1_MASK) != 0)
 		{
-			double x = (e.getX()-width/2.0);
-			double y = (-e.getY()+height/2.0);
-			double r2 = (width/2.0)*(width/2.0)
-						+(height/2.0)*(height/2.0);
-			double z = Math.sqrt(r2-x*x-y*y);
-			double zUnit = Math.sqrt(xUnit*xUnit+yUnit*yUnit);
-			Vector3D vec = new Vector3D(x/xUnit,y/yUnit,z/zUnit);
-			draggingQuaternion = Quaternion.createQuaternion(clickPoint,vec);
+			Vector3D diff = new Vector3D(e.getX(),-e.getY(),0);
+			diff = Vector3D.sub(diff,clickPoint);
+			
+			double r = (width*xUnit+height*yUnit)/10.0;
+			
+			double z = Math.sqrt(
+						r*r
+						- diff.get(0)*diff.get(0)
+						- diff.get(1)*diff.get(1)
+						);
+			
+			diff.set(2,z);
+			
+			draggingQuaternion = Quaternion.createQuaternion(new Vector3D(0,0,r),diff);
 		}
 		else if((e.getModifiers() & MouseEvent.BUTTON3_MASK) != 0)
 		{
@@ -578,13 +789,7 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 	public void mousePressed(MouseEvent e) {
 		if((e.getModifiers() & MouseEvent.BUTTON1_MASK) != 0)
 		{
-			double x = (e.getX()-width/2.0);
-			double y = (-e.getY()+height/2.0);
-			double r2 = (width/2.0)*(width/2.0)
-						+(height/2.0)*(height/2.0);
-			double z = Math.sqrt(r2-x*x-y*y);
-			double zUnit = Math.sqrt(xUnit*xUnit+yUnit*yUnit);
-			clickPoint = new Vector3D(x/xUnit,y/yUnit,z/zUnit);
+			clickPoint = new Vector3D(e.getX(),-e.getY(),0);
 		}
 		else if((e.getModifiers() & MouseEvent.BUTTON3_MASK) != 0)
 		{
