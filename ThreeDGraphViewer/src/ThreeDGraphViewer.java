@@ -51,6 +51,11 @@ public class ThreeDGraphViewer extends JPanel{
 		parameters.clear();
 	}
 	
+	public void resetView()
+	{
+		viewer.resetViewing();
+	}
+	
 	public void setParameters()
 	{
 		parameters = parser.getParameters();

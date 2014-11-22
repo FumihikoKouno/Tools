@@ -697,7 +697,7 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 			if(parameters.size()==0)
 			{
 				makeSingleLinePlot();
-				return;
+				continue;
 			}
 			
 			double[] parameterRatios = new double[parameters.size()];
