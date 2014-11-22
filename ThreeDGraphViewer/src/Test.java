@@ -24,6 +24,7 @@ public class Test extends JFrame{
 	private JTextField p = new JTextField("p[a,0,1]:(1,5)");
 	private ThreeDGraphViewer viewer = new ThreeDGraphViewer();
 	private JTextArea tf = new JTextArea(30,10);
+	int index = 0;
 	
 	public void init()
 	{		
@@ -56,7 +57,8 @@ public class Test extends JFrame{
 				String expY = y.getText();
 				String expZ = z.getText();
 				String[] str = {expX,expY,expZ};
-				viewer.addAxes(str, 0.0, 3.0, 1, 0.3, Color.BLUE);
+				viewer.addAxes(str, 0.0, 3.0, 1, 0.3, (index%3==0)?Color.BLUE:(index%3==1)?Color.RED:Color.GREEN);
+				index++;
 				repaint();
 			}
 		});

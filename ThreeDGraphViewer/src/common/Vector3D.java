@@ -34,12 +34,13 @@ public class Vector3D {
 		}
 	}
 	
-	public boolean equals(Vector3D v)
+	public boolean equals(Object o)
 	{
+		Vector3D v = (Vector3D)o;
 		boolean ret = true;
 		for(int i = 0; i < DIMENSION; i++)
 		{
-		//	ret = ret && (Math.abs(x[i] - v.get(i)) <= accurateUnit);
+			//ret = ret && (Math.abs(x[i] - v.get(i)) <= accurateUnit);
 			ret = ret && (x[i] == v.get(i));
 		}
 		return ret;
