@@ -86,12 +86,12 @@ public class ThreeDGraphViewer extends JPanel{
 		variables = parser.getVariables();
 	}
 	
-	public boolean addAxes(String[] name, double lt, double ut, double iv, double piv, Color c)
+	public boolean addAxes(String[] name, String lt, String ut, double iv, double piv, Color c)
 	{
 		return setAxes(Integer.MAX_VALUE,name,lt,ut,iv,piv,c);
 	}
 	
-	public boolean setAxes(int index, String[] name, double lt, double ut, double iv, double piv, Color c)
+	public boolean setAxes(int index, String[] name, String lt, String ut, double iv, double piv, Color c)
 	{
 		Node[] axis = new Node[3];
 		for(int i = 0; i < name.length; i++)
@@ -114,6 +114,10 @@ public class ThreeDGraphViewer extends JPanel{
 				}
 			}
 		}
+		parser.setString(lt);
+		Node lowerTime = parser.expression();
+		parser.setString(ut);
+		Node upperTime = parser.expression();
 		if(axis[0]!=null
 		&& axis[1]!=null
 		&& axis[2]!=null)
@@ -121,12 +125,12 @@ public class ThreeDGraphViewer extends JPanel{
 			if(axes.size()<=index)
 			{
 				axes.add(axis);
-				viewer.addGraph(axis,lt,ut,iv,piv,c);
+				viewer.addGraph(axis,lowerTime,upperTime,iv,piv,c);
 			}
 			else
 			{
 				axes.set(index,axis);
-				viewer.setGraph(index,axis,lt,ut,iv,piv,c);
+				viewer.setGraph(index,axis,lowerTime,upperTime,iv,piv,c);
 			}
 			return true;
 		}

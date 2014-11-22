@@ -103,8 +103,8 @@ public class Test extends JFrame{
 				String expX = xTextField.getText();
 				String expY = yTextField.getText();
 				String expZ = zTextField.getText();
-				double lt = Double.parseDouble(lowerTimeTextField.getText());
-				double ut = Double.parseDouble(upperTimeTextField.getText());
+				String lt = lowerTimeTextField.getText();
+				String ut = upperTimeTextField.getText();
 				double ti = Double.parseDouble(timeIntervalTextField.getText());
 				double pi = Double.parseDouble(parIntervalTextField.getText());
 				Color c = new Color(Integer.parseInt(colorTextField.getText(),16));

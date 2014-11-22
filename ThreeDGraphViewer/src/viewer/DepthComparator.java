@@ -30,6 +30,7 @@ public class DepthComparator implements Comparator<DrawPoints>
 		zs[1] /= p2.getPoints().size();
 		if(Double.isNaN(zs[0]) || Double.isNaN(zs[1]))
 		{
+			System.out.println("nan");
 			return 0;
 		}
 		double diff = zs[0] - zs[1];
