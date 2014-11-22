@@ -28,6 +28,13 @@ public class DepthComparator implements Comparator<DrawPoints>
 			zs[1] += points.get(p2.getPoints().get(i)).get(2);
 		}
 		zs[1] /= p2.getPoints().size();
-		return (int)(zs[0]-zs[1]);
+		if(Double.isNaN(zs[0]) || Double.isNaN(zs[1]))
+		{
+			return 0;
+		}
+		double diff = zs[0] - zs[1];
+		if(diff>0) return 1;
+		else if(diff==0) return 0;
+		else return -1;
 	}
 }
