@@ -10,7 +10,7 @@ public class Parameter extends UnaryNode {
 	private int derivative;
 	private int phase;
 	
-	public Parameter(String s, int d, int i, Interval v)
+	public Parameter(String s, int d, int i, Node v)
 	{
 		super(v);
 		name = s;
@@ -63,7 +63,10 @@ public class Parameter extends UnaryNode {
 		{
 			ret.add(tmp.get(i));
 		}
-		ret.add(this);
+		if(getChild() instanceof Interval)
+		{
+			ret.add(this);
+		}
 		return ret;
 	}
 	
@@ -74,7 +77,7 @@ public class Parameter extends UnaryNode {
 
 	@Override
 	public String toString() {
-		if(getChild()!=null) return "p"+"["+name+","+derivative+","+phase+"]"+":"+getChild();
+		if(getChild()!=null) return "p"+"["+name+","+derivative+","+phase+"]"+":"+getChild().getValue();
 		else return "p"+"["+name+","+derivative+","+phase+"]";
 	}
 

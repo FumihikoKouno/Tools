@@ -74,6 +74,7 @@ public class Parser {
 			if(lexer.getToken()==Lexer.Token.COLON)
 			{
 				Node iv = interval();
+				if(iv==null) iv = expression();
 				if(iv!=null)
 				{
 					for(Parameter parameter : parameters)

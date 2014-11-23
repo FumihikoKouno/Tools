@@ -30,6 +30,8 @@ public class Test extends JFrame{
 	private JTextField timeIntervalTextField = new JTextField("0.2");
 	private JTextField parIntervalTextField = new JTextField("0.2");
 	private JTextField colorTextField = new JTextField("0000ff");
+	private JTextField parNameTextField = new JTextField("p[a,0,1]");
+	private JTextField parRatioTextField = new JTextField("0.0");
 	private ThreeDGraphViewer viewer = new ThreeDGraphViewer();
 	private JTextArea consoleArea = new JTextArea();
 	JButton changeMode = new JButton("Mode:single");
@@ -37,16 +39,18 @@ public class Test extends JFrame{
 	public void init()
 	{
 		// texts
-		xTextField.setPreferredSize(new Dimension(75,25));
-		yTextField.setPreferredSize(new Dimension(75,25));
-		zTextField.setPreferredSize(new Dimension(75,25));
-		varTextField.setPreferredSize(new Dimension(75,25));
-		parTextField.setPreferredSize(new Dimension(75,25));
-		lowerTimeTextField.setPreferredSize(new Dimension(50,25));
-		upperTimeTextField.setPreferredSize(new Dimension(50,25));
-		timeIntervalTextField.setPreferredSize(new Dimension(50,25));
-		parIntervalTextField.setPreferredSize(new Dimension(50,25));
-		colorTextField.setPreferredSize(new Dimension(50,25));
+		xTextField.setPreferredSize(new Dimension(50,25));
+		yTextField.setPreferredSize(new Dimension(50,25));
+		zTextField.setPreferredSize(new Dimension(50,25));
+		varTextField.setPreferredSize(new Dimension(50,25));
+		parTextField.setPreferredSize(new Dimension(50,25));
+		lowerTimeTextField.setPreferredSize(new Dimension(40,25));
+		upperTimeTextField.setPreferredSize(new Dimension(40,25));
+		timeIntervalTextField.setPreferredSize(new Dimension(40,25));
+		parIntervalTextField.setPreferredSize(new Dimension(40,25));
+		colorTextField.setPreferredSize(new Dimension(40,25));
+		parNameTextField.setPreferredSize(new Dimension(40,25));
+		parRatioTextField.setPreferredSize(new Dimension(40,25));
 		JPanel texts = new JPanel();
 		JPanel xPane = new JPanel();
 		xPane.setLayout(new GridLayout(1,2));
@@ -85,7 +89,13 @@ public class Test extends JFrame{
 		cPane.setLayout(new GridLayout(1,2));
 		cPane.add(new JLabel("color : "));
 		cPane.add(colorTextField);
-		texts.setLayout(new GridLayout(3,3));
+		JPanel parPane = new JPanel();
+		parPane.setLayout(new GridLayout(1,3));
+		parPane.add(new JLabel("SetParameter : "));
+		parPane.add(parNameTextField);
+		parPane.add(parRatioTextField);
+		
+		texts.setLayout(new GridLayout(2,5));
 		texts.add(xPane);
 		texts.add(yPane);
 		texts.add(zPane);
@@ -95,6 +105,7 @@ public class Test extends JFrame{
 		texts.add(tiPane);
 		texts.add(piPane);
 		texts.add(cPane);
+		texts.add(parPane);
 		
 		// buttons
 		JButton draw = new JButton("AddGraph");
@@ -171,14 +182,26 @@ public class Test extends JFrame{
 			}
 		});
 		
+
+		JButton setParameter = new JButton("SetParameter");
+		setParameter.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				String par = parNameTextField.getText();
+				double pr = Double.parseDouble(parRatioTextField.getText());
+				viewer.setParameterRatio(par,pr);
+				repaint();
+			}
+		});
+		
 		JPanel buttons = new JPanel();
-		buttons.setLayout(new GridLayout(2,3));
+		buttons.setLayout(new GridLayout(3,3));
 		buttons.add(draw);
 		buttons.add(addVariable);
 		buttons.add(addParameter);
 		buttons.add(reset);
 		buttons.add(changeMode);
 		buttons.add(viewReset);
+		buttons.add(setParameter);
 		
 		JPanel inputs = new JPanel();
 		

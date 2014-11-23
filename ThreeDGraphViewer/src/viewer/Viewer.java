@@ -31,6 +31,11 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 	private static final double DEFAULT_PARAMETER_INTERVAL = 0.2;
 	private static final Color DEFAULT_COLOR = Color.BLUE;
 	
+	private Vector3D axisX = new Vector3D(1,0,0);
+	private Vector3D axisY = new Vector3D(0,1,0);
+	private Vector3D axisZ = new Vector3D(0,0,1);
+	
+	private int axisStringNum = 5;
 	
 	private double maxX = -Double.MAX_VALUE;
 	private double minX = Double.MAX_VALUE;
@@ -462,6 +467,9 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 			maxY += 1;
 			minY -= 1;
 		}
+		axisX = new Vector3D(1,0,0);
+		axisY = new Vector3D(1,0,0);
+		axisZ = new Vector3D(1,0,0);
 		xUnit = (width/(maxX-minX))*(1-spaceRatio);
 		yUnit = (height/(maxY-minY))*(1-spaceRatio);
 		prevDisplacement = new Vector3D(0,0,0);
@@ -537,6 +545,13 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 		
 		return new Vector3D(x,y,vec.get(2));
 	}
+	
+	private void drawAxisValues(Graphics g)
+	{
+		
+		// TODO: implement
+	}
+	
 	// make rotated points
 	private void rotate()
 	{
@@ -544,6 +559,9 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 		{
 			points.set(i,quaternion.rotate(points.get(i)));
 		}
+		axisX = quaternion.rotate(axisX);
+		axisY = quaternion.rotate(axisY);
+		axisZ = quaternion.rotate(axisZ);
 	}
 	// make single line
 	private void makeSingleLinePlot()
@@ -880,6 +898,7 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 			{
 				drawLines(g);
 			}
+			drawAxisValues(g);
 		}
 	}
 	
@@ -897,7 +916,7 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 			Vector3D diff = new Vector3D(e.getX(),-e.getY(),0);
 			diff = Vector3D.sub(diff,clickPoint);
 			
-			double r = (width*xUnit+height*yUnit)/10.0;
+			double r = (width+height);
 			
 			double z = Math.sqrt(
 						r*r
