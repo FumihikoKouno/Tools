@@ -81,13 +81,13 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 	public void viewInterval(boolean b)
 	{
 		intervalMode = b;
-		resetViewing();
+		updateViewing();
 	}
 	// set Several Mode (if b then draw several lines)
 	public void viewSeveralLines(boolean b)
 	{
 		severalLines = b;
-		resetViewing();
+		updateViewing();
 	}
 	// if Several Mode, return true, else return false
 	public boolean getSeveralMode()
@@ -103,7 +103,7 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 	public void setParameterInterval(int i, double d)
 	{
 		parameterIntervals.set(i,d);
-		resetViewing();
+		updateViewing();
 	}
 	// get Graph index
 	public int getIndex(Node[] n)
@@ -134,7 +134,14 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 		intervals.add(i);
 		parameterIntervals.add(p);
 		colors.add(c);
-		resetViewing();
+		if(nodes.size()==1)
+		{
+			resetViewing();
+		}
+		else
+		{
+			updateViewing();
+		}
 	}
 	// set i th Graph
 	public void setGraph(int index, Node[] n, Node l, Node u, double i, double p, Color c)
@@ -146,7 +153,14 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 		intervals.set(index,i);
 		parameterIntervals.set(index,p);
 		colors.set(index,c);
-		resetViewing();
+		if(nodes.size()==1)
+		{
+			resetViewing();
+		}
+		else
+		{
+			updateViewing();
+		}
 	}
 	// clear data
 	public void clear()
@@ -163,6 +177,7 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 		minX = Double.MAX_VALUE;
 		maxY = -Double.MAX_VALUE;
 		minY = Double.MAX_VALUE;
+		resetViewing();
 	}
 	// add Node
 	public void addNodes(Node[] n)
@@ -173,25 +188,25 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 	public void setNodes(int i, Node[] n)
 	{
 		nodes.set(i, n);
-		update();
+		updateViewing();
 	}
 	// set i th lower time
 	public void setLowerTime(int i, Node t)
 	{
 		lowers.set(i, t);
-		resetViewing();
+		updateViewing();
 	}
 	// set i th upper time
 	public void setUpperTime(int i, Node t)
 	{
 		uppers.set(i, t);
-		resetViewing();
+		updateViewing();
 	}
 	// set i th time interval
 	public void setTimeInterval(int i, double t)
 	{
 		intervals.set(i, t);
-		resetViewing();
+		updateViewing();
 	}
 	// add 2D axes
 	private void addLineAxes() 
@@ -388,9 +403,10 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 	{
 		int n = dps.size();
 		rotatedPoints = new ArrayList<Vector3D>();
-		for(int i = 0; i < points.size(); i++)
+		ArrayList<Vector3D> oneRotatePoint = rotate(points);
+		for(int i = 0; i < oneRotatePoint.size(); i++)
 		{
-			Vector3D vec = toViewerPoint(draggingQuaternion.rotate(points.get(i)));
+			Vector3D vec = toViewerPoint(draggingQuaternion.rotate(oneRotatePoint.get(i)));
 			rotatedPoints.add(vec);
 		}
 		
@@ -438,10 +454,11 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 	// show lines
 	private void drawLines(Graphics g)
 	{
+		ArrayList<Vector3D> oneRotatePoint = rotate(points);
 		for(int i = 0; i < dps.size(); i++)
 		{
-			Vector3D b = toViewerPoint(draggingQuaternion.rotate(points.get(dps.get(i).getPoints().get(0))));
-			Vector3D e = toViewerPoint(draggingQuaternion.rotate(points.get(dps.get(i).getPoints().get(1))));
+			Vector3D b = toViewerPoint(draggingQuaternion.rotate(oneRotatePoint.get(dps.get(i).getPoints().get(0))));
+			Vector3D e = toViewerPoint(draggingQuaternion.rotate(oneRotatePoint.get(dps.get(i).getPoints().get(1))));
 			
 			g.setColor(dps.get(i).getColor());
 			
@@ -450,6 +467,22 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 					(int)(e.get(0)), 
 					(int)(e.get(1)));	
 		}
+	}
+	// update viewing
+	public void updateViewing()
+	{
+		double[] xRange = new double[2];
+		xRange[0] = minX;
+		xRange[1] = maxX;
+		double[] yRange = new double[2];
+		yRange[0] = minY;
+		yRange[1] = maxY;
+		makePlot();
+		minX = xRange[0];
+		maxX = xRange[1];
+		minY = yRange[0];
+		maxY = yRange[1];
+		update();
 	}
 	// reset viewing
 	public void resetViewing()
@@ -487,20 +520,23 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 	
 	private void drawAxisValues(Graphics g)
 	{
-		
 		// TODO: implement
 	}
 	
 	// make rotated points
-	private void rotate()
+	private ArrayList<Vector3D> rotate(ArrayList<Vector3D> ps)
 	{
-		for(int i = 0; i < points.size(); i++)
+		ArrayList<Vector3D> ret = new ArrayList<Vector3D>();
+		for(int i = 0; i < ps.size(); i++)
 		{
-			points.set(i,quaternion.rotate(points.get(i)));
+			ret.add(quaternion.rotate(ps.get(i)));
 		}
+		return ret;
+		/*
 		axisX = quaternion.rotate(axisX);
 		axisY = quaternion.rotate(axisY);
 		axisZ = quaternion.rotate(axisZ);
+		*/
 	}
 	// make single line
 	private void makeSingleLinePlot()
@@ -899,9 +935,8 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 
 		if((e.getModifiers() & MouseEvent.BUTTON1_MASK) != 0)
 		{
-			quaternion = new Quaternion(draggingQuaternion);
+			quaternion = Quaternion.mul(draggingQuaternion,quaternion);
 			draggingQuaternion = new Quaternion(1,new Vector3D(0,0,0));
-			rotate();
 		}
 		else if((e.getModifiers() & MouseEvent.BUTTON3_MASK) != 0)
 		{
