@@ -151,7 +151,6 @@ public class ThreeDGraphViewer extends JPanel{
 	{
 		for(int i = 0; i < parameters.size(); i++)
 		{
-			System.out.println(parameters.get(i));
 			if(par.equals(parameters.get(i)))
 			{
 				parameters.get(i).setParameter(par,r);
