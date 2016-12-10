@@ -922,6 +922,10 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 		{
 			clickPoint = new Vector3D(e.getX(),-e.getY(),0);
 		}
+		else if((e.getModifiers() & MouseEvent.BUTTON2_MASK) != 0)
+		{
+			clickPoint = new Vector3D(e.getX(),-e.getY(),0);	
+		}
 		else if((e.getModifiers() & MouseEvent.BUTTON3_MASK) != 0)
 		{
 			clickDisplacement = new Vector3D(e.getX(),e.getY(),0);
@@ -937,6 +941,14 @@ public class Viewer extends JPanel implements MouseListener, MouseMotionListener
 		{
 			quaternion = Quaternion.mul(draggingQuaternion,quaternion);
 			draggingQuaternion = new Quaternion(1,new Vector3D(0,0,0));
+		}
+		else if((e.getModifiers() & MouseEvent.BUTTON2_MASK) != 0)
+		{
+			Vector3D diff = new Vector3D(e.getX(),-e.getY(),0);
+			diff = Vector3D.sub(diff,clickPoint);
+			System.out.println(xUnit + " : " + yUnit);
+			xUnit += diff.get(0)/50;
+			yUnit += diff.get(1)/50;
 		}
 		else if((e.getModifiers() & MouseEvent.BUTTON3_MASK) != 0)
 		{
