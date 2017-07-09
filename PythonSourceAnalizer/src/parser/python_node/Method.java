@@ -21,5 +21,7 @@ public class Method extends Node {
 				arg_size++;
 			}
 		}
+		// TODO implement
+		return true;
 	}
 }

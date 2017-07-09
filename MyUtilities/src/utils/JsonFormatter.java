@@ -13,7 +13,28 @@ public class JsonFormatter {
 	private LexerStatus lexerStatus;
 	private Object parsedObject;
 	private String INDENT_UNIT = "  ";
-	
+
+	public static void main(String[] args) {
+		String json = 
+				"{\n"+
+				"  \"foo\": [ 1, null ],\n"+
+				"  \"baz\": {\n"+
+				"    \"foo\": [ true, \"bar\" ],\n"+
+				"    \"baz\": \"qux\"\n"+
+				"}";
+		JsonFormatter jsonFormatter = new JsonFormatter(json);
+		Map obj = (Map)jsonFormatter.parse();
+		obj.put("foo", 3);
+		List<Object> list = new ArrayList<Object>();
+		list.add("fumihiko");
+		list.add(6);
+		list.add(14);
+		obj.put("kono", list);
+		JsonFormatter toStr = new JsonFormatter(obj);
+		System.out.println(toStr);
+	}
+
+
 	public JsonFormatter(String[] json){
 		String oneLine = "";
 		for(String line : json){
