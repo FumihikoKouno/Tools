@@ -3,17 +3,52 @@ package utils;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.List;
+import java.util.Properties;
 import java.util.Scanner;
 
 public class Lexer {
 	public enum Token {
-		IDENTIFIER, COLON, SEMI_COLON, CAMMA, DOT, NUMBER, LEFT_PARENTHESES, RIGHT_PARENTHESES, LEFT_BRACKETS, RIGHT_BRACKETS, LEFT_BRACES, RIGHT_BRACES, LEFT_ANGLE_BRACKETS, RIGHT_ANGLE_BRACKETS, SINGLE_QUOTATION, DOUBLE_QUOTATION, LINE_BREAK, SPACE, EQUAL, PLUS, HYPHEN, ASTERISK, AMPERSAND, EXCLAMATION, DOLLAR, CARET, TILDE, VERTICAL_BAR, AT, QUESTION, SLASH, PERCENT, NUMERICAL, TAB, BACK_SLASH, BACK_QUOTATION, UNDERSCORE,
+		/** [a-zA-Z_][a-zA-Z_0-9]* */ IDENTIFIER, 
+		/** : */ COLON, 
+		/** ; */ SEMI_COLON, 
+		/** , */ CAMMA, 
+		/** . */ DOT, 
+		/** [0-9]+ */ NUMBER, 
+		/** ( */ LEFT_PARENTHESES, 
+		/** ) */ RIGHT_PARENTHESES, 
+		/** [ */ LEFT_BRACKETS, 
+		/** ] */ RIGHT_BRACKETS, 
+		/** { */ LEFT_BRACES, 
+		/** } */ RIGHT_BRACES, 
+		/** < */ LEFT_ANGLE_BRACKETS, 
+		/** > */ RIGHT_ANGLE_BRACKETS, 
+		/** ' */ SINGLE_QUOTATION, 
+		/** " */ DOUBLE_QUOTATION, 
+		/** \n */ LINE_BREAK, 
+		/**   */ SPACE, 
+		/** = */ EQUAL, 
+		/** + */ PLUS, 
+		/** - */ HYPHEN, 
+		/** * */ ASTERISK, 
+		/** & */ AMPERSAND, 
+		/** ! */ EXCLAMATION, 
+		/** $ */ DOLLAR, 
+		/** ^ */ CARET, 
+		/** ~ */ TILDE, 
+		/** | */ VERTICAL_BAR, 
+		/** @ */ AT, 
+		/** ? */ QUESTION, 
+		/** / */ SLASH, 
+		/** % */ PERCENT, 
+		/** # */ NUMERICAL, 
+		/** \t */ TAB, 
+		/** \\ */ BACK_SLASH, 
+		/** ` */ BACK_QUOTATION, 
+		/** _ */ UNDERSCORE,
 	}
 
 	private String src;
-	private int index;
-	private Token currentToken;
-	private String currentTokenString;
+	private LexerStatus status = new LexerStatus();
 	private static final char NEW_LINE_CODE = '\n';
 	private static final char TAB_CODE = '\t';
 
@@ -24,8 +59,8 @@ public class Lexer {
 				src += NEW_LINE_CODE;
 				src += scanner.nextLine();
 			}
-			currentToken = null;
-			index = 0;
+			status.currentToken = null;
+			status.index = 0;
 		} catch (FileNotFoundException e) {
 			throw e;
 		}
@@ -40,29 +75,46 @@ public class Lexer {
 			}
 			src += str;
 		}
-		currentToken = null;
-		index = 0;
+		status.currentToken = null;
+		status.index = 0;
 	}
 
+	public LexerStatus getStatus(){
+		LexerStatus ret = new LexerStatus();
+		ret.currentToken = status.currentToken;
+		ret.currentTokenString = status.currentTokenString;
+		ret.index = status.index;
+		return ret;
+	}
+	
+	public void setStatus(LexerStatus status){
+		this.status.currentToken = status.currentToken;
+		this.status.currentTokenString = status.currentTokenString;
+		this.status.index = status.index;
+	}
+	
 	public Lexer(String str) {
 		src = str;
-		currentToken = null;
-		index = 0;
+		status.currentToken = null;
+		status.index = 0;
 	}
 
 	public void next() {
-		currentTokenString = "";
-		currentToken = null;
+		status.currentTokenString = "";
+		status.currentToken = null;
 		getToken();
 	}
-
+	
 	public Token getToken() {
-		if (currentToken != null) {
-			return currentToken;
+		if (status.currentToken != null) {
+			return status.currentToken;
 		}
 		Token token = null;
-		if (((token = identifier()) != null) || ((token = number()) != null) || ((token = symbol()) != null)) {
-			currentToken = token;
+		if (((token = identifier()) != null) || 
+				((token = number()) != null) || 
+				((token = symbol()) != null)) 
+		{
+			status.currentToken = token;
 			return token;
 		}
 		return null;
@@ -70,7 +122,7 @@ public class Lexer {
 
 	public Token symbol() {
 		Token ret = null;
-		currentTokenString = Character.toString(getChar());
+		status.currentTokenString = Character.toString(getChar());
 		switch (getChar()) {
 		case '!':
 			ret = Token.EXCLAMATION;
@@ -188,11 +240,11 @@ public class Lexer {
 	}
 
 	private Token number() {
-		currentTokenString = "";
+		status.currentTokenString = "";
 		boolean dot_appeared = false;
 		if (Character.isDigit(getChar())) {
 			while (Character.isDigit(getChar()) || (getChar() == '.' && !dot_appeared)) {
-				currentTokenString += getChar();
+				status.currentTokenString += getChar();
 				if (hasNext()) {
 					nextChar();
 				} else {
@@ -200,14 +252,14 @@ public class Lexer {
 				}
 			}
 		}
-		return currentTokenString.equals("") ? null : Token.NUMBER;
+		return status.currentTokenString.equals("") ? null : Token.NUMBER;
 	}
 
 	public Token identifier() {
-		currentTokenString = "";
+		status.currentTokenString = "";
 		if (Character.isAlphabetic(getChar()) || getChar() == '_') {
 			while (Character.isAlphabetic(getChar()) || getChar() == '_' || Character.isDigit(getChar())) {
-				currentTokenString += getChar();
+				status.currentTokenString += getChar();
 				if (hasNext()) {
 					nextChar();
 				} else {
@@ -215,26 +267,40 @@ public class Lexer {
 				}
 			}
 		}
-		return currentTokenString.equals("") ? null : Token.IDENTIFIER;
+		return status.currentTokenString.equals("") ? null : Token.IDENTIFIER;
 	}
 
 	public String getTokenString() {
-		return currentTokenString;
+		return status.currentTokenString;
 	}
 
 	private char getChar() {
-		return src.charAt(index);
+		return src.charAt(status.index);
 	}
 
 	public boolean hasNext() {
-		return index < src.length() - 1;
+		return status.index < src.length() - 1;
 	}
 
 	public boolean ended() {
-		return index == src.length() - 1 && currentToken != null;
+		return status.index == src.length() - 1 && status.currentToken != null;
 	}
 
 	private void nextChar() {
-		index++;
+		status.index++;
+	}
+	
+	public int getIndex(){
+		return status.index;
+	}
+	
+	public void setIndex(int index){
+		status.index = index;
+	}
+	
+	public String toString(){
+		String ret = src;
+		ret += ": (" + status.index + ", " + getTokenString() + ")";
+		return ret;
 	}
 }
