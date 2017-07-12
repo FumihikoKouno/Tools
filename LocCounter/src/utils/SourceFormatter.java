@@ -6,9 +6,9 @@ import java.util.Scanner;
 
 public class SourceFormatter {
 	private File sourceFile;
-	private String startComment;
-	private String endComment;
-	private String comment;
+	private String startMultiComment;
+	private String endMultiComment;
+	private String startSingleComment;
 	private String source;
 	
 	/**
@@ -43,8 +43,8 @@ public class SourceFormatter {
 	 * @param end: end characters of multiple comments.
 	 */
 	public void setMultiComment(String start, String end){
-		this.startComment = start;
-		this.endComment = end;
+		this.startMultiComment = start;
+		this.endMultiComment = end;
 	}
 	
 	/**
@@ -52,7 +52,7 @@ public class SourceFormatter {
 	 * @param comment: comment characters.
 	 */
 	public void setSingleComment(String comment){
-		this.comment = comment;
+		this.startSingleComment = comment;
 	}
 	
 	/**
@@ -87,14 +87,44 @@ public class SourceFormatter {
 	 * @param str
 	 */
 	private void strip(String str){
-		// Remove head str
-		while(this.source.contains("\n" + str)){
-			this.source = this.source.replace("\n" + str, "\n");
-		}
+		headStrip(str);
+		tailStrip(str);
+	}
+	
+	/**
+	 * Strip tail of source codes.
+	 * @param str
+	 */
+	private void tailStrip(String str){
 		// Remove tail str
 		while(this.source.contains(str + "\n")){
 			this.source = this.source.replace(str + "\n", "\n");
 		}
+	}
+	
+	/**
+	 * Strip head of source codes.
+	 * @param str
+	 */
+	private void headStrip(String str){
+		// Remove head str
+		while(this.source.contains("\n" + str)){
+			this.source = this.source.replace("\n" + str, "\n");
+		}
+	}
+	
+	/**
+	 * Remove all spaces.
+	 */
+	private void removeAllSpaces(){
+		this.source = this.source.replaceAll(" ", "");
+	}
+	
+	/**
+	 * Remove all tags.
+	 */
+	private void removeAllTags(){
+		this.source = this.source.replaceAll("\t", "");
 	}
 	
 	/**
@@ -113,41 +143,113 @@ public class SourceFormatter {
 	 * Remove single comments.
 	 */
 	private void removeSingleComments(){
-		while(true){ 
-			int startIndex = this.source.indexOf(this.comment);
-			int endIndex = this.source.indexOf("\n", startIndex + this.comment.length());
-			if (startIndex < 0){
-				break;
-			}
-			if (endIndex < 0){
-				this.source = this.source.substring(0, startIndex);
+		String result = "";
+		char stringTag = 0;
+		boolean isEscape = false;
+		for(int index = 0; index < this.source.length(); index++){
+			char current = this.source.charAt(index);
+			if(isEscape){
+				isEscape = false;
 			}else{
-				this.source = this.source.substring(0, startIndex) +
-								this.source.substring(endIndex);
+				if(current == '\\'){
+					isEscape = true;
+				}
+				if(current == '"' || current == '\''){
+					if(stringTag == current){
+						stringTag = 0;
+					}else if(stringTag == 0){
+						stringTag = current;
+					}
+				}
 			}
+			if(stringTag == 0){
+				try{
+					if(this.startSingleComment.equals(
+							this.source.substring(
+									index,
+									index + this.startSingleComment.length()
+							)
+						)
+					){
+						if(this.source.indexOf("\n", index) > 0){
+							index = this.source.indexOf("\n", index) - 1;
+							continue;
+						}else{
+							index = this.source.length();
+							break;
+						}
+					}
+				}catch(StringIndexOutOfBoundsException e){
+					result = result + this.source.substring(index);
+					index = this.source.length();
+					break;
+				}
+			}
+			result = result + current;
 		}
+		this.source = result;
 	}
 
 	/**
 	 * Remove multiple comments.
 	 */
 	private void removeMultiComments(){
-		while(true){ 
-			int startIndex = this.source.indexOf(this.startComment);
-			int endIndex = this.source.indexOf(this.endComment, 
-												startIndex + this.startComment.length());
-			if (startIndex < 0 || endIndex < 0){
-				break;
-			}
-			if(this.source.substring(startIndex, endIndex).contains("\n")){
-				this.source = this.source.substring(0, startIndex) +
-								"\n" +
-								this.source.substring(endIndex + this.endComment.length());
+		String result = "";
+		char stringTag = 0;
+		boolean isEscape = false;
+		boolean inComment = false;
+		for(int index = 0; index < this.source.length(); index++){
+			char current = this.source.charAt(index);
+			if(isEscape){
+				isEscape = false;
 			}else{
-				this.source = this.source.substring(0, startIndex) +
-								this.source.substring(endIndex + this.endComment.length());
+				if(!inComment){
+					if(current == '\\'){
+						isEscape = true;
+					}
+					if(current == '"' || current == '\''){
+						if(stringTag == current){
+							stringTag = 0;
+						}else if(stringTag == 0){
+							stringTag = current;
+						}
+					}
+				}
+			}
+			if(stringTag == 0){
+				try{
+					if(this.startMultiComment.equals(
+								this.source.substring(
+										index, 
+										index + this.startMultiComment.length()
+								)
+						) && !inComment
+					){
+						inComment = true;
+						index = index + this.startMultiComment.length() - 1;
+						continue;
+					}else if(this.endMultiComment.equals(
+								this.source.substring(
+										index, 
+										index + this.endMultiComment.length()
+								)
+						) && inComment
+					){
+						inComment = false;
+						index = index + this.endMultiComment.length() - 1;
+						continue;
+					}
+				}catch(StringIndexOutOfBoundsException e){
+					result = result + this.source.substring(index);
+					index = this.source.length();
+					break;
+				}
+			}
+			if((!inComment) || (current == '\n')){
+				result = result + current;
 			}
 		}
+		this.source = result;
 	}
 
 	/**
