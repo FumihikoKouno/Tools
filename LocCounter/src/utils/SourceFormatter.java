@@ -83,10 +83,17 @@ public class SourceFormatter {
 	}
 	
 	/**
+	 * Replace all tabs to spaces.
+	 */
+	public void tabToSpace(){
+		this.source = this.source.replace("\t", " ");
+	}
+	
+	/**
 	 * Strip source codes.
 	 * @param str
 	 */
-	private void strip(String str){
+	public void strip(String str){
 		headStrip(str);
 		tailStrip(str);
 	}
@@ -95,7 +102,7 @@ public class SourceFormatter {
 	 * Strip tail of source codes.
 	 * @param str
 	 */
-	private void tailStrip(String str){
+	public void tailStrip(String str){
 		// Remove tail str
 		while(this.source.contains(str + "\n")){
 			this.source = this.source.replace(str + "\n", "\n");
@@ -106,7 +113,7 @@ public class SourceFormatter {
 	 * Strip head of source codes.
 	 * @param str
 	 */
-	private void headStrip(String str){
+	public void headStrip(String str){
 		// Remove head str
 		while(this.source.contains("\n" + str)){
 			this.source = this.source.replace("\n" + str, "\n");
@@ -116,21 +123,21 @@ public class SourceFormatter {
 	/**
 	 * Remove all spaces.
 	 */
-	private void removeAllSpaces(){
+	public void removeAllSpaces(){
 		this.source = this.source.replaceAll(" ", "");
 	}
 	
 	/**
 	 * Remove all tags.
 	 */
-	private void removeAllTags(){
+	public void removeAllTags(){
 		this.source = this.source.replaceAll("\t", "");
 	}
 	
 	/**
 	 * Remove blank lines.
 	 */
-	private void removeAllBlankLines(){
+	public void removeAllBlankLines(){
 		while(this.source.contains("\n\n")){
 			this.source = this.source.replace("\n\n", "\n");
 		}
@@ -142,7 +149,7 @@ public class SourceFormatter {
 	/**
 	 * Remove single comments.
 	 */
-	private void removeSingleComments(){
+	public void removeSingleComments(){
 		String result = "";
 		char stringTag = 0;
 		boolean isEscape = false;
@@ -193,7 +200,7 @@ public class SourceFormatter {
 	/**
 	 * Remove multiple comments.
 	 */
-	private void removeMultiComments(){
+	public void removeMultiComments(){
 		String result = "";
 		char stringTag = 0;
 		boolean isEscape = false;
