@@ -2,6 +2,7 @@ package core;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.util.Map;
 import java.util.Scanner;
 
 import org.eclipse.core.runtime.NullProgressMonitor;
@@ -9,7 +10,9 @@ import org.eclipse.jdt.core.dom.AST;
 import org.eclipse.jdt.core.dom.ASTNode;
 import org.eclipse.jdt.core.dom.ASTParser;
 import org.eclipse.jdt.core.dom.CompilationUnit;
+import org.eclipse.jdt.core.dom.IfStatement;
 
+import util.C1Creator;
 import util.Common;
 import util.MultipleLinkedList;
 import util.OperationRouteVisitor;
@@ -32,6 +35,18 @@ public class Backend {
 				sourceCode = sourceCode + scanner.nextLine() + "\n";
 			}
 		}catch(FileNotFoundException e){
+			if(true){
+				System.out.println();
+				if(false){
+					System.out.println();
+				}else{
+					System.out.println();
+				}
+			}else{
+				if(false){
+					System.out.println();
+				}
+			}
 			print("File not found.");
 			return;
 		}
@@ -41,19 +56,24 @@ public class Backend {
 		CompilationUnit unit = (CompilationUnit) parser.createAST(new NullProgressMonitor());
 		unit.accept(new OperationRouteVisitor());
 		
+		C1Creator creator = new C1Creator(unit, sourceCode.split("\n"));
+		creator.createTestCaseForMethod();
+		
 		allPrint(unit, Common.javaDeps, 0);
 	}
 	
-	public static void allPrint(CompilationUnit unit, MultipleLinkedList<ASTNode> node, int indent){
+	public static void allPrint(CompilationUnit unit, MultipleLinkedList<Map<ASTNode, String>> node, int indent){
 		String indentString = "";
 		for(int index = 0; index < indent; index++){
 			indentString = indentString + " ";
 		}
 		System.out.print(indentString);
-		System.out.print(unit.getLineNumber(node.getContent().getStartPosition()));
-		System.out.println(" : " + node.getContent().getNodeType());
-		for(MultipleLinkedList<ASTNode> child : node.getChildren()){
-			allPrint(unit, child, indent+2);
+		for(ASTNode astNode : node.getContent().keySet()){
+			System.out.print(unit.getLineNumber(astNode.getStartPosition()));
+			System.out.println(" : " + node.getContent().get(astNode));
+			for(MultipleLinkedList<Map<ASTNode, String>> child : node.getChildren()){
+				allPrint(unit, child, indent+2);
+			}
 		}
 	}
 	
