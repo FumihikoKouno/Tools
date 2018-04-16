@@ -27,11 +27,9 @@ public class C1Creator {
 		this.source = source;
 	}
 	
-	public List<List<Map<Integer, String>>> createTestCase(MultipleLinkedList<Map<ASTNode, String>> nodeList){
-		for(ASTNode node : nodeList.getContent().keySet()){
-			System.out.println(nodeList.getContent().get(node));
-		}
-		List<List<Map<Integer, String>>> result = new ArrayList<List<Map<Integer, String>>>();
+	public List<TestCase> createTestCase(OperationNode node){
+		List<TestCase> result = new ArrayList<TestCase>();
+		abcdefg
 		List<List<List<Map<Integer, String>>>> childCases = new ArrayList<List<List<Map<Integer, String>>>>();
 		List<List<Map<Integer, String>>> childCase = null;
 		
@@ -113,9 +111,9 @@ public class C1Creator {
 	}
 	
 	public void createTestCaseForMethod(){
-		for(MultipleLinkedList<Map<ASTNode, String>> method : Common.javaDeps.getChildren()){
+		for(OperationNode node : Common.javaDeps.getChildren()){
 			//System.out.println(getLineNumber(method) + " : " + createTestCase(method));
-			createTestCase(method);
+			createTestCase(node);
 		}
 	}
 	

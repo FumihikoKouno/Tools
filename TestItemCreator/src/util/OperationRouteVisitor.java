@@ -13,9 +13,12 @@ import org.eclipse.jdt.core.dom.EnhancedForStatement;
 import org.eclipse.jdt.core.dom.ForStatement;
 import org.eclipse.jdt.core.dom.IfStatement;
 import org.eclipse.jdt.core.dom.MethodDeclaration;
+import org.eclipse.jdt.core.dom.Statement;
 import org.eclipse.jdt.core.dom.SwitchCase;
 import org.eclipse.jdt.core.dom.TryStatement;
 import org.eclipse.jdt.core.dom.WhileStatement;
+
+import util.OperationNode.OperationType;
 
 public class OperationRouteVisitor extends ASTVisitor{
 	
@@ -65,85 +68,63 @@ public class OperationRouteVisitor extends ASTVisitor{
 	private void setDepsMap(ASTNode node){
 		operationId = operationId + 1;
 		if (Common.javaDeps == null){
-			Map<ASTNode, String> rootNode = new HashMap<ASTNode, String>();
-			rootNode.put(node.getRoot(), "Root");
-			Common.javaDeps = new MultipleLinkedList<Map<ASTNode, String>>(rootNode);
+			Common.javaDeps = new OperationNode(0, node.getRoot(), OperationType.ROOT);
 		}
 		if(Common.checkedNode == null){
 			Common.checkedNode = new ArrayList<ASTNode>();
 			Common.checkedNode.add(node.getRoot());
 		}
 		
-		List<Map<ASTNode, String>> addList = new ArrayList<Map<ASTNode, String>>();
-		Map<ASTNode, String> addMap = null;
+		List<OperationNode> addList = new ArrayList<OperationNode>();
 		if(node instanceof MethodDeclaration){
 			Common.checkedNode.add(node);
-			addMap = new HashMap<ASTNode, String>();
-			addMap.put(node, "Method");
-			addList.add(addMap);
+			addList.add(new OperationNode(0, node, OperationType.METHOD));
 		}
 		if(node instanceof DoStatement ||
 				node instanceof EnhancedForStatement ||
 				node instanceof WhileStatement ||
 				node instanceof ForStatement){
 			Common.checkedNode.add(node);
-			addMap = new HashMap<ASTNode, String>();
-			addMap.put(node, "LoopFirst_" + operationId);
-			addList.add(addMap);
-			addMap = new HashMap<ASTNode, String>();
-			addMap.put(node, "LoopMid_" + operationId);
-			addList.add(addMap);
-			addMap = new HashMap<ASTNode, String>();
-			addMap.put(node, "LoopFinal_" + operationId);
-			addList.add(addMap);
-			addMap = new HashMap<ASTNode, String>();
-			addMap.put(node, "LoopOut_" + operationId);
-			addList.add(addMap);
+			addList.add(new OperationNode(operationId, node, OperationType.LOOP_FIRST));
+			addList.add(new OperationNode(operationId, node, OperationType.LOOP_MID));
+			addList.add(new OperationNode(operationId, node, OperationType.LOOP_FINAL));
+			addList.add(new OperationNode(operationId, node, OperationType.LOOP_NOT));
 		}
 		if(node instanceof IfStatement){
 			IfStatement ifNode = (IfStatement)node;
-			addMap = new HashMap<ASTNode, String>();
-			addMap.put(ifNode.getThenStatement(), "IfThen_" + operationId); 
-			addList.add(addMap);
-			Common.checkedNode.add(ifNode.getThenStatement());
-			if(ifNode.getElseStatement() != null){
-				addMap = new HashMap<ASTNode, String>();
-				addMap.put(ifNode.getElseStatement(), "IfElse_" + operationId);
-				addList.add(addMap);
-				Common.checkedNode.add(ifNode.getElseStatement());
+			Statement thenNode = ifNode.getThenStatement();
+			Statement elseNode = ifNode.getElseStatement();
+			addList.add(new OperationNode(operationId, thenNode, OperationType.IF_THEN));
+			Common.checkedNode.add(thenNode);
+			if(elseNode != null){
+				addList.add(new OperationNode(operationId, elseNode, OperationType.IF_ELSE));
+				Common.checkedNode.add(elseNode);
 			}else{
-				addMap = new HashMap<ASTNode, String>();
-				addMap.put(ifNode.getThenStatement(), "IfNotIn_" + operationId);
-				addList.add(addMap);
-				
+				addList.add(new OperationNode(operationId, thenNode, OperationType.IF_NOT));
 			}
 		}
 		if(node instanceof SwitchCase){
-			addMap = new HashMap<ASTNode, String>();
 			Common.checkedNode.add(node);
-			addMap.put(node, "Case_" + operationId);
-			addList.add(addMap);
+			addList.add(new OperationNode(operationId, node, OperationType.CASE));
 		}
 		if(node instanceof TryStatement){
 			TryStatement tryNode = (TryStatement)node;
-			addMap = new HashMap<ASTNode, String>();
-			addMap.put(node, "Try_" + operationId);
-			addList.add(addMap);
-			Common.checkedNode.add(node);
+			Statement bodyNode = tryNode.getBody();
+			Statement finallyNode = tryNode.getFinally();
+			addList.add(new OperationNode(operationId, bodyNode, OperationType.TRY));
+			Common.checkedNode.add(bodyNode);
 			for(Object objectNode : tryNode.catchClauses()){
 				CatchClause catchNode = (CatchClause)objectNode;
 				Common.checkedNode.add(catchNode);
-				addMap = new HashMap<ASTNode, String>();
-				addMap.put(catchNode, "Catch_" + operationId);
-				addList.add(addMap);
+				addList.add(new OperationNode(operationId, catchNode, OperationType.CATCH));
 			}
 		}
 		
 		ASTNode parent = node.getParent();
 		while(parent != null){
 			if(Common.checkedNode.contains(parent)){
-				for(MultipleLinkedList<Map<ASTNode, String>> parentNode : ASTNodeUtilities.getChildrenByMapKey(Common.javaDeps, parent)){
-					for(Map<ASTNode, String> childNode : addList){
+				for(OperationNode parentNode : ASTNodeUtilities.getChildrenByMapKey(Common.javaDeps, parent)){
+					for(OperationNode childNode : addList){
 						parentNode.addChild(childNode);
 					}
 				}

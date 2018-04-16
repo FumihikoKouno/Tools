@@ -10,12 +10,12 @@ import org.eclipse.jdt.core.dom.TryStatement;
 
 public class ASTNodeUtilities {
 	
-	public static List<MultipleLinkedList<Map<ASTNode, String>>> getChildrenByMapKey(MultipleLinkedList<Map<ASTNode, String>> node, ASTNode key){
-		List<MultipleLinkedList<Map<ASTNode, String>>> result = new ArrayList<MultipleLinkedList<Map<ASTNode, String>>>();
-		for(MultipleLinkedList<Map<ASTNode, String>> childNode : node.getChildren()){
+	public static List<OperationNode> getChildrenByMapKey(OperationNode node, ASTNode key){
+		List<OperationNode> result = new ArrayList<OperationNode>();
+		for(OperationNode childNode : node.getChildren()){
 			result.addAll(getChildrenByMapKey(childNode, key));
 		}
-		if(node.getContent().containsKey(key)){
+		if(node.getNode().equals(key)){
 			result.add(node);
 		}
 		return result;
