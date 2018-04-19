@@ -2,8 +2,6 @@ package util;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
-
 import org.eclipse.jdt.core.dom.ASTNode;
 
 public class OperationNode{

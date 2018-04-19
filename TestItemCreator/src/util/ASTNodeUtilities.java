@@ -2,8 +2,6 @@ package util;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
-
 import org.eclipse.jdt.core.dom.ASTNode;
 import org.eclipse.jdt.core.dom.IfStatement;
 import org.eclipse.jdt.core.dom.TryStatement;
@@ -40,6 +38,7 @@ public class ASTNodeUtilities {
 	
 	public static boolean isCatchStatement(TryStatement tryParent, ASTNode node){
 		ASTNode parent = node.getParent();
+		@SuppressWarnings("unchecked")
 		List<ASTNode> catchStatements = tryParent.catchClauses();
 		try{
 			while(!catchStatements.contains(parent) && tryParent.equals(parent)){

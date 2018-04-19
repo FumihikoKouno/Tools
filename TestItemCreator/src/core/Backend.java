@@ -51,15 +51,10 @@ public class Backend {
 			return;
 		}
 		
-		ASTParser parser = ASTParser.newParser(AST.JLS8);
-		parser.setSource(sourceCode.toCharArray());
-		CompilationUnit unit = (CompilationUnit) parser.createAST(new NullProgressMonitor());
-		unit.accept(new OperationRouteVisitor());
-		
-		C1Creator creator = new C1Creator(unit, sourceCode.split("\n"));
-		creator.createTestCaseForMethod();
-		
-		allPrint(unit, Common.javaDeps, 0);
+		C1Creator creator = new C1Creator(args[0]);
+		creator.create();
+		System.out.println(creator);
+		//allPrint(unit, Common.javaDeps, 0);
 	}
 	
 	public static void allPrint(CompilationUnit unit, MultipleLinkedList<Map<ASTNode, String>> node, int indent){

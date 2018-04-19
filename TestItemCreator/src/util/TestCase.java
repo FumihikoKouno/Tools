@@ -25,7 +25,7 @@ public class TestCase {
 			TEST_STRING.put(OperationType.TRY, "try");
 			TEST_STRING.put(OperationType.CATCH, "catch");
 			TEST_STRING.put(OperationType.CASE, "case");
-			TEST_STRING.put(OperationType.METHOD, "method");
+			TEST_STRING.put(OperationType.METHOD, "execute method");
 			TEST_STRING.put(OperationType.ROOT, "root");
 		}
 		
@@ -42,6 +42,10 @@ public class TestCase {
 			return this.type;
 		}
 		
+		public String toString(){
+			return getLineNumber() + " : " + TEST_STRING.get(getType());
+		}
+		
 	}
 	
 	private List<LineCondition> conditions = new ArrayList<LineCondition>();
@@ -50,8 +54,20 @@ public class TestCase {
 		add(lineNumber, type);
 	}
 	
+	public TestCase(TestCase testCase){
+		addAll(testCase);
+	}
+	
 	public boolean add(int lineNumber, OperationType type){
 		return conditions.add(new LineCondition(lineNumber, type));
+	}
+
+	public boolean addAll(TestCase testCase){
+		boolean result = true;
+		for(LineCondition condition : testCase.conditions){
+			result = result && add(condition.getLineNumber(), condition.getType());
+		}
+		return result;
 	}
 	
 	public void sort(){
@@ -70,6 +86,20 @@ public class TestCase {
 				sortedConditions.add(condition);
 			}
 		}
+		this.conditions = sortedConditions;
+	}
+	
+	public String toString(){
+		String result = "";
+		if(conditions.size() == 1){
+			return conditions.get(0).toString();
+		}
+		for(LineCondition condition : conditions){
+			if(condition.getType() != OperationType.METHOD){
+				result = result + condition.toString() + "\t";
+			}
+		}
+		return result;
 	}
 	
 }
