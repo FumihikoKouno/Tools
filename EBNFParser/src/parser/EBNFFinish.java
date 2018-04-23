@@ -1,4 +1,4 @@
-package paresr;
+package parser;
 
 public class EBNFFinish extends EBNFNode {
 	private String content;

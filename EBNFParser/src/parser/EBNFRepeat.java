@@ -1,4 +1,4 @@
-package paresr;
+package parser;
 
 public class EBNFRepeat extends EBNFNode {
 	private EBNFNode content;

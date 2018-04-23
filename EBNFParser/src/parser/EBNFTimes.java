@@ -1,4 +1,4 @@
-package paresr;
+package parser;
 
 public class EBNFTimes extends EBNFNode {
 	private int count;

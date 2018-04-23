@@ -1,4 +1,4 @@
-package paresr;
+package parser;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -10,44 +10,12 @@ import java.util.Scanner;
 public class EBNFParser {
 	private String bnfDefinitionString;
 	
-	private static String defStr = "(* see; 7.2 *) letter\n" +
-							"= 'a' | 'b' | 'c' | 'd' | 'e' | 'f' | 'g' | 'h'\n" +
-							"| 'i' | 'j' | 'k' | 'l' | 'm' | 'n' | 'o' | 'p'\n" +
-							"| 'q' | 'r' | 's' | 't' | 'u' | 'v' | 'w' | 'x'\n" +
-							"| 'y' | 'z'\n" +
-							"| 'A' | 'B' | 'C' | 'D' | 'E' | 'F' | 'G' | 'H'\n" +
-							"| 'I' | 'J' | 'K' | 'L' | 'M' | 'N' | 'O' | 'P'\n" +
-							"| 'Q' | 'R' | 'S' | 'T' | 'U' | 'V' | 'W' | 'X'\n" +
-							"| 'Y' | 'Z';\n" +
-							"(* see 7.2 *) decimal digit\n" +
-							"= '0' | '1' | '2' | '3' | '4' | '5' | '6' | '7'\n" +
-							"| '8' | '9';\n" +
-							"(*\n" +
-							"The representation of the following\n" +
-							"terminal-characters is defined in clauses 7.3,\n" +
-							"7.4 and tables 1, 2.\n" +
-							"*)\n" +
-							"concatenate symbol = ',';\n" +
-							"defining symbol = '=';\n" +
-							"definition separator symbol = '|' | '/' | '!';\n" +
-							"end comment symbol = '*)';\n" +
-							"end group symbol = ')';\n" +
-							"end option symbol = ']' | '/)';\n" +
-							"end repeat symbol = '}' | ':)', abc;\n" +
-							"except symbol = '-';\n" +
-							"first quote symbol = \"'\";\n" +
-							"repetition symbol = '*';\n" +
-							"second quote symbol = '\"';\n" +
-							"special sequence symbol = '?';\n" +
-							"start comment symbol = '(*';\n" +
-							"start group symbol = '(';\n" +
-							"start option symbol = '|||[' | '(/';\n" +
-							"start repeat symbol = '{' | '(:';\n" +
-							"terminator symbol = ';' | '.';\n" +
-							"(* see 7.5 *) other character\n" +
-							"= ' ' | 3121 * ':' | '+' | '_' | '%' | '@'\n" +
-							"| '&' | '#' | '$' | '<' | '>' | '\\' | ';';\n" +
-							"(* see 7.6 *) space character = ' ';";
+	private static String defStr = 
+			"digits = \"0\"|\"1\"|\"2\"|\"3\"|\"4\"|\"5\"|\"6\"|\"7\"|\"8\"|\"9\";" +
+			"number = digits, {digits};" + 
+			"exp    = exp2, { \"+\", exp2 };" +
+			"exp2   = exp3, { \"*\", exp3 };" +
+			"exp3   = number | \"(\", exp, \")\";";
 	
 	public EBNFParser(List<String> bnfDefinitions){
 		this(bnfDefinitions.toArray(new String[]{}));
@@ -76,8 +44,15 @@ public class EBNFParser {
 		
 		this.bnfDefinitionString = removeComments(this.bnfDefinitionString);
 		List<EBNFNode> nodes = parse();
-		for(EBNFNode node : nodes){
-			node.accept(new EBNFTreePrinter());
+//		for(EBNFNode node : nodes){
+//			node.accept(new EBNFTreePrinter());
+//		}
+		EBNFContentParser parser = new EBNFContentParser("1+23*4*5+6", nodes);
+		try{
+			Node node = parser.parse("exp");
+			System.out.println(node);
+		}catch(ParseException e){
+			e.printStackTrace();
 		}
 	}
 	
@@ -127,14 +102,34 @@ public class EBNFParser {
 			if(lastCharacter != ']'){
 				throw new ParseException("]", nodeString.length());
 			}
-			return new EBNFOption(createEBNFNode(content));
+			List<String> optionContents = splitDefinitions(content, "|");
+			List<List<EBNFNode>> orNodeContents = new ArrayList<List<EBNFNode>>();
+			for(String optionContent : optionContents){
+				List<String> optionElements = splitDefinitions(optionContent, ",");
+				List<EBNFNode> elementNodes = new ArrayList<EBNFNode>();
+				for(String optionElement : optionElements){
+					elementNodes.add(createEBNFNode(optionElement));
+				}
+				orNodeContents.add(elementNodes);
+			}
+			return new EBNFOption(new EBNFOr(orNodeContents));
 		}
 		
 		if(firstCharacter == '{'){
 			if(lastCharacter != '}'){
-				throw new ParseException("]", nodeString.length());
+				throw new ParseException("}", nodeString.length());
 			}
-			return new EBNFRepeat(createEBNFNode(content));
+			List<String> optionContents = splitDefinitions(content, "|");
+			List<List<EBNFNode>> orNodeContents = new ArrayList<List<EBNFNode>>();
+			for(String optionContent : optionContents){
+				List<String> optionElements = splitDefinitions(optionContent, ",");
+				List<EBNFNode> elementNodes = new ArrayList<EBNFNode>();
+				for(String optionElement : optionElements){
+					elementNodes.add(createEBNFNode(optionElement));
+				}
+				orNodeContents.add(elementNodes);
+			}
+			return new EBNFRepeat(new EBNFOr(orNodeContents));
 		}
 
 		if('0' <= firstCharacter && firstCharacter <= '9'){
@@ -197,6 +192,44 @@ public class EBNFParser {
 			// Skip symbol
 			if(character.equals("\"") || character.equals("'")){
 				index = bnfString.substring(index + 1).indexOf(character) + index + 1;
+				continue;
+			}
+
+			// Skip option 
+			if(character.equals("[")){
+				int count = 0;
+				for(int contentIndex = index + 1; contentIndex < bnfString.length(); contentIndex++){
+					if(bnfString.charAt(contentIndex) == '['){
+						count++;
+					}
+					if(bnfString.charAt(contentIndex) == ']'){
+						if(count == 0){
+							index = contentIndex;
+							break;
+						}else{
+							count--;
+						}
+					}
+				}
+				continue;
+			}
+
+			// Skip repeat
+			if(character.equals("{")){
+				int count = 0;
+				for(int contentIndex = index + 1; contentIndex < bnfString.length(); contentIndex++){
+					if(bnfString.charAt(contentIndex) == '{'){
+						count++;
+					}
+					if(bnfString.charAt(contentIndex) == '}'){
+						if(count == 0){
+							index = contentIndex;
+							break;
+						}else{
+							count--;
+						}
+					}
+				}
 				continue;
 			}
 

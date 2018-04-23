@@ -1,4 +1,4 @@
-package paresr;
+package parser;
 
 public class EBNFDefinitionCall extends EBNFNode{
 	private String name;

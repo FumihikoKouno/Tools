@@ -1,4 +1,4 @@
-package paresr;
+package parser;
 
 
 public class EBNFDefinition extends EBNFNode{
@@ -20,4 +20,5 @@ public class EBNFDefinition extends EBNFNode{
 	public EBNFOr getContents(){
 		return definitions;
 	}
+	
 }

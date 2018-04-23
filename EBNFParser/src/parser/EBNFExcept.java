@@ -1,4 +1,4 @@
-package paresr;
+package parser;
 
 public class EBNFExcept extends EBNFNode {
 	private EBNFNode left;
