@@ -1,0 +1,108 @@
+
+
+
+
+
+FEZ (インディーゲーム)
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+FEZ
+ジャンル
+アクションパズル対応機種
+Xbox 360 / Windows / OS X / Linux / PlayStation 3 / PlayStation Vita / PlayStation 4 / Nintendo Switch開発元
+Polytron Corporation発売元
+Polytron Corporation人数
+1人メディア
+ダウンロードUSBメモリ（限定版）発売日
+Xbox 360 2012年4月13日[1]Windows 2013年5月1日[1] 2015年12月18日（限定版）Mac，Linux 2013年9月11日[1]PS3，PS4，PS Vita 2014年3月26日[1] 2014年8月20日[1]Switch 2021年4月14日[2]対象年齢
+CERO：A（全年齢対象）ESRB：E（6歳以上）PEGI：3USK：0テンプレートを表示
+『FEZ』はカナダのPolytron Corporationが開発したアクションパズルゲーム。2012年4月にXbox 360用にリリースされ、その後Windows、OS X、Linux、PlayStation 4、PlayStation 3、PlayStation Vita、Nintendo Switch版がリリースされた[1][2]。
+2015年12月には、ゲームデータとサウンドトラックデータを収録したWindows用パッケージ版が500セット限定でリリースされた[3]。
+
+目次
+
+1 概要
+2 ストーリー
+3 評価
+4 続編
+5 脚注
+6 注釈
+7 外部リンク
+
+
+概要[編集]
+クラシカルなドット絵で構成された2Dのアクションゲームに3Dの概念を組み合わせた仕掛けを特色としている。2Dの世界の視点をプレイヤーが三次元的に回転させ切り替えることで、隠れた道や扉を発見することができる。
+フィールドに散らばったキューブの欠片を集めることがゲームの目的であり、それらを入手すると対応した特定の扉を開く事が可能となり物語が進行する。
+本作の製作を手掛けたPolytron CorporationはゲームデザイナーPhil Fish（英語版）とプログラマーRenaud Bedardにより設立されたインディー開発チームである[4]。さらにFEZ開発チームには作曲家のRich Vreeland、サウンドデザイナーのBrandon McCartinが迎えられ、2012年には後述するインディーゲームにおける作品賞を受賞するに至った。インディーゲーム製作者たちの奮闘を取材した2012年公開のドキュメンタリー映画『Indie Game: The Movie（英語版）』では、本作の製作4年目のPolytron Corporationの姿が採りあげられている[5]。
+
+ストーリー[編集]
+二次元世界の住人であるゴメズはある日、光り輝く大きな金色のキューブに出会う。キューブを見て三次元世界の存在を知ったゴメズは世界に干渉する能力を得るが、同時にその金色のキューブは砕け、欠片が世界中に散ってしまう。キューブが砕けたことによって崩壊が始まった世界を救うため、ゴメズはキューブの欠片を集めていく。
+
+評価[編集]
+2012年のIndependent Games Festivalで本作はSeumas McNally Grand Prize（大賞）を受賞[6]。
+ゲームメディアでは、Eurogamerが10/10、Joytiqが5.0/5.0、IGNが9.5/10、Game Informerが9.25/10という満点あるいは満点に近い評価を行った[7]。また、Eurogamerは本作を2012年のGame of the Yearに選出した[8]。
+2013年4月、Phil Fishは本作のXbox 360版の販売数が20万本に達したことを発表した[9]。
+2013年12月、Polytron Corporationは本作の販売数が100万本を突破したことを発表した[10]。
+
+続編[編集]
+2013年6月13日、Polytron CorporationはE3で『FEZ 2』の製作を発表した[11]。しかしゲームジャーナリストのMarcus BeerがGame TrailersのWebトークショー「Invisible Walls」においてPhil Fishを非難したのが発端となり、2013年7月27日、『FEZ 2』の製作中止が発表されるとともに、Phil Fishはコンピュータゲーム業界からの引退を表明した[4][注釈 1]。
+2014年8月にPhil FishはTwitterでコンピュータゲーム業界への復帰と『FEZ 2』の開発再開を示唆したものの撤回した[12]。原因は、インディーゲーム『Depression Quest』の開発者Zoe Quinnがゲームメディア関係者に枕営業を行ったと告発された事件について、TwitterでFishが彼女を擁護しゲーマーコミュニティによる彼女への個人攻撃を非難したところ舌戦に発展したことにある（ゲーマーゲート論争）。ゲーマーコミュニティから報復として「PolytronとPhil Fishの公開処刑」と名付けられたクラックを受け、Fishの個人情報とPolytronの会計情報の曝露、ウェブサイト・Twitterアカウントの乗っ取りなどの被害に遭ったFishはゲーマーコミュニティを「テロリスト」と呼び非難するとともに、コンピュータゲーム開発を無価値と断じた[5]。そしてFishはPolytronとFEZのIP（知的財産）を売却すると述べたのち、Twitterアカウントを削除した[13]。
+
+脚注[編集]
+
+^ a b c d e f “Polytron Corp. Company Information”. GameFAQs.   CBS Interactive Inc.. 2014年8月28日閲覧。
+
+^ a b “Fez is back with a Nintendo Switch version out today” (英語).   Destructoid (2021年4月14日). 2021年4月15日閲覧。
+
+^ http://www.ign.com/articles/2015/11/26/indie-darling-fez-gets-a-100-limited-edition
+
+^ a b 奥谷海人 (2013年8月5日). “Access Accepted第392回：ゲーム業界の異端児が，早過ぎる引退表明”. 4Gamer.net.   Aetas,Inc. 2014年8月28日閲覧。
+
+^ a b “［追記］Phil Fish騒動にみるインディー開発者とコミュニティの衝突”. AUTOMATON.   Active Gaming Media (2014年8月25日). 2014年11月4日閲覧。
+
+^ “Here are your winners of the 2012 Independent Games Festival”. Polygon (VOX MEDIA INC.). (2012年3月7日). http://www.polygon.com/gaming/2012/3/7/2853545/here-are-your-winners-of-the-2012-independent-games-festival 2014年8月28日閲覧。 
+
+^ “Fez 海外レビュー”. Choke Point. (2012年4月14日). http://www.choke-point.com/?p=11253 2014年8月28日閲覧。 
+
+^ Tom Bramwell (2012年12月30日). “Eurogamer's Game of the Year 2012”. Eurogamer.net. http://www.eurogamer.net/articles/2012-12-30-eurogamers-game-of-the-year-2012 2014年8月28日閲覧。 
+
+^ “2Dアクション『Fez』のXbox LIVE アーケード版セールスが1年間で20万本に到達”. INSIDE (IID, Inc.). (2013年4月15日). http://www.inside-games.jp/article/2013/04/15/65595.html 2014年8月28日閲覧。 
+
+^ “Polytronの人気パズルプラットフォーマー「Fez」の販売が100万本を突破＋Phil Fish氏の近況”. doope! (image and method). (2013年12月10日). http://doope.jp/2013/1231134.html 2014年8月28日閲覧。 
+
+^ Christian Donlan (2014年6月13日). “Polytron announces Fez 2”. Eurogamer.net. http://www.eurogamer.net/articles/2013-06-13-polytron-announces-fez-2 2014年8月28日閲覧。 
+
+^ “続報：Phil Fish氏が「FEZ II」の始動を早くも撤回、二度と復活することはないと強調”. doope! (image and method). (2014年8月18日). http://doope.jp/2014/0836213.html 2014年8月28日閲覧。 
+
+^ “続報：Phil Fish氏が遂にPolytron Partnersと「FEZ」IPの売却を明言、公式サイトはクラックされTwitterアカウントは削除”.   doope! (2014年8月22日). 2014年11月4日閲覧。
+
+
+注釈[編集]
+
+
+^ その後撤回されゲーム開発チーム「Kokoromi」に加入し、2016年にPolytron開発によりSuperHyperCubeをリリースしている。
+
+
+外部リンク[編集]
+公式サイト
+
+
+この項目は、コンピュータゲームに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（P:コンピュータゲーム / PJコンピュータゲーム）。
+
+典拠管理 
+BNF: cb177815358 (データ)
+MBRG: 7a97a60d-1f30-45a5-807b-9d16375cac4d, e931db42-0765-4db6-b500-895973a88a9b, 65941aa5-ecbb-45bd-98ee-4ba0195f68fb
+MBW: a1914327-7028-4edf-a001-12f3d0145b5f
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=FEZ_(インディーゲーム)&oldid=82997456」から取得
+カテゴリ: 2012年のコンピュータゲームXbox 360用ソフトXbox Live Arcade対応ソフトPlayStation 3用ソフトPlayStation Vita用ソフトPlayStation 4用ソフトWindows用ゲームソフトMacintosh用ゲームソフトLinux用ゲームソフトNintendo Switch用ソフトカナダで開発されたコンピュータゲームインディーゲームアクションパズル隠しカテゴリ: Template:コンピュータゲームの画像を指定した項目コンピュータゲーム関連のスタブ記事BNF識別子が指定されている記事MusicBrainzリリース・グループ識別子が指定されている記事MusicBrainz作品識別子が指定されている記事
+

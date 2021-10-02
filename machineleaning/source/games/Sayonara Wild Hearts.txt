@@ -1,0 +1,408 @@
+
+
+
+
+
+Sayonara Wild Hearts
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Sayonara Wild Heartsジャンル
+アクションゲーム音楽ゲーム対応機種
+iOSMacOSPlayStation 4Nintendo SwitchMicrosoft WindowsXbox One開発元
+Simogo（英語版）発売元
+アンナプルナ・インタラクティブディレクター
+Simon Flesserプログラマー
+Magnus "Gordon" GardebäckMagnus JensenBjörn Persson音楽
+Daniel OlsénJonathan Eng美術
+Carl KarjalainenÁsa Wallander発売日
+iOS, MacOS2019年9月19日PS42019年9月19日 2019年9月20日Switch2019年9月19日 2019年9月26日Win2019年12月12日Xbox One2020年2月25日 2020年4月30日対象年齢
+iOS：9+CERO：B（12才以上対象）ESRB：E10+（10歳以上）PEGI：12USK：6（6歳未満提供禁止）ACB：PGIARC：12+コンテンツアイコン
+iOS：まれ/軽度なアニメまたはファンタジーバイオレンスCERO：暴力ESRB：Fantasy ViolencePEGI：ViolenceACB：Mild Fantasy Violence, Mild Fantasy ThemesIARC：軽い暴力エンジン
+Unityテンプレートを表示
+『Sayonara Wild Hearts』（さよならワイルドハーツ）は、スウェーデンのインディーゲームスタジオSimogo（英語版）が開発しアンナプルナ・インタラクティブより発売されたアクションゲーム。失恋した女性が異世界に導かれてヒロインとなり、シュールな空間を疾走しながら世界の調和を取り戻していく物語が展開される。
+ネオンカラーのグラフィックとエレクトロポップのBGMがゲームの進行と同期している構成が特徴で、公式サイト等では本作を「ポップアルバムビデオゲーム」と表現している[1][2]。こうしたビジュアル・サウンドトラック・ゲームデザインは高い評価を受け、後述のように多数のゲーム賞で受賞やノミネートを果たしている。
+
+目次
+
+1 システム
+2 ストーリー
+3 開発
+4 受賞歴
+5 脚注
+
+5.1 注釈
+5.2 出典
+
+
+6 外部リンク
+
+
+システム[編集]
+本作には全部で23のステージがある。主人公は基本的に画面手前から奥に向かって自動的に高速で進んでいき、ステージ上の得点アイテムを取得しながらゴール地点を目指す。場面によっては、視点が次々と変化したり、乗り物に乗ることで異なる操作感となったりする。一部のステージでは、主人公がジャンプしたり障害物を回避したりする際にBGMのリズムに合わせてコントローラボタンを押す音楽ゲームのような要素もある。
+ライフやゲームオーバーの要素はなく、障害物にぶつかるなどしてミスとなった場合は直前の場面から即時再開される。同じ場面で複数回連続でミスとなった場合は場面をスキップすることもできる。
+エンディング後には、全ステージを通してプレイするモード「Album Arcade」が解禁される。また、各ステージクリア後には得点に応じて評価が与えられるが、全ステージでゴールド評価を獲得すると、1度のミスで即ゲームオーバーとなる通しプレイモード「Yolo Arcade」が解禁される。
+
+ストーリー[編集]
+（本作の登場キャラクターの設定はタロットの大アルカナがベースになっている。）
+現代よりもはるか昔の世界は、三柱のアルカナの神（女教皇・女帝・教皇）が見守る中で調和が保たれていた。しかしある夜、呪われた1体のアルカナ「リトル・デス（死神）」が、仲間の「ダンシング・デビル（悪魔）」「ハウリング・ムーン（月）」「ステレオ・ラバーズ（恋人）」「ハーミット64（隠者）」とともに全ての調和を盗み、それを自分たちの卑しいハートの中に隠してしまう。これにより力を失い始めた神々は、砕いたハートの欠片からヒロインを創り出し、世界を救うための力が備わる時の訪れを願った。
+それから永い年月を経た現代の世界では、ある若い女性が失恋によって心に深い傷を負いベッドに横たわっていた。そこへ、ヒロインの化身である蝶が現れて女性に近づき、異世界へいざなった。女性は、目の前を飛び続ける蝶を追ってスケートボードで疾走し、ついに捕まえることに成功する。すると次の瞬間、女性は仮面のヒロイン「ザ・フール（愚者）」へと変身し、これを機に、世界の調和を奪ったアルカナたちと対峙していくことになる。
+
+開発[編集]
+ディレクターのSimon Flesserは、1950年代にイギリスで流行したファッション「テディガール」の見た目を好んでおり、本作開発前の時期にはテディガールスタイルのキャラクターがバニーマスクを着用したりたばこを吸ったりしている様々な落書きを行っていた。一方、同時期には共同クリエーターのMagnus "Gordon" Gardebäckが新しいバイクを手に入れていた。Flesserはそれらがちょうど混ざりあったと感じ、仮面をつけてバイクに乗る復讐者についてのゲームを想像し始めた[3]。
+タイトルは早い段階で決定した。初代『ファイナルファンタジー』が文字通り最後の作品のつもりで作られたとされる説[注 1]に影響を受け、本作に全てを込めたいという考えが反映されている[4]。
+Simogoのゲーム開発は、これまでゲームをプレイしたことがないユーザーを意識した設計を信条としており、本作においてもそれを踏まえている。例えば、ジャンプなどの特殊アクションを行う操作は1つのコントローラボタンに集約し、操作が必要な場面では画面上にボタン押下を促すアイコンが表示される（前述の音楽ゲーム要素）。また、開発中の段階で実装されていたステージ探索パートなど、ゲームプレイのテンポが遅くなる要素を間引いてステージ内容をシンプルにする方策もとられている[5]。
+本作の開発には約4年が費やされている。これまでSimogoが手掛けた過去作品よりもはるかに大きなプロジェクトとなりチームの拡張が不可欠だったため、発売元のアンナプルナ・インタラクティブから資金提供などのサポートを受けて開発が進められた[3]。Flesserはゲーム内にナレーションを入れる案を考えていたものの時間不足により見送っていたが、開発終盤のQAテストの際にアンナプルナの担当者から誰を起用したかったのか尋ねられ、ラッパー・女優として有名なクィーン・ラティファの名前を軽い気持ちで伝えたところ、その2週間後にアンナプルナから彼女の声を録音できると連絡があり、完成の数週間前というタイミングでナレーションの音声が収録された[6]。
+本作収録のボーカル曲はチェリストでもあるシンガーソングライターのリネア・オルソン（英語版）が歌唱しており、ソフトの発売後にはSimogoの公式YouTubeチャンネルにおいて作中の楽曲「A Place I Don’t Know」のライブ映像が公開された[7]。一方、ゲーム最初のステージではクロード・ドビュッシーのピアノ曲『ベルガマスク組曲 第3曲「月の光」』のアレンジ曲が用いられている[8]。
+
+受賞歴[編集]
+
+
+年
+賞
+部門
+結果
+出典
+
+
+2019
+
+Game Critics Awards（英語版）
+
+Best Independent Game
+
+ノミネート
+
+[9]
+
+
+Golden Joystick Awards
+
+Best Visual Design
+
+ノミネート
+
+[10]
+
+
+Best Indie Game
+
+ノミネート
+
+
+Titanium Awards
+
+Best Soundtrack
+
+ノミネート
+
+[11]
+
+
+The Game Awards 2019（英語版）
+
+Best Art Direction
+
+ノミネート
+
+[12]
+
+
+Best Mobile Game
+
+ノミネート
+
+
+Best Score / Music
+
+ノミネート
+
+
+2020
+
+New York Game Awards
+
+A-Train Award for Best Mobile Game
+
+受賞
+
+[13]
+
+
+Off Broadway Award for Best Indie Game
+
+ノミネート
+
+
+Tin Pan Alley Award for Best Music in a Game
+
+受賞
+
+
+Pocket Gamer Mobile Games Awards
+
+Game of the Year
+
+ノミネート
+
+[14]
+
+
+Best Audio/Visual Accomplishment
+
+ノミネート
+
+
+Guild of Music Supervisors Awards（英語版）
+
+Best Music Supervision in a Video Game - Daniel Olsen
+
+ノミネート
+
+[15]
+
+
+第23回D.I.C.E. Awards（英語版）
+
+Outstanding Achievement in Audio Design
+
+ノミネート
+
+[16]
+
+
+Outstanding Achievement for an Independent Game
+
+ノミネート
+
+
+Portable Game of the Year
+
+受賞
+
+
+NAVGTR Awards
+
+Art Direction, Contemporary
+
+ノミネート
+
+[17]
+
+
+Camera Direction in a Game Engine
+
+ノミネート
+
+
+Game, Music or Performance-Based
+
+ノミネート
+
+
+Song Collection
+
+ノミネート
+
+
+Pégases Awards 2020
+
+Meilleur jeu vidéo mobile étranger（最優秀外国製モバイルゲーム）
+
+受賞
+
+[18]
+
+
+第20回Game Developers Choice Awards（英語版）
+
+Best Audio
+
+ノミネート
+
+[19]
+
+
+Best Mobile Game
+
+ノミネート
+
+
+Best Visual Art
+
+ノミネート
+
+
+SXSW Gaming Awards
+
+Excellence in Art
+
+ノミネート
+
+[20]
+
+
+Excellence in Musical Score
+
+ノミネート
+
+
+Mobile Game of the Year
+
+ノミネート
+
+
+第16回英国アカデミー賞ゲーム部門（英語版）
+
+Animation
+
+ノミネート
+
+[21]
+
+
+Artistic Achievement
+
+受賞
+
+
+第24回ウェビー賞（英語版）
+
+Best Art Direction
+
+ノミネート
+
+[22]
+
+
+Best Game Design
+
+受賞
+
+
+Best Music/Sound Design
+
+ノミネート
+
+
+Nordic Game Awards 2020
+
+Nordic Game of the Year
+
+ノミネート
+
+[23]
+
+
+Nordic Game of the Year - Small Screen
+
+受賞
+
+
+Best Art
+
+受賞
+
+
+Best Game Design
+
+ノミネート
+
+
+Best Audio
+
+ノミネート
+
+
+Apple Design Awards（英語版）
+
+ゲーム部門
+
+受賞（他作品と共同）
+
+[24]
+
+
+International Mobile Gaming Awards（英語版）
+
+Jury's Honorable Mention
+
+受賞
+
+[25]
+
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+
+
+^ ただし、シリーズ生みの親である坂口博信はこの説を否定している。詳細はファイナルファンタジーシリーズ#名称と略称を参照。
+
+
+出典[編集]
+
+
+^ “Sayonara Wild Hearts” (英語).   Simogo. 2020年9月17日閲覧。
+
+^ “『Sayonara Wild Hearts』PS4/iOSに続き、Nintendo Switch版も発売。どこまでもスタイリッシュなポップアルバムビデオゲーム”.   AUTOMATON (2019年9月26日). 2020年9月17日閲覧。
+
+^ a b Andrew Webster (2019年9月25日). “Sayonara Wild Hearts is an electrifying ride through a world made of pop culture” (英語).   The Verge. 2020年9月17日閲覧。
+
+^ Oni Dino (2019年11月2日). “[Interview] Sayonara Wild Hearts dev on the name, making a non-rhythm music game, more” (英語).   Nintendo Everything. 2020年9月17日閲覧。
+
+^ Diego Arguello (2019年10月22日). “Paring down the elegant control scheme of Sayonara Wild Hearts” (英語).   Gamastra. 2020年9月17日閲覧。
+
+^ Hirun Cryer (2019年9月19日). “How Queen Latifah Became a Last-Minute Addition to Sayonara Wild Hearts” (英語).   USgamer. 2020年9月17日閲覧。
+
+^ “Linnea Olssonが“A Place I Don’t Know”を演奏する「Sayonara Wild Hearts」の素敵なライブ映像がお披露目”.   doope! (2019年10月5日). 2020年9月17日閲覧。
+
+^ “Sayonara Wild Hearts tackles heartbreak with rhythm, neon, and the best soundtrack ever” (英語).   GamesRadar+ (2019年9月20日). 2020年9月17日閲覧。
+
+^ Nunneley, Stephany (2019年6月27日). “E3 2019 Game Critics Awards - Final Fantasy 7 Remake wins Best of Show” (英語). VG247. 2020年9月17日閲覧。
+
+^ “『バイオハザード RE:2』がGOTY！「Golden Joystick Awards 2019」受賞作品リスト ― 生涯功労賞は鈴木裕氏”.   Game*Spark (2019年11月16日). 2020年9月17日閲覧。
+
+^ “Titanium Awards 2019” (英語). Fun & Serious Game Festival. 2019年11月21日時点のオリジナルよりアーカイブ。2020年9月17日閲覧。
+
+^ “GOTYは『SEKIRO』が獲得！「The Game Awards 2019」各部門受賞作品リスト【TGA2019】”.   Game*Spark (2019年12月13日). 2020年9月17日閲覧。
+
+^ Meitzler, Ryan (2020年1月22日). “The New York Video Game Awards 2020 Winners Revealed; The Outer Worlds Takes Game of the Year” (英語). DualShockers. 2020年9月17日閲覧。
+
+^ “The winners of 2020” (英語). Pocket Gamer. 2020年9月17日閲覧。
+
+^ Halperin, Shirley (2020年1月9日). “‘Euphoria,’ ‘Marvelous Mrs. Maisel’ Among Guild of Music Supervisors Awards Nominees” (英語). Variety. 2020年9月17日閲覧。
+
+^ “「Untitled Goose Game」が第23回“DICE Awards”のGOTYを獲得、“Control”が最多受賞を果たした部門別受賞作品まとめ”.   doope! (2020年2月14日). 2020年9月17日閲覧。
+
+^ “2019 Nominees” (英語). National Academy of Video Game Trade Reviewers (2020年1月13日). 2020年9月17日閲覧。
+
+^ “Pégases 2020 : La liste des vainqueurs par catégorie” (フランス語). jeuxvideo.com (2020年3月10日). 2020年9月17日閲覧。
+
+^ “2020年のGame Developers Choice Awards，Gema of the Yearに輝いたのは「Untitled Goose Game ～いたずらガチョウがやって来た！～」”.   4Gamer.net (2020年3月19日). 2020年9月17日閲覧。
+
+^ “「2020 SXSW Gaming Awards」受賞作品が発表！ GOTYは『SEKIRO: SHADOWS DIE TWICE』”.   Game*Spark (2020年3月26日). 2020年9月17日閲覧。
+
+^ “2020英国アカデミー賞ゲーム部門受賞作品発表！ Best Gameは『Outer Wilds』”.   Game*Spark (2020年4月3日). 2020年9月17日閲覧。
+
+^ “Webby Awards: Games” (英語). 2020年9月17日閲覧。
+
+^ “Nordic Game Awards 2020 winners” (英語).   Nordic Game Community. 2020年9月17日閲覧。
+
+^ “Apple、デベロッパ8組に年間Apple Design Award を授与”.   Apple (日本) (2020年6月30日). 2020年9月17日閲覧。
+
+^ “Sayonara Wild Hearts” (英語).   International Mobile Gaming Awards. 2020年10月10日閲覧。
+
+
+外部リンク[編集]
+公式サイト（英語）
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Sayonara_Wild_Hearts&oldid=83653470」から取得
+カテゴリ: 2019年のコンピュータゲームIPhone用ゲームソフトMacOSのソフトウェアPlayStation 4用ソフトNintendo Switch用ソフトWindows用ゲームソフトXbox One用ソフトスウェーデンで開発されたコンピュータゲームアンナプルナ・インタラクティブのゲームソフトアクションゲーム音楽ゲームUnityを採用したゲームソフトタロットを題材としたコンピュータゲームインディーゲーム隠しカテゴリ: 日本語版記事がリダイレクトの仮リンクを含む記事
+

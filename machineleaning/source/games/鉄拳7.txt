@@ -1,0 +1,731 @@
+
+
+
+
+
+鉄拳7
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+鉄拳7ジャンル
+対戦型格闘ゲーム対応機種
+SYSTEM ES3（AC）PlayStation 4Xbox OneMicrosoft Windows（Steam）開発元
+バンダイナムコスタジオ発売元
+[AC]バンダイナムコアミューズメント[CS]バンダイナムコエンターテインメントシリーズ
+鉄拳シリーズ人数
+1 - 2人（対戦）メディア
+[PS4]パッケージ / ダウンロード[XBOne]パッケージ / ダウンロード[PC]ダウンロード発売日
+[AC]2015年2月18日[1][AC(FR)]2016年7月5日[PS4/XBOne]2017年6月1日[PC]2017年6月2日[AC(FR2)]2019年2月13日対象年齢
+[PS4/XBOne]CERO：C（15才以上対象）ESRB：T（13歳以上）コンテンツアイコン
+セクシャルデバイス
+[PS4]PlayStation VR対応売上本数
+400万本[2]その他
+[AC]ALL.Net対応バナパスポート/Aime対応Amusement IC対応（FATED RETRIBUTION ROUND2以降）テンプレートを表示
+『鉄拳7』（てっけんセブン）は、バンダイナムコエンターテインメント（アーケード版は2018年4月1日にバンダイナムコアミューズメントへ移管）より発売され、2015年2月18日に稼動開始した3D対戦型格闘ゲーム。鉄拳シリーズのナンバリングタイトル7作目に当たる。
+2016年7月5日にはバージョンアップ版『鉄拳7 FATED RETRIBUTION』（ - フェイティッド レトリビューション）が稼働開始。
+PlayStation 4[3]、Xbox One、Microsoft Windows（Steam）版も2017年6月に発売され、PS4版はPlayStation VRに対応している。
+2019年2月13日には2回目のバージョンアップ版となる『鉄拳7 FATED RETRIBUTION ROUND2』（ - ラウンドツー）が稼働開始（以下『R2』）。
+
+目次
+
+1 新システム
+2 ストーリー
+3 登場人物
+4 ステージ
+
+4.1 家庭用追加ステージ
+
+
+5 コラボレーション
+
+5.1 ゲスト出演
+
+
+6 開発
+
+6.1 オンライン対戦の導入
+6.2 ストーリー・セッティング
+6.3 ゲームエンジンおよびミドルウェア
+6.4 鉄拳7 FATED RETRIBUTION
+6.5 家庭用版
+
+
+7 反響
+
+7.1 家庭用版の売上
+
+
+8 評価
+
+8.1 新キャラクターに対する反応
+8.2 受賞歴
+
+
+9 出典
+10 外部リンク
+
+
+新システム[編集]
+この節は検証可能な参考文献や出典が全く示されていないか、不十分です。出典を追加して記事の信頼性向上にご協力ください。出典検索?: "鉄拳7" – ニュース · 書籍 · スカラー · CiNii · J-STAGE · NDL · dlib.jp · ジャパンサーチ · TWL（2018年10月）
+本作ではアーケード向け対戦格闘ゲームとしては初めてとなる「店舗間のリアルタイムオンライン対戦」を実装した。使用キャラクターの段位を基準として、自分と同程度の腕前のプレイヤーとマッチングされる仕組みである。
+ゲームシステムは従来のシステムに新システムが上乗せされた形となっている。『鉄拳6』と『鉄拳6BR』に登場したレイジシステムも引き継いでおり、レイジ状態から新たなシステムへも繋がる。
+
+パワークラッシュ
+相手の上・中段攻撃を受け止めながら攻撃できる。ダメージは受けるが、攻撃が中断されることはない[4]。
+相手の下段攻撃、投げ、ガード不能攻撃、パワークラッシュ対応技、レイジアーツは受け止めることができない。
+レイジアーツ
+体力が一定以上減り、レイジ状態になると発動できる。始動技を1発のみ行いそれがヒットするとキャラクターそれぞれの様々な攻撃を行う。レイジアーツは1ラウンド中に1度しか使えず、発動後はレイジ状態が消滅する。
+レイジアーツ中は、相手のレイジアーツ以外の攻撃全てを受け止めることができる。『鉄拳7FR』からは残り体力が少ないほど威力が増加するように変更された。
+レイジドライブ
+『鉄拳7FR』から追加。レイジ状態になると発動できる。各キャラクターが持つ代表的な固有技の強化版であるケースが多い。レイジアーツと違い相手の攻撃は受け止められないが、レイジアーツを上回るダメージのコンボを狙える、ガードされても反撃を受けないなどの恩恵を受けられる。レイジアーツ同様1ラウンド中に1度しか使えず、発動後はレイジ状態が消滅する。
+スクリュー
+『鉄拳6』および『鉄拳タッグトーナメント2』のバウンドに代わる新たなシステム。
+空中の相手に特定の技を当てるときりもみ回転しながら地面に叩きつけられる特殊なやられ状態になる。
+バウンド同様に追撃が可能だが誘発可能なのはコンボ中1回のみ。
+また本作はCPU戦が全5ステージまでで今までの鉄拳シリーズと比べて大幅にステージが減っている。ステージのBGMはマッチポイントになると別のBGMになる。
+家庭用版では、『鉄拳タッグトーナメント』にあったボウリングゲーム「鉄拳ボウル」が「ULTIMATE TEKKEN BOWL」として復活した[5]。
+
+ストーリー[編集]
+三島財閥は、世界に対して宣戦布告をし大規模な戦争を開始した。その三島財閥に対抗するため、反三島財閥を掲げ立ち上がったG社。二大勢力による争いが激しさを増す中、三島財閥頭首であった風間仁が突如消息不明となってしまう。
+頭首不在で劣勢になりかけていた三島財閥のもとに、三島財閥の初代頭首・三島平八が現れた。
+平八が頭首の座に返り咲いたことで、三島財閥は急速に勢力を立て直し戦況は再び拮抗状態となる。そして、平八はG社を裏から支配している息子、三島一八を倒すため、全世界に向け、The King of Iron Fist Tournamentの開催を宣言した。
+三島平八と三島一八による世界を股にかけた親子喧嘩が今、決着へ向けて大きく動き出す。
+
+登場人物[編集]
+〇が付いているのはストーリーモード「The Mishima Saga」にも登場するキャラクター。
+
+詳細は「鉄拳の登場人物」を参照
+デフォルトキャラクター
+
+ 三島 一八（みしま かずや）　〇
+ 三島 平八（みしま へいはち）　〇
+ ラース・アレクサンダーソン　〇
+ アリサ・ボスコノビッチ　〇
+ レオ
+ リリ
+ セルゲイ・ドラグノフ
+ キング
+ 馮威（フェン・ウェイ）
+ 風間 飛鳥（かざま あすか）
+ ブライアン・フューリー
+ 凌 曉雨（リン・シャオユウ）
+ 花郎（ファラン）
+ マーシャル・ロウ
+ ポール・フェニックス
+ スティーブ・フォックス
+ カタリーナ・アウヴェス
+ クラウディオ・セラフィーノ　〇
+ ラッキー・クロエ
+ シャヒーン
+タイムリリースキャラクター
+
+ 風間 仁（かざま じん）　〇
+デビル仁（デビルじん）
+ ジョシー・リサール
+ ギガース（国籍はデータ抹消となっている）
+ ジャック-7（ジャック-セブン）
+吉光（よしみつ）
+ 三島 一美（みしま かずみ）　〇
+FATED RETRIBUTION追加キャラクター
+
+豪鬼　〇
+ ニーナ・ウィリアムズ　〇
+ ボブ
+マスターレイヴン
+家庭用版追加キャラクター
+
+ 李 超狼（リー・チャオラン）/ヴァイオレット　〇（李のみ）
+ ミゲル・カバジェロ・ロホ
+クマ
+パンダ
+エリザ
+ エディ・ゴルド
+家庭用版DLC追加キャラクター
+
+ ギース・ハワード
+ノクティス・ルシス・チェラム
+シーズン2追加キャラクター
+
+アンナ・ウィリアムズ
+レイ・ウーロン
+クレイグ・マードック
+アーマーキング
+ジュリア・チャン
+ニーガン
+シーズン3追加キャラクター
+
+ザフィーナ
+リロイ・スミス
+厳竜（がんりゅう）
+ファーカムラム
+シーズン4追加キャラクター
+
+州光（くにみつ）
+リディア・ソビエスカ
+ステージ[編集]
+Abandoned Temple
+『鉄拳7FR』に新登場した豪鬼のステージ。背景には2体の金剛力士像が立ち、その下には倒壊した寺の残骸が残る。通常は夕日、どちらかがマッチポイントになると赤い月が映える。さらに両者がマッチポイントになると嵐になる。
+Arctic Snowfall
+吹雪の中の雪国ステージ。無限遠。
+Devil's Pit
+三島一美専用ステージかつ最終ステージである火山。CPU戦では彼女に勝利する、対人戦ではどちらかがマッチポイントになるとステージが崩壊し無限遠ステージへ移行する。CPU戦ではさらにデビル一美と戦うことになる。
+Dragon's Nest
+大きな龍の石像がある山頂ステージ。『鉄拳5』に出た同名のステージのリメイク。どちらかがマッチポイントになると雨が降り出す。
+Forgotten Realm
+遺跡ステージ。床壊しのステージギミックがあり、3回できる。一番下には仏像がある。
+Jungle Outpost
+ジャングルステージ。壁壊しとバルコニーブレイクのステージギミックがある。下には墜落した飛行機がある。
+家庭用限定で「Jungle Outpost 2」が追加されており、こちらは時間帯が夕方から昼になっている。
+Mishima Building
+『鉄拳7FR』に新登場。三島財閥の建物内にある研究所で、対戦はエレベーターのようなリフトで行われる。リフトの端にいくつかある巨大な機械の腕が柱を掴みよじ登るように、常に上昇していく。どちらかがマッチポイントになると屋上に到達する。
+Mishima Dojo
+三島平八専用ステージ。寺のような道場で、壁にある無数の蝋燭と蟷螂だけが明かりのため薄暗い。背景奥には仏教に関わる銅像が複数置いてあり、全て険しい顔をしている。
+背景の手前側の方は、平八との戦闘開始シーンでジャック7が飛び込んできたために、壁が崩れていて月が輝いているのが見える。
+Souq
+アラビアの街にある市場ステージ。ステージの周りには様々な店があり、キャラクターが攻撃で壁に叩きつけられると売られている野菜や果物が地面に転がり落ちる。
+Twilight Conflict
+何かの被害に遭った市街地ステージ。バルコニーブレイクのステージギミックがある。
+家庭用限定で「Twilight Conflict 2」が追加されており、こちらは時間帯が昼から夕方になっている。
+家庭用追加ステージ[編集]
+Arena
+The King of Iron Fist Tournamentのステージ。オンラインアップデートVer.Tでアーケードに追加された。
+Brimstone & Fire
+「The Mishima Saga」で一八と平八が最終決戦をする活火山ステージ。オンラインアップデートVer.Tでアーケードに追加された。
+Cave of Enlightenment
+ファーカムラムと同時に追加された秘境ステージ。仏像がたくさん並んでいる。バルコニーブレイクと床壊しのステージギミックがある。大型アップデートでアーケードに追加された。
+Duomo Di Sirio
+クラウディオが所属する「シリウスの射手」の拠点ステージ。イタリア語で「シリウスの大聖堂」という意味。バルコニーブレイクのステージギミックがある。オンラインアップデートVer.Tでアーケードに追加された。
+G Corp. Helipad
+G社の屋上ステージ。ヘリパッドがある。壁壊しのステージギミックがある。オンラインアップデートVer.Qでアーケードに追加された。
+G Corp. Helipad(Night)
+「G Corp. Helipad」の夜バージョン。どちらかがマッチポイントになると雨が降りだす。オンラインアップデートVer.Tでアーケードに追加された。
+Geometric Plane
+プラクティスに出るステージ。オンラインアップデートVer.Tでアーケードに追加された。
+Hammerhead
+ノクティス・ルシス・チェラムと同時に追加されたステージ。ギャラリーとして、FFXVのキャラクターであるイグニス、グラディオラス、プロンプト、シドニー、シドが登場する。また、道路側にカメラを向けると目的地を示すシンボル(「!」マーク)が出現している。
+Howard Estate
+ギース・ハワードと同時に追加されたステージ。壁壊しとバルコニーブレイクのステージギミックがある。
+Infinite Azure
+ウユニ塩湖のような湖ステージ。無限遠。オンラインアップデートVer.Qでアーケードに追加された。
+家庭用限定で「Infinite Azure 2」が追加されており、こちらは時間帯が昼から夜になっている。
+Island Paradise
+リディアと同時に追加されたステージ。バルコニーブレイク前は「5」のPoolsideステージ、ブレイク移行後は「4」のビーチステージのリメイク。プールサイドにはヴァイオレット(リー)がギャラリーとして登場。
+Kinder Gym
+キッズスペースのようなステージ。どちらかがマッチポイントになると照明の色が変わる。オンラインアップデートVer.Tでアーケードに追加された。
+Last Day On Earth
+ニーガンと同時に追加されたステージ。
+Precipice Of Fate
+「The Mishima Saga」で子供時代の一八と若き日の平八が戦ったステージ。オンラインアップデートVer.Tでアーケードに追加された。
+Vermilion Gates
+州光と同時に追加されたステージ。
+Violet Systems
+ヴァイオレットシステム社の研究所ステージ。オンラインアップデートVer.Qでアーケードに追加された。
+コラボレーション[編集]
+本作は『アイドルマスター』[6][7]や『サマーレッスン』[8]など、様々な作品・組織とのコラボレーションを行った。
+『鉄拳7FR』では『太鼓の達人』とのコラボレーションも展開され[9]、2017年7月28日には家庭用版向けの無料DLCとしても配信された。
+2017年1月23日から2月22日までの期間に、新日本プロレスとのコラボレーション「大プロレス祭り2017」が『鉄拳7FR』内イベントとして開催された[10]。新日本プロレスに所属するオカダ・カズチカをモチーフとした、キング用の衣装がイベントの景品として配信され、すべて集めるとキングのレイジアーツがレインメーカーに変化するという演出がとられた。このほかにも一部キャラクター向けに、新日本プロレスのTシャツがアイテムとして配信された。新日本プロレスとのコラボレーションは2018年11月18日にも行われ、棚橋弘至をモチーフとしたラース用の衣装、レイジアーツ、BGMが景品として配信された[11]。
+
+ゲスト出演[編集]
+前述の豪鬼以外にも、本作には様々な作品のキャラクターがゲスト出演している。家庭用版では、SNKの『餓狼伝説』シリーズおよび『ザ・キング・オブ・ファイターズ』シリーズのギース・ハワードや[12][13]、スクウェア・エニックスの『ファイナルファンタジーXV』の主人公のノクティス・ルシス・チェラムがDLC追加キャラクターとしてゲスト登場する[14][15]。また、『ザ・ウォーキング・デッド』のニーガンもゲスト出演している[16][17]。
+ギースとノクティスは『鉄拳7 FATED RETRIBUTION ROUND2』にも登場する[18]。
+
+開発[編集]
+本作の開発プロジェクトは2013年9月頃にスタートし、同年11月にUnreal Engine 4の検証を開始し、2014年2月には実際の筐体で動作可能なα版が出来上がった[19]。2014年1月、鉄拳シリーズのディレクター兼プロデューサーの原田勝弘は、PlayStation 4向けの新作を作りたいと話し[20]、新作はPlayStationベースであることを明らかにした[21]。
+2014年7月13日朝、本作のトレーラーがインターネット上に流出したため[22]、原田は予定を変更し、同日開かれたEvolution Championship Seriesにて本作の情報を急遽公開した[23]。
+ロケテストは2014年10月3日から5日までの間に、東京と大阪で実施された[24]。2014年後期、2つ目となるトレーラーが公開され、1080pで60フレーム/秒のグラフィックを披露した[25]。
+2015年1月27日、韓国のソウルにあるネクソンアリーナにて、本作のビルド版を用いた大会"Tekken 7 Crash"が生中継された[26]。同年開かれたジャパンアミューズメントエキスポ 2015では、"Tekken 7 Crash"からさらにアップデートされたバージョンがプレイアブル出展され、ラッキークロエとシャヒーンが公開された[27]。
+2015年2月18日に先行稼働を、翌月3月18日に本稼働を開始した。
+2015年11月から12月にかけ、バンダイナムコ主催の大会"The King of Iron Fist Tournament 2015"が開催され、賞金 ¥10,000,000 (~$81,000)が優勝者に贈られた[28][29]。
+韓国・北米・欧州から2人ずつ選出されたほか、EVO2015代表のゲーマー2人が参加した[28][29]。
+2018年3月29日、バンダイナムコはアーケード版のオンライン対戦を2018年5月31日に終了することを明らかにし、オフライン対戦を続けられるアップデートパッチを配信した[30]。
+
+オンライン対戦の導入[編集]
+日本国内のゲームセンターが減少傾向にある上、郊外の大型商業施設内に出店するゲームセンターが多くなった[1]。このような店舗においては、平日の午前中に客がたくさん来る保証はなく、客が見込めない場合は店舗側がプリント倶楽部やプライズゲームの導入を優先する可能性があった[1]。このため、本作では対戦相手が見つかりにくい時間帯や店舗でも対戦相手を見つけやすくするためにオンライン対戦を導入する必要性があった[1]。バンダイナムコにおいては大型筐体ゲームでの導入実績があったものの、開発チームは対戦型格闘ゲームにおける対戦文化を重視していたため、オンライン対戦の導入には消極的だった[1]。それでも、一定数以上の店舗が「オンライン対戦を入れないならばビデオゲームのスペースをなくす」と回答したため、開発チームはオンライン対戦の導入に踏み切った[1]。これ以外にも、オンライン対戦の導入には2つの課題があった[1]。1つ目は回線の状態の安定化であり、課題の解決にはNTTも協力した[1]。また、携帯端末のシステムアップデート等、ネットワークに大きな影響を与える出来事にも対応できるようにするため、ゲームで使用する帯域容量を最小限に抑えた[1]。もう1つはネットワーク環境のトラブル対応であり、オンライン回線の新規開設やパケット確保失敗時のクレジット保証などの考慮が行われた[1]。
+
+ストーリー・セッティング[編集]
+本作はストーリーモードを重要なモードに位置付けており、三島一八とその父・平八の対決に主軸を置いている[31][32]。
+原田はこの2人を中心に据えた理由について、シリーズが20周年という節目を迎えたためだと『ファミ通』とのインタビューの中で述べている[31]。また、平八の元養子（一八からみて元・義兄弟）にあたる李超狼を家庭用版に登場させた理由について、原田はファンからの要望が多かったことに加え、「超狼が三島家を語るうえで欠かせない人物である」ことを挙げている[31]。
+キャラクターのデザインは、いくつかのコンセプトスケッチからデザインを選出し、そこからさらに修正を重ねるという方式がとられた[33]。新キャラクターのうち、中東出身という設定のシャヒーンのデザインはNINNINが担当し、デザイン案はFacebookの鉄拳コミュニティで選出された[33]。また、留学生ら、現地の関係者のチェックも行われており、「金のアクセサリはつけない」といった中東における常識を反映したキャラクターデザインとなった[32]。また、島崎は平八の妻である三島一美のデザインも担当した[33]。
+ラッキー・クロエはダンサーという設定だったため、初期案はカジュアルなデザインだったが、最終的にはネコミミをあしらったものとなった[33]。
+フィリピン出身のモデル兼格闘家であるジョシーは、キックボクシングとエスクリマを習っているという設定であり、デザインは島崎麻里が担当した[34][35]。
+衣装コラボは『鉄拳』ファンのイラストレーターが多いという理由で実現した一方、ゲストキャラクターの参戦は格闘ゲーム全体の盛り上げるという目的のもとで行われた[1]。『鉄拳7FR』では、カプコンの『ストリートファイター』シリーズの豪鬼がプレイヤーキャラクターとしてゲスト登場した[36][37]。原田はGame Watchとのインタビューの中で、『ストリートファイター』シリーズの世界観と戦う必然性を見極めた上で豪鬼を登場させたと述べており、豪鬼のみ2D格闘ゲームに準拠した演出をとったと述べている[32]。
+既存のキャラクターのうち、ニーナは花嫁衣装をまとった姿で描かれた。メディア向けの広報資料ではニーナの衣装に返り血がついており、原田はニーナの衣装が暗殺目的であるとGame Watchとのインタビューの中で述べている[32]。
+家庭用シーズン3を初出とするリロイは、「中国拳法を使う黒人男性」という原田の提案をもとに作られたキャラクターである[1]。以前からモーションキャプチャーチームやユーザーから詠春拳を作品に取り入れてほしいという要望が寄せられていたが、詠春拳の宗師である葉問が「日本人に詠春拳を教えてはならない」という遺言を残したという説があったため、原田は詠春拳を登場させなかった[1]。本作に中国拳法の使い手が登場することを受け、詠春拳が候補に挙がり、アニメーターも興味を示した。原田はモーションキャプチャー可能であるか検討し、葉問の甥の弟子だという人物から許可が下りた[1]。最終的に日本国内にある詠春拳の道場の門下生がリロイのモーションキャプチャーを担当した[1]。
+
+ゲームエンジンおよびミドルウェア[編集]
+本作は様々なプラットフォームに対応するため、開発にはUnreal Engine 4が用いられた[38][39]。
+鉄拳シリーズはこれまでPlayStationの互換基板を用いて開発されてきたのに対し、本作にはPC/AT互換機をベースとした独自基板を用いると原田は話した[40]。
+本作は、SYSTEM ES1の上位基板で、ハイエンドPCアーキテクチャを採用したSYSTEM ES3を採用することが決まりかけていたため、それに見合うグラフィックの向上が課題として挙がった[19]。当初、サイバーコネクトツーが開発し、『NARUTO -ナルト- ナルティメットヒーロー』シリーズなどで使われていたNUライブラリがゲームエンジンの候補のひとつとして挙げられていた[19]。だが、NUライブラリの新世代版の完成スケジュールが、事前に決まっていた本作の稼働予定スケジュールとかみ合わないため、外部のゲームエンジンを採用することとなった[19]。日本語および日本時間でのサポートが充実しているEpic GamesのUnreal Engine3と4に候補が絞り込まれ、最終的にはハイエンドPCの性能に堪える表現が可能であり、様々なプラットフォームに対応しているUnreal Engine 4を採用することに決まった[19]。また、業界内においてUnreal Engine 4の導入実績も少しずつ増えていたため、開発チームは「成功しても失敗してもバンダイナムコゲームスにとってよい体験になる」と考えていた[19]。
+選考時点でUnreal Engine 4は出たばかりでアップデートが頻繁に行われていたため、開発チームは他のミドルウェアとの兼ね合いや開発チームで解決できない問題が発生した時のサポートについて懸念していた[19]。前者については安定していることが確認できたバージョンを使用することで対応し、後者についてはエピックゲームズ ジャパンの存在によって解決した[19]。
+Unreal Engine 4の採用は多少のリスクを想定したうえで行われたものだったが、Unreal Engine4が使えなくなっても開発を続行できるようにするため、Unreal Engine 4の利用はレンダラーに限定した[19]。この方針はシリーズの伝統である「格ゲーとしての妙味」を引き継ぐ目的も兼ねており、ゲームシステムの要となる部分は従来通りC++で記述し、「鉄拳モジュール」としてUnreal Engine4から呼び出して駆動するように設計された[41]。
+また、ユーザーインターフェースの設計にはScaleformが、サウンドミドルウェアとしてWwise（英語版）が、ムービーパートのコーデックにはBink2が用いられた。これらのミドルウェア群はいずれも業界では定番とされているものである[19]。
+
+鉄拳7 FATED RETRIBUTION[編集]
+2015年に開かれた、"The King of Iron Fist Tournament 2015"のグランドフィナーレにて、バージョンアップ版にあたる『鉄拳7 FATED RETRIBUTION』（以下：『鉄拳7FR』）の予告編が公開された。2016年2月12日から14日の間に東京・大阪・福岡にてロケテストが実施され、2016年7月5日に正式に稼働を開始した[42]。
+『鉄拳7FR』はレイジドライブといった新しいシステムが追加されたことに加え、新コスチュームやステージなども追加された。
+2017年7月27日には家庭用版のみの登場だったクマやパンダら複数のキャラクターが『鉄拳7FR』に登場した[43]。
+同年11月14日にはG Corpなどのステージが追加された[44] The rest were added as part of the Ver.T update on April 3, 2018.[45]。
+2018年10月20日に開かれたイベント"Tekken MASTERCUP.10" にて、『鉄拳7 FATED RETRIBUTION ROUND2』（以下『鉄拳7FRR2』）の情報が公開され、2019年2月に稼働予定であることが明らかにされた。『鉄拳7FRR2』は家庭用版の逆移植となる[46]。
+
+家庭用版[編集]
+PlayStation 4への移植は、2015年10月27日に開かれたParis Games Week 2015にて明らかにされ、PS4限定コンテンツやPlayStation VR への対応も公表された[47][48]。
+また、アーケード版・家庭用版ともにグラフィックが強化されることも明らかになった[49]。
+PS4版限定コンテンツとして仁・曉雨・キングの過去作仕様のコスチュームおよび、サウンドテストで鑑賞可能な過去作のBGMデータが配信された[50]。
+2016年のE3にて、Xbox Oneおよび Windowsへの移植が決定したことが明らかにされた[51]。
+また、このイベントで公開されたトレーラーから、グラフィック向上や新ステージおよびストーリーモード追加といった『鉄拳7FR』の機能が搭載されることが判明した[52]。
+家庭用版の予約特典DLCとしてエリザが配信されたほか、2017年7月28日からは有料DLCとして配信された。2018年9月6日にはシーズン2としてバランスやキャラクターのモーションの調整などが施された。
+
+反響[編集]
+本作のオンライン対戦は地方のゲームセンターやユーザーから大きな反響を得た[1]。当初、開発チームは6割ほどのユーザーがローカル対戦を行うと考えていたが、稼働直後の時点では7割もしくは8割以上のユーザーがオンライン対戦でプレイしていた[1]。
+
+家庭用版の売上[編集]
+イギリスでは初週の売り上げ首位を獲得し[53][54]、翌週も首位を維持した[55]。
+日本では初週で58,736枚を売り上げ、売上ランキングで首位を獲得したことに加え[56] 、PlayStation 4本体の売り上げ増加にもつなげた[57]。翌週ではマリオカート8 デラックスに首位を譲る形で2位になった[58]。
+本作はオーストラリア・ニュージーランドにおいても売上ランキングで首位を獲得した[59]。
+本作は、北米の2017年6月のパッケージ販売の売上ランキングで首位を獲得したほか[60]、アメリカのPlayStation Storeのダウンロード販売の売上ランキングでも首位を獲得した[61]。
+また欧州のPlayStation Storeのダウンロード販売の売上ランキングでは5位にランクインした[62]。
+本作は発売から2か月の間に世界中で200万枚を売り上げ[63]、年末の時点での売り上げは250万枚を突破し[64] 、2018年3月31日の時点では280万枚に達した[65]。
+原田は開発チームの予想以上の売り上げに満足した様子を見せ[66]、2018年10月20日のツイートで家庭用版の発売から1年もたたないうちに売り上げが300万枚を突破したことを明らかにした[2]。
+
+評価[編集]
+評価集計結果媒体結果Metacritic(PC) 82/100[67](PS4) 82/100[68](XONE) 81/100[69]レビュー結果媒体結果デストラクトイド8/10[70]エレクトロニック・ゲーミング・マンスリー7.5/10[71]ファミ通36/40[72]ゲーム・インフォーマー8/10[73]Game Revolution[74]GamesMaster86%[75]GameSpot8/10[76]GamesRadar+[77]IGN9.5/10[78]PC Gamer US79%[79]Polygon8/10[80]メトロ8/10[81]
+本作はMetacriticにておおむね好評（ "generally favorable"）という評価を得た[67][68][69]。
+『デストラクトイド』のクリス・カーターは「目覚ましいまでの努力によって、いくつかの欠点がカバーされている。誰をもあっと言わせるようなものではないが、お金を払って遊ぶ価値はある」（"Impressive effort with a few noticeable problems holding it back. Won't astound everyone, but is worth your time and cash," ）と評価し、10点満点中8点を付けた[70]。
+エレクトロニック・ゲーミング・マンスリーのエヴァン・スリードは10点満点7.5点を付け、「長寿作品の最新作である『鉄拳7』は、マルチプレイ対戦が好きな格ゲーファンの期待に添えているが、同ジャンルの他作品と差を決定づけるだけの新しい要素が十分でない」という総評を寄せた[71]。
+『ファミ通』において、PS4版とXbox One版はいずれも40点満点中36点がつけられた[72]。
+Eurogamer Italy は本作を格ゲーファン（英語版）が待ち望んでいたものだと呼び、「素晴らしいゲーム性とキャラクター、新しいシステム、そして盛りだくさんのコンテンツに満ちている」と評価した[82]。
+イギリスのフリーペーパーメトロは本作のグラフィック・システム・キャラクターを評価した[81]。
+4Playersは「プレイヤーは、『インジャスティス2』に匹敵するほどのコンボの奥深さに惹かれるだろう」と評価している[83]。
+Game RevolutionのJames Kozanitisは、5点満点中4点を付け、「鉄拳シリーズは常に一定の地位を確保しているが、その中でも『鉄拳7』はシリーズの精神を色濃く受け継いでいる。2Dではなく3Dのステージを使うなど、ほかの格闘ゲームでは常識とされている要素に従う努力はあまりせず、むしろお約束を回避している。しかし、古典的な要素を持ちながらも、『鉄拳7』はいまだに新鮮な印象を与えつづけている。専売特許はないものの、才能によって伝統を守っている。PC版が滞りなく発売できたことは、シリーズが長く愛され続けている証左であろう。」と評価した[74]。
+GamesRadar+のマット・エリオットは5点満点中4点をつけ、「ストーリーに突っ込みどころはあるが、遊んでいて感動的で爽快な気持ちになった。いい練習相手を見つけると、ずっと楽しめそうだ」（"Despite some narrative missteps, Tekken 7 is still a compelling, exhilarating experience. Find the right sparring partner and it will entertain you indefinitely."）と評価した[77]。ポリゴンは「忘れられないキャラクターと滑らかなモーションで、やりがいを感じた」（"unforgettable characters and fluid fights are worth the work."）と評価した[80]。
+IGNのダリル・ハスキーは10点満点中9.5点をつけ、「『鉄拳7』は遊びやすさと高度なテクを両立させた上に、カスタマイズを充実させた点からみて、格闘ゲームの殿堂入りを果たしたようなものだ」と評価し[78] 、GamesMasterもハスキーの意見に同意している[75]。同じくIGNの馬淵寛昭は全体的に肯定的な評価を寄せた一方、プラクティスモードの目標が分かりにくい点を指摘した[84]。また、馬淵はVRモードのモデルの出来を評価した一方、コンテンツが中途半端であると指摘し、おまけのようなものだと評した[84]。
+PC Gamerのデイヴ・ヒューストンも同様にプラクティスモードの貧弱さについて指摘しており、79％の評価をつけた[79]。
+本作は、『ゲーム・インフォーマー』のReader's Choice Best of 2017 Awardsの最優秀格闘ゲーム部門（"Best Fighting Game"）で次点に輝き[85]、DestructoidのGame of the Year Awards 2017のPS4部門にノミネートされた[86]ほか、IGNの Best of 2017 Awardsの格闘ゲーム部門にもノミネートされた[87]。
+加えて、本作はGiant Bombの2017 Game of the Year Awardsのマルチプレイヤー部門（"Best Multiplayer"）とゲーム・オブ・ザ・イヤー（"Game of the Year"）の次点に輝いた[88][89]。
+
+新キャラクターに対する反応[編集]
+フォーラムなどではラッキークロエに対する否定的な意見が出、原田はツイッター上で「クロエの登場をヨーロッパ・東アジア向けのバージョンに限定し、北米版では彼女の代わりにスキンヘッドのマッチョを出すかもしれない」と回答した。その後、原田はこれらのツイートについては真剣にとらえていないことを明らかにした[90]。
+シャヒーンの評判はおおむね好評だったものの[91][92] 、原田はゲームにアラブ人を登場させることについての批判があったとツイッター上で明らかにしている[93]。
+フィリピン出身のジョシー・リサールもおおむね好評だったものの[94][95]賛否両論あり[96]、フィリピンの格闘技（英語版）の再現が不十分だったことやフィリピンの国民的英雄ホセ・リサールと名前が似ていたことから[97] 、フィリピンのネチズンからは冷笑を浴びせられた[98]。
+何者かが、「国家文化芸術委員会（英語版）（NCAA）が、ジョジーはホセ・リザールやフィリピン人のイメージを悪化させる存在であるとして非難している」という情報を流した[99][100][101]。これに対し、NCAAの法務担当者であるTrixie Cruz-Angeles はNCAAがジョシーの削除を求めていないとし、そのような意見があったことを認識していないとした[102][99]。
+
+受賞歴[編集]
+
+
+年
+賞
+部門
+結果
+注
+
+
+2016
+
+Game Critics Awards
+
+Best Fighting Game
+
+ノミネート
+
+[103]
+
+
+2017
+
+The Game Awards 2017
+
+Best Fighting Game
+
+ノミネート
+
+[104]
+
+
+2018
+
+2018 D.I.C.E. Awards
+
+Fighting Game of the Year
+
+ノミネート
+
+[105]
+
+
+2018 National Academy of Video Game Trade Reviewers Awards
+
+Game, Franchise Fighting
+
+受賞
+
+[106][107]
+
+
+2018 SXSWゲーム賞
+
+eSports Game of the Year
+
+ノミネート
+
+[108][109]
+
+出典[編集]
+
+
+^ a b c d e f g h i j k l m n o p q “『鉄拳7』稼働5年を原田さんが振り返る。新キャラ作成やバランス調整、シリーズについて明かす【周年連載】”. 電撃オンライン (2020年3月4日). 2020年3月13日閲覧。
+
+^ a b Harada, Katsuhiro [@Harada_TEKKEN] (20 October 2018). "“Celebration illustration”.
+TEKKEN7 had achieved Over 3million sales before one year passed from release, but there was no timing to upload this (That’s why there is no Anna, Lei..).
+We recorded over 47million copies sales for the series.Thanks for supporting us!#TEKKEN" (ツイート). Twitterより2018年10月20日閲覧。
+
+^ “【速報】『鉄拳7』がプレイステーション4で発売決定！【PGW2015】”.   ファミ通.com (2015年10月28日). 2015年10月27日閲覧。
+
+^ “新たな鉄拳はどう進化した？ いよいよ先行稼働を開始したシリーズ最新作「鉄拳7」の新要素をおさらいするプレイガイドを掲載”. 4Gamer.net.   Aetas. 2018年10月26日閲覧。
+
+^ “Tekken 7 DLC Pack #1 Launch Trailer - Tekken Bowl & New Costumes Coming Aug 31st”.   Avoiding The Puddle. 2017年8月27日閲覧。
+
+^ “Tekken 7 gets Idolmaster costumes, but not for the men”.   destructoid. 2018年10月22日閲覧。
+
+^ YouTube 鉄拳20周年×アイドルマスター10周年 アニバーサリー･スペシャルコラボ･トレーラー
+
+^ “TEKKEN OFFICIAL：サマーレッスン×アーケード版『鉄拳7 FATED RETRIBUTION』コラボ開催!”. 2018年3月21日閲覧。
+
+^ “『鉄拳7FR』×『太鼓の達人 レッドVer.』 コラボキャンペーン開催中！”.   Tekken Official (2016年8月24日). 2017年8月27日閲覧。
+
+^ “Tekken 7: FR's New Japan Pro-Wrestling Crossover Shown in Video”. Anime News Network. 2017年1月4日閲覧。
+
+^ “New Lars Costume & Theme Revealed in 3rd Arcade T7FR x NJPW Collaboration”. Avoiding The Puddle. 2017年10月22日閲覧。
+
+^ “Tekken 7 DLC character Geese Howard launches November 30”. Gematsu (2017年11月29日). 2017年11月29日閲覧。
+
+^ “『鉄拳7』DLC2が配信開始　SNKより“ギース・ハワード”が参戦！”. 2018年10月22日閲覧。
+
+^ “Tekken 7 DLC character Noctis Lucis Caelum launches March 20”. Gematsu (2018年3月14日). 2018年3月15日閲覧。
+
+^ “「鉄拳7」，「FFXV」からノクティスが参戦するDLC3は3月20日より配信へ。新ステージと，ノクティスの固有コスチュームを含むDLC”. 2018年10月22日閲覧。
+
+^ “『鉄拳7』に驚愕の「ウォーキング・デッド」“ニーガン”参戦！シーズンパス2登場キャラクター発表”. 2018年10月22日閲覧。
+
+^ “Tekken 7 Season 2 announced”. Gematsu (2018年8月5日). 2018年8月6日閲覧。
+
+^ “ギースやノクティスなどが参戦するアーケード版最新作『鉄拳7 FATED RETRIBUTION ROUND 2』が2019年2月より稼働開始” (2018年10月22日). 2018年10月22日閲覧。
+
+^ a b c d e f g h i j 西川善司 (2015年11月20日). “UNREAL FEST 2015レポート「鉄拳7」はなぜ「Unreal Engine 4」を選択したのか”. 4Gamer.net.   Aetas. 2018年10月23日閲覧。
+
+^ Anderson, Kell (2014年1月6日). “The Producer of Tekken Wants to Continue the Series on PS4”.   Push Square. 2014年10月22日閲覧。
+
+^ Harada, Katsuhiro. “Don't rush me. Tekken is not development by PC base. It's Develop by Playstation Native. also we don't have Tekken community on PC now.”.   Twitter. 2015年1月10日閲覧。
+
+^ “Tekken 7 officially announced”.   Gematsu (2014年7月31日). 2015年10月23日閲覧。
+
+^ “unreal engine, Tekken 7 announced at EVO 2014”.   Dana Cowley (2014年7月17日). 2014年7月17日閲覧。
+
+^ “Tekken 7 location test announced - Gematsu”.   Gematsu (2014年9月14日). 2018年10月22日閲覧。
+
+^ “Second Tekken 7 Gameplay Trailer Released in Blistering 1080p/60fps - Hardcore Gamer”.   Hardcoregamer. 2018年10月22日閲覧。
+
+^ “Tekken Crash Returns: First Tekken 7 3on3 Tournament Livestream Commencing Soon - Hardcore Gamer”.   Hardcoregamer. 2018年10月22日閲覧。
+
+^ H.H ライター (2015年2月13日). “『鉄拳7』 "ラッキークロエ"＆"シャヒーン"のプレイリポートをお届け【JAEPO 2015】”. ファミ通.   エンターブレイン. 2018年10月22日閲覧。
+
+^ a b “Tekken's First Actual "King of Iron Fist Tournament" Has A Cash Prize”.   siliconera (2015年7月6日). 2018年10月22日閲覧。
+
+^ a b タケヤマ. “「鉄拳7」世界大会「THE KING OF IRON FIST TOURNAMENT 2015」フォトレポート。日韓対決のFINALを制したのは日本のノビ選手”. 4Gamer.net.   Aetas. 2018年10月22日閲覧。
+
+^ “Ending the service for"TEKKEN 7"”. Tekken-Net (2018年3月29日). 2018年4月8日閲覧。
+
+^ a b c “『鉄拳7』原田勝弘氏インタビュー！ 参戦が決定した李 超狼や、ストーリーについて聞く【gamescom 2016】”. ファミ通.   エンターブレイン. 2018年10月24日閲覧。
+
+^ a b c d “挑戦し続ける新しい「鉄拳」。原田勝弘氏インタビュー”. 2018年10月24日閲覧。
+
+^ a b c d “最初で最後!?　『鉄拳7』キャラクターの貴重なコンセプトスケッチなどが公開！【SDCC 2015】(1/2)”. 2018年10月24日閲覧。
+
+^ Mark Julio (2015年3月29日). “Mark Julio's public post about Josie Rizal on Facebook”. 2018年10月22日閲覧。
+
+^ Mark Julio. “Hoy! Psssst! In case you missed it, Josie Rizal is the newest challenger in TEKKEN 7! Designed by @MariShimazaki!”.   Twitter. 2018年10月22日閲覧。
+
+^ Parlock, Joe (2015年12月12日). “Tekken 7: Fated Retribution announced, the first new character is Street Fighter's Akuma”. Destructoid. 2015年12月12日閲覧。
+
+^ “Bandai Namco Announces Tekken 7 Fated Retribution, Starring Street Fighter’s Akuma”. Shoryuken. 2015年12月13日閲覧。
+
+^ “Tekken 7 Announced, Will Use Unreal Engine 4 [UPDATE]”.   GameSpot (2014年7月13日). 2014年7月23日閲覧。
+
+^ Cowley, Dana (2014年7月14日). “UE4-Powered Tekken 7 Announced at EVO 2014”. Unreal Engine Blog.   Epic Games. 2014年10月9日閲覧。
+
+^ “Katsuhiro Harada on Twitter: "Our original arcade board, based on PC architecture. RT @ZeroXZ03 What hardware is the arcade version of T7 running on?"”.   Twitter.com (2014年12月9日). 2015年10月23日閲覧。
+
+^ 谷川ハジメ (2015年10月28日). “「Unreal Engine」はバンダイナムコスタジオに何をもたらしたのか？”. Game Watch.   インプレス. 2018年10月30日閲覧。
+
+^ “Tekken 7 Fated Retribution Location Tests Being Held on Feb 12 - 14!”. Avoiding The Puddle. 2016年1月15日閲覧。
+
+^ “Arcade Tekken 7 Fated Retribution Console Characters Update Coming July 27th”. Avoiding The Puddle. 2017年8月27日閲覧。
+
+^ “【告知】アーケード版『鉄拳7FR』新ステージ追加！”. Tekken Official. 2017年11月4日閲覧。
+
+^ “【告知】オンラインアップデートVer.Tについて”. Tekken Official. 2018年3月15日閲覧。
+
+^ “アーケード『鉄拳7 FATED RETRIBUTION ROUND2』ティザーPV”. YouTube. 2018年10月21日閲覧。
+
+^ “PS4版「鉄拳7」が発表。鉄拳の歴史を振り返るアナウンストレイラーも公開”. 4Gamer.net.   Aetas. 2018年10月24日閲覧。
+
+^ “Tekken 7 coming to PS4 along with exclusive content.”. ign.com.   Ziff Davis. 2015年10月27日閲覧。
+
+^ “Tekken 7 will have improved graphics for console Versions”. Attack of the Fanboy.   Attack of the Fanboy. 2015年11月26日閲覧。
+
+^ “Tekken 7 launches June 2”. Gematsu. 2017年4月22日閲覧。
+
+^ “Tekken 7 Coming to Xbox One, PlayStation 4, and PC in Early 2017”. Shoryuken. 2016年6月13日閲覧。
+
+^ “Tekken 7 – E3 Trailer XB1, PS4, PC”. YouTube (2015年6月13日). 2015年6月15日閲覧。
+
+^ Makuch, Eddie (2017年6月5日). “Top 10 UK Sales Chart - Tekken 7 Is No. 1, Overwatch Surges After Price Drop”.   GameSpot. 2017年6月7日閲覧。
+
+^ Arif, Shabana (2017年6月5日). “Tekken 7 is the first UK No.1 for the series in almost 20 years”.   VG247. 2017年6月7日閲覧。
+
+^ TOP 40 ENTERTAINMENT SOFTWARE - INDIVIDUAL FORMATS (VALUE), WEEK ENDING 10 June 2017
+
+^ “Japan's Video Game Rankings, May 29-June 4”.   Anime News Network (2017年6月7日). 2017年6月8日閲覧。
+
+^ Dunning, Jason (2017年6月7日). “Japanese Sales Chart: Tekken 7 Debuts in 1st, Sells Nearly 59,000 Copies”.   PlayStation LifeStyle. 2017年6月17日閲覧。
+
+^ “Japan's Video Game Rankings, June 5–11”.   Anime News Network (2017年6月14日). 2017年12月23日閲覧。
+
+^ Makuch, Eddie (2017年6月8日). “Top 10 AU/NZ Sales Chart - Tekken 7 Lands On Top”.   GameSpot. 2017年12月23日閲覧。
+
+^ Grubb, Jeff (2017年7月20日). “June 2017 NPD: Tekken and Injustice roundhouse kick the sales chart”.   Venturebeat. 2017年7月26日閲覧。
+
+^ Massongill, Justin (2017年7月7日). “PlayStation Store: June’s Top Downloads”.   PlayStation Blog. 2017年12月23日閲覧。
+
+^ Suddi, Aran (2017年7月9日). “EU PS Store Chart June: Crash Bandicoot N.Sane Trilogy Smashes Its Way To The Top”. thesixthaxis.com. 2017年12月23日閲覧。
+
+^ “ゲーム業界の著名人に聞く2017年の振り返りと2018年への抱負。今年は過去最多の182人”. 4Gamer.net.   Aetas (2017年12月28日). 2018年10月26日閲覧。
+
+^ Khan, Zarmena (2017年12月31日). “Tekken 7 Sales Have Reached 3 Million”.   PlayStation LifeStyle. 2018年1月11日閲覧。
+
+^ https://www.animenewsnetwork.com/daily-briefs/2018-05-13/dragon-ball-fighterz-sells-2.5-million-copies-tekken-7-sells-2.8-million-copies-worldwide/.131507
+
+^ Khan, Zarmena (2017年12月31日). “Tekken's Harada On Choosing Upcoming Character Crossovers”.   Game Informer. 2018年2月4日閲覧。
+
+^ a b “Tekken 7 for PC Reviews”.   Metacritic. 2017年5月31日閲覧。
+
+^ a b “Tekken 7 for PlayStation 4 Reviews”.   Metacritic. 2017年5月31日閲覧。
+
+^ a b “Tekken 7 for Xbox One Reviews”.   Metacritic. 2017年5月31日閲覧。
+
+^ a b Carter, Chris (2017年5月31日). “Review: Tekken 7”.   Destructoid. 2017年5月31日閲覧。
+
+^ a b Slead, Evan (2017年5月31日). “Tekken 7 review”.   Electronic Gaming Monthly. 2017年5月31日閲覧。
+
+^ a b Romano, Sal (2017年5月23日). “Famitsu Review Scores: Issue 1486”.   Gematsu. 2017年5月24日閲覧。
+
+^ Vazquez, Suriel (2017年5月31日). “Ruling With An Iron Fist - Tekken 7 - PlayStation 4”.   Game Informer. 2017年5月31日閲覧。
+
+^ a b Kozanitis, James (2017年6月5日). “Tekken 7 Review – Daddy Issues Have Never Been So Fun”.   Game Revolution. 2017年6月5日閲覧。
+
+^ a b “Tekken 7”. GamesMaster:  70. (July 2017). 
+
+^ Brown, Peter (2017年6月5日). “Tekken 7 Review”.   GameSpot. 2017年6月5日閲覧。
+
+^ a b Elliott, Matt (2017年5月31日). “Tekken 7 review: 'A powerful, gratifying, deeply cinematic fighting game'”.   GamesRadar. 2017年5月31日閲覧。
+
+^ a b Huskey, Darry (2017年6月2日). “Tekken 7 Review”.   IGN. 2017年6月2日閲覧。
+
+^ a b Houghton, Dave (2017年6月5日). “Tekken 7 review”.   PC Gamer. 2017年6月5日閲覧。
+
+^ a b Stark, Chelsea (2017年6月20日). “Tekken 7 review”.   Polygon. 2017年12月23日閲覧。
+
+^ a b “Game review: Tekken 7 puts up a good fight”. メトロ. (2017年5月31日). http://metro.co.uk/2017/05/31/tekken-7-review-an-unreal-fighter-6673716/ 2017年12月23日閲覧。 
+
+^ Facchetti, Filippo (2017年5月31日). “Tekken 7 - recensione”.   Eurogamer Italy. 2017年12月23日閲覧。
+
+^ Oertel, Mathias. “Tekken 7 - Test, Action - 4Players.de” (German).   4Players. 2017年12月23日閲覧。
+
+^ a b 馬淵寛昭 (2017年6月18日). “鉄拳7 レビュー”. 2018年10月28日閲覧。
+
+^ Cork, Jeff (2018年1月4日). “Reader's Choice Best Of 2017 Awards (Page 2)”.   Game Informer. 2018年1月19日閲覧。
+
+^ Devore, Jordan (2017年12月11日). “Nominees for Destructoid's Best PS4 Game of 2017”.   Destructoid. 2018年1月19日閲覧。
+
+^ “Best of 2017 Awards: Best Fighting Game”.   IGN (2017年12月20日). 2018年1月19日閲覧。
+
+^ Giant Bomb staff (2017年12月26日). “Game of the Year 2017 Day Two: Music, Surprise, Multiplayer, and Mess”.   Giant Bomb. 2018年1月19日閲覧。
+
+^ Giant Bomb staff (2017年12月29日). “Game of the Year 2017 Day Five: Best, Worst, Cast, and Capture”.   Giant Bomb. 2018年1月19日閲覧。
+
+^ LeJaq, Yannick (2014年12月10日). “Why Some People Are Freaking Out Over A New Tekken Character”. Kotaku. 2015年1月10日閲覧。
+
+^ “Tekken 7 reveals Saudi Arabian character Shaheen”. Eurogamer.net.   Eurogamer. 2015年9月29日閲覧。
+
+^ “Tekken 7: Harada twittert über Lucky Chloe und Shaheen”. 2015年1月12日閲覧。
+
+^ “Harada on Twitter”. Twitter. 2016年3月25日閲覧。
+
+^ “Katsuhiro Harada on Twitter: "Yeah. This moment, We receive over 90% positive feedback from fan community and Philippines gamer community.…"”.   Twitter.com (2015年4月1日). 2015年10月23日閲覧。
+
+^ “Katsuhiro Harada on Twitter: "Yep only 4~6%. I know. RT@darren_rigor07 im darren from philippines. I like Josie Rizal pls dont delete her. because of 1% negative comment."”.   Twitter.com (2015年4月2日). 2015年10月23日閲覧。
+
+^ “Meet Josie Rizal, the new Filipino character in 'Tekken 7'”.   Rappler.com (2015年3月30日). 2018年10月22日閲覧。
+
+^ Alixandra Caole Vila (2015年3月30日). “Netizens: What should be Josie Rizal's finishing move?”.   Philippine Star. 2018年10月22日閲覧。
+
+^ Edwin P. Sallan (2015年3月30日). “New Pinay character Josie Rizal in ‘Tekken 7’ videogame stirs controversy”.   InterAksyon.com. 2018年10月22日閲覧。
+
+^ a b 豊田恵吾. “フィリピン政府機関NCCA『鉄拳7』新キャラへの言及は誤報【やじ馬ニュース】”. ファミ通.   エンターブレイン. 2018年10月22日閲覧。
+
+^ “NCCA official unhappy with Tekken character 'Josie Rizal'”.   GMA News Online (2015年3月31日). 2018年10月22日閲覧。
+
+^ Balita Pilipinas, GMA News TV, March 31, 2015
+
+^ “Tekken developer says Josie Rizal won't be deleted following 'NCCA' row”.   MSN (2015年4月3日). 2015年4月3日閲覧。
+
+^ “Game Critics Awards: Best of E3 2016 (2016 Nominees)”.   Game Critics Awards. 2018年1月19日閲覧。
+
+^ Makuch, Eddie (2017年12月8日). “The Game Awards 2017 Winners Headlined By Zelda: Breath Of The Wild's Game Of The Year”.   GameSpot. 2018年1月19日閲覧。
+
+^ Makuch, Eddie (2018年2月22日). “Legend Of Zelda: Breath Of The Wild Wins Game Of The Year At DICE Awards”.   GameSpot. 2018年2月23日閲覧。
+
+^ “Nominee List for 2017”.   National Academy of Video Game Trade Reviewers (2018年2月9日). 2018年2月17日閲覧。
+
+^ “Horizon wins 7; Mario GOTY”.   National Academy of Video Game Trade Reviewers (2018年3月13日). 2018年3月14日閲覧。
+
+^ McNeill, Andrew (2018年1月31日). “Here Are Your 2018 SXSW Gaming Awards Finalists!”.   SXSW. 2018年2月2日閲覧。
+
+^ IGN Studios (2018年3月17日). “2018 SXSW Gaming Awards Winners Revealed”.   IGN. 2018年3月18日閲覧。
+
+
+外部リンク[編集]
+鉄拳7 公式サイト
+鉄拳7 FATED RETRIBUTION 公式サイト
+鉄拳7 FATED RETRIBUTION ROUND2 公式サイト
+家庭用版鉄拳7 公式サイト
+表話編歴鉄拳シリーズシリーズ作品
+鉄拳（初代）
+鉄拳2
+鉄拳3
+鉄拳4
+鉄拳5（DR）
+鉄拳6（BR）
+鉄拳3D
+鉄拳7
+タッグシリーズ作品
+鉄拳タッグトーナメント
+鉄拳タッグトーナメント2
+派生作品
+デス バイ ディグリーズ
+アーバンレイン
+ストリートファイター X 鉄拳
+ポッ拳
+クロスオーバー（否格闘ゲーム）
+NAMCO x CAPCOM
+PROJECT X ZONE
+PROJECT X ZONE 2:BRAVE NEW WORLD
+スマッシュコート プロトーナメント
+映画
+TEKKEN -鉄拳-（実写映画）
+鉄拳 ブラッド・ベンジェンス（CGアニメ映画）
+鉄拳 Kazuya's Revenge（実写映画）
+他のメディア展開
+鉄拳R（パチスロ）
+パチスロ鉄拳2nd
+パチスロ鉄拳 DEVIL Ver.
+パチスロ鉄拳3rd
+関連項目
+ゲームシステム
+登場人物
+関連人物
+世取山宏秋
+原田勝弘
+ゲストキャラクター
+ゴン『ゴン』
+豪鬼『ストリートファイター』
+ギース・ハワード『餓狼伝説』
+ノクティス・ルシス・チェラム『ファイナルファンタジーXV』
+ニーガン『ザ・ウォーキング・デッド』
+
+表話編歴メディアクリエイト週間ソフトセルスルーランキング第1位(2017年6月4日付)1月
+1日 ポケットモンスター サン・ムーン
+8日 スーパーマリオメーカー for ニンテンドー3DS
+15日 キングダム ハーツ HD 2.8 ファイナル チャプター プロローグ
+22日 GRAVITY DAZE 2/重力的眩暈完結編:上層への帰還の果て、彼女の内宇宙に収斂した選択
+29日 バイオハザード7 レジデント イービル (PS4)
+2月
+5日 バイオハザード7 レジデント イービル (PS4)
+12日 ドラゴンクエストモンスターズ ジョーカー3 プロフェッショナル
+19日 フォーオナー (PS4)
+26日 ニーア オートマタ (PS4)
+3月
+5日 ゼルダの伝説 ブレス オブ ザ ワイルド (NS)
+12日 ゴーストリコン ワイルドランズ (PS4)
+19日・26日 モンスターハンターダブルクロス
+4月
+2日・9日・16日 モンスターハンターダブルクロス
+23日 ファイアーエムブレム Echoes もうひとりの英雄王
+30日 マリオカート8 デラックス
+5月
+7日・14日・21日 マリオカート8 デラックス
+28日 イースVIII -Lacrimosa of DANA- (PS4)
+6月
+4日 鉄拳7 (PS4)
+11日 マリオカート8 デラックス
+18日・25日 ARMS
+7月
+2日 ラジアントヒストリア パーフェクトクロノロジー
+9日 ガンダムバーサス
+16日 ファイナルファンタジーXII ザ ゾディアック エイジ
+23日 スプラトゥーン2
+30日 ドラゴンクエストXI 過ぎ去りし時を求めて (3DS)
+8月
+6日・13日・20日 ドラゴンクエストXI 過ぎ去りし時を求めて (3DS)
+27日 モンスターハンターダブルクロス Nintendo Switch Ver.
+9月
+3日 New みんなのGOLF
+10日 Destiny 2 (PS4)
+17日 ウイニングイレブン 2018 (PS4)
+24日 ポッ拳 POKKÉN TOURNAMENT DX
+10月
+1日 英雄伝説 閃の軌跡III
+8日 マリオ&ルイージRPG1 DX
+15日 シャドウ・オブ・ウォー (PS4)
+22日 グランツーリスモSPORT
+29日 スーパーマリオ オデッセイ
+11月
+5日 コール オブ デューティ ワールドウォーII (PS4)
+12日 スーパーマリオ オデッセイ
+19日・26日 ポケットモンスター ウルトラサン・ウルトラムーン
+12月
+3日 ポケットモンスター ウルトラサン・ウルトラムーン
+10日 龍が如く 極2
+17日 妖怪ウォッチバスターズ2 秘宝伝説バンバラヤー
+24日・31日 スーパーマリオ オデッセイ
+
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+典拠管理 
+BNF: cb17707197h (データ)
+MBW: 256ff3d6-ea9e-477c-8ad7-57cc8813529b
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=鉄拳7&oldid=83363735」から取得
+カテゴリ: 鉄拳シリーズ2015年のアーケードゲーム2017年のコンピュータゲームPlayStation 4用ソフトPlayStation VR用ソフトXbox One用ソフトALL.NetAmusement ICミリオンセラーのゲームソフトUnreal Engineを採用したゲームソフト隠しカテゴリ: 出典を必要とする記事/2018年10月BNF識別子が指定されている記事MusicBrainz作品識別子が指定されている記事
+

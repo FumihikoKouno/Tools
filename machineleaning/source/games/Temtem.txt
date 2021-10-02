@@ -1,0 +1,77 @@
+
+
+
+
+
+Temtem
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+この項目「Temtem」は翻訳されたばかりのものです。不自然あるいは曖昧な表現などが含まれる可能性があり、このままでは読みづらいかもしれません。（原文：英語版 "Temtem" 2020年2月13日 (木) 02:59(UTC)）
+修正、加筆に協力し、現在の表現をより自然な表現にして下さる方を求めています。ノートページや履歴も参照してください。（2020年2月）
+Temtemジャンル
+MMORPG対応機種
+
+Windows
+PlayStation 4
+Xbox One
+Nintendo Switch
+開発元
+Crema発売元
+Humble Bundleディレクター
+Guillermo Andrades人数
+
+シングルプレイヤー
+マルチプレイヤー（英語版）
+発売日
+Win000000002020-01-21-00002020年1月21日 (早期アクセス)家庭用ゲーム機未定エンジン
+Unityテンプレートを表示
+Temtem (テムテム) は、スペインのCremaによって開発され、Humble Bundleによって発売されたMMORPGである。
+000000002020-01-21-00002020年1月21日にSteamで早期アクセスとして販売が開始された。
+今後、PlayStation 4、Xbox One及びNintendo Switchでの販売も計画されている。
+TemtemはゲームエンジンとしてUnityを使用しており、任天堂のポケットモンスターシリーズに大きな影響を受けたモンスター収集ゲームである[1]。
+開発資金の一部は、000000002018-05-01-00002018年5月から6月にかけて行われたKickstarterを介したクラウドファンディングによって調達した[2]。
+
+目次
+
+1 プロットとゲームシステム
+2 脚注
+3 関連項目
+4 外部リンク
+
+
+プロットとゲームシステム[編集]
+Temtemのゲームシステムはポケットモンスターシリーズに大きな影響を受けている。
+プレイヤーはフィールドを探索し、テムテム (Temtem) と呼ばれるモンスターを捕獲して、NPC又は他のプレイヤーのテムテムとバトルをする。
+プレイヤーはテイマー (Tamer) として旅に出て、エアボーン諸島 (Airbone Archipelago) の6つの浮島を巡る。
+同時に、島々を支配する悪の組織であるクラン・ベルソト (Clan Belsoto) と対峙する。
+
+脚注[編集]
+
+
+^ Jordan Gerblick (2019年12月6日). “TemTem is a Pokemon-like MMO coming to Steam next month”.   GamesRadar+. 2020年2月27日閲覧。
+
+^ Lauren Morton (2020年1月6日). “You can join the free stress test for creature catching MMO Temtem”.   Rock Paper Shotgun. 2020年2月27日閲覧。
+
+
+関連項目[編集]
+
+
+
+ポータル コンピュータゲーム
+ポケットモンスター
+外部リンク[編集]
+公式ウェブサイト （英語）
+Temtem - Steam
+Temtem - YouTubeチャンネル
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Temtem&oldid=82215353」から取得
+カテゴリ: 2020年のコンピュータゲームアクションアドベンチャーゲームオープンワールドゲームスペインで開発されたコンピュータゲームWindows用ゲームソフトPlayStation 5用ソフトXbox Series X/S用ソフトNintendo Switch用ソフトUnityを採用したゲームソフトKickstarterで資金調達したコンピュータゲーム隠しカテゴリ: 翻訳直後
+

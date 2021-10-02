@@ -1,0 +1,222 @@
+
+
+
+
+
+Hollow Knight
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Hollow Knightジャンル
+アクションゲーム対応機種
+PC (Steam, GOG.com, Humble Bundle)Nintendo SwitchXbox OnePlayStation 4開発元
+Team Cherry発売元
+Team Cherry人数
+1人発売日
+PC：2017年2月24日[1]Switch 2018年6月12日[2][3] 2018年6月13日[4][5]XBOne 2018年9月25日[6][7][8][9]PS4 2018年9月25日[10][11] 2018年9月26日[12] 2018年9月27日[13]対象年齢
+CERO：B（12才以上対象）[4][12]ESRB：E10+（10歳以上）[2][7][10]PEGI：7[3][8][13]USK：12（12歳未満提供禁止）[14][15]ACB：PG[9][11]IARC：7+[6]コンテンツアイコン
+CERO：暴力[4][12]ESRB：Fantasy Violence, Mild Blood[2][7][10]PEGI[XBOne] Fear, Mild Violence[8][PS4] Fear, Violence[13]USK：Violence, rare scary moments[15]ACB：Mild Violence, Mild Themes, Scary Scenes[9]IARC：恐怖、軽い暴力[6]エンジン
+Unity売上本数
+PC：100万本(2018年6月11日時点)[16]Switch：25万本(2018年6月末時点)[17]累計：280万本(2019年2月時点)[18]テンプレートを表示
+『Hollow Knight』[注 1]（ホロウナイト）は、オーストラリアのインディーゲームスタジオTeam Cherryが開発、発売したアクションゲーム。
+様々な虫たちが暮らす世界を舞台とした物語で、かつて栄華を極めた地下の王国「ハロウネスト」（Hallownest）を主人公が冒険し、王国の滅亡の歴史や主人公に課された宿命が明らかになる様が描かれる。ゲームシステムはサイドビューで描かれた広大なエリアを探索する「メトロイドヴァニア（英語版）」の形式で、道中のアイテム取得により身につく能力の数々を駆使しながら行動範囲を広げていく。
+
+目次
+
+1 システム
+2 能力
+3 アップデート
+4 開発
+5 受賞・ノミネート
+6 脚注
+
+6.1 注釈
+6.2 出典
+
+
+7 外部リンク
+
+
+システム[編集]
+作品の舞台となる世界は複数のエリアで構成されている。各エリアに滞在するキャラクター、コーニファー（Cornifer）に通貨を支払い地図を購入することでそのエリアの一部が確認できるようになるほか、地上の拠点で販売されているアイテム「地図と羽ペン」を購入すると踏破した未記載の部分がセーブ時に自動で書き加えられる。
+主人公は槍のような形状の釘を基本武器に用いる。この釘などで敵を攻撃した際には画面上部に表示された球状ゲージに「ソウル」が溜まっていく。ソウルは後述の能力の一部を用いる際に消費される。
+主人公がダメージを受けライフが尽きると最後にセーブした場所（各所にあるベンチなど）から再開されるが、この際、所持金を全て失い、ソウルを溜めるゲージの上限が下がった状態になる。これらの状態は、力尽きた地点に漂う主人公の影のような姿の敵「カゲ」（Shade）を倒すことで元に戻る。
+各所の店や一部エリア内、一部イベントで手に入る「チャーム」（飾り）を身に着けることで主人公に特殊効果が付加される。チャームは様々な種類があるが、各チャームには1〜4のコストが設定されており、コストの合計が規定の上限値を超えない範囲で複数個装着できる。上限値は「チャームスロット」の入手により増やせる。
+各エリア内の駅にいるキャラクター、スタグ（Stag）に話しかけることで、他のエリアの駅まで長距離移動できる。また、一部エリアにあるトラム（電車）を利用することでも他のエリアに移動できるが、乗車するためにはアイテム「トラムの乗車券」が必要となる。
+ゲームクリア後には、ライフが0になると全てを失うモード「スティールソウル・モード」がプレイ可能となる。
+
+能力[編集]
+アイテムの入手や登場キャラクターからの伝授により能力を会得する。一部能力は新たなアイテムの入手により強化される。
+
+蛾の羽根の衣 → 影の衣
+地上や空中で前方に素早くダッシュする。影の衣は、一部エリアで通路を遮っている黒い気流を通過できる。
+カマキリの爪
+壁に掴まり、そこから更にジャンプできる。
+水晶の心臓
+空中で前方に高速でダッシュし続ける。地面の上で静止した状態かカマキリの爪で壁に掴まった状態で用いる。
+統治者の翼
+ジャンプ中にもう一度ジャンプすることができる。
+フォーカス
+ソウルを消費してライフを一定量回復する。
+イズマの涙
+酸のダメージを無効化する。
+復讐の魂 → シェイドソウル / 亡霊の叫び → アビスの叫び / 破壊のダイブ → 漆黒のダイブ
+ソウルを消費して発動させる強力な攻撃。それぞれ、前方への光弾の発射、上方広範囲の攻撃、下方への突進を行う。一部の脆い地形の破壊にも用いる。
+グレイトスラッシュ / ダッシュスラッシュ / サイクロンスラッシュ
+釘師（釘の技の伝承者）から教わる強力な奥技。それぞれ、前方攻撃、前方突進後の攻撃、左右両側の攻撃を行う。
+夢見の釘
+この技で敵を攻撃すると通常攻撃時よりもソウルを多めに取得できる。また、一部エリアにある植物「ささやきの根」や一部キャラクターに対して用いると、収集アイテムの一種「エッセンス」を入手できるイベントが発生する。
+夢見の門
+任意の1箇所にワープ地点を設置できる。
+後述の更新データ「隠された夢」の配信によりこの能力が追加された[19]。
+アップデート[編集]
+PC版の発売後、無料の大型アップデートが4回にわたり実施された。なお、Nintendo Switch版では最初の3回分が、Xbox One版とPlayStation 4版では4回分全てが初めから含まれている。
+本項では主な追加要素について記述する。
+
+隠された夢 (Hidden Dreams)
+配信日：2017年8月3日[20]
+「夢見の門」の能力の追加
+新たなボスとBGMの追加
+新たな駅の追加
+テキストの日本語表示に対応[21]
+グリム巡業団 (The Grimm Troupe)
+配信日：2017年10月26日[22]
+新たなキャラクター「グリム巡業団」にまつわるエピソードの追加
+新たな敵キャラクターの追加
+新たなチャームの追加
+新たな地図機能の追加
+生命の血 (Lifeblood)
+配信日：2018年4月20日[23]
+2018年3月24日より実施したオープンベータテストの後に正式に配信された[24]。
+新たなボスとBGMの追加
+一部ボスの能力などゲームバランスの調整
+新たな地図機能の追加
+神を求む者 (Godmaster)
+配信日：2018年8月23日[25]
+配信前の段階では「Gods & Glory」のタイトルで発表されていたが、同名のゲームソフトが存在していることを考慮し現在の名前に変更された[26][27]。
+今まで戦ったボスと再戦できる場所があるエリア「神の家」の追加
+新たなボスの追加
+開発[編集]
+この節の加筆が望まれています。 （2020年5月）
+本作の開発は2014年より開始され[28]、その後の2014年11月19日から2014年12月19日にかけて行われたKickstarterによるクラウドファンディングでは5万7138豪ドルの資金が集まった[29]。
+本作の開発にはUnityが用いられており、Unityに内蔵されている開発ツールとアセットストアで入手できるツールが用いられた[30]。
+
+受賞・ノミネート[編集]
+SXSW Awards 2017 「Gamer's Voice (Single Player)」ノミネート[31]
+The Game Awards 2017（英語版） 「Best Debut Indie Game」ノミネート[32]
+Destructoid（英語版） Game of the Year Awards 2017 「Best PC Game」ノミネート[33]
+PC Gamer 2017 Game of the Year Awards 「Best Platformer」受賞[34]
+IGN Best of 2017 Awards 「Best Platformer」ノミネート[35]
+第18回ゲーム・デベロッパーズ・チョイス・アワード「Best Debut」ノミネート（開発したTeam Cherryのノミネート）[36]
+14th British Academy Games Awards（英語版） 「Debut Game」ノミネート[37]
+Golden Joystick Awards 2018 「Nintendo Game of the Year」ノミネート[38]
+Australian Games Awards 2018 「Independent Game of the Year」「Australian Developed Game of the Year」受賞[39]
+2019 National Academy of Video Game Trade Reviewers（英語版） Awards 「Design, New IP」受賞、「Art Direction, Fantasy」「Character Design」「Game, Original Action」ノミネート[40]
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+
+
+^ 欧米のXbox One版と欧州のPlayStation 4版は『Hollow Knight: Voidheart Edition』、米国のPlayStation 4版は『Hollow Knight Voidheart Edition』、日本のXbox One版は『Hollow Knight: ヴォイドハート・エディション』のタイトルで配信されている。
+
+
+出典[編集]
+
+
+^ “Team Cherry公式Twitter” (2017年2月11日). 2018年10月3日閲覧。
+
+^ a b c “Hollow Knight for Nintendo Switch” (英語).   Nintendo of America. 2018年10月3日閲覧。
+
+^ a b “Hollow Knight｜Nintendo Switch download Software｜Games” (英語).   Nintendo UK. 2018年10月3日閲覧。
+
+^ a b c “Hollow Knight”.   任天堂. 2018年10月3日閲覧。
+
+^ “Nintendo AU NZ公式Twitter” (2018年6月13日). 2019年1月9日閲覧。
+
+^ a b c “Hollow Knight: ヴォイドハート・エディション”.   Microsoft Store jp-JP. 2018年10月3日閲覧。
+
+^ a b c “Buy Hollow Knight: Voidheart Edition” (英語).   Microsoft Store. 2018年10月3日閲覧。
+
+^ a b c “Buy Hollow Knight: Voidheart Edition” (英語).   Microsoft Store en-GB. 2018年10月3日閲覧。
+
+^ a b c “Buy Hollow Knight: Voidheart Edition” (英語).   Microsoft Store en-AU. 2019年1月9日閲覧。
+
+^ a b c “Hollow Knight Voidheart Edition on PS4” (英語).   Official PlayStation Store US. 2018年10月3日閲覧。
+
+^ a b “Hollow Knight: Voidheart Edition on PS4” (英語).   Official PlayStation Sore Australia. 2019年1月9日閲覧。
+
+^ a b c “ゲームソフト｜Hollow Knight”.   プレイステーション. 2018年10月3日閲覧。
+
+^ a b c “Hollow Knight: Voidheart Edition on PS4” (英語).   Official PlayStation Store UK. 2018年10月3日閲覧。
+
+^ “Hollow Knight｜Nintendo Switch download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2018年10月3日閲覧。
+
+^ a b “Hollow Knight: Voidheart-Edition kaufen” (ドイツ語).   Microsoft Store de-DE. 2018年10月3日閲覧。
+
+^ “『Hollow Knight』の販売数がPCで100万本を突破！”.   IGN Japan (2018年7月6日). 2018年10月3日閲覧。
+
+^ “Switch版『Hollow Knight』、配信開始から2週間で25万本以上を売り上げ”.   IGN Japan (2018年7月3日). 2018年10月3日閲覧。
+
+^ “HOLLOW KNIGHT: SILKSONG REVEALED!”.   TeamCherry (2018年2月14日). 2019年3月28日閲覧。
+
+^ “『Hollow Knight』の無料DLC「Hidden Dreams」が8月3日にリリースへ。キュートな手描きキャラが進む探索2Dアクション”.   AUTOMATON (2017年7月22日). 2018年10月3日閲覧。
+
+^ “Hidden Dreams has Launched!” (英語).   Team Cherry (2017年8月3日). 2018年10月3日閲覧。
+
+^ “『Hollow Knight』拡張アップデート“Hidden Dreams”配信開始！―日本語版もベータ実装に”.   Game*Spark (2017年8月4日). 2018年10月3日閲覧。
+
+^ “The Grimm Troupe Release Date! Inktober! PAX Aus Speedrun!” (英語).   Team Cherry (2017年10月19日). 2018年10月3日閲覧。
+
+^ “Hollow Knight: Lifeblood has launched!” (英語).   Team Cherry (2018年4月20日). 2018年10月3日閲覧。
+
+^ “Hollow Knight: Lifeblood now on public beta! Short Switch Update!” (英語).   Team Cherry (2018年3月24日). 2018年10月3日閲覧。
+
+^ “Hollow Knight: Godmaster is out now for all players!” (英語).   Team Cherry (2018年8月23日). 2018年10月3日閲覧。
+
+^ “Hollow Knight: Gods & Glory is now Godmaster!” (英語).   Team Cherry (2018年8月15日). 2018年10月3日閲覧。
+
+^ “『Hollow Knight』最終章となる大型アップデート「Godmaster」配信開始。ボスラッシュモードに挑戦可能”.   AUTOMATON (2018年8月24日). 2018年10月3日閲覧。
+
+^ “横スクロールと虫に魅せられて”.   Made with Unity (2018年3月1日). 2018年10月3日閲覧。
+
+^ “Hollow Knight by Team Cherry”.   Kickstarter. 2018年10月3日閲覧。
+
+^ “横スクロールと虫に魅せられて”. Made with Unity (2018年3月1日). 2020年5月2日閲覧。
+
+^ “Gamer’s Voice Nominees Revealed for SXSW Gaming 2017” (英語).   SXSW Gaming (2017年1月31日). 2018年10月3日閲覧。
+
+^ “The Game Awards 2017 Winners Headlined By Zelda: Breath Of The Wild's Game Of The Year” (英語).   GameSpot (2017年12月8日). 2018年10月3日閲覧。
+
+^ “Nominees for Destructoid's Best PC Game of 2017” (英語).   Destructoid (2017年12月12日). 2018年10月3日閲覧。
+
+^ “Best Platformer 2017: Hollow Knight” (英語).   PC Gamer (2017年12月17日). 2018年10月3日閲覧。
+
+^ “Best Platformer - Best of 2017 Awards” (英語).   IGN. 2018年10月3日閲覧。
+
+^ “Legend Of Zelda: Breath Of The Wild Wins Another Game Of The Year Award” (英語).   GameSpot (2018年3月22日). 2018年10月3日閲覧。
+
+^ “BAFTA names What Remains of Edith Finch its best game of 2017” (英語).   Destructoid (2018年4月12日). 2018年10月3日閲覧。
+
+^ “『フォートナイト』がGOTY！「2018 Golden Joystick Awards」受賞作品リスト―生涯功労賞は宮崎英高氏”.   Game*Spark (2018年11月17日). 2019年1月9日閲覧。
+
+^ “All The Winners From The Australian Games Awards” (英語).   PRESS-START (2018年12月20日). 2019年1月9日閲覧。
+
+^ “Winners” (英語).   National Academy of Video Game Trade Reviewers Corporation. 2019年4月5日閲覧。
+
+
+外部リンク[編集]
+Hollow Knight 公式サイト（英語）
+Hollow Knight: ヴォイドハート・エディションに関するカテゴリ:
+ Xbox One用ソフト 
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Hollow_Knight&oldid=81946708」から取得
+カテゴリ: 2017年のコンピュータゲームWindows用ゲームソフトNintendo Switch用ソフトPlayStation 4用ソフトオーストラリアで開発されたコンピュータゲームアクションゲームUnityを採用したゲームソフト文明崩壊後の世界が描かれたコンピュータゲーム地下を舞台とした作品Kickstarterで資金調達したコンピュータゲームインディーゲーム隠しカテゴリ: 書きかけの節のある項目
+

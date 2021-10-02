@@ -1,0 +1,72 @@
+
+
+
+
+
+Etherborn
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Etherbornジャンル
+アクションパズル対応機種
+PC（Windows）Xbox OnePlayStation 4Nintendo Switch開発元
+Altered Matter発売元
+Akupara Games発売日
+PC2019年7月18日[1]XBOne 2019年7月18日[1] 2019年10月2日[2]PS4, Switch 2019年7月18日[1] 2019年10月3日[3]対象年齢
+CERO：A（全年齢対象）ESRB：E（6歳以上）PEGI：3USK：0ACB：GIARC：3+エンジン
+Unityテンプレートを表示
+『Etherborn』（イーサーボーン）は、スペインのインディーゲームスタジオAltered Matterが開発しAkupara Gamesより発売された3Dアクションパズルゲーム。
+
+目次
+
+1 概要
+2 受賞・ノミネート
+3 脚注
+4 外部リンク
+
+
+概要[編集]
+プレイヤーは人間のような造形をした「声のない存在」となり、どこからか聞こえてくる「体のない声」に導かれながら不思議な異世界を探索していく。舞台となる世界の地形は各々の面に対して垂直方向に重力が働いており、面と面の境が曲面となっている場所にプレイヤーが進んでいくとそのまま壁に足をつけて歩く状態となる。ステージの各所には「光のオーブ」が配置されており、これらを取得して所定の場所に置くことで地形を変化させながら攻略を進めることになる。
+開発にあたり、Altered MatterはFig（英語版）のサイトでクラウドファンディングを実施し目標額の3万ドルを超える資金の調達に成功した[4]。また、20世紀フォックスのゲーム開発・販売部門であるFoxNext Gamesが2019年2月7日に設立したインディーゲーム支援ファンドの最初の支援先としてAltered Matterが選ばれている[5]。
+
+受賞・ノミネート[編集]
+Gamelab 2016 「Mejor Juego del Indie Hub（最優秀Indie Hubゲーム）」受賞[6]
+AzPlay 2016 「mejor diseño creativo（最優秀クリエイティブデザイン）」受賞[7]
+Valencia Indie Awards 2018 「Mejores Gráficos（優秀グラフィックス）」受賞[8]
+BIC（朝鮮語版） Awards 2018 「Grand Prix」「Excellence In Art」「Excellence In Experimental」「Excellence In Game Design」ノミネート[9]
+脚注[編集]
+[脚注の使い方]
+
+
+^ a b c “独特の浮遊感が気持ちいいスペイン生まれのアクションパズル，「Etherborn」がリリース”.   4Gamer.net (2019年7月19日). 2020年8月1日閲覧。
+
+^ “Etherborn［Xbox_One］”.   4Gamer.net. 2020年8月1日閲覧。
+
+^ “『Etherborn』配信開始。華麗なグラフィックと重力のユニークな法則が魅力的なパズルゲーム！”.   ファミ通.com (2019年10月3日). 2020年8月1日閲覧。
+
+^ “Etherborn” (英語).   Fig. 2020年8月1日閲覧。
+
+^ “20世紀フォックスのゲーム部門が、インディーゲームの開発支援に乗り出す。第1弾は『Etherborn』重力の方向を変えて進むパズルACT”.   AUTOMATON (2019年2月9日). 2020年8月1日閲覧。
+
+^ “Etherborn, el juego indie del que todos hablan” (スペイン語).   HobbyIndustria (2016年7月11日). 2020年8月1日閲覧。
+
+^ “AzPlay 2016” (スペイン語) (2016年12月18日). 2020年8月1日閲覧。
+
+^ “VLC INDIE SUMMIT 2018” (スペイン語).   VALENCIA INDIE SUMMIT. 2020年8月1日閲覧。
+
+^ “BIC Fest 2018 Finalist and Localization news” (英語).   Fig (2018年10月6日). 2020年8月1日閲覧。
+
+
+外部リンク[編集]
+公式サイト（英語）
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Etherborn&oldid=81945027」から取得
+カテゴリ: 2019年のコンピュータゲームWindows用ゲームソフトXbox One用ソフトPlayStation 4用ソフトNintendo Switch用ソフトスペインで開発されたコンピュータゲームインディーゲームアクションパズルUnityを採用したゲームソフトクラウドファンディングで資金調達したコンピュータゲーム
+

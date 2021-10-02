@@ -1,0 +1,93 @@
+
+
+
+
+
+Flowery
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+
+
+
+
+
+この項目では、thatgamecompany製作のコンピュータゲームについて説明しています。ClariSの楽曲については「BIRTHDAY (ClariSのアルバム)」をご覧ください。
+
+
+Floweryジャンル
+ポエティックアドベンチャー対応機種
+PlayStation 3PlayStation 4PlayStation VitaiOSMicrosoft Windows (Steam、GOG.com、Epic Games Store配信)開発元
+thatgamecompany発売元
+ソニー・コンピュータエンタテインメント （PS3、PS4、PS Vita）アンナプルナ・インタラクティブ（iOS、PC）ディレクター
+陳星漢人数
+1人メディア
+
+ダウンロード
+PlayStation Store（PS3、PS4、PS Vita）App Store （iOS）Steam、GOG.com、Epic Games Store（PC）
+発売日
+2009年2月12日（PS3）2014年2月22日（PS4、PS Vita）2017年9月28日（iOS）2019年2月14日 （PC）対象年齢
+CERO：A（全年齢対象）デバイス
+モーションセンサー、他テンプレートを表示
+『Flowery』（フラアリー）は、アメリカのゲームソフト制作会社である thatgamecompany（英語版） が制作し、ソニー・コンピュータエンタテインメントが発売したコンピュータゲーム。PlayStation 3、PlayStation 4、PlayStation Vita用がある。のちに、iOSやMicrosoft Windowsに移植された。
+
+目次
+
+1 概要
+2 ゲームの内容
+3 操作
+4 脚注
+5 外部リンク
+
+
+概要[編集]
+2009年2月12日に、PlayStation StoreにおいてPlayStation 3用ダウンロード専売ソフトとして発売された。原題は『Flower』（フラワー）であるが、Playstation Storeでは商標の関係でタイトルが変更されている。Playstation Store以外での販売タイトルは、原題である『Flower』のままである。
+発売直後から独特の世界観や操作感がゲームレビューのブログや口コミで話題となり、徐々に評判が広がっていった。海外のゲームレビューサイトでは高評価を受け、GDC2009において、ベストダウンロードゲームに選出されている。2013年にPlayStation 4版とPS Vita版も発売されている[1]。2017年9月28日にApp Storeへの配信が行われた。2019年2月14日にPC版の配信がSteam、GOG.com、Epic Gamesストアより行われた。
+対戦型の他の多くのゲームと違い時間制限もノルマもなく、心を癒すゲームというユニークな点が評価され、Spike Video Game Awardsで"best independent game of 2009"、Academy of Interactive Arts and Sciencesの"Casual Game of the Year"などの賞を受賞している。2013年にはスミソニアン博物館が永久所蔵品に決定した[2]。
+
+ゲームの内容[編集]
+プレイヤーは1枚の花弁となり、ステージを飛び回りながら各所に点在する花のつぼみに触れることによって花を咲かせていき、一定の条件を満たすとステージクリアとなる。制限時間やスコアは設けられておらず、ステージのエリア指定はあるがその中でならどこでも自由に飛び回ることができる。トロフィーに対応。
+
+操作[編集]
+操作は、モーションセンサーを用いる。コントローラを任意の方向に傾けることで進行方向を決め、セレクト/スタートボタンを除く任意のボタンを押すことにより風を吹かせ、速度を上げることができる。
+なお、欧米版『Flower』はPlayStation Moveに対応しているが、日本版は現在のところ未対応である。
+PC版ではキーボードやマウス、モーションセンサーを搭載しない通常のコントローラなどによって操作することができる（デュアルショック4を接続した場合、適切な設定を行えばモーションセンサーを用いた操作も可能）。
+
+脚注[編集]
+
+^ 日本では2014年2月22日発売。
+
+^ “スミソニアン美術館、ゲーム２作品を永久所蔵品に”. MSN産経ニュース. WIRED (産経新聞). (2013年12月27日). http://sankei.jp.msn.com/wired/news/131227/wir13122718380000-n1.htm 2014年2月27日閲覧。 
+
+
+外部リンク[編集]
+SCE公式ホームページ
+
+表話編歴Thatgamecompany（英語版）ビデオゲーム
+雲 (ゲーム)（英語版） · flOw · Flowery · 風ノ旅ビト · Sky 星を紡ぐ子どもたち（英語版）
+
+開発者
+陳星漢 · Template:ケリー・サンティアゴケリー・サンティアゴ
+
+
+
+
+この項目は、コンピュータゲームに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（P:コンピュータゲーム / PJコンピュータゲーム）。
+
+典拠管理 
+BNF: cb16759944h (データ)
+MBRG: 18e1b9e4-2872-4902-8ee9-4a2f0bfc735d
+VIAF: 308643603
+ WorldCat Identities（VIAF経由）: 308643603
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Flowery&oldid=82102158」から取得
+カテゴリ: 2009年のコンピュータゲームPlayStation 3用ソフトPlayStation 4用ソフトPlayStation Vita用ソフトアンナプルナ・インタラクティブのゲームソフトオールタイム100ビデオゲーム選出隠しカテゴリ: Titlestyleにbackgroundとtext-alignを両方指定しているcollapsible list使用ページコンピュータゲーム関連のスタブ記事BNF識別子が指定されている記事MusicBrainzリリース・グループ識別子が指定されている記事VIAF識別子が指定されている記事WorldCat-VIAF識別子が指定されている記事
+

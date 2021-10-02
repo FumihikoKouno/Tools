@@ -1,0 +1,121 @@
+
+
+
+
+
+Typoman
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+（タイポマンから転送）
+
+
+ナビゲーションに移動
+検索に移動
+Typomanジャンル
+アクションパズル対応機種
+Wii USteam（Windows, MacOS, Linux）Xbox OnePlayStation 4Nintendo SwitchiOS（9.0以降）[1]Android（4.1以降）[2]開発元
+Brainseed Factory発売元
+Brainseed FactoryWales Interactive（Switch（））フライハイワークス（Switch（））Baitian Technology（iOS）uBeeJoy（Android）音楽
+SonicPicnic発売日
+Wii U 2015年11月19日[3][4]Steam：2016年8月15日[5]XBOne 2017年2月17日[5]PS4 2017年2月21日[6][7] 2017年7月24日[8]Switch 2018年2月22日[9][10] 2019年5月30日[11]iOS, Android：2019年2月19日[5]対象年齢
+CERO：A（全年齢対象）[8][11]ESRB：E10+（10歳以上）[3][6][9]PEGI：7[4][7][10]USK：6（6歳未満提供禁止）[12][13][14]iOS：9+[1]Android：7+[2]コンテンツアイコン
+ESRB：Fantasy Violence[3][6][9]PEGI[Wii U, XBOne, PS4] Fear, Violence[4][7][15][Switch] Fear[10]iOS：まれ/軽度なアニメまたはファンタジーバイオレンス[1]Android：恐怖を引き起こすコンテンツ[2]テンプレートを表示
+『Typoman』（タイポマン）は、ドイツのインディーゲームスタジオBrainseed Factoryが開発したアクションパズルゲーム。日本のPlayStation 4版は『タイポマン』、同じく日本のNintendo Switch版は『ワードマン』（Wordman）、iOS版とAndroid版は『Typoman Mobile』（タイポマン モバイル）のタイトルを用いている。
+
+目次
+
+1 概要
+2 システム
+3 受賞・ノミネート
+4 脚注
+5 外部リンク
+
+
+概要[編集]
+「HERO」（英雄）の4文字のアルファベットで形成された姿の主人公が、荒廃した世界で悪の存在と対峙しながら冒険を繰り広げる。作品内では主人公をはじめ多くのものが英単語で表現されているが、主人公は道中にある文字を用いて単語を作成するとその単語の意味に応じて状況を変えることができ、この力を用いてステージ内の仕掛けを解き進めることになる。
+本作は、タイポグラフィとゲームプレイを組み合わせるというアイデアをもとに2011年後半に企画された。当初はゲーム内の物体やキャラクターを文字で表現することだけが決まっていたが、熟慮の末に物語性のあるアクションパズルのジャンルに帰着し、2012年後半には謎解きの一例を示したコンセプトトレーラー映像を作成、それからしばらく間隔が開き、2014年より本格的な制作が開始された[16][17]。
+
+システム[編集]
+サイドビューで描かれたステージ各所にはアルファベットの文字が配置されており、一部エリアには任意の文字を任意の数だけ作り出す装置もある。文字の多くは押したり担いだりして移動でき、前述のように特定の単語を作成すると単語の意味に沿った効果が発動する（例：「OPEN」（開く）の単語を作成すると付近の扉が開く）。また、「HATE」（嫌悪）などのネガティブな単語は主人公を襲う敵に変形し、逆に「LOVE」（愛）などのポジティブな単語を作ると敵の攻撃を防ぐバリアが周囲に発生する。そして、「LIE」（嘘）の単語から変形する生物は、既に作成された単語を吸収し対義語に変換する（例：「YES」（はい） → 「NO」（いいえ））。
+ステージは4つのチャプターに分かれており、それぞれが複数のブロックに区切られている。ステージの一部の場所（主に辿り着きづらい場所）にある「”」の記号を取得すると、「日記」に謎解きのヒントを兼ねた文章が記される。
+ゲームクリア後には、以下の2つのミニゲームがプレイ可能となる。
+
+Antonymizer - 「LIE」の能力を活用しながら、指定された単語を作成する。
+Word Hunter - 60秒間で単語をできるだけ多く作成することを目指す。単語は得点化され、含まれる文字数が多いほど高得点となる。
+受賞・ノミネート[編集]
+Game Connection（英語版） America 2015 Development Awards 「Best Casual」受賞、「Best Console / PC Hardcore」ノミネート[18]
+Best of Quo Vadis 2015 「Best of Quo Vadis」受賞[19]
+Gaming Trend's Best of E3 2015 Awards 「Best Art Style」受賞、「Best Indie」ノミネート[20]
+German Developer Awards 2015 「Best game design」「Best audio」「Best console game」「Best German indie game」「Best German Game」ノミネート[21]
+Deutscher Computerspielpreis（ドイツ語版） 2016 「Beste Inszenierung（Best Scenery）」受賞[22]
+TIGA Games Industry Awards 2018 「Best Puzzle Game」「Visual Design」ノミネート[23]
+脚注[編集]
+[脚注の使い方]
+
+
+^ a b c “Typoman Mobile”.   App Store. 2019年6月4日閲覧。
+
+^ a b c “Typoman Mobile”.   Google Play. 2019年6月4日閲覧。
+
+^ a b c “Typoman for Wii U - Nintendo Game Details” (英語).   Nintendo of America. 2019年6月4日閲覧。
+
+^ a b c “Typoman｜Wii U download software｜Games” (英語).   Nintendo UK. 2019年6月4日閲覧。
+
+^ a b c “Brainseed Factory press kit” (英語).   Brainseed Factory. 2019年6月4日閲覧。
+
+^ a b c “Typoman on PS4” (英語).   Official PlayStation Store US. 2019年6月4日閲覧。
+
+^ a b c “Typoman on PS4” (英語).   Official PlayStation Store UK. 2019年6月4日閲覧。
+
+^ a b “タイポマン”.   プレイステーション. 2019年6月4日閲覧。
+
+^ a b c “Typoman for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2019年6月4日閲覧。
+
+^ a b c “Typoman｜Nintendo Switch download software｜Games” (英語).   Nintendo UK. 2019年6月4日閲覧。
+
+^ a b “ワードマン”.   任天堂. 2019年6月4日閲覧。
+
+^ “Typoman｜Wii U Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2019年6月4日閲覧。
+
+^ “Typoman auf PS4” (ドイツ語).   Offizieller PlayStation Store Deutschland. 2019年6月4日閲覧。
+
+^ “Typoman｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2019年6月4日閲覧。
+
+^ “Typoman” (英語).   Microsoft Store en-GB. 2019年6月4日閲覧。
+
+^ “Wii U exclusive Typoman pays tribute to writers and oppressed authors, uses essential GamePad features” (英語).   Gamezone (2015年6月27日). 2019年6月4日閲覧。
+
+^ “Interview: Brainseed Factory Discusses Typoman's Origins, Wordy Development and Making Use of the GamePad” (英語).   Nintendo Life (2015年8月25日). 2019年6月4日閲覧。
+
+^ “Game Connection America 2015’s Development Awards - Winners Revealed (PR)” (英語).   Events For Gamers (2015年3月5日). 2019年6月4日閲覧。
+
+^ “Typoman gewinnt "Best Of Quo Vadis 2015"” (ドイツ語).   Film und Medienstiftung NRW (2015年6月22日). 2019年6月4日閲覧。
+
+^ “Gaming Trend’s Best of E3 2015 Awards” (英語).   Gaming Trend (2015年6月22日). 2019年6月4日閲覧。
+
+^ “German Developer Awards 2015: Nominations” (英語).   Gamasutra (2015年11月10日). 2019年6月4日閲覧。
+
+^ “Deutscher Computerspielpreis 2016: Das sind die besten Spiele des Jahres” (ドイツ語).   Deutscher Computerspielpreis (2016年4月7日). 2019年6月4日閲覧。
+
+^ “TIGA Announces Games Industry Awards 2018 Finalists” (英語).   TIGA (2018年9月19日). 2019年6月4日閲覧。
+
+
+外部リンク[編集]
+Brainseed Factory 公式サイト（英語）
+フライハイワークス 公式サイト
+タイポマンに関するカテゴリ:
+ PlayStation 4用ソフト 
+ワードマンに関するカテゴリ:
+ Nintendo Switch用ソフト 
+ フライハイワークスのゲームソフト 
+Typoman Mobileに関するカテゴリ:
+ iPhone用ゲームソフト 
+ Android用ゲームソフト 
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Typoman&oldid=83652792」から取得
+カテゴリ: 2015年のコンピュータゲームWii U用ソフトWindows用ゲームソフトMacOSのソフトウェアLinux用ゲームソフトXbox One用ソフトドイツで開発されたコンピュータゲームアクションパズル言葉を題材とした作品インディーゲーム
+

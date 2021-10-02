@@ -1,0 +1,215 @@
+
+
+
+
+
+Celeste
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+
+
+
+
+
+この項目では、コンピュータゲームについて説明しています。その他の用法については「セレステ」をご覧ください。
+
+
+Celesteジャンル
+アクションゲーム対応機種
+PC（Windows, MacOS, Linux）Nintendo SwitchPlayStation 4Xbox One開発元
+Matt Makes Games発売元
+Matt Makes Gamesハチノヨン（ PS4ダウンロード版）フライハイワークス（ Switch, PS4パッケージ版）音楽
+Lena Raine人数
+1人発売日
+PC：2018年1月25日[1][2]Switch 2018年1月25日[3][4] 2018年5月10日[5]PS4 2018年1月25日[6][7] 2019年9月10日[8]XBOne 2018年1月26日[9][10][11]対象年齢
+CERO：A（全年齢対象）[5][8]ESRB：E10+（10歳以上）[3][6][10]PEGI：7[4][7][11]USK：6（6歳未満提供禁止）[12]IARC：7+[9]コンテンツアイコン
+ESRB：Fantasy Violence, Mild Language, Alcohol Reference[3][6][10]PEGI[Switch] Fear, Violence[4][PS4, XBOne] Violence[7][11]IARC：軽い暴力[9]テンプレートを表示
+『Celeste』（セレステ）は、カナダのインディーゲームスタジオMatt Makes Gamesが開発、発売したアクションゲーム。
+
+目次
+
+1 概要
+2 システム
+3 開発
+4 受賞・ノミネート
+5 その他
+6 脚注
+
+6.1 注釈
+6.2 出典
+
+
+7 外部リンク
+
+
+概要[編集]
+標高の高い雪山「セレステ山」[注 1]を舞台としたサイドビューのアクションゲーム。主人公の女性・マデリン[注 2]（Madeline）を操作し、ジャンプやダッシュを用いて高難度の様々なステージを攻略しながら山の頂上を目指す。物語では、マデリンが山を登る中で様々な出会いや出来事を経験しながら自身の内面と向き合い、鬱々とした心が変化していく様が描かれている。
+本作のゲームシステムやレベルデザイン、ストーリーなどは多くのプレイヤーに支持されてMetacriticなどの各種レビューサイトで高い評価を獲得し[13]、後述のように多数のゲーム賞において受賞やノミネートを果たしている。
+Matt Makes Gamesが2019年9月5日付で新スタジオ「Extremely OK Games」を設立したことに合わせ、同年9月9日に、新規ステージとなるチャプター9「別れ」（Farewell）が追加される無料アップデートが実施された[14][15]。
+
+システム[編集]
+マデリンの基本アクションは、ジャンプ、壁にしがみつき上り下りする、空中などで周囲8方向に素早くダッシュする「エアダッシュ」の3種類。ジャンプとエアダッシュは基本的にそれぞれ1回のみ（着地した後に再び動作可能）だが、ステージ内の一部に配置されているクリスタルなどの仕掛けを利用することで空中でも再行動が可能になる。また、壁へのしがみつき時には移動ごとにスタミナを消費し、スタミナが切れると壁から滑り落ちる。なお、上記の回数制限とスタミナ制限は、後述の「アシストモード」での設定変更により緩和できる。
+ステージ各所には収集アイテムのストロベリーが配置されている。このストロベリーは概して取得しづらい場所にあることが多い。触れた時点で即入手できるわけではなく、触れた後に特定の場所に辿り着いた時点で初めて取得したことになる。一部に配置されている羽が生えたストロベリーはエアダッシュを使った瞬間にその場から飛び去る。ストロベリーの取得はゲームクリアに必須ではないが、取得数によりエンディングが僅かに変化する。
+各ステージの特定の場所にはカセットテープのような形のアイテムがあり、これを取得すると通常のステージよりも難易度の高い「B面」をプレイできるようになる。B面はステージ構成が通常のものと全く異なり、BGMも専用曲が使用される。また、全ステージのB面をクリアすると更に難易度の高い「C面」が解禁される。
+一方で、ゲーム初心者向けの仕組みとして、難易度を任意に変更できる「アシストモード」が搭載されている[16]。このモードをゲーム開始時に設定すると、ゲームスピードを通常よりも遅くする、壁を登る際のスタミナを無限にする、エアダッシュ回数を常に2回、あるいは無限にする、無敵になる、クリアしていないステージをスキップする、といった機能を個別に利用できる。モード設定時にはファイル画面にアシストモード使用を示すマークが表示される。
+
+開発[編集]
+本作の開発以前に、Matt Makes GamesのMatt ThorsonとNoel Berryはゲーム制作ツール「PICO-8（英語版）」を用いて本作の原型となるゲームソフトを4日間で作成し、2015年7月21日にホームページ上で無料公開した[17]。当初のゲーム名は「エベレスト」だったが、後に、地元カナダにある同名の山から名前をとり「Celeste」と命名された[18]。なお、この旧Celesteは製品版の中にも収録されている[18]。
+本作の開発は2016年1月より開始された。ゲーム制作ツール「Microsoft XNA」とプログラミング言語「C#」を用いて開発が進められ、当初はNintendo Switch本体の発売日と同日（2017年3月3日）の発売を目指していたが、作り込みを要する箇所の多さを考慮し開発開始から9か月程の時期に計画の延期を決定、その後の1年間で納得のいく水準まで仕上げることに注力し、2017年末に完成に至った[19][16]。
+
+受賞・ノミネート[編集]
+
+2017 National Academy of Video Game Trade Reviewers（英語版） Awards[20]
+「Original Light Mix Score, New IP」ノミネート
+2018 Independent Games Festival（英語版）[21]
+「Excellence in Audio」ノミネート
+「Audience Award」受賞
+2018 Golden Joystick Awards[22]
+「Best Indie Game」ノミネート
+「Ultimate Game of the Year」ノミネート
+The Game Awards 2018（英語版）[23]
+「Best Score/Music」ノミネート
+「Game of the Year」ノミネート
+「Games for Impact」受賞
+「Best Independent Game」受賞
+2018 Gamers' Choice Awards（英語版）[24]
+「Fan Favorite Game」ノミネート
+2018 Australian Games Awards[25]
+「Independent Game of the Year」ノミネート
+New York Game Awards 2019[26]
+「Big Apple Award for Best Game of the Year」ノミネート
+「Off Broadway Award for Best Indie Game」ノミネート
+22nd Annual D.I.C.E. Awards[27]
+「Action Game of the Year」受賞
+「Outstanding Achievement for an Independent Game」受賞
+2019 National Academy of Video Game Trade Reviewers Awards[28]
+「Game of the Year」ノミネート
+「Control Design, 2D or Limited 3D」ノミネート
+「Control Precision」受賞
+2019 SXSW Gaming Awards[29][30]
+「Excellence in Narrative」ノミネート
+「Matthew Crump Cultural Innovation Award」受賞
+「Excellence in Musical Score」ノミネート
+「Trending Game of the Year」ノミネート
+「Video Game of the Year」ノミネート
+Game Developers Choice Awards 2019[31][32]
+「Game of the Year」ノミネート
+「Best Audio」受賞
+「Best Design」ノミネート
+2019 G.A.N.G. Awards[33]
+「Best Music for an Indie Game」ノミネート
+「G.A.N.G. / MAGFEST People’s Choice Award」受賞
+第15回英国アカデミー賞ゲーム部門（英語版）[34]
+「Best Game」ノミネート
+「Game Beyond Entertainment」ノミネート
+「Game Design」ノミネート
+「Game Innovation」ノミネート
+「Music」ノミネート
+
+その他[編集]
+本作と同じくMatt Makes Gamesが開発した対戦アクションゲーム『TowerFall（英語版）』のNintendo Switch版では、本作の主人公マデリンとその影の存在（Badeline）が操作キャラクターとして登場する[35]。
+
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+
+
+^ 当初の日本語訳では「セレステマウンテン」だったが、後述のアップデートによりに変更された。
+
+^ 当初の日本語訳では「マデレン」だったが、後述のアップデートによりに変更された。また、ゲーム開始時に任意の名前に変更可能。
+
+
+出典[編集]
+
+
+^ “Celeste”.   Steam. 2018年6月26日閲覧。
+
+^ “Celeste by Matt Makes Games, Noel” (英語).   itch.io. 2018年12月8日閲覧。
+
+^ a b c “CELESTE for Nintendo Switch” (英語).   Nintendo of America. 2018年6月26日閲覧。
+
+^ a b c “Celeste｜Nintendo Switch download software｜games” (英語).   Nintendo UK. 2018年6月26日閲覧。
+
+^ a b “Celeste”.   任天堂. 2018年6月26日閲覧。
+
+^ a b c “Celeste on PS4” (英語).   Official PlayStation Store US. 2018年6月26日閲覧。
+
+^ a b c “Celeste on PS4” (英語).   Official PlayStation Store UK. 2018年6月26日閲覧。
+
+^ a b “Celeste（セレステ）”.   プレイステーション. 2019年9月10日閲覧。
+
+^ a b c “Celeste”.   Microsoft Store ja-JP. 2019年9月6日閲覧。
+
+^ a b c “Buy Celeste” (英語).   Microsoft Store. 2018年6月26日閲覧。
+
+^ a b c “Buy Celeste” (英語).   Microsoft Store en-GB. 2018年6月26日閲覧。
+
+^ “Celeste｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2018年6月26日閲覧。
+
+^ “2018年もっとも高い評価を受けているインディーゲーム『Celeste』は何がすごいのか？ Nintendo Switch版の発売を機にその理由を探る”.   電ファミニコゲーマー (2018年5月10日). 2018年6月26日閲覧。
+
+^ “Hello, and Farewell” (英語).   Extremely OK (2019年9月5日). 2019年9月6日閲覧。
+
+^ “「Celeste」最終チャプター“Farewell”の配信が2019年9月9日に決定、Matt Thorson氏の新スタジオ設立と次回作の始動も”.   doope! (2019年9月6日). 2019年9月6日閲覧。
+
+^ a b “Nintendo Switchでオススメしたい、インディーゲーム7選。それぞれの開発者にSwitch版のこだわりやその後の反響も聞いた”.   AUTOMATON (2018年5月25日). 2018年6月26日閲覧。
+
+^ “Celeste”.   PICO-8. 2018年6月26日閲覧。
+
+^ a b “「Hello! インディー」第4回 開発者が語る『Celeste』の秘密。ゲーム設計のこだわりと、「コヨーテタイム」！？”.   任天堂 (2018年6月8日). 2018年6月26日閲覧。
+
+^ “Feature: Conquering The Indie Mountain With Celeste Creator Matt Makes Games” (英語).   Nintendo Life (2018年1月23日). 2018年6月26日閲覧。
+
+^ “HORIZON WINS 7; MARIO GOTY” (英語).   National Academy of Video Game Trade Reviewers Corporation (2018年3月13日). 2018年6月26日閲覧。
+
+^ “Finalist and Winners” (英語).   IGF. 2018年12月8日閲覧。
+
+^ “『フォートナイト』がGOTY！「2018 Golden Joystick Awards」受賞作品リスト―生涯功労賞は宮崎英高氏”.   Game*Spark (2018年11月17日). 2018年12月8日閲覧。
+
+^ “「The Game Awards 2018」各部門受賞作品リスト―『RDR2』が最多4部門受賞！【TGA2018】”.   Game*Spark (2018年12月7日). 2018年12月8日閲覧。
+
+^ “2018 Gamers' Choice Awards: How to watch, nominees, winners” (英語).   CNET (2018年12月9日). 2019年4月5日閲覧。
+
+^ “All the Winners from the 2018 Australian Games Awards” (英語).   Doublejump (2018年12月20日). 2019年4月5日閲覧。
+
+^ “NY Game Awards ’19! Full List Of Nominees!” (英語).   The New York Videogame Critics Circle. 2019年4月5日閲覧。
+
+^ “『ゴッド・オブ・ウォー』がGOTY含む9部門で受賞！ 第22回「D.I.C.E. Awards」受賞作品リスト”.   Game*Spark (2019年2月14日). 2019年4月5日閲覧。
+
+^ “Winners” (英語).   National Academy of Video Game Trade Reviewers Corporation. 2019年4月5日閲覧。
+
+^ “Here Are Your 2019 SXSW Gaming Awards Finalists!” (英語).   SXSW Gaming. 2019年4月5日閲覧。
+
+^ “2019 SXSW Gaming Awards Winners Announced” (英語).   SXSW Gaming. 2019年4月5日閲覧。
+
+^ “「GDC Awards 2019」の部門別ノミネート作品がアナウンス、傑作“Red Dead Redemption 2”がGOTYを含む最多選出でリード”.   doope! (2019年1月5日). 2019年4月5日閲覧。
+
+^ “［GDC 2019］「Game Developers Choice Awards」の大賞は「ゴッド・オブ・ウォー」に”.   4Gamer.net (2019年3月21日). 2019年4月5日閲覧。
+
+^ “‘God of War’ Wins Six G.A.N.G. Awards, Including Audio of the Year” (英語).   Variety (2019年3月21日). 2019年4月5日閲覧。
+
+^ “2019年英国アカデミー賞ゲーム部門のノミネート作品が発表！”.   Game*Spark (2019年3月15日). 2019年4月5日閲覧。
+
+^ “TowerFall arrives on Nintendo Switch this September” (英語).   Polygon (2018年8月28日). 2018年10月6日閲覧。
+
+
+外部リンク[編集]
+公式サイト（英語）
+日本語版公式サイト
+Extremely OK Games 公式サイト（英語）
+Theo (theounderstars) - Instagram - ゲーム内に登場する男性・セオ（Theo）が開設しているという設定の公式Instagramページ。物語ではセオが自撮り写真をSNSの「InstaPix」にアップするくだりが複数回あり、一部画像は共通している。
+典拠管理 
+MBW: 59ff0e58-dfa9-481d-8c17-7cff3db93571
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Celeste&oldid=82131219」から取得
+カテゴリ: 2018年のコンピュータゲームWindows用ゲームソフトMacOSのソフトウェアLinux用ゲームソフトNintendo Switch用ソフトPlayStation 4用ソフトXbox One用ソフトアクションゲームカナダで開発されたコンピュータゲームフライハイワークスのゲームソフト登山を題材とした作品インディーゲーム隠しカテゴリ: 日本語版記事がリダイレクトの仮リンクを含む記事MusicBrainz作品識別子が指定されている記事
+

@@ -1,0 +1,797 @@
+
+
+
+
+
+Apple TV
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+
+この記事には複数の問題があります。改善やノートページでの議論にご協力ください。
+
+出典がまったく示されていないか不十分です。内容に関する文献や情報源が必要です。（2021年3月）
+古い情報を更新する必要があります。（2021年3月）
+
+
+
+
+ビデオ・オン・デマンドサービスの「Apple TV+」とは異なります。
+
+
+
+
+画像提供依頼：
+Apple TV 第四世代本体の背面写真
+Apple TV 4K本体の写真
+Apple TV 4K本体の背面写真
+の画像提供をお願いします。（2017年10月）
+Apple TV
+
+開発元
+Apple種別
+セットトップボックス発売日
+2017年9月12日 (現行モデル)CPU
+Apple A10X (第5世代)ウェブサイト
+アップル - Apple TV
+Apple TV（アップル ティーヴィー）は、Appleが開発・販売するセットトップボックスである。2006年9月12日にコードネーム「iTV」（アイティーヴィー）として発表された。
+家庭内でビデオ・コンテンツをiTunesからテレビへ無線LANあるいは有線LANを通して配信することができる他、YouTubeの映像も見ることができる。また、2008年1月15日より、iTunes Storeから直接コンテンツを購入したり、映画のレンタルもできるようになった。
+
+目次
+
+1 概要
+2 沿革
+3 特徴
+
+3.1 第1世代
+3.2 第2世代
+3.3 第3世代
+3.4 第4世代
+3.5 Apple TV 4K（第1世代）
+3.6 Apple TV 4K（第2世代）
+
+
+4 Apple TV+
+5 仕様
+6 脚注
+
+6.1 出典
+
+
+7 関連項目
+8 外部リンク
+
+
+概要[編集]
+Apple TVは2006年9月12日にサンフランシスコのYerba Buena Center for the Artsで開催されたスペシャルイベントの終盤に、スティーブ・ジョブズCEOが「iTV（アイティーヴィー）」というプロジェクトのコードネームで発表した[1]。予定価格は299ドルとされた。Appleが開発段階でハードウェア製品を発表するのは異例のことであった。
+2007年1月10日にAppleは正式名称を「Apple TV」、日本でのメーカー希望小売価格を36,800円と発表し[2]、同時にApple Online Storeで注文の受付を開始した。出荷予定日は当初2007年2月とされたが延期され[3]、3月22日に出荷が始まった[4]。
+2008年1月15日にサンフランシスコ、モスコーニ・センターで行われたMacworld2008でスティーブ・ジョブズCEOがApple TVの値下げとアップデートをアナウンスした。このアップデートによって、iTunesの新しいサービスであるiTunes ムービーレンタルにも対応し、今度はMacやPCに同期せずに単体でiTunes Storeにアクセスできるようになった。ムービーレンタルはDVD解像度(480i、AVC 1.5Mbps前後)のほかにHD解像度(720p、AVC 4Mbps)でドルビー5.1chサウンドに対応した)転送速度は1本あたりの容量と再生時間から計算)。またHD対応のPodcastにも対応している。これにともなってGUIも一新された。
+2010年9月1日のApple2010秋スペシャルイベントで第2世代Apple TVが発表され、99ドルへの大幅な値下げ、製品も4分の1に小型化し、AirPlayの初採用と前モデルから内容が大幅に刷新された。この刷新では、iTunesだけでなくiPhoneやiPadからの音楽や動画、画像をAirPlay経由で再生することが可能になった。また、従来のHDムービーに加えて、大手放送局提供のTV番組が1話に付き99セントでレンタルできるサービスが加わった。また米国で人気のNetflixへも対応した。
+2015年9月10日に発表された第4世代Apple TVでは、iOSベースの新プラットフォームであるtvOSを採用、これによりサードパーティー製アプリの使用が可能になるなど、機能が大きく刷新された。
+
+沿革[編集]
+2006年9月12日 - サンフランシスコのイベントで、コードネーム「iTV」として製品発表。
+2007年1月9日 - Macworld Conference & Expo 2007で「Apple TV」として製品が正式発表。販売開始。
+2008年1月15日 - 1月中にソフトウェアアップデートを実施し、機能追加（iTunes Storeでの音楽などの購入が可能に。またアメリカに限り同Storeで映画レンタルが可能に。.Mac WebギャラリーやFlickrの写真閲覧が可能に。）すると発表。インターフェースの変更。
+2008年1月30日 - 機能追加の為のソフトウェアアップデートが1〜2週間遅れると発表[5]。
+2009年9月15日 - 40GBモデル販売終了、160GBモデルの大幅価格改定（49,800円→23,800円）[6]。
+2009年10月30日 - Apple TV 3.0ソフトウェア発表[7]。iTunes ExtrasやiTunes LP、Genius Mixに対応した。
+2010年6月15日 - 新モデルのMac mini発表によりApple Online Store上でiPodアクセサリーへ分類される。
+2010年9月1日 - 第2世代Apple TV発表[8]。ストレージを廃止し大幅に小型化。Apple A4を搭載。
+2010年11月11日 - 第2世代Apple TVが日本で発売開始。
+2012年3月8日 -  第3世代Apple TV発表[9]。メニュー画面などのインターフェースを一新し、最大解像度が1080pになる。また、同日に Apple TV (第2世代) へのソフトウェア・アップデートが提供され、新しいインターフェースを使用できるようになった。
+2012年9月25日 - Apple TVソフトウェアアップデート5.1公開。ホーム画面のアイコン整列、iCloudの新機能、バグ修正などが含まれている[10]。
+2013年1月28日 - 第3世代Apple TV (Rev. A) 発売。内部の一部部品が刷新されている。
+2013年9月21日 - Apple TVソフトウェアアップデート6.0公開。iTunes Music Storeから直接音楽を購入、再生できるようになった。
+2014年9月19日 - Apple TVソフトウェアアップデート7.0公開。新たにフラットな見た目のGUIデザイン（iOS 7.x/8.xに酷似）を採用。ファミリーシェアリングに対応し、Beats Musicアプリが追加された。
+2015年9月10日 - 第4世代Apple TV発表[11]。新たにtvOSを採用、サードパーティー製アプリの使用が可能になる。それに伴いストレージが復活（32GBおよび64GB）。
+2015年10月30日 - 第4世代Apple TV発売。
+2017年9月12日 - Apple TV 4K発表。4K, HDR画質に対応。
+2017年9月22日 - Apple TV 4K発売。
+2019年3月25日 - 映像配信サービスApple TV+、および新しいApple TVアプリケーション発表[12]。
+2021年4月20日 - Apple TV 4K（第2世代）発表[13]。
+特徴[編集]
+Mac、PC、iPhone、iPod touch、iPad内の映像・音楽・写真コンテンツを、無線か有線LAN経由でテレビにストリーミング[14]
+ホームシェアリング機能を有効にしたMacまたはPCのミュージック、ビデオ、写真にアクセス可能
+iCloud、Flickrの写真、およびYouTube、Vimeo、Netflix、Huluのビデオを閲覧
+iTunes Storeでのコンテンツの購入
+iTunes StoreでHD画質のムービー及びテレビ番組のレンタルまたは購入（日本国内では2010年11月11日より開始）
+（ABC、Fox、Disney Channel、BBC America提供によるHD TV番組が99セント、HDムービーのセレクションが4.99ドル）
+
+第1世代[編集]
+無線LAN（IEEE 802.11b/g/nドラフト）、またはイーサネットで特定1台のパソコンのiTunesと自動的に同期し、内蔵のHDDにコンテンツを貯めることができる。また、5台までのパソコンからストリーミングを受ける機能も備える。同期、ストリーミングはMac OS X、Windowsの両方に対応している。製品にはApple Remoteが付属し、Front Rowと同様のGUIを実装して簡単なメニュー操作で各データを閲覧・再生できるようになっている。
+出力解像度は720pに対応している。テレビとの接続のため、Apple製品では初のHDMI端子とコンポーネント端子を搭載している。
+
+
+
+
+
+Apple TV（第1世代）
+
+
+
+
+
+
+Apple TV第一世代の背面。電源、ファームウェアアップデート用のUSB、イーサーネット、HDMI、コンポーネントビデオとオーディオ、オプティカルを含む背面コネクタ.
+
+
+
+
+第2世代[編集]
+新たにApple A4プロセッサが搭載され、電源が内蔵された。A4は、CPU・GPU・メモリなどが集約されたSoCであり、HDD、コンポーネント端子が撤廃されたことによって、本体サイズが約4分の1に小型化し、$99への大幅な値下げを可能とした。
+内蔵ソフトウェアも大幅に刷新されている。iOSベースのApple TV Softwareが搭載され、従来のHDムービーに加え大手放送局提供のTV番組が¢99（1話）でレンタルできるサービスが加わった。また米国で人気のNetflixへも対応した。更に、新発表のAirPlay（旧AirTunes）によって、MacやWindows PC、iPhone、iPod touch、iPadからでも音声や画像、映像をWi-Fi経由でストリーミング再生できるようになった。
+無線LANは、IEEE 802.11a/b/g/nに対応し、2.4GHz帯のほか、5GHz帯での接続が可能となった。付属する新しいApple Remote[15]のほか、RemoteアプリをインストールしたiPhone、iPod touch、iPadを使用してのリモートコントロールが可能である。
+
+
+
+
+
+Apple TV 第2世代
+
+
+
+
+
+
+第2世代の背面
+
+
+
+
+第3世代[編集]
+2012年3月16日発売。Apple A5 プロセッサ（シングルコア）を搭載し、GUIとHDMI出力は1080pに対応。これにより、フルHDテレビとの接続に限り、1080p動画をダウンコンバートせずに再生が可能になった。
+2013年1月28日には内部の一部部品が更新された第3世代Apple TV (Rev. A) が発売されたが、外観・機能などに変化はない。
+
+ Apple TV 第3世代　前面
+ Apple TV 第3世代　背面
+第4世代[編集]
+2015年9月10日発表[16]、同年10月26日からオンラインでの注文受付が開始され、同30日より出荷および店頭での販売が開始された。価格は32GBモデルが18,400円、64GBモデルが24,800円。第3世代も併売を続ける。
+CPUには新しくApple A8プロセッサを搭載。出力端子はHDMI 1.4のみとなり、光デジタル音声端子は撤廃された。オーディオフォーマットでは新たにDolby Digital Plus 7.1に対応した。
+iOSをベースに開発されたtvOSを採用し、GUIがSiri Remoteでの操作に最適化されるかたちで刷新された。またApple TVでは初めてApp Storeに対応。開発者にはソフトウェア開発キットとしてtvOS SDKが提供され、Apple TV用アプリの開発、配信ができるようになった。
+従来のApple Remoteにかわり、Siri用のデュアルマイクやTouchサーフェス、加速度センサー及びジャイロスコープなどを備えたSiri Remoteが同梱される。Apple Remoteが本体との通信に赤外線を利用していたのとは違って、Siri RemoteはBluetooth接続である。Siriボタンを押しながら話しかけることで、動画や音楽の再生・停止・スキップなどの操作から、ジャンルや俳優名などからの映画作品の検索、天気予報やスポーツの試合結果の表示など、音声で様々な操作をすることができる。また方向ボタンの代わりにAppleがTouchサーフェスと呼ぶタッチパッドを搭載し、これをスワイプするなどして画面上の選択を切り替えたりスクロールしたりする。HDMI CECに対応したテレビであれば、Siri Remoteからテレビ本体の音量を操作することも可能となった。Siri Remoteはゲームコントローラーとしても使用できるほか、MFi プログラム（英語版）の認定を受けた他社製のBluetoothワイヤレスゲームコントローラーを使用できる。
+後述の第5世代発表後も32GBモデルのみ併売されている。
+2019年3月25日、製品呼称が「Apple TV（第4世代）」から「Apple TV HD」へ変更された[17]。
+
+
+
+
+
+Siri Remote
+
+
+
+
+Apple TV 4K（第1世代）[編集]
+Apple TV 4Kという名称で2017年9月12日発表[18]、9月22日発売。CPUは新しいApple A10Xを搭載し、GUIは4K HDR画質に対応。但し、AirPlayミラーリング時のネイティブ4K表示には非対応。ストレージは32GBおよび64GB。イーサネットポートはギガビットイーサネットに対応。尚、USB端子自体は基盤内には残っているものの、物理的に差し込めなくなっている。
+新たにAirPlay2に対応し、HomePodと組み合わせることでHomePodをスピーカー代わりに使用することが可能。
+
+Apple TV 4K（第2世代）[編集]
+2021年4月20日発表[13]。A12 Bionicを搭載し、新型のSiri Remoteが添付される。
+
+Apple TV+[編集]
+詳細は「Apple TV+」を参照
+2019年3月25日発表[12]。2019年11月1日にサービスを開始[19]。Netflixのような定額制映像配信サービスで、本サービス開始に合わせて、Apple TVのみならず、東芝やサムスン電子製などの一部スマートテレビやAmazon Fire TV[22]などでも専用アプリで本サービスやiTunesのコンテンツが視聴可能になった[20][23]。
+
+仕様[編集]
+
+
+
+
+第1世代[24]
+
+第2世代[25]
+
+第3世代[26]
+
+Apple TV HD（第4世代）[27]
+
+Apple TV 4K (第1世代)[28]
+
+Apple TV 4K（第2世代）
+
+
+発売日
+
+2007年1月9日
+
+2010年9月1日
+
+初期版:
+2012年3月7日
+
+
+2015年10月30日
+
+2017年9月22日
+
+2021年5月21日[29]
+
+
+Rev.A:
+2013年1月28日
+
+
+
+生産中止
+
+2010年9月1日
+
+2012年3月7日
+
+初期版:
+2013年3月10日
+
+
+64GB:
+2017年9月12日
+
+
+2021年4月20日
+
+生産中
+
+
+Rev.A:
+2016年9月8日
+
+
+32GB:
+生産中
+
+
+
+プロセッサ
+
+Intel 1.0 GHz Crofton プロセッサ[30]
+1 GHz Apple A4
+Apple A5 シングルコア
+Apple A8 デュアルコア
+
+Apple A10X Fusion
+
+Apple A12 Bionic
+
+
+グラフィックス
+
+NVIDIA GeForce Go 7300 (64 MB VRAM)[31]
+
+Apple A4
+(PowerVR SGX535)
+
+
+初期版:
+Apple A5
+(PowerVR SGX543MP2)
+
+
+Apple A8
+(PowerVR Series 6XT GX6450)
+
+
+PowerVR Series 7XT 12コア
+
+Apple A12 Bionic
+(Apple独自4コア)
+
+
+
+Rev.A:
+Apple A5
+(PowerVR SGX543MP1)
+
+
+
+メモリ
+
+256MB/400 MHz DDR2 SDRAM[32]
+
+256MB[33]
+
+512MB[34]
+
+2GB LPDDR3 SDRAM[35]
+
+4GB LPDDR4
+
+4GB LPDDR4X
+
+
+ストレージ
+
+40GB/160GB HDD[32]
+8GB フラッシュメモリ（キャッシュ用）
+32GB/64GB フラッシュメモリ
+
+
+コネクタ
+
+HDMIコンポーネント端子IRレシーバUSB 2.0[36]
+
+HDMIIRレシーバMicro-USB[37]
+
+HDMI 1.4IRレシーバUSB Type-C
+
+HDMI 2.0a
+IRレシーバ
+
+
+HDMI 2.1
+IRレシーバ
+
+
+
+ネットワーク
+
+IEEE 802.11b/g/n WiFi10/100BASE-T Ethernet
+
+IEEE 802.11a/b/g/n Wi-Fi10/100BASE-T Ethernet
+
+MIMO対応 IEEE 802.11ac Wi-Fi10/100BASE-T EthernetBluetooth 4.0
+
+MIMO対応 802.11ac Wi-Fi
+ギガビットEthernet
+Bluetooth 5.0
+
+
+MIMO対応 802.11ax Wi-Fi 6 同時デュアルバンド（2.4GHz/5GHz）
+ギガビットEthernet
+Bluetooth 5.0
+
+
+
+映像出力
+
+1080p/1080i 60/50 Hz・720p 60/50 Hz・576p 50 Hz（PAL）・480p 60 Hz（NTSC）HDMIおよびコンポーネント端子
+720p 60/50 HzHDMIのみ
+1080p 60/50 Hz・720p 60/50 HzHDMIのみ
+
+最大2160p 60fps
+HDMIのみ
+
+
+最大2160p HDR 60fpsHDMIのみ
+
+
+音声出力
+
+S/PDIF 光デジタル音声端子RCA端子 アナログステレオオーディオ
+S/PDIF 光デジタル音声端子
+HDMIのみ
+
+
+電源
+
+48W 内蔵電源
+6W 内蔵電源
+13W 内蔵電源
+
+
+サイズ
+
+197×197×28mm
+98×98×23mm
+98×98×35mm
+
+
+重量
+
+1.09 kg
+272g
+425g
+
+
+付属リモコン
+
+Apple Remote
+アルミニウム製Apple Remote
+Siri Remote
+
+アルミニウム製Siri Remote
+
+
+初期搭載OS
+
+Apple TV Software 1.0（Mac OS X 10.4 ベース）
+
+Apple TV Software 4.0（iOS 4.1 ベース）
+
+初期版: Apple TV Software 5.0（iOS 5.1 ベース）
+
+tvOS 9.0[38]（iOS 9ベース）[39]
+
+tvOS 11.0
+(iOS 11 ベース)
+
+
+tvOS 14.5
+
+
+Rev.A: Apple TV Software 5.2[40]（iOS 6.1 ベース）
+
+
+現時点の最新OS
+
+Apple TV Software 3.0.2（Mac OS X 10.4 ベース）
+
+Apple TV Software 6.2.1（iOS 7.1.2 ベース）
+
+Apple TV Software 7.4（iOS 8.4.3 ベース）
+
+tvOS 14.5
+(iOS 14.5 ベース)
+
+
+
+
+脚注[編集]
+[脚注の使い方]
+出典[編集]
+
+
+^ アップル、驚きの新機能を加え、iTunes 7を発表 アップル ニュースリリース 2006年9月13日
+
+^ Apple TVがリビングルームに登場 アップル ニュースリリース 2007年1月10日
+
+^ Apple TV、国内出荷も3月中旬に延期 ITmedia +D LifeStyle、アイティメディア 2007年2月27日
+
+^ Apple TVの出荷を開始 アップル ニュースリリース 2007年3月22日
+
+^ MacBook Air Now Shipping Apple TV Update Coming Soon
+
+^ アップル、「Apple TV」160GBモデルを大幅値下げ
+
+^ “Apple (日本) - Apple Press Info - Apple、ユーザインターフェイスを一新したApple TV 3.0ソフトウェアを発表” (プレスリリース), Apple Inc., (2009年10月29日), https://www.apple.com/jp/pr/library/2009/10/29Apple-Introduces-Apple-TV-3-0-Software-With-Redesigned-User-Interface.html 2015年10月5日閲覧。 
+
+^ “Apple (日本) - Apple Press Info - Apple、新しいApple TVを画期的な99ドルで初公開” (プレスリリース), Apple Inc., (2010年9月1日), https://www.apple.com/jp/pr/library/2010/09/01Apple-Premieres-New-Apple-TV-for-Breakthrough-Price-of-99.html 2015年10月5日閲覧。 
+
+^ “Apple (日本) - Apple Press Info - Appleの新しいApple TV、1080p HDに対応” (プレスリリース), Apple Inc., (2012年3月7日), https://www.apple.com/jp/pr/library/2012/03/07Apple-Brings-1080p-High-Definition-to-New-Apple-TV.html 2015年10月5日閲覧。 
+
+^ “Apple TV (第 2 および第 3 世代) ソフトウェアアップデートについて - Apple サポート”.   Apple Inc.. 2015年10月5日閲覧。
+
+^ “Apple (日本) - Apple Press Info - Apple、まったく新しいApple TVによりテレビの分野に再び革新をもたらす” (プレスリリース), Apple Inc., (2015年9月9日), https://www.apple.com/jp/pr/library/2015/09/09Apple-Brings-Innovation-Back-to-Television-with-The-All-New-Apple-TV.html 2015年10月5日閲覧。 
+
+^ a b “Apple、Apple TV+を発表 — 世界で最もクリエイティブな才能たちが集う場所” (プレスリリース), Apple Inc., (2019年3月25日), https://www.apple.com/jp/newsroom/2019/03/apple-unveils-apple-tv-plus-the-new-home-for-the-worlds-most-creative-storytellers/ 2019年3月31日閲覧。 
+
+^ a b “Apple、次世代のApple TV 4Kを発表” (日本語). Apple Newsroom (日本). 2021年4月23日閲覧。
+
+^ ワイヤレスビデオストリーミングに限り、IEEE 802.11gかIEEE 802.11nが必要
+
+^ “「Apple Remote」がアルミボディの新デザインに” (日本語). マイナビニュース (2009年10月22日). 2021年4月24日閲覧。
+
+^ “Apple (日本) - Apple Press Info - Apple、まったく新しいApple TVによりテレビの分野に再び革新をもたらす” (プレスリリース), Apple Inc., (2015年9月9日), http://www.apple.com/jp/pr/library/2015/09/09Apple-Brings-Innovation-Back-to-Television-with-The-All-New-Apple-TV.html 2015年10月5日閲覧。 
+
+^ “「Apple TV HD」発売。1080pの第4世代Apple TVを改名、もちろんApple TV+視聴可能”. 2019年3月31日閲覧。
+
+^ Apple TV 4Kが4KとHDRで映画館の魔法を自宅に再現
+
+^ “「全オリジナル」ビデオサブスクのApple TV+始まる　日本でも視聴可能”.   ITmedia NEWS（2019年11月1日作成）. 2019年11月1日閲覧。
+
+^ a b “一部地域でApple TVアプリがFire TVデバイス向けに配信開始”.   GIZMODO（2019年10月28日作成）. 2020年4月8日閲覧。
+
+^ “Apple TVアプリ、Amazon Fire TVで利用可能に”.   ITmedia（2020年4月7日作成）. 2020年4月8日閲覧。
+
+^ 2019年11月のApple TV+サービス開始時点では日本国内でのAmazon Fire TVではApple TVアプリを利用できなかったが、2020年4月に行われた同アプリのアップデートに伴い、日本国内でも利用が出来るようになった[20][21]。
+
+^ “Apple TVアプリ、今年後半にソニーやLGのテレビで利用可能に”.   PHILE WEB（2020年1月8日作成）. 2020年4月8日閲覧。
+
+^ “Apple TV (1st generation) - 技術仕様”.   Apple Inc.. 2015年10月5日閲覧。
+
+^ “Apple TV (第 2 世代) - 技術仕様”.   Apple Inc.. 2015年10月5日閲覧。
+
+^ “Apple TV (第 3 世代) - 技術仕様”.   Apple Inc.. 2015年10月5日閲覧。
+
+^ “Apple TV （第4世代） - 技術仕様”.   Apple Inc.. 2019年3月31日閲覧。
+
+^ “Apple TV 4K（第1世代）- 技術仕様”. support.apple.com. 2021年5月23日閲覧。
+
+^ “リモコンも一新！ パワフルさに磨きをかけた第2世代「Apple TV 4K」レビュー” (日本語). マイナビニュース (2021年5月20日). 2021年5月22日閲覧。
+
+^ “What's inside an Apple TV: Tear-down reveals (almost) all”.   AppleInsider (2007年3月28日). 2007年8月1日閲覧。
+
+^ “Pentium M-based Intel chip at heart of Apple TV”.   AppleInsider (2007年1月15日). 2008年12月7日閲覧。
+
+^ a b Shimpi, Anand Lal (2007年3月22日). “Apple TV”.   AnandTech. 2007年3月23日閲覧。
+
+^ “Apple TV 2nd Generation Teardown - iFixit”.   iFixit. 2015年10月5日閲覧。
+
+^ “ATV3 Teardown”.   XBMC Forums. 2012年3月17日閲覧。
+
+^ “Apple TV 4th Generation Teardown - iFixit”.   iFixit (2015年9月23日). 2015年10月5日閲覧。
+
+^ Cheng, Jacqui (2007年1月9日). “ARS at Macworld: Questions about the Apple TV”.   Ars Technica. 2007年3月23日閲覧。
+
+^ “Apple TV (2nd generation)：Apple TV を工場出荷時の初期設定に戻す”.   Apple Inc.. 2012年3月3日閲覧。
+
+^ “tvOS SDK Release Notes for tvOS 9.0 Beta”.   Apple Inc.. 2015年10月10日閲覧。
+
+^ “App Programming Guide for tvOS: The New Apple TV”.   Apple Inc.. 2015年10月10日閲覧。 “The new Apple TV uses the latest iOS frameworks and frameworks that are unique to tvOS.”
+
+^ “New Apple TV (Model A1469) Discovered In FCC Filings, Likely To Arrive With Updated A5X (SoC) Processor”. 2013年4月5日閲覧。[リンク切れ]
+
+
+関連項目[編集]
+Apple TV+
+AirMac
+Time Capsule
+外部リンク[編集]
+
+
+
+ウィキメディア・コモンズには、Apple TVに関連するカテゴリがあります。
+TV - Apple（日本）
+表話編歴iOSソフトウェア
+
+iOS
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+iOSからの派生
+watchOS
+tvOS
+iPadOS
+13
+14
+AirDrop
+AirPlay
+AirPrint
+CarPlay
+Cocoa Touch
+コントロールセンター
+Core Animation
+HomeKit
+iTunes
+Night Shift（英語版）
+通知センター
+SDK
+Shazam
+Siri
+Spotlight
+SpringBoard
+VoiceOver
+WebKit
+標準搭載
+
+ブック
+計算機
+カレンダー
+時計（英語版）
+連絡先
+FaceTime
+ファイル（英語版）
+探す
+ヘルスケア（英語版）
+ホーム
+メール
+マップ
+計測（英語版）
+メッセージ
+ミュージック
+News
+メモ（英語版）
+写真
+Podcasts（英語版）
+リマインダー（英語版）
+Safari
+ショートカット
+翻訳（英語版）
+TV（英語版）
+Wallet
+天気（英語版）
+Watch
+終了
+友達を探す
+iPhoneを探す
+Newsstand
+
+Apple純正App
+
+AirPort Utility
+Clips（英語版）
+iLife
+GarageBand
+iMovie
+iWork
+Keynote
+Numbers
+Pages
+Logic Remote
+Remote（英語版）
+終了
+Beats Music（英語版）
+Cards
+iPhoto
+Nike + iPod（英語版）
+
+
+サービス
+
+Apple Arcade
+Apple Card
+Apple Pay
+Cash
+Apple Wallet
+App Store
+watchOS
+tvOS（英語版）
+iMessage
+iPadOS
+FaceTime
+ファミリー共有（英語版）
+Game Center
+iCloud
+iMessage
+iTunes Connect（英語版）
+iTunes Store
+Apple Music
+News
++
+Podcasts
+Push Notifications
+TestFlight（英語版）
+TV（英語版）
++
+番組
+Channels
+終了
+iAd
+iTunes Radio（英語版）
+MobileMe
+
+その他
+Appleシリコン
+論争
+300ページのiPhone請求書
+アンテナ問題
+バッテリー問題（英語版）
+曲がる問題
+Jailbreak
+FairPlay
+iFund
+iPhone history（英語版）
+Metal
+Swift
+WWDC
+
+一覧
+カテゴリ
+表話編歴Apple製ハードウェア（1998年以降）Mac
+デスクトップ
+Power Macintosh G3 (Blue & White)*
+Power Mac*
+Power Mac G4 Cube*
+iMac*
+eMac*
+Mac mini
+iMac (インテルベース)
+iMac (Appleシリコンベース)
+Mac Pro
+iMac Pro*
+ノートブック
+PowerBook G4*
+iBook*
+MacBook*
+MacBook Pro
+MacBook Air
+サーバ製品
+Xserve*
+Xserve RAID*
+
+iPod
+iPod classic*
+iPod mini*
+iPod shuffle*
+iPod nano*
+iPod Hi-Fi*
+iPod touch
+1*
+2*
+3*
+4*
+5*
+6*
+7
+iPhone
+初代*
+3G*
+3GS*
+4*
+4S*
+5*
+5s*/5c*
+6*/6 Plus*
+6s*/6s Plus*
+SE (第1世代)*
+7*/7 Plus*
+8*/8 Plus*/X*
+XS*/XS Max*/XR
+11/11 Pro/11 Pro Max*
+SE (第2世代)
+12/12 mini/12 Pro/12 Pro Max
+iPad
+iPad
+iPad (第1世代)*
+iPad 2*
+iPad (第3世代)*
+iPad (第4世代)*
+iPad (第5世代)*
+iPad (第6世代)*
+iPad (第7世代)*
+iPad (第8世代)
+iPad Air
+iPad Air (第1世代)*
+iPad Air 2*
+iPad Air (第3世代)*
+iPad Air (第4世代)
+iPad mini
+iPad mini (第1世代)*
+iPad mini (第2世代)*
+iPad mini 3*
+iPad mini 4*
+iPad mini (第5世代)
+iPad Pro
+12.9インチiPad Pro (第1世代)*
+12.9インチiPad Pro (第2世代)*
+12.9インチiPad Pro (第3世代)*
+12.9インチiPad Pro (第4世代)*
+12.9インチiPad Pro (第5世代)
+9.7インチiPad Pro*
+10.5インチiPad Pro*
+11インチiPad Pro (第1世代)*
+11インチiPad Pro (第2世代)*
+11インチiPad Pro (第3世代)
+
+Watch
+Apple Watch
+TV
+Apple TV
+アクセサリ
+AirMac*
+Time Capsule*
+iSight*
+Apple Studio Display*
+Apple Cinema Display*
+Apple Thunderbolt Display*
+Apple Pro Display XDR
+Apple Keyboard*
+Magic Keyboard
+Mighty Mouse*
+Magic Mouse*
+Magic Mouse 2
+Magic Trackpad*
+Magic Trackpad 2
+Apple Battery Charger*
+Apple Remote
+Siri Remote（英語版）
+MagSafe
+AirPods
+Apple Pencil
+HomePod
+
+*は生産または販売終了
+典拠管理 
+LCCN: sh2007005919
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Apple_TV&oldid=83660438」から取得
+カテゴリ: 製品の画像提供依頼AppleのハードウェアIOS (Apple)スマートテレビ2007年のハードウェア隠しカテゴリ: 外部リンクがリンク切れになっている記事/2015年8月出典を必要とする記事/2021年3月情報の更新が必要とされている項目/2021年日本語版記事がリダイレクトの仮リンクを含む記事LCCN識別子が指定されている記事
+

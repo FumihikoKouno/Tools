@@ -1,0 +1,1792 @@
+
+
+
+
+
+
+YouTube
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+
+
+
+
+
+
+
+この項目では、YouTubeそのものについて説明しています。
+アメリカ向けの公式ビデオチャンネルについては「YouTube (チャンネル)」をご覧ください。
+
+
+
+
+
+プロジェクトYouTube
+YouTube
+設立
+2005年2月 (16年前) (2005-02)本社
+ アメリカ合衆国カリフォルニア州サンブルーノ チェリー通り 901北緯37度37分41.5秒 西経122度25分35.4秒﻿ / ﻿北緯37.628194度 西経122.426500度﻿ / 37.628194; -122.426500座標: 北緯37度37分41.5秒 西経122度25分35.4秒﻿ / ﻿北緯37.628194度 西経122.426500度﻿ / 37.628194; -122.426500事業地域
+全世界創業者
+スティーブ・チェンチャド・ハーリージョード・カリム主要人物
+スーザン・ウォシッキー(CEO)チャド・ハーリー（アドバイザー）製品
+YouTube PremiumYouTube MusicYouTube TV（英語版）YouTube Kids所有者
+Google（2006年 - ）ウェブサイト
+www.youtube.com アレクサランキング
+2位[1]種類
+動画共有サービス広告
+Google AdSense登録
+任意（ライブ配信にチャットをする際や、高評価、低評価の際は必要）（通常動画の閲覧のみなら不要）ユーザー数
+10億人以上対応言語
+#対応言語開設
+2005年2月14日 (2005-02-14)現況
+運営中
+YouTube（ユーチューブ）は、カリフォルニア州サンブルーノに本社を置くアメリカのオンライン動画共有プラットフォームである。2005年2月にPayPalの元従業員であるチャド・ハーリー、スティーブ・チェン、ジョード・カリムの3人によって設立されたこのサービスは、2006年11月に16.5億米ドルでGoogleに買収され、現在は同社の子会社の1つとして運営されている。YouTubeは、アレクサ・インターネットランキングによると、Google検索に次いで2番目にアクセス数の多いウェブサイトである[2]。
+YouTubeでは、ユーザーが動画をアップロード、閲覧、評価、共有、プレイリストへの追加、レポート、コメント、他のユーザーのチャンネル登録などを行うことができる。利用可能なコンテンツには、ビデオクリップ、テレビ番組のクリップ、ミュージック・ビデオ、短編映画やドキュメンタリー映画、音声録音、映画予告編、ライブストリーム、ビデオブログ、短編オリジナルビデオ、教育用ビデオなどがある。ほとんどのコンテンツは個人によって生成され、アップロードされるが、CBS、BBC、Vevo、Huluなどのメディア企業は、YouTubeとのパートナーシッププログラムの一環として、YouTubeを介してコンテンツの一部を提供している。登録していないユーザーも動画を視聴することはできるが、動画をアップロードすることはできない。年齢制限付きの動画は、18歳以上であることを確認した登録ユーザーのみが視聴できる。
+2019年5月現在、YouTubeには毎分500時間以上のコンテンツがアップロードされており、毎日10億時間以上のコンテンツがYouTubeで視聴されている[3]。YouTubeと選ばれたクリエイターは、サイトのコンテンツや視聴者に応じて広告のターゲットを絞るプログラムであるGoogle AdSenseから広告収入を得ている。動画の大部分は無料で視聴できるが、サブスクリプションベースのプレミアムチャンネル、映画のレンタル、YouTube Music、YouTube Premiumなどの例外もあり、それぞれがプレミアム音楽と広告なしの音楽ストリーミングを提供するサブスクリプションサービスであり、著名人から依頼された独占コンテンツを含むすべてのコンテンツに広告なしでアクセスできる。四半期ごとに報告された広告収入に基づいて、YouTubeの年間収入は150億米ドルと推定されている。
+Youは「あなた」、Tubeは「ブラウン管（テレビ）」という意味である[4]。
+
+目次
+
+1 歴史
+2 動画
+
+2.1 視聴
+
+2.1.1 拍手を送る
+
+
+2.2 YouTube Premium
+2.3 YouTube Music
+2.4 YouTube Go
+2.5 YouTube Kids
+2.6 YouTube TV
+2.7 アップロード
+2.8 ライブストリーミング
+
+2.8.1 Super Chat(スーパーチャット)
+2.8.2 Super Stickers(スーパーステッカー)
+
+
+2.9 YouTube プレミア公開(YouTube Premieres)
+2.10 YouTube Shorts
+2.11 マルチカメラ動画
+2.12 360度動画
+2.13 Googleアカウントとの連携
+
+
+3 収益
+4 Content ID
+5 ビデオクリエイターとのパートナーシップ
+
+5.1 チャンネルメンバーシップ
+5.2 施設
+5.3 弊害
+
+
+6 世論への影響
+7 著作権問題
+
+7.1 YouTube側の対応
+7.2 テレビ局の対応
+7.3 レコード会社の対応
+7.4 法廷闘争
+7.5 日本における著作権法改正案
+
+
+8 アクセス規制措置
+9 対応言語
+10 脚注
+
+10.1 注釈
+10.2 出典
+
+
+11 関連項目
+12 外部リンク
+
+
+歴史
+ YouTubeの創業者たち。左からチャド・ハーリー、スティーブ・チェン、ジョード・カリム。
+2005年2月15日、PayPalの従業員であったチャド・ハーリー、スティーブ・チェン、ジョード・カリムらがカリフォルニア州サンマテオで設立した[5]。ハーリーはペンシルベニア州立インディアナ大学でデザインを、チェンとカリムはともにイリノイ大学アーバナ・シャンペーン校で計算機科学を学んだ[6]。
+メディア上でよく取り上げられる一説によれば、ハーリーとチェンが2005年の初めにYouTubeのアイディアをひらめいたのは、サンフランシスコのチェンのアパートで開かれたディナーパーティの動画を共有するのに苦労したことがきっかけだったとされている。カリムはこのパーティに出席しておらず、そのようなパーティが開かれたこと自体を否定している。チェンは、パーティは実際に開かれたとした上で、「YouTubeはディナーパーティをきっかけにされた」という物語は、わかりやすいストーリーを必要とするマーケティング上の都合によってかなり強調されていることを認めた[7]。
+カリムによると、YouTubeの発想のきっかけとなったのは、2004年にジャネット・ジャクソンが起こした第38回スーパーボウルでのハプニング（パフォーマンス中にジャクソンの胸が露出した）と、同じく2004年に発生したスマトラ島沖地震だった。カリムはインターネット上でそれらの事件の動画を探したが、どちらの出来事の動画も簡単には見つけることができず、その体験が動画共有サイトのアイディアを生んだという[8]。
+
+ サービス開始から2011年まで使用されたYouTubeのロゴ。Broadcast Yourself とのスローガンが含まれていた。
+YouTubeはベンチャーキャピタルが出資するスタートアップ企業として開業した。主な出資者はセコイア・キャピタルであり、2005年11月から2006年4月までの間に1150万米ドルをYouTubeに投資した[9]。当初、YouTubeの本社はカリフォルニア州サンマテオのピザ販売店・日本食レストランの2階に置かれていた[10]。www.youtube.comのドメインは2005年2月14日に有効化された[11]。ハーリーとチェンによれば、最初期のYouTubeは動画版のHot or Not（英語版）（ユーザーが異性の画像をアップロードできる出会い系サイト）を目指しており、その方向性を示したのはカリムだった[7][12]。
+YouTubeに初めて投稿された動画は、ジョード・カリムがサンディエゴ動物園の象の前にいる様子を映した 『ミー・アット・ザ・ズー』（2005年4月23日投稿）だった[13][14]。2005年5月、YouTubeのベータ版が一般に公開された。YouTubeで初めて再生回数が100万に達した動画は、ロナウジーニョが出演したナイキの広告動画（2005年11月に達成）だった[15][16]。2005年10月、カリフォルニア州で事業を行うデラウェア州法人としてYOUTUBE, INC.を設立[17][18]
+2005年11月にセコイア・キャピタルから350万米ドルの出資を受け、YouTubeは2005年12月15日から公式なサービスを開始した。公式サービスの開始当時、1日の動画再生回数は約800万回だった[19][20]。YouTubeは急速に成長し、2006年7月の発表では、1日に6万5000本以上の新たな動画がアップロードされており、1日の動画再生回数は約1億回であるとされた[21]。
+アメリカでは、2005年12月頃にNBCの人気テレビ番組『サタデー・ナイト・ライブ』がアップロードされていたことからブログなどで話題になり[22]、2006年上旬にはYouTubeの映像をブログなどに貼り付け簡単に見られるAPIも公開され爆発的に普及した。日本では2006年3月に民間調査会社のネットレイティングスの調査で日本国内からの利用者が約212万人達し、平均利用時間では米国ユーザーを上回っていることが発表された[23]。
+2006年4月にアメリカの映画制作会社のワインスタイン・カンパニー、ディメンション・フィルムズと提携し、映画の予告編がYouTubeで配信された[24]。これを初めとして様々な企業や団体がYouTubeにチャンネルを持ち、コンテンツを公開するようになった。2006年10月、YouTubeは本社をカリフォルニア州サンブルーノに移転した[25]。
+
+ 開業当初本社が置かれたカリフォルニア州サンマテオのビル
+www.youtube.comというドメイン名を選択したことで、類似するドメイン名www.utube.comの保有者との間でトラブルが生じた。 2006年11月、YouTubeへのアクセスを試みた訪問者によって自社サイトが常に過負荷になっているとして、www.utube.comを保有するUniversal Tube & Rollform Equipment（英語版）社はYouTubeを提訴した。その後、Universal Tube社は自社サイトのドメイン名をwww.utubeonline.comに変更した[26][27]。
+YouTubeはサーバ回線コストだけで月間100万ドルに達すると言われていたため、どう収益を上げていくかが注目されていたが[28]、2006年10月9日に16億5000万ドルの株式交換でGoogleの買収に同意した[29][注 1]。GoogleによるYouTubeの買収は2006年11月13日に完了した[30][31]。2006年11月、カリフォルニア州で事業を行うデラウェア州法人としてYOUTUBE, LLCを設立[32][33]。「アップロードされた動画に対し厳しい規制が取られてしまうのでは」と一般ユーザーから危惧が持たれていたが、ハーリーCEOは「YouTubeはGoogleに買収されたが、今後もYouTubeとしたブランドで独立したサービスを提供し続ける」と述べた。またGoogle側も類似サービスであるGoogle Videoのサービスを継続。検索窓を通じてYouTube内の動画を検索するサービスを開始した[34]。
+その後、タイム誌の「Invention of the Year for 2006」に選出された[35]。2007年3月、民間調査会社のネットレイティングスから日本国内家庭からの利用者が1000万人を超えたことが発表された[36]。同年5月、第11回ウェビー賞を受賞[37]。2007年にYouTubeが消費した通信容量は、2000年当時のインターネット全体の通信量に相当すると推定された[38]。
+第三者のウェブ分析企業であるアレクサ・インターネットおよびシミラーウェブによれば、YouTubeは2016年12月時点で世界で2番目に訪問者の多いウェブサイト だった。さらにシミラーウェブは、月間150億人以上の訪問者を抱えるYouTubeは、TV・ビデオ分野における世界第1位のウェブサイトであるとした[39][40][41]。2008年11月22日、YouTube本部が主催する公式イベント「YouTube Live」がサンフランシスコで開かれ、11月23日には東京で「YouTube Live Tokyo」が開かれた。
+
+ カリフォルニア州サンブルーノのYouTube本社
+市場調査会社のコムスコアが発表したデータによれば、2010年5月にYouTubeの動画は140億回以上再生され、その市場占有率は約43%であり、YouTubeはアメリカにおけるオンライン動画の支配的な供給元であるとされた[42]。
+2011年5月時点では、毎分48時間分の動画がYouTubeにアップロードされていた[43]。動画が投稿される速度は年々増加しており、2012年1月時点では毎分60時間分が[43]、2013年5月時点では毎分100時間分が[44][45]、2014年11月時点では毎分300時間分が[46]、2017年2月時点では毎分400時間分の動画がアップロードされていた[47][48]。2012年1月の時点で、YouTubeの月間ユニークユーザーは8億人だった[49]。
+2010年3月、YouTubeは特定のコンテンツ(インディアン・プレミアリーグのクリケットのゲーム60試合を含む)の無料ストリーム配信を開始した。YouTubeは、この試みがメジャースポーツのイベントの世界初無料オンライン放送であるとした[50]。
+2010年5月、YouTube動画の1日の視聴回数は20億回以上だった[51][52][53]。この数字は2011年5月時点では30億回[54][55][56]、2012年1月時点では40億回に増加した[43][57]。2017年2月時点で、YouTubeの1日あたりの視聴時間は10億時間に達していた[58][59][60]。
+2010年10月、チャド・ハーリーがYouTubeの最高経営責任者(CEO) を退任しYouTubeの顧問となること、CEO職がサラー・カマンガー（英語版）に引継がれることが発表された[61]。2011年4月、YouTubeのソフトウェアエンジニアであるジェイムズ・ザーンは、視聴回数の99%が全体の30%の動画によって生み出されていることを明らかにした[62]。
+
+ 2015年から2017年にかけて使用されたYouTubeのロゴ。
+2011年12月、YouTubeはウェブサイトのユーザーインターフェース（UI）を刷新した。新しいUIでは、SNSのニュースフィードに似た形で、トップページ中央の一覧に動画のチャンネルが表示されるようになった[63][64]。UIと同時にロゴデザインも2006年10月以来初めて変更され、使われる赤の色合いが濃くなった[65]。
+2013年5月、YouTubeは、コンテンツ制作者がサブスクリプション方式の有料チャンネルを開設できる試験的プログラムを開始した[66][67]。2013年9月14日、YouTubeが主催する公式イベント『YouTube エンタメウィーク』が開催された。プロデューサーは高須光聖。
+2014年2月、 スーザン・ウォシッキーがYouTubeの最高経営責任者 (CEO) に就任した[68]。2014年11月、YouTubeはサブスクリプション方式の有料サービス『Music Key』を発表した。『Music Key』は既存のサービスGoogle Play Musicと、YouTube上の音楽コンテンツを広告なしで再生できるサービスをバンドルしたものだった[69]。2014年7月、YouTubeが常時SSL化（常時https）された。
+2015年2月、YouTubeは子ども向けに最適化されたモバイルアプリ 『YouTube Kids』をリリースした。『YouTube Kids』では簡略化されたユーザーインターフェース、子供に適するよう精選されたコンテンツ、ペアレンタルコントロール機能が提供された[70]。2015年8月26日、YouTubeはコンピュータゲームの動画・ライブストリーミング向けに最適化された『YouTube Gaming』のサービスを開始した。『YouTube Gaming』はモバイルアプリとしても提供され、Amazon.com所有のTwitchと競合することを狙っていた[71]。
+2015年10月、広告なしでYouTube上の全てのコンテンツにアクセスできる有料サービス『YouTube Red』が発表された。（前年発表の『Music Key』の後継サービスに当たる）『YouTube Red』の会員はYouTubeタレントがプロデュースするオリジナル動画を視聴できるほか、モバイル端末でYouTubeコンテンツをバックグラウンド再生する機能も利用できる。YouTubeはさらに、音楽コンテンツの再生・検索に最適化された第3のアプリとなる 『YouTube Music』をリリースした[72][73][74]。
+2016年1月、YouTubeは2億1500万米ドルでオフィスパークを購入し、サンブルーノの本社を拡張した。本社の敷地面積は約51500平方メートルとなり、最大で2800人の従業員を収容することが可能になった[75]。
+2017年8月29日、YouTubeはマテリアルデザインを採用した新ユーザーインターフェースを公式にリリースした。同時にYouTubeロゴも刷新され、動画再生ボタンをモチーフにしたものとなった[76]。2017年12月、YouTubeはオリジナルビデオである『YouTube Originals』を開始した。アイドリッシュセブンのスピンオフ作品などが視聴できる[77]。
+2018年4月3日、カリフォルニア州サンブルーノのYouTube本社のオープンカフェにて銃乱射事件（英語版）が発生した。サンディエゴに住む39歳女性ユーチューバーによる犯行とみられ、容疑者女性は自殺した。容疑者はYouTubeと長年争っており、YouTubeがコンテンツクリエイターを抑圧しようとしていると主張、投稿した動画に対する支払いが止められたことに憤っていた[78][79][80][81]。
+2018年5月17日、YouTubeは『YouTube Red』のサービス名を『YouTube Premium』に変更すること、このサービスをカナダと13のヨーロッパ諸国でも展開することを発表した。さらに、近く『YouTube Music』が独立したサブスクリプション方式のサービスとして展開されることも発表された[82]。同年11月14日、日本での両サービスが展開された[83]。
+2019年12月10日、利用規約が更新され、YouTubeのサービス提供者がYouTube LLCからGoogle LLCに変更された[84]。
+
+動画
+視聴
+サービスは基本無料で利用できる。登録していなくても、多くの動画を見ることが出来る。動画の評価をしたり、コメントを残すことや、再生リストの作成には、無料の会員登録が必要である。YouTube上での検索などで直接視聴できるものもあれば、チャンネルの動画一覧に表示されず特定のサイトやURL、通知からの経由のみで視聴できる限定公開も可能。Ajaxと呼ばれる技術が用いられており、YouTubeを利用するにはJavaScriptを有効にする必要がある。
+かつてはAdobe Flashを用いた動画再生が行われていたが、2015年からHTML5での再生が標準になった[85]。
+再生リスト（キューに追加・追加先）により、動画をまとめたり自動再生（リピート）やシャッフル再生をすることができる。
+検索においては、より目的の動画を判別するためにハッシュタグを挿入することもできる。
+機能追加も活発に行われており、動画に吹き出しなどの注釈を書き込むことができる「Video Annotations」[86]、動画に字幕が付けられる機能[87]、動画の字幕自動翻訳機能[88]、テレビ画面（家庭用ゲーム機含む）で視聴するための専用サービスの「YouTube for Television」[89]、大画面テレビで視聴するための専用ユーザーインターフェイスの「YouTube XL」[90]、Webブラウザでテレビ感覚で見られるユーザーインターフェイスの「YouTube Leanback」[91]が公開されていた。
+
+拍手を送る
+2020年初頭に実装された、動画向けのギフティング機能（投げ銭）。一定金額を拍手という形で購入し、動画投稿者に贈ることができる。全てのチャンネルユーザーには実装されず、随時実装が進められる。
+日本においては開始時1人当たりの上限が200円相当で固定されていたが、同年9月に500円、1000円、5000円まで送ることができるように緩和された。
+
+YouTube Premium
+「YouTube Premium」を参照
+YouTubeのサブスクリプションサービス。初月無料。月額料金を払うことで追加のサービスを受けられる。主な例として、動画に広告が表示されなくなり、音楽のバックグラウンド再生やオフライン環境での視聴を目的とした事前ダウンロードに対応する。また、プレミアムのみ公開されるコンテンツ（YouTube Originals）も存在する。YouTube Musicに関連したサービスでもあり、加入するとこちらも同様の扱いとなる。アメリカ、韓国などで実施されている。2018年11月には、日本でも実施されている。　旧名称YouTube Music Key、YouTube Red。下記のYouTube Premieresとは別サービス。
+
+YouTube Music
+「YouTube Music」を参照
+YouTubeの音楽配信サービス。
+
+YouTube Go
+モバイルデバイスでYouTubeへのアクセスしやすくすることを目的としたAndroidアプリ。
+2017年2月にインドで発売され[92]、2017年11月にナイジェリア、インドネシア、タイ、マレーシア、ベトナム、フィリピン、ケニア、南アフリカなど14か国で拡大。2018年2月にブラジル、メキシコ、トルコ、イラクを含む世界130か国で拡大し[93]、2019年8月に全世界で利用可能となった[94]。
+
+YouTube Kids
+「YouTube Kids」を参照
+YouTubeの子供向け動画サービス。
+
+YouTube TV
+「en:YouTube TV」を参照
+70を超えるテレビネットワークのライブTV、オンデマンドビデオ、クラウドベースの9ヶ月間保存の録画機能を提供するYouTubeの有料ストリーミングテレビサービス[95]
+
+アップロード
+アップロードできる動画形式は非常に広く、現在流通しているほとんどの動画形式に対応している。ニコニコ動画などと違い、必ずYouTube側で再圧縮が行われるので、自前で圧縮せずにオリジナルファイルのアップロードが可能。
+音声は、YouTubeはステレオまたは5.1チャンネルでサンプルレート96 kHzまたは48 kHzを推奨しているが、現時点では5.1チャンネルでの再生はできない。
+尚、プレーヤーの右下のメニューによって画質が選択できるがアップロードされた動画の画質によって選択できる画質は限られるので、どの動画でも下記の画質で表示できる訳ではない。また、広告動画はメニュー上にない為、画質を選択できない。
+
+
+
+Comparison of YouTube media encoding options
+
+2D Non-DASH
+
+
+
+Default container
+
+Video resolution
+
+Video encoding
+
+Video bitrate (Mbit/s) [2]
+
+Audio encoding
+
+Audio bitrate (kbit/s) [2]
+
+
+3GP
+
+144p
+
+MPEG-4 Simple
+
+0.05
+
+AAC
+
+24
+
+
+3GP
+
+240p
+
+MPEG-4 Simple
+
+0.175
+
+AAC
+
+32
+
+
+FLV
+
+240p
+
+Sorenson H.263
+
+0.25
+
+MP3
+
+64
+
+
+MP4
+
+360p
+
+H.264 Baseline
+
+0.5
+
+AAC
+
+96
+
+
+MP4
+
+720p
+
+H.264 High
+
+2-3
+
+AAC
+
+192
+
+
+WebM
+
+360p
+
+VP8
+
+0.5
+
+Vorbis
+
+128
+
+3D Video
+
+
+
+Default container
+
+Video resolution
+
+Video encoding
+
+Video bitrate (Mbit/s) [2]
+
+Audio encoding
+
+Audio bitrate (kbit/s) [2]
+
+
+MP4
+
+360p
+
+H.264
+
+0.5
+
+AAC
+
+96
+
+
+MP4
+
+240p
+
+H.264
+
+0.5
+
+AAC
+
+96
+
+
+MP4
+
+720p
+
+H.264
+
+2-3
+
+AAC
+
+192
+
+
+MP4
+
+1080p
+
+H.264
+
+3-4
+
+AAC
+
+192
+
+
+WebM
+
+360p
+
+VP8
+
+
+
+Vorbis
+
+128
+
+DASH (video only)
+
+
+
+Default container
+
+Video resolution
+
+Video encoding
+
+Video bitrate (Mbit/s) [2]
+
+
+MP4
+
+144p 15 fps
+
+H.264 Main
+
+0.1
+
+
+240p
+
+0.2–0.3
+
+
+360p
+
+0.3–0.4
+
+
+480p
+
+0.5–1
+
+
+720p
+
+1–1.5
+
+
+720p HFR
+
+3–3.5
+
+
+1080p
+
+H.264 High
+
+2.5–3
+
+
+1080p HFR
+
+5.5
+
+
+1440p
+
+4–4.5
+
+
+2160p–2304p
+
+12.5–16
+
+
+2160p–4320p
+
+13.5–25
+
+
+WebM
+
+144p 15 fps
+
+VP9
+
+0.08
+
+
+240p
+
+0.1–0.2
+
+
+360p
+
+0.25
+
+
+480p
+
+0.5
+
+
+720p
+
+0.7–0.8
+
+
+1080p
+
+1.5
+
+
+1440p
+
+9
+
+
+2160p
+
+13–15
+
+
+720p HFR
+
+2.5
+
+
+1080p HFR
+
+5
+
+
+1440p HFR
+
+10
+
+
+2160p HFR
+
+20–25
+
+
+DASH (audio only)
+
+
+
+Default container
+
+Audio encoding
+
+Audio bitrate (kbit/s) [2]
+
+
+M4A
+
+AAC
+
+128
+
+
+M4A
+
+AAC
+
+256[6]
+
+
+WebM
+
+Vorbis
+
+128
+
+
+WebM
+
+Opus
+
+48
+
+
+WebM
+
+Opus
+
+64
+
+
+WebM
+
+Opus
+
+160
+
+Live streaming
+
+
+
+Default container
+
+Video resolution
+
+Video encoding
+
+Video bitrate (Mbit/s) [2]
+
+Audio encoding
+
+Audio bitrate (kbit/s) [2]
+
+
+TS
+
+72p
+
+H.264 Baseline
+
+0.05
+
+AAC
+
+24
+
+
+240p
+
+0.15–0.2
+
+48
+
+
+240p
+
+H.264 Main
+
+0.15–0.3
+
+48
+
+
+360p
+
+0.5–1
+
+128
+
+
+480p
+
+0.8–1.25
+
+128
+
+
+720p
+
+1.5–3
+
+256
+
+
+1080p
+
+H.264 High
+
+2.5–6
+
+256
+
+
+^[1]
+itag is an undocumented parameter used internally by YouTube to
+differentiate between quality profiles. Until December 2010, there was also a
+URL parameter known as fmt that allowed a user to force a profile using
+itag codes.
+^[2]
+Approximate values based on statistical data; actual bitrate can be higher or
+lower due to variable encoding rate.
+^[6]
+Available in the DASH manifest and on YouTube's content distribution servers, but not used in playback.
+[96]Template:SPS[97]Template:SPS[98][99][100]
+
+
+
+アスペクト比は自動的に判断され正しい比率で再生できる。
+卑猥な動画など過激な描写を含む動画は視聴者からの通報などにより、メンバー登録による18歳以上の年齢認証が設定されるが、年齢認証は検証の手段が無い簡易的なものなのであまり有効ではないため、場合によっては年齢認証ではなく、ガイドライン違反として削除されることもある。尚、年齢認証の必要な動画はYouTube側の独自の判断で決められる為、テレビで放映できるようなものも、嫌がらせの通報により年齢認証が必要となってしまうことがある（特に、暴力シーンがあると判断されたアクション映画のクリップ、路上でのストリートファイト等）。
+投稿した動画が著作権侵害や過激な性描写などの理由で3回削除されるとアカウントと同時に過去にアップロードした全ての動画が警告なしに削除される。
+基本は容量2GB、長さ15分29秒までの動画ファイルをアップロードできる。ガイドライン違反がない会員の場合、申請および認証により容量20GB、長さ無制限の動画ファイルをアップロード、投稿できるようになる。
+2009年7月21日に初の3D動画がアップロードされ[101]、2015年11月11日に「Google Cardboard」に対応し、すべての動画でヴァーチャル3Dが視聴できるようになった。
+2015年6月7日には、アメリカの映像制作会社が8Kスーパーハイビジョンの動画アップロードに成功した[102]。しかしながら、負荷がかかるため、対応した再生機器は少ない。
+ちなみに、今回アップロードされた8K第一弾の映像もアメリカ製のカメラで撮影した6K映像を125%アップスケーリングして8K映像にしており、撮影した元の映像は8Kではない。
+
+ライブストリーミング
+この節の加筆が望まれています。
+2011年4月に開始されたYouTubeのライブストリーミング機能。通称YouTube Live。
+YouTubeは、2008年11月にYouTube Liveというリアルライブイベント[103]や、U2によるコンサート[104]、2010年2月の米国大統領バラク・オバマとの質疑応答セッション[105]など、サードパーティパートナーの技術に依存したライブストリーミングの初期実験を実施した。
+2010年9月にYouTubeはGoogle独自技術のライブストリーミングテストを一部コンテンツパートナーと開始し[106][107]2011年4月にライブストリーミングサービスの正式開始を発表[108]。 
+2012年10月には、約800万人以上がFelix Baumgartnerの宇宙の端から飛ぶレッドブル・ストラトスをYouTubeのライブストリームで視聴した[109][110]。
+ライブストリーミング機能の利用については、2013年5月にはチャンネル登録者数1000人以上が条件だったが、同年8月には100人以上へと緩和され、12月には制限が撤廃された[111]。また、2017年2月からはモバイルアプリに導入。こちらは当初、登録者数1万人以上が条件だった。同年後半には100人以上に緩和されたものの、2019年10月現在、1000人以上に引き上げられている[112]。
+システムとしては、通常のYouTubeにもある画質変換機能の他、コメントの代わりとしてチャットを備えている(後述のメンバーシップ限定で書き込み許可することも可能。「モデレーター」の権限を持ったユーザーがコメントの除外を行うこともできる。)。チャットは、視聴者からのポップアウトを除いた上位チャットと、全ての書き込みを表示する通常のチャットの二段に分けている。このチャット欄にスーパーチャット(後述)を贈ることも可能。放送後は12時間以内の配信に関してはアーカイブとして、動画の形で残すことも可能（チャットコメントに関しては再現の可否の設定が可能）。あらかじめ配信を行うことを予告したページでは、視聴者側でリマインダー設定（配信開始の直前通知）が可能。また、最大4K 60fpsや、360度ビデオの配信が可能。
+動画と同様に特定のURLを介した限定生放送も可能。メンバーシップの加入者を対象とした限定ライブ配信は不可（アーカイブ化した動画には対応する）。これについては、その後ベータ版として限定的に可能になった。
+ライブ情報は、検索での絞り込み、ライブ専用チャンネルで現時点でのライブ放送や今後予定しているライブ放送を一覧としてまとめている。ゲーム配信に特化した「YouTube Gaming」にも同様のサービスを受けることができる。
+なお、ライブストリーミングは、ユーザーが著作権侵害やガイドライン違反をした場合（警告がされた場合）は、制限されて使用ができなくなる。また、ドイツからは使用できない[113]。
+
+Super Chat(スーパーチャット)
+「Super Chat」を参照
+2017年2月に追加された、ライブチャットや動画のプレミア公開でチャット欄にメッセージを目立たせることができる有料機能[114]。YouTubeにおいて一定のチャンネル登録者数を超えていると利用できる機能の一つ。投げ銭機能であり、略称は「スパチャ」[115]。
+複数の金額段階を持つ購入制となっており、支払った金額に応じてチャットコメントを色付きで強調表示し、一定の金額以上だとチャットの上部にティッカーという形で一定時間表示される。スーパーチャットとして課金された総額の数割が配信者への収益となる。1日で利用できるスーパーチャットの金額は1日ごとに上限が設けられている。
+2019年9月のインタビューでYouTubeの最高プロダクト責任者のNeal Mohan（ニール・モーハン）は、スーパーチャットの収益ランキングのトップ10人の内、7人までが日本のクリエイターと答えた[116]。2020年3月4日、新型コロナウイルス感染症流行に伴い無観客ライブを行うM.S.S Projectが、開演を前に5000万円を集めた。
+
+Super Stickers(スーパーステッカー)
+2019年11月に追加された、ライブチャットや動画のプレミア公開で、チャット欄にステッカーを表示させる有料機能[117]。YouTubeにおいて一定のチャンネル登録者数を超えていると利用できる機能の一つ。
+
+YouTube プレミア公開(YouTube Premieres)
+YouTubeで映画やテレビ番組のプレミア上映のように、クリエイターと視聴者が公開した（ストリーミングではない事前制作された）動画を同時に観て楽しむようにする機能。上記のYouTube Premium（プレミアム）とは別の機能。
+スケジュール設定された動画が巻き戻しや早送りが出来ない状態でライブ再生され、全員が同じタイミングで動画を観ることになる。YouTube Liveのようなチャット機能および、スーパーチャットも使用できる。一度再生されると、通常の動画として再生出来るようになる。[118]
+
+YouTube Shorts
+2020年9月にインドで発売された携帯電話で最大15秒の短いビデオを投稿できる機能。クリエイターツールとして、複数のビデオクリップを繋ぐマルチセグメントカメラ機能やスピードコントロール、ハンズフリーで簡単に録画できるタイマー・カウントダウン撮影といった機能が用意されている[119][120]。
+
+マルチカメラ動画
+この節の加筆が望まれています。
+YouTubeのライブイベントでのみ使用できるマルチカメラアングル機能[121]。ライブ配信後、動画アーカイブとして視聴することができる。
+動画再生中に視聴者の好みでカメラを切り替えられる「マルチアングル機能」が一部のチャンネルで公開されている。マディリン・ベイリーの公式YouTubeチャンネルもこの技術を利用している。[122][123]。
+
+360度動画
+2015年3月、YouTubeは360度動画のアップロードと再生に対応した[124]。最大4K解像度の360°ビデオのライブストリーミングもサポートされている[125]。
+
+Googleアカウントとの連携
+ほとんどの動画はGoogleアカウントを持ってなくても閲覧できるが、年齢制限がかかっている動画などはGoogleアカウントを持っている場合しか見ることができない。
+Googleアカウントがある場合、主に以下のサービスを利用できる。
+
+動画の投稿
+プレイリストの作成
+動画への評価やコメント
+おすすめ動画の表示
+クローズド・キャプション用のファイルの追加
+収益
+Alphabet Inc.は2019年財務報告書の一部として、2020年2月にYouTubeの正確な広告収入を初めて公開した。Alphabetによると、YouTubeの広告収入は、2017年81億ドル、2018年111億ドル、2019年151億ドルだった[126]。YouTubeの利益については未だ非公開である。
+2019年第4四半期の時点でYouTube PremiumとYouTube Musicのサブスクリプションを合わせた加入者は約2,000万人、YouTube TVの加入者は200万人いる[127]。
+なお一定に人数にチャンネル登録されると[128][129]バナーが贈られる。
+
+Content ID
+2007年6月にGoogleは、YouTubeの著作権を侵害するアップロード動画を自動検出する著作権保護ツールの試用を開始した[130][131]。
+著作権者は、閲覧できないよう動画をブロックするか、動画の再生に関する統計情報を追跡するか、動画に広告を掲載して動画を収益化し、場合によってはアップロードしたユーザーと収益を分配するかを選択することができる[132][133]。
+
+ビデオクリエイターとのパートナーシップ
+2007年5月、YouTubeはGoogle AdSenseに基づくシステムであるパートナープログラム（YPP）を開始しました[134]。これにより、動画投稿者は、サイトの広告によって生み出された収益を共有できます。
+YouTubeパートナーシップの用件を満たしたアカウントには
+
+承認済みの Google AdSense
+マルチチャンネルネットワーク
+のどちらかをリンクさせる必要がある。
+本編の始まる前に動画CMを流す[注 2]他、バナー（アイコンリク）での静止画広告も挿入することができる。
+収益を受け取るには、AdSense経由の場合はAdSenseに準ずる（本人名義の銀行口座と現住所を登録する必要がある）。マルチチャンネルネットワークの場合はネットワークが定める方法で収益を受け取る(銀行振り込み、Paypalなど)。
+ただし、2019年冬以降は「子供向け」コンテンツに関しては収益の対象外となる。YOUTUBE側での自動判断で子供向けと判断される場合もあり、その都度申請が必要となる。
+
+チャンネルメンバーシップ
+この節の加筆が望まれています。
+制度を利用したチャンネルに対し、利用者が一定料金を毎月支払うことで該当チャンネルの「チャンネルメンバー」となる[135][136]。旧名称、スポンサーシップ[135]。
+チャンネルメンバーになることで、動画およびYoutube Liveのコメント欄に表示できるバッジや独自の絵文字、その他メンバー限定のコンテンツに優先してアクセスすることができる[135]。
+
+施設
+「YouTube Space」を参照
+弊害
+収益化を悪用し、理不尽なヘイトスピーチや人権侵害、人種差別を煽る不適切コンテンツで収益を得る投稿者が増加している。
+2017年3月17日、イギリス政府は不適切なコンテンツに政府や英企業の広告が掲載される事を問題視しYouTubeから広告を引き上げを表明した[137]。
+同問題はイギリスの他にも波及し、アメリカの大手企業も広告引き上げを表明している。YouTube側が問題へ対策を行う事を約束すると発表した[138]。
+2017年4月7日対策の一環として視聴回数1万未満のチャンネルは広告が非表示となり、1万回以上となったチャンネルは審査を行い問題が無い場合のみ収益化が有効となる。理由は視聴回数が1万回未満のチャンネルのは、広告収入目当ての著作権侵害動画が多いことを上げ、遵法性の高いクリエイターの収入を守るためという[139]。
+2018年2月20日以降は収益化の審査を行う基準が変更され、チャンネル登録者1,000人以上、直近12ヶ月の視聴時間が4,000時間(240,000分)を超えたチャンネルについて収益化の審査の対象となる。なお、基準変更以前に収益化を有効とされたチャンネルについても同じ基準が適用され、要件を満たさない場合は収益化は無効となる。
+
+世論への影響
+娯楽以外の活用例としてはイーホームズの藤田東吾がYouTubeを通じ構造計算書偽造問題に対する告発を行ったり、ロサンゼルス市警察の警官が無抵抗な被疑者に対し暴力を振るっている姿を捕らえた映像がYouTubeで匿名で公開されたりと[140]告発の場となっている。
+他には、カナダの警察が犯人逮捕のために、殺人事件が発生した際に映った犯人らしき人物のビデオ映像をYouTube上で流している[141]。
+政治面としてはYouTube側が「You Choose '08」を用意し、2008年アメリカ合衆国大統領選挙のために候補者と有権者が直接映像で意見交換する場を設置。登録者のひとりである大統領候補者ヒラリー・クリントンが「YouTubeを利用することで、アメリカ国民に自分の意志を動画で共有出来るから」とコメントしている[142]。
+日本でも2007年12月に自由民主党、社会民主党、日本共産党が相次いで公式チャンネルを開設、政策発信や党の活動状況の情報配信を実施し若い有権者へのアピールを行っている[143][144]。
+2007年6月1日、ベネズエラにて反政府的としてウゴ・チャベス大統領によって閉鎖させられた民間放送局ラジオ・カラカス・テレビ（RCTV）は閉鎖に抗議する形として、YouTubeでの番組の公開を開始した[145]。
+2007年の後半にはオーストラリアのカトリック司祭であるジェフ・バロンの言動を隠し撮りした映像がアップロードされ、これがマスメディアを通して世界中に伝えられる事態となりやがては同司祭の解任にまで至った[146]。
+2010年11月4日、日本国政府によってひた隠しにされていた尖閣諸島中国漁船衝突事件の映像が当時海上保安官であった一色正春により、神戸市のネットカフェからアップロードされ、事件の状況が映像で明らかになり、日本の世論に衝撃を与えた。これは尖閣諸島中国漁船衝突映像流出事件と呼ばれ、日本では社会現象ともなった。
+
+著作権問題
+この節には独自研究が含まれているおそれがあります。問題箇所を検証し出典を追加して、記事の改善にご協力ください。議論はノートを参照してください。（2010年8月）
+他の動画共有サービスと同様に著作権法によって保護されているコンテンツ、例えばテレビ番組やプロモーションビデオ、中にはアーティストのライブを密かに録画したものなどが違法に多数アップロードされていることが問題点として指摘されている。YouTubeは利用規約で著作権侵害になるファイルのアップロードを禁止しているが、違法コンテンツは後を絶たない。
+
+YouTube側の対応
+2006年3月27日からアニメなどの海賊版のアップロードを制限するために、10分を超えるファイルのアップロードを原則制限しているが[147]、利用者はファイルを10分以内に分割するようになった[148]。2006年4月10日から15分以上の動画をアップロードしたいとの要望に応えるため、Director制度が始まった[149]。Directorに登録すれば15分を超えるファイルのアップロードも可能になるが登録には審査があり、完全なオリジナルコンテンツを提供する人のみに限定されている。通常とは違い、他者の著作権を侵害した動画をアップロードした場合は動画を1回削除されただけでアカウントも削除されることとなっている。
+以前は違法コンテンツも放置される傾向にあったが、2006年5月頃からは削除作業が活発になった。
+また2008年10月23日、YouTubeとJASRACとの間で音楽著作権に関する包括許諾契約を締結した。YouTubeは収入の約2%をJASRACに支払うことによって、JASRACの管理楽曲を二次利用した動画のアップロード行為は合法に当たる。また、JASRAC以外にもJRC及びイーライセンスとも既に契約を結んでいる[150]。
+ただし、これらはあくまで二次利用の許諾であるためかオリジナル音源やプロモーションビデオをそのまま投稿することは違法行為である。このため、動画に問題はなくても音源に問題がある場合、音源だけが削除・ミュートされることがある他、動画・音源共に削除されないものの、一部地域で動画の視聴が不可能になる場合などがある。
+角川書店の角川デジックスはYouTube向けの動画識別技術の実証実験に参加[151]、これによる著作権対策が有効だと判断できたとして、2008年2月より公式チャンネルを開設、角川グループとしてYouTubeのプロモーション活用を行うほか、角川グループの映像作品を使った投稿動画についても、各権利者の許諾が得られた場合、公認動画として認定マークと広告を付加、広告収入を権利者に分配を行う事にしている。さらに公認動画の広告枠の販売や、投稿された動画の優秀作の作者を角川グループの作品の監督や脚本家に起用する「クリエイター発掘企画」も展開する予定となっている[152]。
+
+テレビ局の対応
+2006年2月16日、アメリカのNBCが著作権の侵害として、テレビ番組『サタデー・ナイト・ライブ』の無断転載映像を削除した。大手のテレビ局からの要請による動画削除はこの件が初めてであった（その後『サタデー・ナイト・ライブ』は、公式YouTubeチャンネルを開設している）。
+各テレビ局にYouTubeの動画の監視・削除要請などを行う専任監視部隊（主として編成や著作権・権利関係の業務を行う専任部署、またはスカイアンドロード社ほか番組制作会社の関連会社など）が設けられている。度々の申し入れをせざるを得ない社[153]に対しては、専用の申し入れフォームが作成送付されている。特にTBSに至っては、「視聴者サービス部宛メッセージフォーム」にYouTube上でのTBS番組の無断アップロード（=著作権侵害行為）の件について通報すると、通報した翌日から数日中にかけ、動画ファイルがTBSによって削除されるようになっている。また、TBSはほかの動画共有サイトにある動画の削除の対応にも強化を入れている。
+2006年、スペースシャワーTV、MUSIC ON! TVなども削除依頼を提出している。しかし、番組映像の二次流用が後を絶たない。
+例外的にTOKYO MXの一部の番組についてはアップロードが黙認されたケースがあった[注 3]。2006年放送の『BlogTV』は出演者、広告主、制作会社、TOKYO MXの4社が、YouTubeに積極的にアップロードすることの番組的価値を見出し、30分放送のプログラムを10分枠で3本に分割した上でアップロードしている。2008年4月7日放送の『東京ITニュース』においては、月曜日放送分を前週の金曜日に、テレビ放送よりも先にYouTubeで共有するという手法をとっている。また、海外のテレビ局（英国放送協会など）の対応は、比較的寛容である。
+2007年1月25日から放送番組の違法流通を防止するため「放送コンテンツ適正流通推進連絡会」が発足し、2月6日にチャド・ハーリーCEOと親会社のグーグル社の幹部が訪日し、日本の著作権団体らと会見[154]。日本側が提示した登録者に対して、個人情報登録をさせる件については難色を示したものの、違法動画をアップロードすら出来なくなる技術を開発することと、日本語での著作権に対する警告文を表示すると約束した。
+
+レコード会社の対応
+まず、YouTubeは2006年9月にワーナー・ミュージック・グループとの間で、ミュージック・ビデオの取り扱いに関する契約を結んだ[155]。さらに2006年10月9日にユニバーサルミュージック、ソニー・ミュージックエンタテインメント、CBSとの間でビデオの投稿や購入に関する提携を行った[156]。Googleも同日にソニーBMG・ミュージックエンタテインメントとワーナー・ミュージック・グループとの間にビデオ配信に関する提携を行った[157][158]。2008年5月31日にGoogle/YouTubeはEMIとの間にビデオと音楽の利用に関する提携を行い、これにより世界的な4大メジャー・レーベル全てがGoogle/YouTubeとライセンス契約を締結することとなった[159]。またユニバーサルミュージック、ソニーBMG・ミュージックエンタテインメント、ワーナー・ミュージック・グループの3社は以前よりYouTube株を取得しており、Googleとの合併時に5000万ドルの利益を得たと報じられた[160]。メジャーだけでなくインディーズ・レーベルとも提携している。
+
+法廷闘争
+「著作権法の判例一覧 (アメリカ合衆国)」も参照
+MTVやパラマウント・ピクチャーズを保有する米メディア大手バイアコムは2007年2月に10万本以上の未許可投稿動画を削除するよう要請、3月13日のYouTubeとGoogleを相手に10億ドルの著作権訴訟をニューヨーク連邦地裁に起こした[161]。声明で「無許可の映像につけた広告を収入源とするYouTubeとGoogleの事業モデルは明らかに違法行為だ」と述べた。訴えによるとこれまでに同社の映像16万本が流れ、計15億回視聴された。
+メディア会社は、対価なしで自社の番組を使用するYouTubeがケーブルテレビやテレビ放送から視聴者や広告費を奪い取ることを懸念している。バイアコムは同時にAppleのiTunes Storeで、番組を1本1.99ドルで販売するなど、合法的なデジタル配信の方法を模索している。これは、iTunesを使って、パソコン・iPad・iPhone（Video iPod）で視聴できる。
+YouTubeはすべての著作権者に協力し通知を受けた場合は直ちに削除を行うとしているが、バイアコムはYouTubeがこのような方法を取ることで著作権侵害を防止するイニシアチブを取ることを避け、サイトを監視する負担とコストを著作権者に転嫁していると主張している。
+バイアコムが削除要請した動画には、著作権侵害に当たらないバイアコム傘下企業番組のパロディ映像が含まれていたとして、2007年3月22日に、電子フロンティア財団はバイアコムに対し、言論の自由を侵害したとして提訴したが[162]、バイアコムは削除要請したことは誤りだったと認め、訴状は同年4月に取り下げられた[163]。
+
+日本における著作権法改正案
+2007年9月26日、文部科学省所轄私的録音録画小委員会2007年第13回会合にて、YouTubeに公開されている違法コンテンツを知らずにダウンロードしただけでも違法行為とする指針が定められ、著作権法改正案のなかに入れることで合意した[164]。また、文化庁著作権課は「YouTubeはストリーミング再生なのでこの指針のうちには入らず違法ではない」との声明を出している[165]。
+2008年4月1日に日本音楽著作権協会 (JASRAC) と楽曲の使用についての包括契約を締結し、「JASRACが管理する曲」を演奏したり歌ったりした動画を（合法的に）アップロードできるようになった。同日、EMIミュージック・ジャパンは公式チャンネルを設けている。また、日本国内と海外からのアクセスを切り分けも行っている[166]。
+YouTubeは、構造的にストリーミング再生ではなくダウンロードでの再生であるためにもしこの改正案がそのまま国会で可決され施行された場合、YouTubeに勝手に公開されてしまった違法コンテンツを知らずに自分のパソコンなどで見ただけでも違法行為となるという意見がネットを中心として続出したが[167]、ブラウザのキャッシュ機能は著作権業界における「ダウンロード」ないし「複製」には当てはまらないという指摘もある[168]。
+文化審議会著作権分科会は2007年10月16日から11月15日までパブリックコメントの制度を使い、広く意見を募集していた[169]。これに対し、インターネット先進ユーザーの会などが意見の提出を一般ユーザーに呼びかけると共に、一般ユーザーの意見提出に対する支援を実施するとしている[170]。
+
+アクセス規制措置
+「en:Censorship of YouTube」を参照
+YouTubeには、各国の法律に違反するコンテンツの投稿が後を絶たない。そのため、各国政府若しくはインターネットサービスプロバイダなど、しばしば非常措置として、YouTubeへのアクセス規制を実施することがある。
+2007年1月9日、ブラジルにて元サッカー選手のロナウドの元婚約者のダニエラ・シカレリが、恋人と海岸にいる姿をパパラッチに撮られ、YouTubeに公開されたことに対し、ブラジルの裁判所に訴えYouTube側は何度もその映像を削除していたもののすぐに他の誰かが公開してしまい、まだ映像が残っているとのことによりブラジルからYouTubeに接続できなくなるという措置がブラジル政府により執られた[171]。翌日の1月10日には完全にその映像が削除され、アクセス制限は解除された。
+2007年3月6日、トルコの初代大統領であるケマル・アタテュルクを誹謗する映像が掲載されたとしてイスタンブール第一刑事治安裁判所は同国内からのYouTubeへのアクセスを禁止する命令を下した。この決定を受けトルコの通信サービス最大手、トルコ・テレコムはすぐにYouTubeへのアクセスを規制した[172]。問題の映像は削除され、3月9日にアクセス規制は解除された[173]。
+2007年4月5日、タイの暫定政府はプミポン国王（当時）を侮辱する映像が掲載されたとして、同国内からYouTubeへのアクセス規制措置を下した[174]。映像自体は投稿者が自主的に削除したものの、YouTube側は「アメリカのジョージ・W・ブッシュ大統領をもっとひどくからかった映像が放置されている」として、削除要請を拒否した[175]。
+
+対応言語
+
+80言語
+#アフリカーンス語
+アゼルバイジャン語
+インドネシア語
+マレー語
+ボスニア語
+カタルーニャ語
+チェコ語
+デンマーク語
+ドイツ語
+エストニア語
+英語(英国方言)
+英語(米国方言)
+スペイン語(スペイン方言)
+スペイン語(ラテンアメリカ方言)
+スペイン語(アメリカ方言)
+バスク語
+タガログ語
+フランス語(フランス方言)
+フランス語(カナダ方言)
+ガリシア語
+クロアチア語
+ズールー語
+アイスランド語
+イタリア語
+スワヒリ語
+ラトビア語
+リトアニア語
+ハンガリー語
+オランダ語
+ノルウェー語
+ウズベク語
+ポーランド語
+ポルトガル語(ポルトガル方言)
+ポルトガル語(ブラジル方言)
+ルーマニア語
+アルバニア語
+スロバキア語
+スロベニア語
+セルビア語(Srpski)
+フィンランド語
+スウェーデン語
+ベトナム語
+トルコ語
+ベラルーシ語
+ブルガリア語
+キルギス語
+カザフ語
+マケドニア語
+モンゴル語
+ロシア語
+セルビア語(Српски)
+ウクライナ語
+ギリシア語
+アルメニア語
+ヘブライ語
+ウルドゥー語
+アラビア語
+ペルシア語
+ネパール語
+マラーティー語
+ヒンディー語
+ベンガル語
+パンジャブ語
+グジャラート語
+タミル語
+テルグ語
+カンナダ語
+マラヤーラム語
+シンハラ語
+タイ語
+ラーオ語
+ビルマ語
+グルジア語
+アムハラ語
+クメール語
+中国語（簡体字）
+中国語（繁体字）
+中国語（香港方言）
+日本語
+朝鮮語
+
+脚注
+[脚注の使い方]
+注釈
+
+
+^ ちなみに、YouTubeは買収前にGoogle AdSenseの広告を利用していた
+
+^ 一部のスポンサーはCMを一定時間映してからスキップして本編を見ることができる
+
+^ 詳細は談志・陳平の言いたい放だいを参照
+
+
+出典
+
+
+^ “youtube.com Site Overview”. 2016年12月22日閲覧。
+
+^ “Alexa - Top sites”. www.alexa.com. 2021年2月16日閲覧。
+
+^ “https://www.tubefilter.com/2019/05/07/number-hours-video-uploaded-to-youtube-per-minute/”. 2020年2月16日閲覧。
+
+^ 鳥羽賢 (2006年11月25日). “知らないと困るYouTubeの歩き方”.   All About. 2011年4月10日閲覧。
+
+^ Graham, Jefferson (2005年11月21日). “Video websites pop up, invite postings”. USA Today. http://www.usatoday.com/tech/news/techinnovations/2005-11-21-video-websites_x.htm 2006年7月28日閲覧。 
+
+^ “YouTube: Sharing Digital Camera Videos”.   University of Illinois at Urbana-Champaign. 2009年1月11日時点のオリジナルよりアーカイブ。2008年11月29日閲覧。
+
+^ a b Cloud, John (2006年12月25日). “The YouTube Gurus”. Time. 2017年3月26日閲覧。
+
+^ Hopkins, Jim (2006年10月11日). “Surprise! There's a third YouTube co-founder”. USA Today.   Gannett Company. 2017年3月26日閲覧。
+
+^ “Venture Firm Shares a YouTube Jackpot”. The New York Times (2006年10月10日). 2017年3月26日閲覧。
+
+^ Kehaulani Goo, Sara (2006年10月7日). “Ready for Its Close-Up”. The Washington Post.   Nash Holdings LLC. 2017年3月26日閲覧。
+
+^ “Whois Record for www.youtube.com”.   DomainTools. 2009年4月1日閲覧。
+
+^ Earliest surviving version of the YouTube website Wayback Machine, April 28, 2005. Retrieved June 19, 2013.
+
+^ Alleyne, Richard (2008年7月31日). “YouTube: Overnight success has sparked a backlash”. The Daily Telegraph.   Telegraph Media Group. 2017年3月26日閲覧。
+
+^ “Me at the zoo”.   YouTube (2005年4月23日). 2009年8月3日閲覧。
+
+^ “Ronaldinho: Touch of Gold – YouTube”. Wayback Machine (2005年11月25日). 2017年1月1日閲覧。
+
+^ “Most Viewed – YouTube”. Wayback Machine (2005年11月2日). 2017年1月1日閲覧。
+
+^ “Business Search - Business Entities - Business Programs（YOUTUBE, INC.）”. California Secretary of State. 2020年3月11日閲覧。
+
+^ “YouTube Inc”. www.bloomberg.com. 2020年3月11日閲覧。
+
+^ “YouTube: a history”. The Daily Telegraph.   Telegraph Media Group (2010年4月17日). 2017年3月26日閲覧。
+
+^ Dickey, Megan Rose (2013年2月15日). “The 22 Key Turning Points in the History of YouTube”. Business Insider.   Axel Springer SE. 2017年3月25日閲覧。
+
+^ “YouTube serves up 100 million videos a day online”. USA Today.   Gannett Company (2006年7月16日). 2017年3月26日閲覧。
+
+^ Google、YouTube買収で合意 - 総額16億5000万ドル、MYCOMジャーナル、2006年10月10日
+
+^ “「YouTube」日本から212万人が訪問、平均利用時間は米ユーザーを上回る”. internet.watch.impress.co.jp. 2020年2月24日閲覧。
+
+^ Marketers are into YouTube、USATODAY.com、2006年4月17日
+
+^ “The revolution wasn't televised: The early days of YouTube”. Mashable (2015年2月15日). 2018年7月4日閲覧。
+
+^ Zappone, Christian (2006年10月12日). “Help! YouTube is killing my business!”. CNN. http://money.cnn.com/2006/10/12/news/companies/utube/index.htm 2008年11月29日閲覧。 
+
+^ Blakely, Rhys (2006年11月2日). “Utube sues YouTube”. The Times (London). http://business.timesonline.co.uk/tol/business/industry_sectors/media/article623050.ece 2008年11月29日閲覧。 
+
+^ Your Tube, Whose Dime?、Forbes.com、2006年4月28日
+
+^ 「Google、YouTubeを16億5000万ドルで買収」、ITmedia、2006年10月10日
+
+^ Arrington, Michael (2006年11月13日). “Google Closes YouTube Acquisition”. TechCrunch.   AOL. 2017年3月26日閲覧。
+
+^ “Google closes $A2b YouTube deal”. The Age.   Fairfax Media (2006年11月14日). 2007年12月20日時点のオリジナルよりアーカイブ。2017年3月26日閲覧。
+
+^ “Business Search - Business Entities - Business Programs（YOUTUBE, LLC）”. California Secretary of State. 2020年3月11日閲覧。
+
+^ “YouTube LLC”. www.bloomberg.com. 2020年3月11日閲覧。
+
+^ A Message From Chad and Steve - YouTube（Google買収に対するチャド・ハーリーCEOとスティーブのコメント）
+
+^ YouTube、Time誌の「Invention of the Year」に、ITmedia、2006年11月6日
+
+^ “YouTube、"史上最速"で利用者 1000 万人に到達”. ニールセン デジタル株式会社. 2020年2月24日閲覧。
+
+^ YouTube co-founders among Webby winners、MSNBC.com、2007年5月1日
+
+^ Carter, Lewis (2008年4月7日). “Web could collapse as video demand soars”. The Daily Telegraph.   Telegraph Media Group. 2017年3月26日閲覧。
+
+^ “youtube.com Traffic Statistics”. Alexa Internet.   Amazon.com (2017年7月9日). 2018年1月20日閲覧。
+
+^ “Youtube.com Analytics”.   SimilarWeb. 2015年6月29日閲覧。
+
+^ “Top 50 sites in the world for Arts And Entertainment > TV And Video”.   SimilarWeb. 2015年6月29日閲覧。
+
+^ “comScore Releases May 2010 U.S. Online Video Rankings”.   comScore. 2010年6月27日閲覧。
+
+^ a b c Oreskovic, Alexei (2012年1月23日). “Exclusive: YouTube hits 4 billion daily video views”. Reuters.   Thomson Reuters. 2017年3月26日閲覧。
+
+^ Welch, Chris (2013年5月19日). “YouTube users now upload 100 hours of video every minute”. The Verge.   Vox Media. 2017年3月26日閲覧。
+
+^ Russell, Jon (2013年5月19日). “YouTube reveals users now upload more than 100 hours of video per minute, as the site turns eight”. The Next Web. 2017年3月26日閲覧。
+
+^ E. Solsman, Joan (2014年11月12日). “YouTube's Music Key: Can paid streaming finally hook the masses?”. CNET.   CBS Interactive. 2017年3月25日閲覧。
+
+^ Hamedy, Saba (2017年2月28日). “People now spend 1 billion hours watching YouTube every day”. Mashable. 2017年3月26日閲覧。
+
+^ Bates, Daniel (2017年3月1日). “YouTube users watch more than a BILLION hours of footage every day … and is set to overtake TV viewing”. The Sun.   News UK. 2017年3月26日閲覧。
+
+^ Seabrook, John (2012年1月16日). “Streaming Dreams”. The New Yorker. http://www.newyorker.com/reporting/2012/01/16/120116fa_fact_seabrook?currentPage=all 2012年1月6日閲覧。 
+
+^ Sweney, Mark (2010年1月20日). “Cricket: IPL goes global with live online deal”. The Guardian (London). https://www.theguardian.com/media/2010/jan/20/youtube-live-indian-premier-league Feburary 6, 2010閲覧。 
+
+^ Parr, Ben (2010年5月17日). “YouTube Surpasses Two Billion Video Views Daily”. Mashable. 2017年3月26日閲覧。
+
+^ Kincaid, Jason (2010年5月16日). “Five Years In, YouTube Is Now Streaming Two Billion Views Per Day”. TechCrunch.   AOL. 2017年3月26日閲覧。
+
+^ Barnett, Emma (2010年5月17日). “YouTube hits two billion views a day”. The Guardian.   Guardian Media Group. 2017年3月26日閲覧。
+
+^ O'Neill, Megan (2011年5月25日). “YouTube Celebrates Its 6th Birthday With 3 Billion Daily Views”. Adweek.   Beringer Capital. 2017年3月26日閲覧。
+
+^ Bryant, Martin (2011年5月25日). “YouTube hits 3 Billion views per day, 2 DAYS worth of video uploaded every minute”. The Next Web. 2017年3月26日閲覧。
+
+^ “YouTube moves past 3 billion views a day”. CNET.   CBS Interactive (2011年5月25日). 2017年3月26日閲覧。
+
+^ Perez, Sarah (2012年1月23日). “YouTube Reaches 4 Billion Views Per Day”. TechCrunch.   AOL. 2017年3月26日閲覧。
+
+^ McCormick, Rich (2017年2月27日). “Humans watch a billion hours of YouTube every single day”. The Verge.   Vox Media. 2017年3月26日閲覧。
+
+^ Lumb, David (2017年2月27日). “One billion hours of YouTube are watched every day”. Engadget.   AOL. 2017年3月26日閲覧。
+
+^ Broussard, Mitchel (2017年2月28日). “YouTube Users Watch More Than 1 Billion Hours of Video a Day, Will Soon Outpace U.S. TV”. MacRumors. 2017年3月26日閲覧。
+
+^ “Hurley stepping down as YouTube chief executive”. AFP. (2010年10月29日). https://www.google.com/hostednews/afp/article/ALeqM5ggtnJSISuXoPHgxu6HwPJJqVTT6g?docId=CNG.f7ff59e3829714d23524d35ed1afdd63.921 2010年10月30日閲覧。 
+
+^ Whitelaw, Ben (2011年4月20日). “Almost all YouTube views come from just 30% of films”. The Daily Telegraph.   Telegraph Media Group. 2017年3月26日閲覧。
+
+^ “YouTubeがユーザーインターフェイスを一新 －トップページデザインやSNS連携など”. AV Watch. (2011年12月2日). https://av.watch.impress.co.jp/docs/news/495528.html 2018年7月4日閲覧。 
+
+^ “YouTube's website redesign puts the focus on channels”. BBC. (2011年12月2日). http://www.bbc.co.uk/news/technology-16006524 2011年12月2日閲覧。 
+
+^ Cashmore, Pete (2006年10月26日). “YouTube Gets New Logo, Facelift and Trackbacks – Growing Fast!”. 2011年12月2日閲覧。
+
+^ “YouTube launches pay-to-watch subscription channels”. BBC News. (2013年5月9日). http://www.bbc.co.uk/news/business-22474715 2013年5月11日閲覧。 
+
+^ Nakaso, Dan (2013年5月7日). “YouTube providers could begin charging fees this week”. Mercury News. http://www.mercurynews.com/business/ci_23184159/youtube-providers-could-begin-charging-fees-this-week 2013年5月10日閲覧。 
+
+^ “Google taps longtime executive Wojcicki to head YouTube” (英語). Reuters. 2017年9月16日閲覧。
+
+^ “YouTube announces plans for a subscription music service”. The Verge. https://www.theverge.com/2014/11/12/7201969/youtube-music-key-new-subscription-service 2018年5月17日閲覧。 
+
+^ Perez, Sarah (2015年2月23日). “Hands on With "YouTube Kids," Google's Newly Launched, Child-Friendly YouTube App”. TechCrunch.   AOL. 2017年3月26日閲覧。
+
+^ Dredge, Stuart (2015年8月26日). “Google launches YouTube Gaming to challenge Amazon-owned Twitch”. The Guardian. https://www.theguardian.com/technology/2015/aug/26/youtube-gaming-live-website-apps 2015年9月5日閲覧。 
+
+^ “Google wants you to pay $9.99 per month for ad-free YouTube”. Venturebeat. 2015年10月22日閲覧。
+
+^ “Exclusive: An inside look at the new ad-free YouTube Red” (英語). The Verge. https://www.theverge.com/2015/10/21/9566973/youtube-red-ad-free-offline-paid-subscription-service 2018年5月17日閲覧。 
+
+^ “YouTube Music isn't perfect, but it's still heaven for music nerds”.   Engadget. 2016年11月7日閲覧。
+
+^ Avalos, George (2016年1月20日). “YouTube expansion in San Bruno signals big push by video site”. San Jose Mercury News. http://www.mercurynews.com/business/ci_29405413/youtube-expansion-san-bruno-signals-big-push-by 2016年2月3日閲覧。 
+
+^ “YouTube has a new look and, for the first time, a new logo”. The Verge. https://www.theverge.com/2017/8/29/16216868/new-youtube-logo-redesign-font-color-app-design 2018年5月7日閲覧。 
+
+^ AV Watchによる報道 [1]
+
+^ “YouTube shooting: Suspect visited shooting range before attack”. BBC News. (2018年4月4日). http://www.bbc.co.uk/news/world-us-canada-43645812 2018年4月9日閲覧。 
+
+^ ライブドアニュース - YouTube本社銃乱射事件は3人負傷も命に別状なし。容疑者は自身のYouTube視聴者数減少を気にしていたとの報 2018年4月4日 12時0分
+
+^ IT media NEWS - YouTube本社で銃乱射事件　自殺した襲撃者は39歳の女性YouTuber 2018年04月04日 07時05分
+
+^ IT media NEWS - YouTube本社襲撃犯はYouTuber 2018年04月04日 17時32分
+
+^ “Google announces YouTube Music and YouTube Premium”. The Verge. https://www.theverge.com/2018/5/17/17364056/youtube-music-premium-google-launch 2018年5月17日閲覧。 
+
+^ “広告なしで再生できる「YouTube Premium」日本上陸--音楽特化の「YouTube Music」も”.   CNET Japan (2018年11月14日). 2018年11月15日閲覧。
+
+^ “Terms of Service - YouTube”. www.youtube.com. 2020年3月11日閲覧。
+
+^ YouTube now defaults to HTML5 <video> - Engineering and Developers Blog - 2016年8月14日閲覧
+
+^ “YouTubeに“吹き出し”書き込み機能、ベータテストを開始”. internet.watch.impress.co.jp. 2020年2月24日閲覧。
+
+^ “YouTubeに字幕がつけられるようになりました” (日本語). MarkeZine. 2020年2月24日閲覧。
+
+^ “YouTubeに字幕自動翻訳機能”. CNET Japan (2008年11月4日). 2020年2月24日閲覧。
+
+^ WiiやPS3から利用できる「テレビ用YouTube」スタート」。、AV watch、2009年1月16日
+
+^ “大画面テレビ向けの「YouTube XL」公開、連続再生も可能”. internet.watch.impress.co.jp. 2020年2月24日閲覧。
+
+^ “YouTubeの「Leanback」、まもなくサポート終了” (日本語). ITmedia NEWS. 2020年2月24日閲覧。
+
+^ “YouTube Go is finally here, kind of” (英語). Mashable. 2020年2月24日閲覧。
+
+^ “データ通信量に優しい「YouTube Go」、130カ国以上で利用可能に” (日本語). CNET Japan (2018年2月2日). 2020年2月24日閲覧。
+
+^ “軽量版Googleアプリ「Google Go」、日本を含む世界で公開 音声読み上げ機能も” (日本語). ITmedia NEWS. 2020年2月24日閲覧。
+
+^ “「YouTube TV」はテレビの未来を変えるのか｜WIRED.jp” (日本語). WIRED.jp. 2020年2月24日閲覧。
+
+^ Macall, Fred (2010年). “YTCrack v0.24b”. 2013年8月25日閲覧。
+
+^ McFarland, Patrick (2010年5月24日). “Approximate YouTube Bitrates”. 2010年8月12日閲覧。
+
+^ “Bigger and Better: Encoding for YouTube 720p HD” (2008年12月). 2010年8月12日閲覧。
+
+^ Greenfield, Trevor (2009年11月22日). “YouTube's 1080p – Failure Depends on How You Look At It”. 2010年6月9日時点のオリジナルよりアーカイブ。2010年8月12日閲覧。
+
+^ Biggs, Billy (2009年11月12日). “1080p HD Is Coming to YouTube”. 2010年8月12日閲覧。
+
+^ YouTube in 3D - YouTube
+
+^ Ghost Towns in 8K - YouTube
+
+^ “Google、YouTube LiveストリーミングにAkamaiを利用―視聴者は70万”. TechCrunch Japan. 2020年2月24日閲覧。
+
+^ “U2のYouTubeコンサート、ライブストリーミングで1千万ユーザーに楽々配信成功”. TechCrunch Japan. 2020年2月24日閲覧。
+
+^ “オバマ米大統領、ユーチューブに生出演 ユーザーの質問に回答” (日本語). AFPBB News. 2020年2月24日閲覧。
+
+^ “YouTube、ライブストリーミングの限定テストを2日間実施”. 日経クロステック（xTECH）. 2020年2月24日閲覧。
+
+^ “YouTube生放送が始まるらしい：海外速報部ログ：オルタナティブ・ブログ”. オルタナティブ・ブログ. 2020年2月24日閲覧。
+
+^ “YouTube、ライブ動画サービス「YouTube Live」をスタート” (日本語). ITmedia NEWS. 2020年2月24日閲覧。
+
+^ Plunkett, John (2012年10月15日). “Felix Baumgartner jump: record 8m watch live on YouTube” (英語). The Guardian. ISSN 0261-3077. https://www.theguardian.com/media/2012/oct/15/felix-baumgartner-skydive-youtube 2020年2月24日閲覧。 
+
+^ “Millions Watch as Felix Baumgartner Makes Record-Breaking Space Jump” (英語). The Hollywood Reporter. 2020年2月24日閲覧。
+
+^ “YouTube opens live streaming for all verified accounts”. MacNN (2013年12月13日). 2017年9月22日閲覧。
+
+^ ライブ配信に関する制限
+
+^ ライブ配信に関する制限
+
+^ “YouTube、クリエーターに投げ銭できるステッカー「Super Stickers」を提供開始” (日本語). CNET Japan (2019年11月6日). 2020年2月24日閲覧。
+
+^ “YouTubeビデオの過激化をあおる「スパチャ」、“投げ銭”が差別主義者の資金源に”. Buzz Feed News. (2018年6月3日). https://www.buzzfeed.com/jp/ishmaeldaro/youtube-comments-hate-speech-racist-white-nationalists 2020年3月4日閲覧。 
+
+^ ASCII. “YouTubeは収益多様化で違反コンテンツを抑止できるのか？ (3/4)” (日本語). ASCII.jp. 2020年2月24日閲覧。
+
+^ “YouTube、クリエイター向け収益化ツール改善 「チャンネルメンバーシップ」のレベル設定など” (日本語). ITmedia NEWS. 2020年2月24日閲覧。
+
+^ [2]
+
+^ Perez, Sarah. “YouTubeがTikTok似のショートビデオ機能「YouTube Shorts」を搭載、まずはインドで提供” (日本語). TechCrunch Japan. 2020年9月29日閲覧。
+
+^ 株式会社インプレス (2020年9月15日). “YouTube、TikTok風の15秒動画「YouTube Shorts」” (日本語). AV Watch. 2020年9月29日閲覧。
+
+^ “マルチカメラ イベントの設定 - YouTube ヘルプ”. support.google.com. 2020年2月24日閲覧。
+
+^ YouTube がマルチアングル動画を実験中。マディリン・ベイリー1曲のみ[3]
+
+^ マルチアングル動画のサンプル[4]
+
+^ “YouTube、360度動画のアップロード/再生に対応” (日本語). PHILE WEB. 2020年2月24日閲覧。
+
+^ “YouTube now supports 4K live-streaming for both 360-degree and standard video” (英語). The Verge (2016年11月30日). 2020年2月24日閲覧。
+
+^ “Alphabet Inc.年次報告書2019年12月期”.   証券取引委員会. 2020年2月24日閲覧。
+
+^ “YouTube PremiumおよびMusic加入者数が2000万人に到達。YouTube TVは200万人に”. Engadget 日本版. 2020年2月24日閲覧。
+
+^ http://services.google.com/fh/files/emails/yt_500_milestone.gif
+
+^ https://services.google.com/fh/files/emails/1k_bananas_en_uk_us.gif
+
+^ “Google、YouTubeの著作権保護ツールについて報告” (日本語). ITmedia NEWS. 2020年2月24日閲覧。
+
+^ “YouTube、新しい著作権保護ツールをβ公開” (日本語). ITmedia NEWS. 2020年2月24日閲覧。
+
+^ “Content ID の仕組み - YouTube ヘルプ”. support.google.com. 2020年2月24日閲覧。
+
+^ ASCII. “YouTube「Content ID」 非権利者の動画投稿を裏で支える技術とは (2/4)” (日本語). ASCII.jp. 2020年2月24日閲覧。
+
+^ “YouTube Launches Revenue Sharing Partners Program, but no Pre-Rolls” (英語). TechCrunch. 2020年2月24日閲覧。
+
+^ a b c “YouTuber向けに3つの収益化ツール 月額490円のサブスクリプションなど”. ITmedia NEWS.   アイティメディア. 2020年5月17日閲覧。
+
+^ “YouTube、クリエイター向け収益化ツール改善 「チャンネルメンバーシップ」のレベル設定など”. ITmedia NEWS.   アイティメディア. 2020年5月17日閲覧。
+
+^ 佐藤由紀子 (2017年3月20日). “YouTubeからの大手メディア広告引き上げを受け、Googleが自動システム改善を約束”.   ITmedia. 2017年4月15日閲覧。
+
+^ 佐藤由紀子 (2017年3月22日). “Google、不適切なコンテンツへの広告表示対策について説明”.   ITmedia. 2017年4月15日閲覧。
+
+^ 佐藤由紀子 (2017年4月7日). “YouTube、視聴回数1万未満のチャンネルは広告収入なしに”.   ITmedia. 2017年4月15日閲覧。
+
+^ 証拠は「ユーチューブ」 FBIが捜査始める、イザ!、2006年11月11日
+
+^ YouTubeが殺人犯逮捕に貢献、カナダ警察が容疑者のビデオを投稿、ITpro、2006年12月22日
+
+^ YouTubeが大統領選特集コーナー「You Choose」、ヒラリーも活用、INTERNET Watch、2007年3月2日
+
+^ 自民、ユーチューブに公式チャンネル開設、asahi.com、2007年12月18日
+
+^ 社民党も「YouTube」に公式チャンネル、Internet Watch、2007年12月20日
+
+^ Silenced Venezuelan TV station moves to YouTube、CNN.com、2007年6月3日
+
+^ 豪カトリック司祭、ユーチューブの映像が原因で解任、CNN
+
+^ 青木大我 (2006年3月28日). “米動画サイトYouTubeが「10分間制限」、海賊行為撲滅の切り札になるか”.   Impress Watch. 2011年4月10日閲覧。
+
+^ “読者が選ぶ2006年インターネット10大ニュース”. INTERNET Watch. (2006年12月27日). http://internet.watch.impress.co.jp/static/enquete/vote2006/result.htm 2011年4月10日閲覧。 
+
+^ 永沢茂 (2006年4月11日). “YouTube、動画の“10分間制限”がかからないアカウントの登録受付開始”. INTERNET Watch. http://internet.watch.impress.co.jp/cda/news/2006/04/11/11600.html 2011年4月10日閲覧。 
+
+^ YouTube、JASRACから音楽著作権の利用許諾：ITpro
+
+^ 角川グループ、YouTube活用へ 著作権保護ツール検証に協力、ITmedia、2007年7月26日
+
+^ 「ユーザー投稿角川アニメ」の公式認定も YouTubeに角川参加、ITmedia、2008年1月25日
+
+^ 例：NHK、日本テレビ、TBSテレビ、フジテレビ、テレビ朝日、テレビ東京、MBSテレビ、ABCテレビ、関西テレビ、よみうりテレビ、東海テレビ、メ～テレなど。
+
+^ YouTubeのCEOらが来日、違法動画対策を約束 技術面でGoogleが協力、ITmedia、2007年2月6日
+
+^ Anderson, Nate (2006年9月18日). “Warner Music coming to YouTube (HTML)” (英語). Ars Technica.   Ars Technica, LLC. 2007年6月5日閲覧。
+
+^ Lombardi, Candace (2006年10月10日). “ユーチューブ、メディア企業3社とコンテンツ契約を締結 (HTML)” (日本語).   CNET Japan. 2007年6月4日閲覧。
+
+^ “Google and Warner Music Group Announce Agreement to Offer Google Video Users WMG's Music Video Content (HTML)” (英語).   Google (2006年10月9日). 2007年6月4日閲覧。
+
+^ “Google Signs Agreement with SONY BMG MUSIC ENTERTAINMENT to Give Users Access to Expansive Catalog of Music Videos (HTML)” (英語).   Google (2006年10月9日). 2007年6月4日閲覧。
+
+^ “EMI Music, Google and YouTube strike milestone partnership (HTML)” (英語).   EMI Group plc (2007年5月31日). 2007年6月4日閲覧。
+
+^ Ross Sorkin, Andrew,; Jeff Leads (2006年10月19日). “Music Companies Grab a Share of the YouTube Sale (HTML)” (英語). The New York Times.   The New York Times Company. 2007年6月4日閲覧。
+
+^ 著作権侵害でViacomがYouTubeを提訴 - 10億ドル以上の賠償請求、MYCOMジャーナル、2007年3月14日
+
+^ EFF、Viacomを「言論の自由侵害」で提訴、ITmedia、2007年3月24日
+
+^ EFF、バイアコムへの訴訟取り下げ--YouTube掲載のパロディ映像問題、CNET Japan、2007年4月24日
+
+^ “文化審議会 著作権分科会 私的録音録画小委員会（第13回）の開催について-文部科学省 (HTML)” (日本語).   文部科学省 (2007年9月26日). 2007年9月26日閲覧。
+
+^ “「法改正後はYouTube見るだけで違法」は誤解、文化庁が見解示す (HTML)” (日本語).   インプレス (2007年9月26日). 2008年5月12日閲覧。
+
+^ “ニコニコ動画とYouTube、JASRACに著作権料支払いへ”. NEWS.   ITmedia (2007年10月30日). 2008年4月12日時点のオリジナルよりアーカイブ。2018年3月7日閲覧。
+
+^ “YouTubeの視聴は「ストリーミング」ではなく「ダウンロード」です (HTML)” (日本語).   GIGAZINE (2007年9月27日). 2008年5月12日閲覧。
+
+^ “「ダウンロード違法」の動き、反対の声を届けるには（2/4） (HTML)” (日本語).   ITmedia (2007年10月12日). 2007年10月15日閲覧。
+
+^ “著作権分科会、「ダウンロード違法化」などについて16日から意見募集 (HTML)” (日本語).   INTERNET Watch (2007年10月16日). 2008年5月12日閲覧。
+
+^ “MIAU 公式サイト (HTML)” (日本語).   MIAU (2007年10月18日). 2007年10月18日閲覧。
+
+^ ユーチューブに閉鎖命令…スーパーモデル盗撮映像掲載、ZAKZAK、2007年1月5日
+
+^ Turkey pulls plug on YouTube over Ataturk 'insults'、Guardian Unlimited、2007年3月7日
+
+^ Turkey revokes YouTube ban、theage.com.au、2007年3月10日
+
+^ Thailand blocks access to YouTube、BBS NEWS、2007年4月4日
+
+^ YouTube clip out, but Thai ban continues、MSNBC.com、2007年4月5日
+
+
+関連項目
+
+
+
+ウィキニュースにYouTubeに関するニュースがあります。
+
+米グーグル、動画投稿サイトのYouTubeを16億5000万ドルで買収
+
+LIFE IN A DAY 地球上のある一日の物語
+WebM
+世界の果てまでイッテQ! - コーナーのタイトルが同サイトを捩っている。
+加トちゃんケンちゃんごきげんテレビ - ホームビデオのコーナーのアメリカ版が同サービスの源流
+外部リンク
+
+
+
+ウィキメディア・コモンズには、YouTubeに関連するカテゴリがあります。
+
+
+
+ウィキデータにはYouTubeのプロパティであるYouTubeビデオID, YouTubeチャンネルID, YouTubeプレイリストIDがあります。（ 使用状況  使用状況  使用状況）
+公式ウェブサイト
+YouTube Kids
+Official YouTube Blog（英語）
+YouTube Japan Blog
+YouTube Japan - YouTubeチャンネル
+YouTube - Facebook（英語）
+YouTube (youtube) - Instagram（英語）
+YouTube (@YouTube) - Twitter（英語）
+YouTube Japan (@YouTubeJapan) - Twitter
+YouTube - Google Play
+YouTube - App Store
+表話編歴設立者・CEO
+スティーブ・チェン
+チャド・ハーリー
+ジョード・カリム
+スーザン・ウォシッキー
+文化
+YouTuber
+バーチャルYouTuber
+YouTubeクリエイターアワード
+YouTube Space
+マルチチャンネルネットワーク
+サービス
+YouTube (チャンネル)
+YouTube Kids
+YouTube Music
+YouTube Premium
+YouTube Rewind
+Super Chat
+行事・出来事
+YouTube FanFest
+YouTube スペースラボ
+CNN/YouTube討論会
+大登録者戦争
+差別動画大量通報騒動
+エルサゲート
+関連項目
+VEVO
+Nintendo Creators Program
+NoxInfluencer
+収入世界ランキング
+
+カテゴリ
+プロジェクト
+表話編歴Google
+Alphabet
+歴史
+サービス企業
+イベント・取り組み
+Android
+Developer Challenge
+Developer Day
+Developer Lab（英語版）
+Doodle4Google
+Code-in
+Code Jam（英語版）
+Developer Day（英語版）
+Developers Live（英語版）
+I/O
+Lunar X Prize*
+Science Fair（英語版）
+Summer of Code
+Talks at Google
+取り組み・プロジェクト
+ATAP（英語版）
+Dragonfly（英語版）*
+Made with Code（英語版）
+Project Sunroof（英語版）
+Cultural Institute
+人物
+
+デビッド・チェリトン
+アル・ゴア
+アラン・ユースタス（英語版）
+アラン・ムラーリー
+アミット・シングハル（英語版）
+アン・メイザー（英語版）
+デビッド・ドラモンド（英語版）
+エリック・シュミット
+ジェフ・ディーン（英語版）
+ジョン・ドーア
+ジョン・ハンケ
+ジョン・ヘネシー
+クリシュナ・バハラット（英語版）
+マット・カッツ
+パトリック・ピシェット（英語版）
+ポール・オッテリーニ
+オミッド・コーデスタニ（英語版）
+レイチェル・ウェッツトン（英語版）
+ラム・シュリラム
+レイ・カーツワイル
+サラー・カマンガー（英語版）
+サンジェイ・ゲマワット（英語版）
+シャーリー・ティルマン（英語版）
+スーザン・ウォシッキー
+ウルス・ヘルツル（英語版）
+ヴィントン・サーフ
+ハル・ヴァリアン
+役員
+サンダー・ピチャイ (CEO)
+ルース・ポラット（英語版） (CFO)
+創業者
+ラリー・ペイジ
+セルゲイ・ブリン
+
+部門
+
+Android
+Glass
+Google Ads (広告)
+Google AI（英語版）
+Google Chrome
+Google Cloud
+Google Health
+Google Maps (マップ)
+Google Nest
+Google Pixel
+Google Search (検索)
+YouTube
+不動産
+111 Eighth Avenue（英語版）
+チェルシーマーケット（英語版）
+Googleplex
+Data Centers（英語版）
+
+
+開発
+オペレーティングシステム
+Android
+Automotive
+TV
+Wear
+Chrome OS
+Chromium OS
+Fuchsia
+Glass OS（英語版）
+ライブラリ・フレームワーク
+AMP
+Angular
+Angular
+AngularJS
+ARCore
+APIs（英語版）
+Charts（英語版）
+Dialogflow（英語版）
+Flutter
+Guava
+Guice
+Polymer
+Web Components（英語版）
+Tango（英語版）*
+TensorFlow
+ツール
+Android Studio
+App Inventor
+App Maker（英語版）
+Closure Tools
+Developers
+Gadgets API（英語版）
+GData（英語版）
+Lighthouse（英語版）
+Native Client*
+OpenRefine
+PageSpeed Insights（英語版）
+reCAPTCHA
+Search Console（英語版）
+Swiffy（英語版）*
+Web Toolkit
+探索アルゴリズム
+ページランク
+Hummingbird（英語版）
+Panda
+Penguin
+Pigeon（英語版）
+RankBrain（英語版）
+ファイルフォーマット
+APK
+KML
+VP9
+AV1
+WebM
+WebP
+その他
+Chrome Experiments
+Cloud Platform
+App Engine
+BigTable
+Cloud Spanner
+Data Transfer Project（英語版）
+DeepMind
+Fiber
+Gears*
+GFS
+Health
+Labs*
+マテリアルデザイン
+MapReduce
+OpenSocial
+Public DNS
+Web Server
+プログラミング言語
+Dart
+Go
+Sawzall（英語版）*
+
+サービス
+娯楽
+Chromecast
+Play
+ブックス
+ゲーム
+ムービー
+ミュージック*
+ニューススタンド*
+ポッドキャスト（英語版）
+Stadia
+Google TV
+VEVO
+YouTube
+Gaming*
+Kids
+Music
+伝達・交流
+Chat
+Contacts
+Duo
+Gmail
+グループ
+ハングアウト
+トーク*
+IME
+日本語入力
+ピンイン入力
+Inbox*
+Meet
+Messages（英語版）
+Orkut*
+Spaces（英語版）*
+翻訳
+ボイス
+Google+*
+検索
+アラート
+ブログ検索（英語版）*
+ブックス
+データセット検索（英語版）
+Dictionary（英語版）
+フライト（英語版）
+Finance
+Googlebot
+画像検索
+マップ
+ストリートビュー
+マップメーカー*
+ビルディング メーカー*
+ニュース
+News Archive Search*
+Patents
+Public Data
+Scholar
+検索
+ナレッジグラフ
+パーソナライズド検索（英語版）
+セーフサーチ
+音声検索
+ショッピング
+ソースコード検索*
+デスクトップ*
+デバイスを探す
+トレンド
+Insights for Search（英語版）*
+ビデオ
+GOOG-411*
+谷歌 (中国版Google)
+組織・管理
+カレンダー
+フォト
+ドライブ
+ドキュメント エディタ（英語版）
+ドキュメント
+スプレッドシート
+スライド
+フォーム
+図形描画（英語版）
+Keep
+ノートブック*
+One（英語版）
+Workspace
+ビジネス・金融
+広告
+AdMob（英語版）
+Ad Manager（英語版）
+AdSense
+マーケティング プラットフォーム
+アナリティクス
+Pay
+ウォレット*
+Checkout*
+Primer（英語版）
+その他
+アートプロジェクト
+アシスタント
+Chrome
+Chromium
+Classroom
+クラウド プリント
+クラウドソース
+Google Doodle
+Earth
+Express（英語版）*
+Fi（英語版）
+Fit
+Gboard
+Google.org
+iGoogle*
+Now
+パック*
+リーダー*
+セーフ ブラウジング（英語版）
+SketchUp
+Station（英語版）
+TalkBack
+URL Shortener*
+VirusTotal
+画像・写真
+カメラ
+レンズ（英語版）
+Snapseed（英語版）
+フォト
+Goggles*
+Panoramio*
+Picasa*
+出版
+Blogger
+Domains（英語版）
+FeedBurner
+サイト
+Quickoffice*
+フォント
+Noto
+源ノ角ゴシック
+JotSpot*
+Knol*
+
+ハードウェア
+Nexus
+表話編歴Google Nexus スマートフォン
+Nexus One
+Nexus S
+Galaxy Nexus/SC-04D
+Nexus 4
+Nexus 5/EM01L
+Nexus 6
+Nexus 5X
+Nexus 6P
+タブレット
+Nexus 7 (2012)
+Nexus 7 (2013)
+Nexus 10
+Nexus 9
+その他
+Nexus Q
+Nexus Player
+
+Google Pixel
+Pixel & Pixel XL
+Pixel 2 & Pixel 2 XL
+Pixel 3 & Pixel 3 XL
+Pixel 3a & Pixel 3a XL
+Pixel 4 & Pixel 4 XL
+Pixel 4a
+Pixel C（英語版）
+Chromebook Pixel (2013)
+Chromebook Pixel (2015)
+Google Play Edition
+Samsung Galaxy S4
+HTC One M7
+Sony Z Ultra
+Motorola Moto G
+HTC One M8
+LG G Pad 8.3
+Android One
+Micromax Canvas A1
+Karbonn Sparkle V
+Spice Dream UNO
+Android One 507SH
+Android One S1
+Android One S2
+Android One X1
+Android One X2
+Android One S3
+Android One X3
+Android One S4
+Android One X4
+Android One X5
+Android One S5
+Android One S6
+Android One S7
+その他
+Chromebook
+Chromebox
+Chromecast
+ウェアラブル
+Cardboard
+Daydream
+Glass
+コンタクトレンズ*
+Google Nest
+Nest Wifi（英語版）
+スマートスピーカー
+
+X
+Project Glass
+Google Self-Driving Car
+Project Wing
+Project Loon
+Google Contact Lens
+マカニパワー（英語版）
+
+*: 開発・サポートを終了した製品およびサービス
+ カテゴリ
+ コモンズ
+表話編歴動画共有サービス日本
+ニコニコ動画
+アメリカ合衆国
+YouTube
+Vimeo
+FC2動画
+Veoh
+Facebook
+IGTV
+中国
+iQIYI
+Tencent Video
+Youku
+bilibili
+TikTok
+西瓜視頻
+快手
+AcFun
+56.com
+韓国
+PANDORA.TV
+kakaoTV
+フランス
+Dailymotion
+イギリス
+BitChute
+カナダ
+Rumble
+Utreon
+ロシア
+Rutube
+OK.ru
+イラン
+Aparat
+
+表話編歴ライブビデオストリーミングパーソナルライブストリーミング
+
+Stickam JAPAN!
+TwitCasting
+ふわっち
+LINE LIVE
+Pococha
+DokiDoki LIVE
+マシェLIVE
+17LIVE
+AfreecaTV
+LiveMe
+弾幕ビデオ
+ニコニコ生放送
+YY.com
+BIGO LIVE
+FC2LIVE
+bilibili
+ライブ機能付
+YouTube
+Facebook（Facebook Gaming）
+Instagram
+ミクチャ
+
+ビデオゲームライブストリーミング
+
+Mirrativ
+OPENREC
+Twitch
+Mildom
+弾幕ビデオ
+闘魚（Douyu）
+Nonolive
+虎牙直播（Huya.com）
+Nimo TV
+
+セレブリティライブストリーミング
+SHOWROOM
+マシェバラ
+エンタープライズ
+Vimeo Livestream
+IBM Watson Media
+Brightcove Live
+ライブストリーミングTV
+
+ABEMA
+NHK+
+スカパー!オンデマンド
+dTVチャンネル
+Hulu ライブTV
+Hulu + Live TV
+Sling TV
+YouTube TV
+芒果TV・直播
+WAVVE
+
+その他ライブビデオ配信
+国会インターネット審議中継
+Pixivスケッチライブ
+双方向ライブ
+Zoom
+Cisco Webex
+Microsoft Teams
+Google Meet
+
+典拠管理 
+BNF: cb155961009 (データ)
+CANTIC: a19231623
+GND: 7597411-3
+LCCN: n2007018166
+NKC: ph659134
+VIAF: 144469555
+ WorldCat Identities: lccn-n2007018166
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=YouTube&oldid=83972485」から取得
+カテゴリ: YouTubeアメリカ合衆国のウェブサイトWeb 2.0AndroidのソフトウェアIOSのソフトウェア動画共有サイトソーシャル・ネットワーキング・サービスアメリカ合衆国のインターネット企業Googleのサービスインターネットテレビ局2005年開設のウェブサイト登録商標隠しカテゴリ: 編集半保護中のページウィキデータにない座標書きかけの節のある項目独自研究の除去が必要な節のある記事/2010年Titlestyleにbackgroundとtext-alignを両方指定しているcollapsible list使用ページReflistで3列を指定しているページウィキデータにないiTunesアプリID日本語版記事がリダイレクトの仮リンクを含む記事BNF識別子が指定されている記事CANTIC識別子が指定されている記事GND識別子が指定されている記事LCCN識別子が指定されている記事NKC識別子が指定されている記事VIAF識別子が指定されている記事WORLDCATID識別子が指定されている記事
+

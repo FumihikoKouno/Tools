@@ -1,0 +1,312 @@
+
+
+
+
+
+Gorogoa
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Gorogoaジャンル
+パズルゲーム対応機種
+Microsoft WindowsiOSNintendo SwitchPlayStation 4Xbox One開発元
+ジェイソン・ロバーツ発売元
+アンナプルナ・インタラクティブ音楽
+ジョエル・コレリッツ（英語版）人数
+1人発売日
+Win, iOS2017年12月14日Switch 2017年12月14日 2017年12月21日PS4 2018年5月21日 2018年5月22日 2018年12月14日Xbox One 2018年5月22日対象年齢
+CERO：A（全年齢対象）IARC：3+ESRB：E（6歳以上）PEGI：3USK：6（6歳未満提供禁止）ACB[Switch, PS4] G[Xbox One] PGコンテンツアイコン
+USK：Seltene SchreckmomenteACB[Xbox One] Scary Scenesエンジン
+Unityテンプレートを表示
+『Gorogoa』（ゴロゴア）は、アメリカのゲームクリエイターであるジェイソン・ロバーツが開発しアンナプルナ・インタラクティブより発売されたパズルゲーム。
+プレイヤーは2x2の枠内にある画像を操作することで物語を進行させ、画像の中に描かれた主人公の少年を導いていく。物語は少年がボウルの中に入れる5つの果実を探し求めるという内容だが、作中で言葉による説明はなく抽象的でシュールな世界観が展開される。
+
+目次
+
+1 システム
+2 開発
+3 受賞
+4 脚注
+
+4.1 注釈
+4.2 出典
+
+
+5 外部リンク
+
+
+システム[編集]
+前述のように画面上には2x2の枠があり、最大4つの画像が配置されている。画像は静止画だけでなくアニメーションしているものもある。多くの画像はズームイン・ズームアウトや上下左右のスクロールが可能。
+画像はドラッグして他の枠に移動できる。一部の画像はドラッグにより2つの画像に分離する。また、別の画像の上にドラッグすることで2つの画像が1つになる場合もある。
+各画像の内容は基本的に独立しているが、並べることで繋がる画像もあり、その際には主人公や物体が画像を跨いで移動したり画像同士で作用し合ったりする。
+
+開発[編集]
+本作開発者のジェイソン・ロバーツは当初、ゲームと無関係なソフトウェアエンジニアの仕事を10年以上続けていたが、Number Noneが開発した2008年発売のインディーゲーム『Braid』の成功に触発される形で2011年から本作の開発を始め、2012年には仕事を辞めてフルタイムでの開発に移行した[1][2]。ロバーツは同年開催のゲームイベント「IndieCade（英語版）」にデモ版[注 1]を提出し2013年末までの完成を目指していたが、その後資金が底をつき開発を中断する[2]。2014年にはインディーゲーム支援機構「Indie Fund（英語版）」から資金を得て開発を再開するが完成に至らず、1年で再び資金を使い果たしてしまう[2]。こうした中、2016年12月1日に設立されたアンナプルナ・インタラクティブが本作を含む複数のソフトと販売契約を結んだことを発表し[3]、2017年12月14日に本作が発売された。
+インスピレーションを得たゲームソフトとして、ロバーツはクリフ・ジョンソン（英語版）が開発した1987年発売のパズルゲーム『The Fool's Errand（英語版）』の影響が最も大きいとしている[4]。また、デザイン面については、クリストファー・マンソン（英語版）がイラストを手掛けた迷路のパズル本『MAZE（英語版）』のほか、19世紀に活躍した画家のギュスターヴ・ドレやデヴィッド・ロバーツの絵画で描かれた建造物の影響を挙げている[5]。
+「Gorogoa」という言葉はゲーム内に登場する不思議な生物の名前で[1]、ロバーツが子供の頃に考えた架空の生物の名前が由来となっている[2]。ロバーツによると、この言葉は雷または地下でゴロゴロ鳴っている感じのオノマトペのようなもので、古風で力強さがあるという[1][2]。これをタイトルに据えたのは、作品内に言語が含まれていないためタイトルをどの言語の単語にもしたくないとの考えが影響している[1]。
+
+受賞[編集]
+ 2018 Game Developers Choice Awardsでのジェイソン・ロバーツ
+
+
+年
+賞
+部門
+結果
+出典
+
+
+2012
+
+IndieCade（英語版）
+
+Visuals
+
+受賞
+
+[6]
+
+
+2014
+
+IGF（英語版） Awards
+
+Excellence in Visual Arts
+
+受賞
+
+[7]
+
+
+SXSW Gaming Awards
+
+SXSW Gamer’s Voice Award
+
+ノミネート
+
+[8]
+
+
+BIG Festival Awards
+
+Best Game
+
+ノミネート
+
+[9]
+
+
+Best Art
+
+受賞
+
+
+2018
+
+第21回D.I.C.E. Awards（英語版）
+
+Mobile Game of the Year
+
+ノミネート
+
+[10]
+
+
+Outstanding Achievement in Game Direction
+
+ノミネート
+
+
+D.I.C.E. Sprite Award
+
+ノミネート
+
+
+Outstanding Achievement in Game Design
+
+ノミネート
+
+
+The Aggie Awards
+
+Best Concept
+
+受賞
+
+[11]
+
+
+Best Non-Traditional Adventure
+
+ノミネート
+
+[12]
+
+
+NAVGTR Awards
+
+Game Design, New IP
+
+ノミネート
+
+[13]
+
+
+SXSW Gaming Awards
+
+Excellence in Art
+
+ノミネート
+
+[14]
+
+
+Mobile Game of the Year
+
+ノミネート
+
+
+Game Developers Choice Awards
+
+Best Debut
+
+ノミネート
+
+[15]
+
+
+Best Mobile Game
+
+受賞
+
+
+Innovation Award
+
+受賞
+
+
+第14回英国アカデミー賞ゲーム部門（英語版）
+
+Artistic Achievement
+
+ノミネート
+
+[16][17]
+
+
+Debut game
+
+受賞
+
+
+Game Innovation
+
+ノミネート
+
+
+Mobile Game
+
+ノミネート
+
+
+Original Property
+
+ノミネート
+
+
+日本ゲーム大賞
+
+ゲームデザイナーズ大賞
+
+受賞
+
+[18]
+
+
+Golden Joystick Awards
+
+Best Storytelling
+
+ノミネート
+
+[19]
+
+
+Best Visual Design
+
+ノミネート
+
+
+Best Indie Game
+
+ノミネート
+
+
+Mobile Game of the Year
+
+ノミネート
+
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+
+
+^ このデモ版は製品版に収録されており、本編のクリア後にプレイ可能となる。
+
+
+出典[編集]
+
+
+^ a b c d “Indie Spotlight: Jason Roberts on Gorogoa” (英語).   Pocket Gamer.biz (2018年5月29日). 2021年2月24日閲覧。
+
+^ a b c d e “The Puzzle Of A Lifetime” (英語).   Kotaku (2017年12月14日). 2021年2月24日閲覧。
+
+^ Jonathon Dornbush (2016年12月1日). “Annapurna Pictures Announces Video Game Publishing Division Annapurna Interactive” (英語).   IGN. 2021年2月24日閲覧。
+
+^ “Gorogoa Interview: More Than Just A Game” (英語).   GamingBolt (2018年7月24日). 2021年2月24日閲覧。
+
+^ “Jason Roberts interview: Creating Gorogoa required awkwardness and chaos” (英語).   VentureBeat (2018年7月5日). 2021年2月24日閲覧。
+
+^ “IndieCade 2012 winners get their crowns, IndieCade East in 2013” (英語).   Engadget (2012年10月12日). 2021年2月24日閲覧。
+
+^ “2014 | Independent Games Festival” (英語). 2021年2月24日閲覧。
+
+^ James Renovitch (2014年2月11日). “SXSW Announces Gaming Awards Nominees” (英語).   The Austin Chronicle. 2021年2月24日閲覧。
+
+^ “BIG Festival 2014” (英語).   BIG Festival. 2021年2月24日閲覧。
+
+^ “D.I.C.E.Awards” (英語). 2021年2月24日閲覧。
+
+^ “The Aggie Awards - The Best Adventure Games of 2017 - page 7” (英語).   Adventure Gamers (2018年2月21日). 2021年2月24日閲覧。
+
+^ “The Aggie Awards - The Best Adventure Games of 2017 - page 15” (英語).   Adventure Gamers (2018年2月21日). 2021年2月24日閲覧。
+
+^ “2017 Awards” (英語).   NAVGTR (2018年3月13日). 2021年2月24日閲覧。
+
+^ “GOTYは『ゼルダの伝説 BotW』に！「2018 SXSW Gaming Awards」受賞作品リスト”.   Game*Spark (2018年3月18日). 2021年2月24日閲覧。
+
+^ “業界人が選ぶゲームアワード「GDC Awards」第18回受賞作品決定！”.   Game*Spark (2018年3月22日). 2021年2月24日閲覧。
+
+^ “2018年英国アカデミー賞ゲーム部門のノミネート作品が発表！ 多数の話題作が選出” (2018年3月16日). 2021年2月24日閲覧。
+
+^ “2018年英国アカデミー賞ゲーム部門「BEST GAME」は『フィンチ家の奇妙な屋敷でおきたこと』―『マリオデ』『ゼルダの伝説 BotW』も受賞【UPDATE】” (2018年4月13日). 2021年2月24日閲覧。
+
+^ “受賞作品”.   日本ゲーム大賞. 2021年2月24日閲覧。
+
+^ “『フォートナイト』がGOTY！「2018 Golden Joystick Awards」受賞作品リスト―生涯功労賞は宮崎英高氏” (2018年11月17日). 2021年2月24日閲覧。
+
+
+外部リンク[編集]
+公式サイト（英語）
+Gorogoa (@Gorogoa) - Twitter
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Gorogoa&oldid=83652052」から取得
+カテゴリ: 2017年のコンピュータゲームWindows用ゲームソフトIPhone用ゲームソフトNintendo Switch用ソフトPlayStation 4用ソフトXbox One用ソフトアメリカで開発されたコンピュータゲームアンナプルナ・インタラクティブのゲームソフトインディーゲームパズルゲームUnityを採用したゲームソフト
+

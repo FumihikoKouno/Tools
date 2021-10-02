@@ -1,0 +1,282 @@
+
+
+
+
+
+Sniper Elite 4
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+この記事は語句の内部リンク、見出しのマークアップなどスタイルマニュアルに沿った修正が必要です。ウィキペディアの体裁への修正にご協力ください（ヘルプ）。（2020年9月）
+Sniper Elite 4ジャンル
+タクティカルシューティング、ステルス対応機種
+Microsoft WindowsPlayStation 4Xbox OneNintendo Switch開発元
+Rebellion Developments（英語版）発売元
+Rebellion Developmentsシリーズ
+Sniper Elite人数
+1人/2人以上発売日
+Win, PS4, Xbox One2017年2月14日Switch2020年11月17日 2020年12月24日テンプレートを表示
+『Sniper Elite 4』（スナイパーエリート4）は、Rebellion Developments（英語版）が開発・発売したシューティングゲームである。2017年2月14日にMicrosoft Windows、PlayStation 4、およびXbox One向けに発売され、2020年11月17日（日本では12月24日）にはNintendo Switch向けに発売予定。
+
+目次
+
+1 ゲームプレイ
+2 ゲームのあらすじ
+3 ストーリーミッション
+4 ゲームの主な登場人物
+
+4.1 Karl Fairburne（カール フェアバーン）
+4.2 Sofia Di Rocco（ソフィア ディ ロッコ）
+4.3 Heinz Böhm（ハインツ ベーム）
+4.4 Andreas Kessler（アンドレアス ケスラー）
+4.5 Adolf Hitler (アドルフ ヒトラー)
+
+
+5 登場する武器
+
+5.1 スナイパーライフル
+5.2 サブマシンガン
+5.3 アサルトライフル
+5.4 ショットガン
+5.5 ロケットランチャー
+5.6 ハンドガン
+
+
+6 登場する乗り物
+7 開発
+8 レセプション
+
+8.1 売上高
+8.2 称賛
+
+
+9 参照資料
+10 外部リンク
+
+
+ゲームプレイ[編集]
+Sniper Elite 4は、 三人称視点でプレイする、ステルス要素を備えた戦術的なシューティングゲームである。 プレイヤーが、遠くからスナイパーライフルを使用して敵を殺すと、X-Rayキルカメラシステムが有効になり、ゲーム内の視点が弾丸を追跡して、体内（特に内蔵）を貫く様子が表現される。前作のSniper Elite IIIからあるシステムだが、今作では、近接キル、爆発キルにも対応するようになった。[1] [2]
+前作より敵の人工知能が向上し、プレイヤーのアクション（例えば、音を立てる行為）に、さらに反応するようになったり、敵を殺すと、他の敵（つまりは殺した敵の味方）が積極的に探し始めるようになった。[3] プレイヤーは双眼鏡を装備しており、それを使って敵をマーキングすることで、その敵がどこにいるか、どんな武器を持っているかをプレイヤーに表示する。 このゲームは「役員（officer）」というランクの敵がおり、殺すことで、一般の敵は退却しやすくなり、ミッションの難易度が大幅に下がる。 プレイヤーはトラップを配置することができ、死体をブービートラップとして使用できる。[4] ゲームにはナイトミッションもあり、プレイヤーは光源を取り除くことで、自分の存在を隠すことができる。[2]
+ゲーム内のマップは前作よりも大幅に大きくなり、プレイヤーはさらに自由なプレイができる。[1] また、ただ広くなっただけでなく、管を登ったり、壁をつかんだり、崖が多くなったりして、垂直方向への広がりもある。[5] マルチプレイヤーモードでは、オンラインプレイによって、複数人で協力したり、競い合ったりすることができるようになった。[6]
+
+ゲームのあらすじ[編集]
+Sniper Elite 4は、Sniper Elite IIIでの出来事の直後で、1943年のイタリアという設定である。 
+ナチスの新しい武器の噂を聞いたイギリス海軍は、調査のために、貨物船のオーキデアをサンセリーニ島に送る。しかし、アンドレアス・ケスラーと、ハインツ・ベームの開発下にある無線誘導対艦ミサイルによって沈められてしまう。フェアバーンは、船の沈没後に島に送られ、トビアス・シュミット将軍と、攻撃を監督した数人の将校を暗殺し、プロパガンダ用に撮影したビデオカメラを破壊した。 
+　シュミットを殺した後、フェアバーンはOSSエージェントのジャック・ウィーバーによって、ビタンティの村に送られ、地元のパルチザングループのリーダーである、ソフィア・ディ・ロッコを見つける。ソフィアは、父親がナチスに誘拐されることを阻止できなかったOSSに不信感を抱いていた。フェアバーンにレジェリーノ高架橋の列車砲を破壊するように頼み、グループに協力するよう説得した。
+　フェアバーンは、高架橋を爆破して砲を破壊した後、ナチスが武器や部品を出荷するために使用している造船所を調査することになる。すべて調査が終わると、施設を破壊するために爆撃を要請した
+シチリアのマフィアが造船所の操業を妨害して、武器や部品の出荷を遅らせていることを知ると、フェアバーンは地元の黒の組織のリーダーである、ピエロ・カポを排除する。そして、さらなる支援を提供することに同意するキングピン・サラヴァトーレ・ディネリと会う。 
+　マフィアの意図に不信感を抱き、パルチザンは同盟の維持に消極的だった。 しかし、SOEの情報提供者であるハンス・ドーフマン少佐が、ケスラーがマガツェノ施設にいることを明らかにすると、フェアバーンは基地に潜入してケスラーを誘拐し、研究ノートを盗む。尋問では、ケスラーはソフィアに父親がまだ生きていることを伝え、パルチザンにジョヴィ・フィオリーニの町を襲撃し、ベームの腹心のクラウス・ロスバウアー少佐を見つけるように促した。 その後、ケスラーはフェアバーンに、彼が大量飲酒のために肝臓癌で死んでおり、結果としてナチスや同盟国にとって役に立たないこと、そしてソフィアに与えられた情報はパルチザンをクラップに誘惑するための嘘だったことを伝える。 フェアバーンはジョヴィフィオリーリに出発し、ロスバウアーを排除するが、その後の戦いによりパルチザンは虐殺される。
+フェアバーンは、収集された情報によって、ミサイルがアラグラの要塞にあることを知り、基地に侵入し、各ミサイルを無効化していく。 施設への爆撃を要請しようとすると、ドルフマンは捕らえられたソフィアとともに現れ、自分がベームであることを明らかにする。 そしてドルフマンはソフィアを処刑し、すぐに飛行機に乗って、攻撃を行うつもりだった。だが、フェアバーンは追跡を行い、離陸する前に飛行機のエンジンを破壊し、飛行機を撃墜することにせいこうする。 エピローグシーンでは、ジャックはOSSでの仕事をカールに提供し、カールはそれについて考えると言った。   
+
+ストーリーミッション[編集]
+San Celini Island（サンセリーニ島）
+Bitanti Village（ビタンティビレッジ）
+Regilino Viaduct（レギリーノ高架橋）
+Lorino Dockyard（ロリーノドックヤード）
+Abrunza Monastery（アブルンザ修道院）
+Magazzeno Facility（マガツェノ施設）
+Giovi Fiori Mansion（ジョヴィフィオーリマンション）
+Allagra Fortress（アラグラ要塞）
+Target Führer (ターゲット総統)　※DLC
+Deathstorm Part 1 Inception (デスストームパート1インセプション)　※DLC
+Deathstorm Part 2 Infiltration (デスストームパート2浸透)　※DLC
+Deathstorm Part 3 Obliteration (デスストームパート3抹消)　※DLC
+ゲームの主な登場人物[編集]
+Karl Fairburne（カール フェアバーン）[編集]
+Sniper Elite 4の主人公
+高い狙撃力、銃撃や近接戦闘の能力、高いステルス性、単独でのスパイ活動能力をもっている
+車両の弱点を瞬時に判断し、破壊することができる
+あらゆる武器や爆弾の使い方を網羅している
+
+Sofia Di Rocco（ソフィア ディ ロッコ）[編集]
+パルチザングループ（抵抗組織）のひとり
+
+Heinz Böhm（ハインツ ベーム）[編集]
+ドイツ軍の中将、Sniper Elite 4最大の黒幕
+
+Andreas Kessler（アンドレアス ケスラー）[編集]
+V2ロケットの開発者
+
+Adolf Hitler (アドルフ ヒトラー)[編集]
+DLCによって追加されるターゲット
+ドイツ ナチ党の総統
+
+登場する武器[編集]
+スナイパーライフル[編集]
+M1903 Springfield
+Kar98k
+Lee-Enfield No.4
+Carcano
+Mosin-Nagant M91/30
+Delisle Carbine
+Winchester 1895
+ZH29
+M1 Carbine
+M1 Garand
+Swedish M/96 Mauser
+
+サブマシンガン[編集]
+Thompson M1A1
+MP40
+MAB 38
+PPSh 41
+OVP m1918
+
+アサルトライフル[編集]
+FG 42
+
+ショットガン[編集]
+Trench Gun
+M30 Drilling shotgun
+
+ロケットランチャー[編集]
+Panzerfaust
+Neunfaust R1
+
+ハンドガン[編集]
+Welrod
+Army Pistol 38
+HDM
+Mauser M712
+Walther PPK
+TT-33
+Nagant M1895
+
+登場する乗り物[編集]
+Opel Blitz
+Autoblinda AB41
+Sd.Kfz. 251
+Panzer III
+MAS boat
+Orchidea
+Baptista
+Isonzo
+Numidia
+Santa Lucia
+Junkers Ju-87
+Dornier Do 217
+P-51 Mustang
+Avro Lancaster
+開発[編集]
+Sniper Elite 4は、Rebellion Developmentsによって開発された。Tim Jonesによれば、このゲームは「狙撃兵の楽園」となるように設計されている。その結果、チームはゲームのマップと、スケールを拡大して、「リアルロングショット」を可能にした。 アニメーションシステム、人工知能、ゲームのレンダリングテクノロジーも作り直された。[4]
+以前の2つのゲームの開発元である505 Gamesは、ゲームの制作には関与していない。[7]Rebellion Developmentsは代わりに、Zombie Army Trilogyの開発元および販売元であるSold OutやU＆I Entertainmentと提携して、[8]ゲームの物理を作成した。2016年2月、中国のデジタルアート企業がゲームを公開したがRebellion DevelopmentsのCEOであるJason Kingsleyは、ゲームの存在を確認せず、すぐに新しいゲームを公開する計画があると付け加えた。[9]Sniper Elite 4は2016年3月7 日に発表された。[10]
+2016年6月13日、Sniper Elite 4が2017年2月14日にリリースされることが発表されました[11]
+
+レセプション[編集]
+ビデオゲームのレビューアグリゲーター Metacriticによると、 Sniper Elite 4は「一般に好意的」なレビューを受けた。    Eurogamerは「2017年のゲームトップ50」のリストでゲームを40位に、[12] GamesRadar +は2017年のベストゲーム25のリストで22位にランクインした。[13]
+
+売上高[編集]
+2016年6月、Sold Outはこのゲームを「大当たり」と説明し、イギリスでの発売日に約20万枚の物理的なコピーを販売することを期待していました。 [14]
+
+称賛[編集]
+
+
+年
+
+賞
+
+カテゴリー
+
+結果
+
+参照
+
+
+2017年
+
+賞を開発する
+
+音楽デザイン
+ノミネート
+
+[15]
+
+
+サウンドデザイン
+ノミネート
+
+
+独立系ゲーム開発者協会賞
+
+ビジュアルデザイン
+受賞
+
+[16]
+
+
+アクションとアドベンチャーゲーム
+ノミネート
+
+
+ゴールデンジョイスティック賞
+
+最高のオーディオ
+ノミネート
+
+[17]
+
+
+2018年
+
+第14回英国アカデミー賞
+
+イギリスのゲーム
+ノミネート
+
+[18] [19]
+
+参照資料[編集]
+
+
+^ a b Robinson (2016年3月16日). “Sniper Elite 4 brings a little more polish and a lot more scale to the series”. Eurogamer.   Gamer Network. 2016年6月3日閲覧。
+
+^ a b Futter (2016年3月17日). “Our First Look At Sniper Elite 4's Blood-Gushing, Bone-Breaking Action”. Game Informer.   GameStop. 2016年6月3日閲覧。
+
+^ Loveridge (2016年3月19日). “Sniper Elite 4 preview: 4 reasons it's better than ever”. Digital Spy.   Hearst Magazines UK. 2016年6月3日閲覧。
+
+^ a b Holmes (2016年3月30日). “Rebellion on making Sniper Elite 4 "a sniper's paradise"”. Gamereactor.   Gamez Publishing. 2016年6月3日閲覧。
+
+^ Makedonski (2016年3月19日). “Sniper Elite 4, now with more Assassin's Creed”. Destructoid.   ModernMethod. 2016年6月3日閲覧。
+
+^ Good (2016年5月7日). “Sniper Elite 4 sends the World War II series to Italy this year”. Polygon.   Vox Media. 2016年6月3日閲覧。
+
+^ Scammell (2016年3月7日). “Sniper Elite 4 is set in WW2 Italy, coming to PS4, Xbox One & PC in 2016”. VideoGamer.com.   Candy Banana. 2016年6月3日閲覧。
+
+^ Dang (2016年3月14日). “'Sniper Elite 4' is Getting a Physical Release”. Hardcore Gamer. 2016年6月3日閲覧。
+
+^ Scammell (2016年2月15日). “Sniper Elite 4 outed by LinkedIn profile”. VideoGamer.com.   Candy Banana. 2016年6月3日閲覧。
+
+^ Morrison (2016年3月7日). “Sniper Elite 4 has 2016 release in its sights”. PC Gamer.   Future US. 2016年6月3日閲覧。
+
+^ Paget (2016年6月13日). “Sniper Elite 4 Delayed to 2017, See New Brutal Screenshots Here”. GameSpot.   CBS Interactive. 2016年6月14日閲覧。
+
+^ Eurogamer staff (2017年12月27日). “Eurogamer's Top 50 Games of 2017: 40-31”. Eurogamer. 2017年12月30日閲覧。
+
+^ GamesRadar staff (2017年12月22日). “The best games of 2017”. GamesRadar+. 2018年3月25日閲覧。
+
+^ Scammell (2016年6月3日). “Sniper Elite 4 publisher expects 200,000 day one sales in UK”. VideoGamer.com.   Resero Network. 2020年11月5日閲覧。
+
+^ Cleaver (2017年5月12日). “Develop Awards 2017: The Finalists”. MCV. 2018年9月4日閲覧。
+
+^ “2017 Winners”. The Independent Game Developers' Association (2017年11月2日). 2018年9月6日閲覧。
+
+^ Gaito (2017年11月13日). “Golden Joystick Awards 2017 Nominees”. Best in Slot. 2018年3月15日閲覧。
+
+^ deAlessandri (2018年3月15日). “Hellblade: Senua's Sacrifice at forefront of BAFTA Games Awards nominations”. MCV.   NewBay Media. 2018年3月15日閲覧。
+
+^ Makedonski (2018年4月12日). “BAFTA names What Remains of Edith Finch its best game of 2017”. Destructoid.   Enthusiast Gaming. 2018年4月13日閲覧。
+
+
+外部リンク[編集]
+公式ウェブサイト
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Sniper_Elite_4&oldid=80301424」から取得
+カテゴリ: 2017年のコンピュータゲームXbox One用ソフトWindows用ゲームソフトPlayStation 4用ソフトNintendo Switch用ソフト第二次世界大戦を題材としたコンピュータゲームイギリスで開発されたコンピュータゲームステルスゲーム隠しカテゴリ: Wikifyが必要な項目/2020年9月ウィキペディアとウィキデータで異なる公式ウェブサイト
+

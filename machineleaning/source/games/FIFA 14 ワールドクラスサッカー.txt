@@ -1,0 +1,222 @@
+
+
+
+
+
+FIFA 14
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+FIFA 14ジャンル
+サッカーゲーム対応機種
+PlayStation 4PlayStation 3PlayStation VitaPlayStation PortableXbox OneXbox 360Microsoft Windows開発元
+EA Canada発売元
+EAシリーズ
+FIFA人数
+PS3：オンライン時最大22人PS VITA：オンライン時最大22人360：オンライン時最大22人PSP：アドホック通信時最大2人メディア
+PS3：BD-ROMPS VITA:Playstation VITA専用ソフト360：DVD-ROMPSP：UMD対象年齢
+ACB: GCERO: A（全年齢対象）ESRB: EPEGI: 3+エンジン
+IGNITEエンジン（PS4,Xbox One）テンプレートを表示
+FIFA 14 ワールドクラスサッカー（またはFIFA14）はEAスポーツが開発し、エレクトロニック・アーツ（EA）よりPS4、PS3、PSP、PS Vita、Xbox 360、PCで発売されたコンピュータゲームである。またXbox Oneでも発売が予定されている。
+今作より PS4, Xbox One版のゲームエンジンにはIGNITEエンジンが採用される。PC、PS3,Xbox 360版は今までとエンジンは変わらない。
+新要素としては、どんなスピードでもボールを取らせないようにできるプロテクトボール、方向転換時に減速したりするなど選手の動作がさらにリアルになるプレシジョンムーブメント、どんな状況でもシュートが決められリアルな弾道を描くピュアシュートなどがある。
+なお、PSPとPS Vita版は選手データのみアップデートのLegacy Editionとなっている。
+
+目次
+
+1 新機能
+2 収録リーグ
+
+2.1 国内
+
+2.1.1 国際
+
+
+
+
+3 脚注
+4 関連項目
+5 外部リンク
+
+
+新機能[編集]
+この節の加筆が望まれています。
+今作では主にオフェンス側で多くの新機能が実装された。また、次世代機版には新しくIGNITEエンジンが実装された。
+
+プロテクトボール
+実際のサッカーではボール支配率によって得点につながることも多い。今作では実際にあるボール支配で主導権を握るということをゲーム内で再現することができる。
+この機能によってどのような速さで走っていても引っ張ってくるディフェンダーからボールをブロックすることができ、ボールと相手の間に入ってブロックすることもできるようになった。また、ゴールを背にしてボールを受け反転してゴールということができ、ポジション争いでも活用することができる。
+収録リーグ[編集]
+収録リーグに関しては前作で一部チームが偽名であったエクストラクラサとブラジルリーグの公式ライセンスを得、新たにアルゼンチン、チリ、コロンビアのリーグが追加された。ナショナルチームも新たにブラジル代表の公式ライセンスを得、新たにウェールズが加わり、33リーグ、600クラブ以上、総勢16000人以上の実名が収録されている[1]。
+
+国内[編集]
+
+ アルゼンチン
+Primera División
+Nacional B (unlicensed version of the Primera B Nacional, featuring Independiente)
+ オーストラリア /  ニュージーランド
+Aリーグ
+ オーストリア
+A. ブンデスリーガ
+ ベルギー
+Pro League
+ ブラジル
+Liga do Brasil
+Liga do Brasil B (unlicensed version of the Campeonato Brasileiro Série B, featuring Palmeiras)
+ デンマーク
+Superliga
+ チリ
+Campeonato Petrobras
+ コロンビア
+Liga Postobón
+ イングランド /  ウェールズ
+Barclays PL
+FL Championship
+FL One
+FL Two
+ フランス /  モナコ
+Ligue 1
+Ligue 2
+ ドイツ
+Bundesliga
+Bundesliga 2
+ ギリシャ
+Hellas Liga (unlicensed version of the ギリシャ・スーパーリーグ, featuring AEK Athens, オリンピアコスCFP, PAOK and パナシナイコス)
+ イタリア
+セリエA
+セリエB
+ メキシコ
+Liga Bancomer MX
+ オランダ
+エールディヴィジ
+ ノルウェー
+Tippeligaen
+ ポーランド
+エクストラクラサ
+ ポルトガル
+Liga Portuguesa
+ アイルランド
+Airtricity League
+ ロシア
+Russian League
+ スコットランド
+Scottish Premier
+Scotland League (unlicensed version of the スコティッシュ・チャンピオンシップ, featuring Rangers)
+ 南アフリカ
+South African FL (unlicensed version of the Premier Soccer League, featuring Kaizer Chiefs and Orlando Pirates)
+ 韓国
+Kリーグ
+ スペイン
+リーガBBVA
+Liga Adelante
+ サウジアラビア
+ALJリーグ
+ スウェーデン
+アルスヴェンスカン
+ スイス
+Raiffeisen SL
+ トルコ
+Türklig (unlicensed version of the スュペル・リグ, featuring ガラタサライSK)
+ ウクライナ
+Ukrayina Liha (unlicensed version of the Ukrainian Premier League, featuring FC Shakhtar)
+ アメリカ  /  カナダ
+MLS
+
+国際[編集]
+47の国内代表チームが収録[1]
+
+
+AFC
+
+ オーストラリア
+ インド
+ 韓国
+CAF
+
+ カメルーン
+ コートジボワール
+ エジプト
+ 南アフリカ共和国
+CONCACAF
+
+ メキシコ
+ アメリカ合衆国
+CONMEBOL
+
+ アルゼンチン
+ ボリビア
+ ブラジル
+ チリ
+ コロンビア
+ エクアドル
+ パラグアイ
+ ペルー
+ ウルグアイ
+ ベネズエラ
+OFC
+
+ ニュージーランド
+UEFA
+
+ オーストリア
+ ベルギー
+ ブルガリア
+ チェコ
+ デンマーク
+ イングランド
+ フィンランド
+ フランス
+ ドイツ
+ ギリシャ
+ ハンガリー
+ アイルランド
+ イタリア
+ オランダ
+ 北アイルランド
+ ノルウェー
+ ポーランド
+ ポルトガル
+ ルーマニア
+ ロシア
+ スコットランド
+ スロベニア
+ スペイン
+ スウェーデン
+ スイス
+ トルコ
+ ウェールズ
+
+脚注[編集]
+
+
+^ a b “All the Leagues and Clubs in FIFA 14”.   EA Sports (2013年9月21日). 2014年6月17日閲覧。
+
+
+関連項目[編集]
+FIFAシリーズ
+EAスポーツ
+外部リンク[編集]
+公式サイト
+典拠管理 
+BNF: cb169435501 (データ)
+MBRG: 2ad2dea1-895c-49e8-a7d9-8b541f8f929b
+VIAF: 314852850
+ WorldCat Identities（VIAF経由）: 314852850
+
+
+
+
+
+この項目は、コンピュータゲームに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（P:コンピュータゲーム / PJコンピュータゲーム）。
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=FIFA_14&oldid=82109447」から取得
+カテゴリ: 2013年のコンピュータゲームAndroid用ゲームソフトサッカーゲームエレクトロニック・アーツのゲームソフトFIFAシリーズニンテンドー3DS用ソフトPlayStation 2用ソフトPlayStation 3用ソフトPlayStation 4用ソフトPlayStation Portable用ソフトPlayStation Vita用ソフトWii用ソフトWindows用ゲームソフトXbox 360用ソフトXbox One用ソフトカナダで開発されたコンピュータゲーム隠しカテゴリ: 書きかけの節のある項目BNF識別子が指定されている記事MusicBrainzリリース・グループ識別子が指定されている記事VIAF識別子が指定されている記事WorldCat-VIAF識別子が指定されている記事コンピュータゲーム関連のスタブ記事
+

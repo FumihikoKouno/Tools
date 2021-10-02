@@ -1,0 +1,123 @@
+
+
+
+
+
+Xeodrifter
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Xeodrifterジャンル
+アクションゲーム対応機種
+Steam（Windows）ニンテンドー3DSWii UPlayStation 4PlayStation VitaNintendo Switch開発元
+Renegade Kidatooi（英語版）（Switch）[注 1]発売元
+Renegade Kid（3DS, Wii U）atooi（3DS, Wii U, Switch（））[注 1]Gambitious Digital Entertainment（英語版）（Steam, PS4, PS Vita）フライハイワークス（Switch（））発売日
+Steam：2014年12月11日[1]3DS 2014年12月11日[2] 2015年6月18日[3]Wii U 2015年7月30日[4]PS4, PS Vita 2015年9月1日[5][6][7] 2016年1月6日[8][9]Switch 2018年2月15日[10][11] 2018年7月26日[12]対象年齢
+CERO：B（12才以上対象）[8][9][12]ESRB：E（6歳以上）[2][4][5][7][10]PEGI：7[3][6]PEGI：3[11]USK：6（6歳未満提供禁止）[13][14][15]コンテンツアイコン
+CERO：暴力[8][9][12]ESRB：Mild Fantasy Violence[2][5][10]PEGI：Violence[3][6]テンプレートを表示
+『Xeodrifter』（ゼオドリフター）[注 2]は、アメリカのインディーゲームスタジオRenegade Kidが開発したアクションゲーム。
+
+目次
+
+1 概要
+2 システム
+3 能力
+4 脚注
+
+4.1 注釈
+4.2 出典
+
+
+5 外部リンク
+
+
+概要[編集]
+宇宙の航行中に隕石に衝突し破損した宇宙船を直すため、主人公が宙域内の4つの惑星を巡り冒険する。ゲームシステムはサイドビューで表現されたエリアを探索する「メトロイドヴァニア（英語版）」の形式で、ファミリーコンピュータ用ソフトのようなシンプルなドット絵とサウンドが用いられている。
+本作を開発したRenegade KidのJools Watshamは、2009年発売のFPSゲーム『Moon（英語版）』のリメイク版である『Moon Chronicles』を開発していたが、その傍らで『Moon Chronicles』の2Dバージョンの試作も行っていた。その後『Moon Chronicles』は2014年1月に発売され、試作を休止したまま次の新作に取り掛かっていたところ、ある時、宇宙を舞台とした2Dゲームのアイデアが思い浮かび、それが試作と結びついて『Xeodrifter』が制作される運びとなった。なお、本作の物語は『Moon Chronicles』とは関係ない[16]。
+Jools Watshamは、メトロイドヴァニアの系譜である任天堂の『スーパーメトロイド』『メトロイド ゼロミッション』やコナミの『悪魔城ドラキュラ サークル オブ ザ ムーン』の大ファンで、それらを開発したいという願望の強まりから『Xeodrifter』が誕生したと語っている。また、本作は短時間でクリアできる小規模な内容だが、これは、
+アクションゲーム『洞窟物語』で知られる開発室Pixelのソフト『いかちゃん』のような「一口サイズ」のものを目指したためとしている[16]。
+本作は様々な機種向けに配信されているが、日本のNintendo Switch版のみ日本語に対応している。
+
+システム[編集]
+前述のように、本作は4つの惑星が冒険の舞台となる。惑星は順不同で訪れることができるが、探索中に習得する特定の能力がなければ進めない箇所が多く存在するため、能力習得ごとに惑星を行き来しながら攻略していくことになる。
+主人公は、前方や上下方向に弾を発射して敵を攻撃できる。この弾は、惑星の各所に隠されているアイテム「ガンパーツ」をメニュー画面の武器設定部分にはめ込むことで、弾の威力・大きさ・軌道をカスタマイズできる。
+本作のセーブポイントは、各惑星のスタート地点にのみ存在する。ライフが尽きてミスとなった場合は通常この地点から再開されるが、惑星内にあるチェックポイントを通過している場合はここからの再開となる。
+
+能力[編集]
+サブマリン (SUBMARINE)
+潜水艦に変身し水中を移動できる。
+プレーンシフト (PLANE SHIFT)
+手前と奥の2層構造になっている地形で、手前または奥に移動できる。
+ダッシュ (RUN)
+前方に高速で走行し、通常ではダメージを受ける地形の上を無傷で通過できる。
+ロケット (ROCKET)
+上方に高速で飛翔する。
+ソーラーフレア (SOLAR FLARE)
+エネルギーをためた後に大きな光弾を発射し、一部の壁を破壊したり敵が放つ弾を跳ね返したりできる。通常の攻撃弾と切り替えて使用する。
+ショートワープ (PHAZE)
+数歩分先まで瞬間移動し壁をすり抜けることができる。
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+
+
+^ a b Renegade Kidが2016年に廃止された後、atooiが本作の版権を取得している。
+
+^ 日本のNintendo Switch版のみ全て大文字の『XEODRIFTER』表記で配信されている。
+
+
+出典[編集]
+
+
+^ “Xeodrifter”.   Steam. 2019年5月4日閲覧。
+
+^ a b c “Xeodrifter for Nintendo 3DS - Nintendo Game Details” (英語).   Nintendo of America. 2019年5月4日閲覧。
+
+^ a b c “Xeodrifter｜Nintendo 3DS download software｜Games” (英語).   Nintendo UK. 2019年5月4日閲覧。
+
+^ a b “Xeodrifter for Wii U - Nintendo Game Details” (英語).   Nintendo of America. 2019年5月4日閲覧。
+
+^ a b c “Xeodrifter on PS4” (英語).   Official PlayStation Store US. 2019年5月4日閲覧。
+
+^ a b c “Xeodrifter on PS4, PS Vita” (英語).   Official PlayStation Store UK. 2019年5月4日閲覧。
+
+^ a b “Xeodrifter on PS Vita” (英語).   Official PlayStation Store US. 2019年5月4日閲覧。
+
+^ a b c “Xeodrifter”.   プレイステーション. 2019年5月4日閲覧。
+
+^ a b c “Xeodrifter”.   プレイステーション オフィシャルサイト. 2019年5月4日閲覧。
+
+^ a b c “Xeodrifter for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2019年5月4日閲覧。
+
+^ a b “Xeodrifter｜Nintendo Switch download software｜Games” (英語).   Nintendo UK. 2019年5月4日閲覧。
+
+^ a b c “XEODRIFTER”.   任天堂. 2019年5月4日閲覧。
+
+^ “Xeodrifter｜Nintendo 3DS Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2019年5月4日閲覧。
+
+^ “Xeodrifter auf PS4, PS Vita” (ドイツ語).   Offizieller PlayStation Store Deutschland. 2019年5月4日閲覧。
+
+^ “Xeodrifter｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2019年5月4日閲覧。
+
+^ a b “GoNintendo Exclusive - Renegade Kid unveils Xeodrifter for 3DS eShop” (英語).   GoNintendo (2014年8月4日). 2015年3月20日時点のオリジナルよりアーカイブ。2019年5月4日閲覧。
+
+
+外部リンク[編集]
+Renegade Kid 公式サイト（英語）
+atooi 公式サイト（英語）
+フライハイワークス 公式サイト
+XEODRIFTERに関するカテゴリ:
+ Nintendo Switch用ソフト 
+ フライハイワークスのゲームソフト 
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Xeodrifter&oldid=77408246」から取得
+カテゴリ: 2014年のコンピュータゲームWindows用ゲームソフトニンテンドー3DS用ソフトWii U用ソフトPlayStation 4用ソフトPlayStation Vita用ソフトアメリカで開発されたコンピュータゲーム横スクロールアクションゲーム宇宙を舞台としたコンピュータゲーム
+

@@ -1,0 +1,95 @@
+
+
+
+
+
+スプラッシャー
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+スプラッシャーSplasherジャンル
+アクションゲーム対応機種
+PC（Steam, Green Man Gaming（英語版）, Humble Bundle, itch.io）PlayStation 4Xbox OneNintendo Switch開発元
+Splashteam発売元
+Steam：Dear VillagersGMG：Plug In Digital, The SidekicksHB：Plug In Digitalitch.io：The SidekicksPS4 Plug In Digital レイニーフロッグXBOne：Plug In DigitalSwitch Plug In Digital フライハイワークス発売日
+PC：2017年2月7日[1][2]PS4 2017年9月26日[3] 2017年9月27日[4] 2017年11月9日[5]XBOne 2017年9月27日[6][7]Switch 2017年10月26日[8][9] 2017年12月7日[10]対象年齢
+CERO：B（12才以上対象）[5][10]ESRB：T（13歳以上）[3][6][8]PEGI：7[4][7][9]USK：6（6歳未満提供禁止）[11]コンテンツアイコン
+CERO[PS4] 犯罪[5][Switch] 暴力[10]ESRB：Fantasy Violence, Mild Blood, Language, Use of Tobacco[3][6][8]PEGI：Violence[4][7][9]テンプレートを表示
+『スプラッシャー』（Splasher）は、フランスのインディーゲームスタジオSplashteamが開発したアクションゲーム。
+
+目次
+
+1 概要
+2 システム
+3 受賞
+4 脚注
+5 外部リンク
+
+
+概要[編集]
+インク工場「Inkorp」で働くスプラッシャー（従業員）に対して上司が人体実験を行っている場面を目撃した主人公が、同僚たちを救い出し上司を捕えるべく工場内の様々なステージを攻略していく。主人公は道中で入手するポンプを用いて、体が張り付く赤インク（Stickink）や体が大きく跳ねる黄色インク（Bouncink）などを射出することができる。
+本作は、以前にユービーアイソフトで『レイマン オリジン（英語版）』のゲームデザイナー等をしていたRomain Claudeが独立後に手がけた最初の作品で、同作のサウンドデザイナーのAymeric Schwartzも本作に参加している[12]。
+
+システム[編集]
+サイドビューで描かれたステージは全部で22あり、床や壁の至る所に前述の赤インクや黄色インクがついている。また、主人公は赤インク・黄色インクに加えインクを洗い流す水を射出できるが、これらはゲームの進行状況に応じて順次使用可能となる。水やインクを敵に向けて射出すると以下のような効果を表す。
+
+水 - 一部を除く敵を倒せる。
+赤いインク - 敵を動けなくする。
+黄色いインク - 敵を跳ね飛ばす。
+各ステージ内ではそれぞれ7人のスプラッシャーが各所で救出を待っている。ゴール地点で囚われているスプラッシャーは、ステージ内で手に入る黄金のインクを合計700以上集めた場合のみ救出できる。スプラッシャーの救出はクリアに必須ではないが、7人全員を救出するとクリアステージのタイムアタックモードが解禁される。このモードではスプラッシャーは登場せず、クリアタイムに応じて金・銀・銅の評価がつく。タイムはサーバーにアップロードされ順位づけが行われる。
+スピードランモードでは、全ステージを通してプレイしクリアするまでの時間を競う。通常モードと同じスタイルの「スタンダード」、スプラッシャーが登場しない「要救助者無し」、スプラッシャーを全員救出する必要がある「全員救出」の3種類がある。それぞれの結果はタイムアタックモードと同様にサーバー上でランキング化される。
+
+受賞[編集]
+Trophée Flip（フランス語版） 2015 Jeux Vidéo（ビデオゲーム部門） 「Prix du Jury（審査員賞）」[13]
+Stunfest（フランス語版） 2016 「1er Prix du Jury（審査員最優秀賞）」[14]
+Ping Awards（フランス語版） 2017 「Ping meilleur jeu indépendant（Pingベストインディーゲーム）」[15]
+脚注[編集]
+[脚注の使い方]
+
+
+^ “Splashteam公式Twitter” (2017年2月7日). 2019年7月17日閲覧。
+
+^ “Splasher”.   Green Man Gaming. 2019年7月17日閲覧。
+
+^ a b c “Splasher”.   Official PlayStation Store US. 2019年7月17日閲覧。
+
+^ a b c “Splasher”.   Official PlayStation Store UK. 2019年7月17日閲覧。
+
+^ a b c “スプラッシャー”.   プレイステーション. 2019年7月17日閲覧。
+
+^ a b c “Splasher” (英語).   Microsoft Store. 2019年7月17日閲覧。
+
+^ a b c “Splasher” (英語).   Microsoft Store en-GB. 2019年7月17日閲覧。
+
+^ a b c “Splasher for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2019年7月17日閲覧。
+
+^ a b c “Splasher｜Nintendo Switch download software｜Games” (英語).   Nintendo UK. 2019年7月17日閲覧。
+
+^ a b c “スプラッシャー”.   任天堂. 2019年7月17日閲覧。
+
+^ “Splasher｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2019年7月17日閲覧。
+
+^ “Splasher公式サイト” (英語). 2019年7月17日閲覧。
+
+^ “Les résultats des Trophées FLIP 2015” (フランス語).   Festival des Jeux. 2019年7月17日閲覧。
+
+^ “Stunfest 2016 : découvrez les jeux indépendants qui ont fait sensation” (フランス語).   numerama (2016年5月24日). 2019年7月17日閲覧。
+
+^ “Les lauréats des Ping Awards 2017” (フランス語).   Ping Awards. 2019年7月17日閲覧。
+
+
+外部リンク[編集]
+公式サイト（英語）
+レイニーフロッグ 公式サイト
+フライハイワークス 公式サイト
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=スプラッシャー&oldid=77408174」から取得
+カテゴリ: 2017年のコンピュータゲームWindows用ゲームソフトMacOSのソフトウェアLinux用ゲームソフトPlayStation 4用ソフトXbox One用ソフトNintendo Switch用ソフトフランスで開発されたコンピュータゲームフライハイワークスのゲームソフト横スクロールアクションゲーム工場を舞台とした作品
+

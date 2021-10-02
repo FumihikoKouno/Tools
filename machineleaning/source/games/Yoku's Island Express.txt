@@ -1,0 +1,128 @@
+
+
+
+
+
+Yoku's Island Express
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Yoku's Island Expressジャンル
+アクションゲーム対応機種
+Steam（Windows）Nintendo SwitchPlayStation 4Xbox One開発元
+Villa Gorilla発売元
+Team17（英語版）人数
+1人発売日
+Steam：2018年5月29日[1]Switch 2018年5月29日[2][3][4]PS4 2018年5月29日[5][6] 2018年10月11日[7]XBOne  2018年5月29日[8][9]対象年齢
+CERO：A（全年齢対象）[2][7]ESRB：E10+（10歳以上）[3][5][8][8]PEGI：7[4][6][9]USK：6（6歳未満提供禁止）[10][11][12]コンテンツアイコン
+ESRB：Animated Blood, Crude Humor, Fantasy Violence[3][5]PEGI：Violence[4][6][9]テンプレートを表示
+『Yoku's Island Express』は、スウェーデンのインディーゲームスタジオVilla Gorillaが開発し、Team17（英語版）より発売されたアクションゲーム。日本語版のタイトルロゴには「ヨクのアイランドエクスプレス」の文字が併記されている。
+
+目次
+
+1 概要
+2 システム
+3 主なアイテム
+4 受賞・ノミネート
+5 脚注
+6 外部リンク
+
+
+概要[編集]
+大海の孤島・モクマナ島（Mokumana Island）へやってきたフンコロガシのヨク（Yoku）が郵便局長として奔走する物語。ヨクは島内で集配を行いつつ島に住む生き物たちの困りごとを解決していき、やがて、島に秘められた謎や島を危機に陥れる存在と向き合うことになる。
+本作は、サイドビューで描かれた広大な舞台で能力を駆使しながら探索を行う、いわゆるメトロイドヴァニア（英語版）のジャンルで、島の描写は全て一続きのオープンワールド形式で表現されている。一方、島にはピンボールのフリッパーのようなものが至る所にあり、ヨクが転がしている大玉をこれで弾くことで跳ね上がったり高速移動したりすることができる。このように、本作はメトロイドヴァニア要素とピンボール要素を融合させたシステムを特徴としている。
+本作のアート担当者Mattias Snyggは、開発する上で影響を受けた作品として任天堂の『ゼルダの伝説』を挙げ、作品としての共通点は少ないものの同様の問題に直面した際に大きな参考になったと語っている。また、アート面ではユービーアイソフトの『レイマン』シリーズやマイクロソフトの『オリとくらやみの森』を参照し、ゲーム以外ではスタジオジブリのアニメ映画もインスピレーションの源となったとしている[13]。
+
+システム[編集]
+ヨクは大玉を転がしながら地上を移動し、ジャンプはできない。前述のように各所のフリッパーを活用することで通常の徒歩だけではいけない場所へ到達できる。また、後述のアイテムを取得すると各種能力が使用可能となる。
+様々な場所で手に入る果物は通貨のような役割を果たす。一部の島民からアイテムを得る際に一定量を支払うほか、使用不可になっているフリッパーなどの装置につぎ込むことで使用できるようになる。一方、ヨクがダメージ地形に触れると一定量を失う。財布を入手すると所持数の上限が増加する。
+島の中には、各所の砲台を中継し素早い長距離移動を可能とする区間、通称「ビーライン」（Beeline）がある。このビーラインは、起点の場所に果物を一定量投入することで対象区間が開通する。
+
+主なアイテム[編集]
+ピヨピヨ笛
+音を鳴らし、眠っているキャラクターを起こしたり脆い結晶を破壊したりするなどの効果をもたらす。
+なめくじとり
+触れると爆発するナメクジを吸い取る。吸い取った状態で岩に体当たりすると爆破できる。
+リード付きすす
+食肉植物の付近で使用すると紐を絡めてヨクが周囲を回転し続け、離すと回転の勢いで遠くまで飛べる。
+潜水魚 / 活きのいい潜水魚
+水の中に潜ることができる。「活きのいい潜水魚」は速く泳げる。
+藤の根
+島内の各所にある収集用アイテム。全て取得すると通常とは異なるエンディングが流れる。
+○○の千里眼
+特定エリア内にある藤の根の位置がマップ上に表示される。「○○」には対象エリア名が入る。
+宝の地図
+宝箱の位置がマップ上に表示される。
+受賞・ノミネート[編集]
+The Game Awards 2018（英語版） 「Best Debut Indie Game」ノミネート[14]
+The 8th Annual New York Game Awards 「Central Park Children's Zoo Award for Best Kids Game」ノミネート[15]
+2018 NAVGTR（英語版） Awards 「Game, Original Family」受賞[16]
+Game Developers Choice Awards 2019 「Best Debut」ノミネート（Villa Gorillaとしてのノミネート）[17]
+2019 G.A.N.G. Awards 「Best Sound Design for an Indie Game」ノミネート[18]
+第15回英国アカデミー賞ゲーム部門（英語版） 「Debut Game」受賞[19]、「Family」ノミネート[20]
+Develop（英語版）:Star Awards 2019 「Best Visual Art」「Best Game Design」「Best Original IP」ノミネート[21]
+脚注[編集]
+[脚注の使い方]
+
+
+^ “Yoku's Island Express公式Twitter” (2018年5月1日). 2019年7月14日閲覧。
+
+^ a b “Yoku's Island Express”.   任天堂. 2019年7月14日閲覧。
+
+^ a b c “Yoku's Island Express for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2019年7月14日閲覧。
+
+^ a b c “Yoku's Island Express｜Nintendo Switch download software｜Games” (英語).   Nintendo UK. 2019年7月14日閲覧。
+
+^ a b c “Yoku's Island Express” (英語).   PlayStation Store US. 2019年7月14日閲覧。
+
+^ a b c “Yoku's Island Express” (英語).   PlayStation Store UK. 2019年7月14日閲覧。
+
+^ a b “Yoku's Island Express”.   公式PlayStation Store 日本. 2019年7月14日閲覧。
+
+^ a b c “Yoku's Island Express” (英語).   Microsoft Store. 2019年7月14日閲覧。
+
+^ a b c “Yoku's Island Express” (英語).   Microsoft Store en-GB. 2019年7月14日閲覧。
+
+^ “Yoku's Island Express｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2019年7月14日閲覧。
+
+^ “Yoku's Island Express” (ドイツ語).   Offizieller PlayStation Store Deutschland. 2019年7月14日閲覧。
+
+^ “Yoku's Island Express” (ドイツ語).   Microsoft Store de-DE. 2019年7月14日閲覧。
+
+^ “ピンボールアクションADV『Yoku's Island Express』「ジブリ映画もインスピレーションの源」【注目インディーミニ問答】”.   Game*Spark (2018年6月8日). 2019年7月14日閲覧。
+
+^ ““The Game Awards 2018”全アワードの受賞作品を紹介、日本からは『モンスターハンター：ワールド』や『ASTRO BOT』が受賞【The Game Awards 2018】”.   ファミ通.com (2018年12月7日). 2019年7月14日閲覧。
+
+^ “2018 New York Game Awards Nominees Revealed” (英語).   Screenrant (2019年1月3日). 2019年7月14日閲覧。
+
+^ “Winner List for 2018: God of War Breaks Record” (英語).   National Academy of Video Game Trade Reviewers Corporation (2019年3月13日). 2019年7月14日閲覧。
+
+^ “GOTYは『ゴッド・オブ・ウォー』に！ 第19回「GDC Awards」受賞作品リスト”.   Game*Spark (2019年3月21日). 2019年7月14日閲覧。
+
+^ “2019 G.A.N.G. Awards Finalists” (英語).   G.A.N.G. (2019年2月14日). 2019年7月14日閲覧。
+
+^ “2019英国アカデミー賞ゲーム部門受賞作発表！Best Gameは『ゴッド・オブ・ウォー』に”.   GameBusiness.jp (2019年4月6日). 2019年7月14日閲覧。
+
+^ “2019年英国アカデミー賞ゲーム部門のノミネート作品が発表！”.   Game*Spark (2019年3月15日). 2019年7月14日閲覧。
+
+^ “Shortlist for Develop:Star Awards 2019 revealed” (英語).   MCV (2019年5月16日). 2019年7月14日閲覧。
+
+
+外部リンク[編集]
+Team17 公式サイト（英語）
+Yoku's Island Express - Facebook
+Yoku's Island Express (@YokuGame) - Twitter
+典拠管理 
+MBW: 9384d5d8-013f-4581-8a6a-c933fd23567e
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Yoku%27s_Island_Express&oldid=82131489」から取得
+カテゴリ: 2018年のコンピュータゲームWindows用ゲームソフトNintendo Switch用ソフトPlayStation 4用ソフトXbox One用ソフトスウェーデンで開発されたコンピュータゲームアクションゲームコンピュータピンボールオープンワールドゲーム昆虫を主人公にした物語郵便を題材とした作品島を舞台としたコンピュータゲーム昆虫を題材としたコンピュータゲームインディーゲーム隠しカテゴリ: MusicBrainz作品識別子が指定されている記事
+

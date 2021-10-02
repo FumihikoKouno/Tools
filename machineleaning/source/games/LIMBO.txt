@@ -1,0 +1,99 @@
+
+
+
+
+
+LIMBO (コンピュータゲーム)
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+
+
+
+
+
+「LIMBO」はこの項目へ転送されています。プログラミング言語については「Limbo」をご覧ください。
+
+
+LIMBOジャンル
+横スクロールアクション、パズル対応機種
+Xbox 360 / PlayStation 3 / Microsoft Windows / OS X / PlayStation Vita / iOS / PlayStation 4 / Android / Nintendo Switch開発元
+Playdead、Double Eleven（PS Vita）発売元
+Microsoft Game Studios（Xbox 360）Playdead（PS3、PS Vita、PS4、Windows、OSX、iOS、Android、Switch）人数
+1人発売日
+2010年7月21日（Xbox 360）[1] 2011年7月19日（PS3） 2011年7月20日（PS3） 2011年8月4日（PS3）[2] 2011年8月2日（Windows）[3] 2011年12月21日（OSX）[4] 2013年6月18日（PS Vita）[5] 2014年2月25日（iOS）[6] 2015年12月2日（PS4） 2018年6月28日（Switch）対象年齢
+CERO：D（17才以上対象）ESRB：T（13歳以上対象）[7]その他
+オンライン配信テンプレートを表示
+『LIMBO』（リンボ）は、デンマークのPlaydeadが開発したコンピュータゲーム。2010年7月にXbox 360用にXbox Liveでリリースされた。その後、Microsoft Windows、PlayStation 3、OS X、PlayStation Vita、iOS、PlayStation 4、Android、Nintendo Switch用がリリースされた。
+主にインターネットを通じて配信（ダウンロード販売）されているが、Xbox 360用のパッケージソフトとして『トリプルパック - Xbox LIVE アーケード コンピレーション -』に収録され、2011年5月に販売された。
+
+目次
+
+1 概要
+2 ストーリー
+3 受賞歴
+4 脚注
+5 外部リンク
+
+
+概要[編集]
+プレイヤーが主人公を操作してモノトーンの世界を進んでいくという形式の、横スクロールアクションゲーム（プラットフォーム・ゲーム）である。敵を倒すことよりもパズルが主眼となっており、プレイヤーは即死系の罠を回避しつつ、行く手を阻む仕掛けを解いていく。操作は非常にシンプルである。基本的にBGMがなく環境音のみが響き、モノトーンのアートワークと相まって、不気味で幻想的な世界が作り出されている[8]。
+主人公や作中の物体はシルエットで描かれているが、主人公が死亡する際には、身体が投げ出される、突起物に貫かれる、身体がバラバラになる、血が飛び散るといった残酷な演出がある[7]。
+
+ストーリー[編集]
+作中ではストーリーは明示されないが、ソニー・コンピュータエンタテインメントは本作のソフトウェアカタログに「運命に逆らい、妹を探して少年は LIMBOの世界に足を踏み入れる。」と記している[2]。
+
+受賞歴[編集]
+2010年 Game Developers Conference 第12回年間 Independent Games Festival Awards - Technical Excellence、Excellence in Visual Art[9]
+2010年 Spike Video Game Awards - Best Independent Game[10]
+2011年 ゲーム・デベロッパーズ・チョイス・アワード -  Best Visual Art[11]
+第38回アニー賞 - Best Animated Video Game[12]
+脚注[編集]
+
+^ “LIMBO”.   Microsoft. 2014年5月17日閲覧。
+
+^ a b “LIMBO”. ソフトウェアカタログ｜プレイステーションオフィシャルサイト.   Sony Computer Entertainment Inc.. 2014年5月17日閲覧。
+
+^ “LIMBO”. Steam.   Valve Corporation. 2014年5月17日閲覧。
+
+^ “LIMBO”. Mac App Store.   Apple Inc.. 2014年5月17日閲覧。
+
+^ “LIMBO”. ソフトウェアカタログ｜プレイステーションオフィシャルサイト.   Sony Computer Entertainment Inc.. 2014年5月17日閲覧。
+
+^ “LIMBO”. iTunes.   Apple Inc.. 2014年5月17日閲覧。
+
+^ a b “LIMBO” (英語). RATING INFORMATION.   ESRB. 2014年5月18日閲覧。
+
+^ Chihiro (2010年7月31日). “不気味すぎて不思議すぎて病みつきになる残酷な世界。XBLA専用アクションゲーム「LIMBO」レビュー”.   4gamer.net. 2014年5月17日閲覧。
+
+^ Hatfield, Daemon (2010年3月10日). “GDC 10: Independent Games Festival Award Winners” (英語).   IGN. 2014年5月18日閲覧。
+
+^ “Video Game Awards 2010 Wrap Up” (英語).   IGN (2010年12月11日). 2014年5月18日閲覧。
+
+^ Orland, Kyle (2011年3月3日). “GDC 2011: Red Dead Redemption Tops Game Developers Choice Awards” (英語).   Gamasutra. 2014年5月18日閲覧。
+
+^ “Winners of the The 38th Annual Annie Awards Announced” (英語).   Geektyrant Industries LLC (2011年2月7日). 2014年5月18日閲覧。
+
+
+外部リンク[編集]
+公式サイト
+
+
+この項目は、コンピュータゲームに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（P:コンピュータゲーム / PJコンピュータゲーム）。
+
+典拠管理 
+BNF: cb167292292 (データ)
+MBRG: 858b82e2-2926-4772-82dc-8b16ae71192b
+MBW: 7addd015-e26b-43c8-9e58-3a9d7ec47698
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=LIMBO_(コンピュータゲーム)&oldid=83649938」から取得
+カテゴリ: インディーゲーム2010年のコンピュータゲームXbox 360用ソフトPlayStation 3用ソフトPlayStation Vita用ソフトPlayStation 4用ソフトWindows用ゲームソフトMacintosh用ゲームソフトNintendo Switch用ソフトデンマークで開発されたコンピュータゲーム横スクロールアクションゲーム隠しカテゴリ: コンピュータゲーム関連のスタブ記事BNF識別子が指定されている記事MusicBrainzリリース・グループ識別子が指定されている記事MusicBrainz作品識別子が指定されている記事
+

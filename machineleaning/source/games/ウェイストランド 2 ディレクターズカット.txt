@@ -1,0 +1,109 @@
+
+
+
+
+
+Wasteland 2
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Wasteland 2ジャンル
+RPG対応機種
+Microsoft Windows, Mac OS X, Linux [1], Xbox One開発元
+InXile EntertainmentObsidian Entertainment発売元
+Deep Silverディレクター
+Brian Fargoデザイナー
+Ken St. AndreLiz DanforthMichael A. StackpoleAlan PavlishJason Anderson (2011年まで)Chris Avellone (2012年から)音楽
+Mark Morgan美術
+Andrée Wallin (コンセプト)[2]シリーズ
+Wasteland発売日
+2014年9月19日エンジン
+Unity[3]テンプレートを表示
+『Wasteland 2』（ウェイストランド2）は荒廃した終末的な世界を題材とした、RPG。1988年にリリースされたWastelandの続編である 。
+
+目次
+
+1 ストーリー
+2 ゲームプレイ
+3 製作
+4 脚注
+5 外部リンク
+
+
+ストーリー[編集]
+このゲームは歴史改変SFの系列と位置づけられており, その中では世界中で核戦争を引き起こした流星群に伴う隕石衝突に関連して、核の大虐殺が1988年に起こった。終末の日に、アメリカ陸軍工兵司令部の一団は荒廃したアメリカ合衆国南西部の沙漠で、小さなサバイバリスト達のコミュニティと、軽工業施設が付属した新築の連邦の死刑囚用の監獄とともに地域内で橋を建設していた。 兵士たちは刑務所に逃げ込むと受刑者を追い払い、その後すぐに、サバイバリスト達の仲間になるために招きいれた。 数年後、 彼らは砂漠やその先のほかの生存者を救うために、ともに「テキサスとアリゾナレンジャーズの偉大なる伝統におけるデザートレンジャーズ」を結成。
+
+ゲームプレイ[編集]
+『Wasteland 2』はアイソメトリックビュー視点からの戦術的戦闘要素が付属したターン制でパーティー制のロールプレイングゲームになる予定である。 プレイヤーのパーティーは最大7人まで[4]で 4人のプレイヤーキャラクター(レンジャー)と3人のノン・プレイヤー・キャラクター(NPC)に分けられる[5]。レンジャーは高度にカスタマイズ可能でプレイヤーの選択の総合であり、スキルや外観がレンジャーに個々の個性を与える。パーティーにはNPCが含まれ、それぞれに自分の個性や動機、意見や予定がある[6]。
+
+製作[編集]
+2003年、inXile（『Wasteland』プロデューサーのBrian Fargoが設立）は、遊戯王のフランチャイズに関連して、版権を保有していたコナミから『Wasteland』の版権を獲得した[7]。2007年にFargoはFallout シリーズを生み出したあのゲームが実際に戻ってくるか調査しています。ご期待ください」とした[8]。2007年の11月に、ウェブサイトのダックとカバーに可能と報告し、Wasteland2のコンセプトイメージをinXileのメインヘッダーに表示した[9]。
+2012年の2月16日に、inXileはDouble Fineが最近、Double Fine Adventureへの出資をKickstarterを使って募り、成功したことにインスパイアされ、新しい『Wasteland』のゲームをクラウドファンディングの製品とするための計画をアナウンスした[10]。プロジェクトディレクターBrian Fargoはオリジナルの『Wasteland』の主要なチームメンバーを再集結させた。Alan Pavlish、Michael A. Stackpole、Ken St. Andre、Liz Danforth、『Fallout』の初期デザイナーであるJason Anderson (しかし、Andersonは2011年1月に会社を去った)。『Fallout』と『Fallout 2』の音楽を作った作曲家Mark Morganも、このゲームの楽曲を作曲するために雇われた[11]。
+2012年3月13日に、『Wasteland2』のkickstarterページが登場した。プロジェクトに100万ドル(約8000万円)の最少目標額が定められたが、Fargoは現在まででKickstarterで最大の目標であるので、が90万ドルぐらいに落ち着いて、プロジェクトの目標額が達せられなかっとしても、必要であれば10万ドル水増しすることに賛成した。24時間以内に、出資は60万ドル近くに達し[12]、そして、オリジナルのゴールには43時間以前に達した[13]。『Wasteland2』に出資されたたくさんのお金は初めてのDouble Fine Adventureの出資者から来ていた[14]。3月30日に、出資された金額は210万ドル以上にまで達したとアナウンスされ、このゲームは特にObsidian EntertainmentのChris Avelloneとともに共同開発されることとなった[15]。『Wasteland2』のKickstarterは4月17日に終わり、総額2,933,252ドル(これは現在kickstarterで4番目にクラウドファンドされた)を集め、 追加で107,152ドルをPaypalで集めた[16]。4月24日に、Obsidianのデベロッパーがこのプロジェクトで働くと確認された[17][18][19][20]。
+Brian Fargoは2013年10月前後に『Wasteland2』を送り出そうとチームの目的を定め[21]、2012年7月10日に、オリジナルの『Wasteland』がそれにバンドルされることがアナウンスされた[22]。今のところ、コンソールや携帯機器をサポートする計画は存在しない[23]。
+2015年3月4日、GDC(Game Developers Conference)にてMicrosoftのセルフパブリッシングプログラム“ID@Xbox”に関する発表が行われ、Xbox One版『Wasteland 2』の発売決定が正式にアナウンスされた。
+
+脚注[編集]
+
+
+^ “Wasteland 2's Kickstarter Blog: "Update #6: We hit $1.5 million!"”.   Kickstarter.com (2012年3月18日). 2012年4月24日閲覧。
+
+^ Wallin, Andrée. “Wasteland 2 | The Scorpitron | Andrée Wallin”.   Andreewallin.com. 2012年4月24日閲覧。
+
+^ Brian Fargo. “inXile Chooses Unity for Wasteland 2”. 2012年5月16日閲覧。
+
+^ “Gamebanshee: Wasteland 2 Interview”. 2012年3月17日閲覧。
+
+^ Brian Fargo. “Update #11: In the final stretch....”. 2012年4月11日閲覧。
+
+^ inXile Entertainment. “Wasteland 2 Vision Document”. 2012年6月12日閲覧。.
+
+^ “GameSpy interview with Brian Fargo”.   Archive.gamespy.com (2003年10月1日). 2012年4月24日閲覧。
+
+^ “Fargo Confirms It!”. Duck and Cover (2007年6月21日). 2007年6月21日閲覧。
+
+^ inXile Hints Again at Wasteland 2? New images seem allude to the sequel, Duck and Cover, November 3, 2009
+
+^ Tom Curtis. “Wasteland creator looks to Kickstarter for series revival”. 2012年3月8日閲覧。
+
+^ Gamasutra - News - Wasteland 2 Kickstarter launches with $900K goal
+
+^ Contact Jason Schreier: Email the author Comment Twitter (2012年3月14日). “How Wasteland 2 Went From Hopeless to Half a Million in 24 Hours”.   Kotaku.com. 2012年4月24日閲覧。
+
+^ “Wasteland 2 is 100% Fan Funded! | The Wasteland Chronicles”.   Wasteland.inxile-entertainment.com (2012年3月14日). 2012年4月24日閲覧。
+
+^ March 29, 2012 · 34 comments (2012年3月29日). “Blockbuster Effects”. The Kickstarter Blog.   Kickstarter.com. 2012年4月24日閲覧。
+
+^ “!!! Obsidian Joining Wasteland 2 – On One Condition...”.   Rock, Paper, Shotgun. 2012年4月24日閲覧。
+
+^ “Wasteland 2 Kickstarter Drive ends, $3.04M raised”.   Wasteland.inxile-entertainment.com (2012年4月17日). 2012年4月24日閲覧。
+
+^ “Team up! Wasteland 2 Hits $2.1m, Obsidian On Board”.   Rock, Paper, Shotgun (2012年3月30日). 2012年4月24日閲覧。
+
+^ “Obsidian And Chris Avellone Officially Joining The "Wasteland 2" Team”.   Complex (2012年4月7日). 2012年4月24日閲覧。
+
+^ Andy Chalk. “The Escapist : News : Wasteland 2 Breaks Obsidian Funding Target”.   Escapistmagazine.com. 2012年4月24日閲覧。
+
+^ “Wasteland 2 Hits $2.1m, Obsidian's Avellone Joins”.   Pc.gamespy.com (2012年4月6日). 2012年4月24日閲覧。
+
+^ “Kickstarter blog: Update #2: Wasteland 2 is a GO!”.   Kickstarter.com. 2012年4月24日閲覧。
+
+^ 'Wasteland 1' to be bundled with 'Wasteland 2', The Verge, Tracey Lien, July 10, accessed July 18, 2012
+
+^ “Wasteland 2 not for the console crowd”.   Shacknews.com (2012年3月22日). 2012年4月24日閲覧。
+
+
+外部リンク[編集]
+公式ウェブサイト
+Wasteland 2 by inXile entertainment — Kickstarter
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Wasteland_2&oldid=81946224」から取得
+カテゴリ: Windows用ゲームソフトLinux用ゲームソフトMacintosh用ゲームソフトコンピュータRPG2014年のパソコンゲームUnityを採用したゲームソフト核戦争を題材とした作品文明崩壊後の世界が描かれたコンピュータゲームディストピアを題材としたコンピュータゲームWastelandシリーズKickstarterで資金調達したコンピュータゲーム隠しカテゴリ: ウィキペディアとウィキデータで異なる公式ウェブサイト
+

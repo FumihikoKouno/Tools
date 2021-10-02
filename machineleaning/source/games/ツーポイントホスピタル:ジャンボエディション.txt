@@ -1,0 +1,117 @@
+
+
+
+
+
+Two Point Hospital
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+この記事は英語版Wikipediaの対応するページを翻訳することにより充実させることができます。（2020年8月）
+
+翻訳前に重要な指示を読むには右にある[表示]をクリックしてください。 
+
+英語版記事の機械翻訳されたバージョンを表示します（各言語から日本語へ）。
+翻訳の手がかりとして機械翻訳を用いることは有益ですが、翻訳者は機械翻訳をそのままコピー・アンド・ペーストを行うのではなく、必要に応じて誤りを訂正し正確な翻訳にする必要があります。
+信頼性が低いまたは低品質な文章を翻訳しないでください。もし可能ならば、文章を他言語版記事に示された文献で正しいかどうかを確認してください。
+履歴継承を行うため、要約欄に翻訳元となった記事のページ名・版について記述する必要があります。記述方法については、Wikipedia:翻訳のガイドライン#要約欄への記入を参照ください。
+翻訳後、{{翻訳告知|en|Two Point Hospital}}をノートに追加することもできます。
+Wikipedia:翻訳のガイドラインに、より詳細な翻訳の手順・指針についての説明があります。
+
+　Two Point Hospitalジャンル
+経営シミュレーションゲーム対応機種
+Microsoft Windows・MacOS・Linux・PlayStation 4・Xbox One・Nintendo Switch開発元
+Two Point Studios（英語版）Red Kite Games（コンソール）発売元
+セガプロデューサー
+Mark Webleyディレクター
+Ben Huskins・Gary Carr[1]プログラマー
+Ben Hymers [2]音楽
+Phil French・Tom Puttick・Jack Le Breton美術
+Mark Smart [2]発売日
+2018-08-30対象年齢
+CERO：C（15才以上対象）エンジン
+Unityテンプレートを表示
+Two Point Hospital（ツー・ポイント・ホスピタル）はイギリスのゲーム制作会社Two Point Studios（英語版）が制作した病院経営シミュレーションゲームである。
+
+目次
+
+1 概要
+2 開発
+
+2.1 音楽
+
+
+3 発売
+4 評価
+5 脚注
+6 関連項目
+7 外部リンク
+
+
+概要[編集]
+プレーヤーは病院の管理者となり、病院の建設や維持管理を行う。1997年にエレクトロニック・アーツから発売されたゲーム「テーマホスピタル」に多大な影響を受けており、コミカルに描かれた架空の病気を治療する病院を築き、かつ利益を上げることを目的としている[3][4]。医師やアシスタントなどを雇い患者を治療するのみならず、自動販売機やベンチ、トイレの提供などを行うことで患者及びスタッフを満足させる必要がある[2][5]。
+先述の通りこのゲームでは架空の病気が存在し、頭に電球が存在する「Light-Headness」や、パンがかぶさっている「Pandemic」、フレディ・マーキュリーの物真似を行ってしまう「Mock Star」などが存在する[2][5]。
+
+開発[編集]
+音楽[編集]
+効果音は、Cedar StudiosのTom PuttickとPhil FrenchがAudient（英語版） ASP880プリアンプを使用し作成した。[6]背景音のうち、木の音はイングランドのギルフォードで、川の音はスコットランドで、波の音はスペインのビーチで、スタッフの音声は制作元であるTwo Point Studiosにおいて録音された。その他の背景音は実際の病院において録音された[7]。
+当初の方針ではサンプリングされた音声は使用しない予定であったが、ゲームの世界観に合わせるために実際の音声を使用することとなった。音声製作者の2人によると最も苦労した部分の一つは、異なるゲーム進行速度においても同じ音声を提供することであった[8]。
+
+発売[編集]
+2018年1月18日にYouTube上において、「Light-Headness」に悩む患者とそれを治療する「Two Point Hospital」のCMの体裁をとったショートムービーが公開された[9]。コンピューター雑誌「Edge（英語版）」は「テーマホスピタル」におけるBloaty Headの後遺症であると評した[10]。
+2018年2月18日には初のパブリックビューイングがPC gamerの週末イベントで行われ、テーマホスピタルには存在しなかった視点移動付きカメラの存在が明らかにされた[11]。
+2018年7月には、Microsoft Windows・MacOS・Linux向けのゲームがSteam上で同年8月に発売されることが発表され[12]、8月30日に発売が開始された[13]。
+
+評価[編集]
+この節には内容がありません。加筆して下さる協力者を求めています。（2020-08）
+脚注[編集]
+[脚注の使い方]
+
+
+^ “Two Point Hospital is out in August and what’s next is up to you, say the devs”. PCGamesN (2018年7月18日). 2018年8月20日閲覧。
+
+^ a b c d “Two Point Hospital”. GamesTM (Future plc) (203):  52–57. ISSN 1478-5889. 
+
+^ Phillips, Tom (2018年1月16日). “Theme Hospital spiritual successor Two Point Hospital announced”. Eurogamer. 2018年1月16日時点のオリジナルよりアーカイブ。2018年1月17日閲覧。
+
+^ Donnelly, Joe (2018年1月16日). “Two Point Hospital is a new management sim from the creators of Theme Hospital”. PC Gamer. 2018年1月17日時点のオリジナルよりアーカイブ。2018年1月17日閲覧。
+
+^ a b Brown, Fraser. “Two Point Hospital review”. PC Gamer. 2018年8月30日閲覧。
+
+^ “SEGA announces Two Point Hospital, the spiritual sequel to Theme Hospital [UPDATE #2: Bullfrog and Lionhead composer Russell Shaw joins]”. GameWatcher (2018年1月23日). 2019年2月12日閲覧。
+
+^ “Creating Sound for Sega Published Two Point Hospital”. Audient (2018年9月17日). 2019年2月10日閲覧。
+
+^  Creating The Sound For Two Point Hospital - How Game Audio Is Made. Audient.. (2018年9月17日). https://www.youtube.com/watch?v=9qq5eou4KxU 2019年2月11日閲覧。 
+
+^ Dale, Laura (2018年1月16日). “Two Point Hospital, a Theme Hospital Spiritual Successor, is Releasing Late This Year”. Kotaku UK. 2018年1月17日時点のオリジナルよりアーカイブ。2018年1月17日閲覧。
+
+^ “Two Point Hospital”. Edge (Bath: Future plc) (317):  46-47. (2018-04). ISSN 1350-1593. 
+
+^ Sykes, Tom (2018年2月20日). “See some of the bizarre new ailments you'll need to treat in Two Point Hospital”.   PC Gamer. 2018年2月20日時点のオリジナルよりアーカイブ。2018年2月20日閲覧。
+
+^ “Two Point Hospital release date announced - VideoGamer.com” (英語). VideoGamer.com. https://www.videogamer.com/news/two-point-hospital-release-date-announced 2018年7月18日閲覧。 
+
+^ “Two Point Hospital now out for PC, Mac and Linux”. Green Man Gaming (2018年8月30日). 2019年2月12日閲覧。
+
+
+関連項目[編集]
+テーマホスピタル - 1997年にエレクトロニック・アーツから発売された病院経営シミュレーションゲーム
+Hospital Tycoon（英語版） - 2007年に発売されたWindows用病院経営シミュレーションゲーム
+外部リンク[編集]
+公式ウェブサイト
+
+
+この項目は、コンピュータゲームに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（P:コンピュータゲーム / PJコンピュータゲーム）。
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Two_Point_Hospital&oldid=83720240」から取得
+カテゴリ: 経営シミュレーションゲーム医療機関を舞台としたコンピュータゲーム2018年のコンピュータゲームイギリスで開発されたコンピュータゲームUnityを採用したゲームソフトWindows用ゲームソフトMacintosh用ゲームソフトLinux用ゲームソフトNintendo Switch用ソフトPlayStation 4用ソフトXbox One用ソフト隠しカテゴリ: 英語版ウィキペディアからの翻訳を必要とする記事コンピュータゲーム関連のスタブ記事
+

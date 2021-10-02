@@ -1,0 +1,110 @@
+
+
+
+
+
+Back to Bed
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Back to Bedジャンル
+アクションパズル対応機種
+Steam（Windows, MacOS, Linux）iOS（7.0以降）[1]Android（2.3以降）[2]OUYAWindows PhonePlayStation 3PlayStation 4PlayStation VitaWii UNintendo Switch開発元
+Bedtime Digital Games発売元
+Steam, iOS, Android, OUYABedtime Digital GamesPS3, PS4, PS Vita Loot Interactive（英語版） 日本一ソフトウェアWii U Bedtime Digital Games クロスファンクションSwitch 2Awesome Studio eastasiasoft発売日
+Steam：2014年8月6日[3]iOS, Android：2014年8月28日[4]OUYA：2014年10月7日[5]Windows Phone：2014年10月20日[6]PS3, PS4, PS Vita 2015年8月25日[7][8] 2017年2月9日[9]Wii U 2016年12月22日[10] 2017年2月16日[11] 2017年3月29日[12]Switch 2019年4月11日[13][14] 2019年5月16日[15]対象年齢
+iOS：9+[1]Android：3+[2]CERO：A（全年齢対象）[9][12][15]ESRB：E10+（10歳以上）[7][11][13]PEGI：3[8][10][14]USK[Wii U] 0[16][Switch] 6（6歳未満提供禁止）[17]コンテンツアイコン
+iOS：まれ/軽度なアニメまたはファンタジーバイオレンス[1]ESRB：Fantasy Violence[7][11][13]テンプレートを表示
+『Back to Bed』（バックトゥベッド）は、デンマークのインディーゲームスタジオBedtime Digital Gamesが開発した3Dアクションパズルゲーム。
+
+目次
+
+1 概要
+2 システム
+3 評価
+4 脚注
+5 外部リンク
+
+
+概要[編集]
+過眠症と夢遊病の罹患者である男性・ボブ（Bob）が、夢の中の世界をさまよいながら各ステージのゴールであるベッドへの到達を目指す。ゲーム内のボブは自動で歩き続け直接操作ができないため、ボブの潜在意識である人面の守護者「サボブ」（Subob）を操作してボブが歩く軌道を変えながら誘導することになる。舞台となる世界の描写には、サルバドール・ダリの絵画『記憶の固執』で描かれた柔らかい時計に似た物体や、マウリッツ・エッシャーの絵画『物見の塔（英語版）』のように現実では建築不可能なだまし絵的構造物など、シュルレアリスムの表現が多く用いられている。
+本作は、デンマークのゲーム制作教育機関DADIU（英語版）の学生だった開発者たちにより2011年の秋から開発が始められ、後述のように開発段階の時点で複数のゲーム賞での受賞やノミネートを果たした。また、2013年2月20日から2013年3月17日の期間に実施したKickstarterによるクラウドファンディングで1万3312ドルの資金が集まった事に加え投資会社からの支援も決まり、これらのことが2013年末の会社設立に繋がった[18][19]。
+
+システム[編集]
+前述のようにボブは自動で歩き続け、ゴール地点のベッドに到達すればステージクリア、崖から落下したり敵キャラクターに触れたりするとミスになる。また、ボブは障害物にぶつかると右に90度旋回して再び歩き始めるという特性を持っている。
+プレイヤーが操作するサボブは、ボブや敵に触れてもすり抜け、崖から落ちることもない。ステージ内には障害物の巨大なリンゴや橋代わりに利用できる魚型の長い板が置かれているが、サボブはこれらを持ち運んで任意の場所へ配置できる。また、一部の壁に立てかけられた梯子を上ると壁に対して垂直な状態で歩けるようになる。
+ステージを進めていくと、通常モードよりも難易度が高い「悪夢版」（Nightmare）モードが解禁される。ステージの作りは通常モードと同じだが、ステージ内の各所に鍵が配置されており、それらを全て取らなければゴール地点に到達してもクリアにならない。
+
+評価[編集]
+以下の評価はいずれも開発時点のもの。
+
+Nordic Game Indie Night 2012 ノミネート[20]
+Unity Awards 2012 「Best Student Project」ノミネート[21]
+Dutch Game Awards 2012 「Guts & Glory Award」受賞[22]
+2013 IGF（英語版） Awards Student Showcase ノミネート[23]
+脚注[編集]
+[脚注の使い方]
+
+
+^ a b c “Back to Bed”.   App Store. 2019年5月19日閲覧。
+
+^ a b “Back to Bed”.   Google Play. 2019年5月19日閲覧。
+
+^ “Bedtime Digital Games公式Twitter” (2014年7月24日). 2019年5月19日閲覧。
+
+^ “Bedtime Digital Games公式Twitter” (2014年8月22日). 2019年5月19日閲覧。
+
+^ “Bedtime Digital Games公式Twitter” (2014年8月22日). 2019年5月19日閲覧。
+
+^ “Back to Bed” (英語).   Microsofto Store. 2019年5月19日閲覧。
+
+^ a b c “Back to Bed Game & Dynamic Theme Bundle on PS4, PS3, PS Vita” (英語).   Official PlayStation Store US. 2019年5月19日閲覧。
+
+^ a b “Back to Bed Game & Dynamic Theme Bundle on PS4, PS3, PS Vita” (英語).   Official PlayStation Store UK. 2019年5月19日閲覧。
+
+^ a b “Back to Bed”.   プレイステーション. 2019年5月19日閲覧。
+
+^ a b “Back to Bed｜Wii U download software｜Games” (英語).   Nintendo UK. 2019年5月19日閲覧。
+
+^ a b c “Back to Bed for Wii U - Nintendo Game Details” (英語).   Nintendo of America. 2019年5月19日閲覧。
+
+^ a b “Back to Bed”.   任天堂. 2019年5月19日閲覧。
+
+^ a b c “Back to Bed for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2019年5月19日閲覧。
+
+^ a b “Back to Bed｜Nintendo Switch download software｜Games” (英語).   Nintendo UK. 2019年5月19日閲覧。
+
+^ a b “Back to Bed”.   任天堂. 2019年5月19日閲覧。
+
+^ “Back to Bed｜Wii U Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2019年5月19日閲覧。
+
+^ “Back to Bed｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2019年5月19日閲覧。
+
+^ “Back to Bed by Bedtime Gaming” (英語).   Kickstarter. 2019年5月19日閲覧。
+
+^ “presskit” (英語).   Bedtime Digital Games. 2019年5月19日閲覧。
+
+^ “NGIN 2012 Finalist” (英語).   Copenhagen Game Collective (2012年5月2日). 2019年5月19日閲覧。
+
+^ “Unity Awards 2012 finalists named” (英語).   MCV (2012年7月27日). 2019年5月19日閲覧。
+
+^ “Back to Bed” (英語).   Dutch Game Awards 2012. 2019年5月19日閲覧。
+
+^ “2013 INDEPENDENT GAMES FESTIVAL WINNERS” (英語).   IGF. 2019年5月19日閲覧。
+
+
+外部リンク[編集]
+Bedtime Digital Games 公式サイト（英語）
+日本一ソフトウェア 公式サイト
+クロスファンクション 公式サイト
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Back_to_Bed&oldid=83652770」から取得
+カテゴリ: 2014年のコンピュータゲームWindows用ゲームソフトMacOSのソフトウェアLinux用ゲームソフトIPhone用ゲームソフトAndroid用ゲームソフトWindows PhoneのソフトウェアPlayStation 3用ソフトPlayStation 4用ソフトPlayStation Vita用ソフトWii U用ソフトNintendo Switch用ソフトデンマークで開発されたコンピュータゲーム日本一ソフトウェアのゲームソフトインディーゲームアクションパズル夢を題材としたコンピュータゲームKickstarterで資金調達したコンピュータゲーム
+

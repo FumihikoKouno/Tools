@@ -1,0 +1,401 @@
+
+
+
+
+
+Night in the Woods
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+（ナイト・イン・ザ・ウッズから転送）
+
+
+ナビゲーションに移動
+検索に移動
+Night in the Woodsジャンル
+アドベンチャーゲーム対応機種
+Microsoft WindowsmacOSLinuxPlayStation 4Xbox OneNintendo SwitchiOSAndroid開発元
+Infinite FallSecret Lab（英語版）発売元
+Finji（英語版）PLAYISM（）デザイナー
+アレック・ホロウカ（英語版）スコット・ベンソンベサニー・ハケンベリシナリオ
+ベサニー・ハケンベリスコット・ベンソンプログラマー
+アレック・ホロウカジョン・マニンパリス・バットフィールド・アディソン音楽
+アレック・ホロウカスコット・ベンソン美術
+スコット・ベンソンチャールズ・ハットナー人数
+1人発売日
+Microsoft Windows・macOS2017年2月21日2017年2月28日2019年4月1日Linux2017年2月21日2017年2月28日PS4 2017年2月21日 2017年2月28日 2019年3月28日XBOne 2017年12月13日Switch 2018年2月1日 2019年3月28日対象年齢
+CERO：C（15才以上対象）ESRB：T（13歳以上）コンテンツアイコン
+セクシュアル飲酒・喫煙エンジン
+Unityテンプレートを表示
+『Night in the Woods』（ナイト・イン・ザ・ウッズ）は、Finji（英語版）より発売された1人プレイ用のインディーアドベンチャーゲーム。ゲームデザイナーのアレック・ホロウカ（英語版）とアニメーター/イラストレーターのスコット・ベンソンによって設立されたカナダのゲーム会社・Infinite Fallが開発した。また、オーストラリアのゲーム開発会社・Secret Lab（英語版）はダイアログエンジン「Yarn Spinner」を手がけ[1][2]、画像圧縮システムを使ったモバイル版の制作も担当している[3]。
+
+目次
+
+1 概要
+2 ストーリー
+3 開発
+
+3.1 サウンドトラック
+
+
+4 評価
+
+4.1 受賞
+
+
+5 脚注
+
+5.1 注釈
+5.2 出典
+
+
+6 外部リンク
+
+
+概要[編集]
+本作に登場するキャラクターは動物の姿でありながらリアルな人間の感情が描かれており、アメリカのエンターテインメント雑誌・Pasteは、"心の病や抑鬱、中流・下層階級の淀み、そしてゆっくりと終わりを迎えるアメリカの小さな町"を内包したテーマだと述べている[4]。架空の田舎町・ポッサムスプリングスに帰郷し、実家の屋根裏部屋に住まう一人っ子のねこ・メイを中心に物語が展開する[5]。彼女の友人であるたばこを吸っているクロコダイルのビー、とても活発なきつねのグレッグとその彼氏のくまのアンガスをも巻き込み、炭鉱が閉鎖してからここ10年間の町に隠されたおぞましい秘密に立ち向かうことになる。
+走ったりジャンプしたりと、プレイヤーはメイとしてポッサムスプリングスを探検する。ホロウカは"ゲーム性重視"よりも"物語中心"のプレイ体験だと述べている一方、ベンソンは"探検して、会話して、見て、さわる"ことがプレイヤーにとって鍵になる動作だと述べている[6]。プレイヤーはストーリー進行に影響する決断をするが、ベンソンは「それはむしろ『あなたがこの人物（メイ）とどう過ごすか？』に近い」「その人物はこのゲームの結末のようにあなたのことは知らないかもしれないけれど、この人物はあなたと同じ時を過ごすし、あなたはそれらのストーリーラインを見に行くでしょう」と述べている[7]。
+本作品はクラウドファンディングプラットフォームのKickstarterを通して資金が集められ、最終的に目標金額である50000米ドルの400％以上の金額が集まった[8]。その後、2017年2月21日のMicrosoft Windows・macOS・Linux・PlayStation 4での配信を皮切りに、同年12月13日にはXbox One版が、翌年2月1日にはNintendo Switch版が配信され[9][注 1]、iOS版リリースも予定している。また、Nintendo SwitchおよびPlayStation 4向けに限定生産でのパッケージ版の発売予定もある[10][11]。一方、日本語版はPLAYISMがローカライズ・発売元を担当し[12]、2019年3月28日にPlayStation 4版およびNintendo Switch版が[注 1]、同年4月1日にFinjiよりSteam版が販売開始された[13][注 1]。
+本作のローンチに先駆けて配信された姉妹短編が2作存在する。2013年12月にホロウカ、ベンソン、共同脚本のベサニー・ハケンベリによって『Longest Night』が[14]、2014年12月には2つ目の短編『Lost Constellation』がリリースされた[15]。2017年12月13日には、上述の短編2作品や新曲などを追加した完全版『Weird Autumn edition』への無料アップデートをPC、macOS、Linux、PlayStation 4およびXbox One向けに配信した。
+
+ストーリー[編集]
+20歳のマーガレット・“メイ”・ボロウスキは大学を中退して故郷のポッサムスプリングスに戻ってくると、炭鉱の閉鎖や不景気にみまわれる。彼女は3人の旧友、知的で憂いをはらんだベアトリス・“ビー”・サンテロ、とても活発でトラブルメイカーなアナーキストのグレゴリー・“グレッグ”・リー、そしてその彼氏の物静かで慎ましいアンガス・ディレニーに再会する。また、旧友の一人であるケイシー・ハートレイが不可解な失踪を遂げたことを知る。
+メイはポッサムスプリングでの生活と旧友たちとの時間に日々を費やすが、次第に奇妙で鮮明な夢をみるようになる。ハロウィンフェスティバルの日、町で謎の人影によってティーネイジャーがさらわれるところを目撃する。日々の夢にゆっくりと精神を悪化させられながらも、4人は共にその人影の行方を捜索する。徹底した捜索の後、4人は森の中でマントをした人影の奇妙な集団に偶然出くわし、彼らはメイたちにつきまとう。終いにメイは倒れ昏睡状態に陥る。
+結果的に目を覚まし友人たちの元へ戻ったメイは、自身が人々や世界から切り離されていっているように感じ[注 2]、全てがただの形に見えることが中退の理由であると明らかにする。ゲーム全体にわたって彼女が描く日誌は、6年前にソフトボールバットで学校の生徒を殴った結果解離性の発作を起こし、その後医者から自身の感情を書きとめるよういわれたためである。この出来事が原因で町の人々は彼女を警戒し、家族へ経済的にも精神的にも負担をかけることとなった。大学で病状が悪化したのと時を同じくして、メイは家に帰る強い意志を奮い起こし、ポッサムスプリングスに帰ることが普通に戻る手助けになると願う。
+まだ傷つきながらも、メイは自分達につきまとってきた謎の集団を見つけようとひとりで森に乗り出そうと決心するが、グレッグ、ビー、アンガスはそれを拒む。そして4人は鉱山に入り込むと謎の集団と対峙し、それらがカルト教であることが明らかになる。カルト集団はケイシーを含む何人かの市民を誘拐しており、ポッサムスプリングスの景気の安定と引き換えに社会の役に立たないとみなした市民をさらい、鉱山の中で地下の神々へ生贄を捧げていることが判明する。カルトのリーダーは4人に対し、ここから立ち去り自身らのことを絶対に口外しないよう脅す一方、カルト集団のメンバーの一人がエレベーターに乗りながらメイを殺そうと試みる。3人はメイを助けるためにエレベーターを落として鉱山を崩壊させ、おそらくカルトを地下へ閉じ込めることに成功する。
+物語の終盤プレイヤーのふれあい次第では、メイはビーとグレッグのどちらかと前の晩の出来事やポッサムスプリングスで起きた全てのことについて話す。他の2人が間もなく会話に加わるとメイは、この全員がきっと良くも悪くも続く人生に適応し成長してしまうけれど、今一緒にいる時間を楽しむことはまだまだできると伝える。4人は当分の間それぞれの問題のことは忘れ、バンド練習をしてゲームは幕を閉じる。
+
+開発[編集]
+今作は2013年10月22日にクラウドファンディングサイト・Kickstarter上で発表された。ホロウカとベンソンの設定した目標金額50,000米ドルにはわずか26時間で達し[16]、最終的には200,000米ドル以上も集まった。また追加のファンディングによって、アニメーターのチャールズ・ハットナーとゲーム開発者のアダム・サルツマンも制作に加わった。ベンソンはバッカー (支援者) が増え、ストレッチゴール (目標金額よりもさらに上の金額) をよりいっそう増額できるだろうと考えていたが、Infinite Fallはスコープ・クリープを避けるため、ストレッチゴールの金額を制限した[17]。ベンソンは「Night in the Woods」での制作に多大な影響をもたらした人物として、漫画家のクリス・ウェアとマイク・ミニョーラ、芸術家のメアリー・ブレア、作家のフラナリー・オコナー、児童文学作家のリチャード・スカーリーの名をあげている[18][19]。
+2017年10月には、Secret Labによってモバイルデバイスに対応すること、仮のリリース日が2018年であることが発表された[20][21]。2018年1月、「Weird Autumn」の追加コンテンツを含む完全版がNintendo Switch向けに翌月リリースされることが発表された[22]。
+
+サウンドトラック[編集]
+2017年3月9日にBandcamp上で3枚のサウンドトラックアルバムがリリースされた[23]。ホロウカは今作の楽曲制作にあたって、アメリカのインディーロックバンド・DIIVに大きく影響されたことを語っている[18]。
+
+評価[編集]
+評価集計結果媒体結果MetacriticNS: 87PC: 88PS4: 87XONE: 74レビュー結果媒体結果ゲーム・インフォーマー8.8/10 [27]GameSpot9/10 [26]IGN8.7/10 [24]PC Gamer US8.2/10 [28]Polygon7.5/10 [25]
+本作は非常に好意的な批評がなされている。レビュー集積サイトのMetacriticでは、PS4版が15レビュー中平均87点[29]、PC版が30レビュー中平均88点[30]を獲得しており、主にシナリオとキャラクターが評価されている。『Zero Punctuation（英語版）』のベン・クロシャー（英語版）は本作と『ゴーストリコン ワイルドランズ』の両方に対して、「堅実な価値があるゲーム」「力強いシナリオの作品」と賞賛したが、ゲームのテンポとトーンへの疑念も述べている[31]。
+また、Polygonで2017年のベストゲーム50作品中23位にランクインしたのに対し[32]、Eurogamerでは2017年のトップゲーム50作品中13位に[33]、GamesRadar+では2017年のベストゲーム25作品中17位にランクインした[34]。PC Gamerの2017年ゲーム・オブ・ザ・イヤーではコメディーゲーム賞 "Best Comedy Game" にノミネートし[35]、IGNではアドベンチャーゲーム賞 "Best Adventure Game" に選ばれた一方[36]、アートディレクション賞 "Best Art Direction"、ストーリー賞 "Best Story"、オリジナル音楽賞 "Best Original Music" にもノミネートした[37][38][39]。Giant Bombではキャラクターの配役を評価する賞 "Best Cast of Characters" に選ばれ、新作賞 "Best Debut"、ストーリー賞 "Best Story"、ゲーム・オブ・ザ・イヤーのそれぞれにおいても二着となった[40][41]。また、Game Informerのアドベンチャー部門においてもダイアログ賞 "Best Dialogue" に選出された上、メイがキャラクター賞 "Best Character" に選ばれた[42]。その以前にも、Unityアワード2017では2Dビジュアル賞 "Best 2D Visuals" および総合優勝 "Golden Cube" を獲得しており、PC/家庭用ゲーム賞 "Best Desktop/Console Game" にもノミネートした[43]。
+2018年にはIndependent Games Festivalでグランプリ "Seumas McNally Grand Prize" と優秀な物語 "Excellence in Visual Art " に選ばれ、優秀ビジュアルアート "Excellence in Narrative" にもノミネートした。
+
+受賞[編集]
+
+
+年
+賞
+部門/ノミネート
+結果
+出典
+
+
+2017
+
+SXSW Gamer's Voice Awards 2017
+
+ゲーマーの声 (シングルプレイヤー)
+
+ノミネート
+
+[44]
+
+
+Golden Joystick Awards
+
+ストーリーテリング賞
+
+ノミネート
+
+[45][46]
+
+
+ビジュアルデザイン賞
+
+ノミネート
+
+
+インディーゲーム賞
+
+ノミネート
+
+
+ブレイクスルーInfinite Fall
+
+ノミネート
+
+
+The Game Awards 2017
+
+印象的なゲーム
+
+ノミネート
+
+[47]
+
+
+インディーゲーム賞
+
+ノミネート
+
+
+2018
+
+21st Annual D.I.C.E. Awards
+
+ストーリーにおける優れた達成
+
+ノミネート
+
+[48]
+
+
+DICEスプライト賞
+
+ノミネート
+
+
+National Academy of Video Game Trade Reviewers Awards
+
+現代的なアートディレクション
+
+ノミネート
+
+[49][50]
+
+
+コメディ脚本
+
+受賞
+
+
+SXSWゲーム賞 2018
+
+最も有望な知的財産
+
+ノミネート
+
+[51][52]
+
+
+最も達成度の高かったクラウドファンディングゲーム
+
+受賞
+
+
+優秀物語
+
+ノミネート
+
+
+マシュー・クランプ文化イノベーション賞
+
+ノミネート
+
+
+年間流行ゲーム
+
+ノミネート
+
+
+Independent Games Festival Competition Awards
+
+グランプリ (Seumas McNally Grand Prize)
+
+受賞
+
+[53][54]
+
+
+優秀ビジュアルアート
+
+ノミネート
+
+
+優秀物語
+
+受賞
+
+
+ゲーム・デベロッパーズ・チョイス・アワード
+
+新作賞Infinite Fall
+
+ノミネート
+
+[55][56]
+
+
+物語賞
+
+ノミネート
+
+
+ビジュアルアート賞
+
+ノミネート
+
+
+第14回 BAFTA Games Awards
+
+新作賞
+
+ノミネート
+
+[57][58]
+
+
+娯楽を超越したゲーム
+
+ノミネート
+
+
+物語賞
+
+受賞
+
+
+独自的な知的財産
+
+ノミネート
+
+脚注[編集]
+注釈[編集]
+
+
+^ a b c 『Weird Autumn edition』の追加コンテンツを含む。
+
+^ メイが離人症性障害の一種を患っている暗示でもある。
+
+
+出典[編集]
+
+
+^ “Yarn Spinner” (英語). Secret Lab. 2019年10月10日閲覧。
+
+^ “How Night in the Woods Uses Yarn Spinner” (英語). Secret Lab. https://www.secretlab.com.au/blog/2017/11/14/how-night-in-the-woods-uses-yarn-spinner 2018年3月23日閲覧。 
+
+^ “Small Towns, Small Screens: Night in the Woods is coming to mobile” (英語). Secret Lab. https://www.secretlab.com.au/blog/2017/10/24/small-towns-small-screens-night-in-the-woods-is-coming-to-mobile 2018年3月23日閲覧。 
+
+^ “The 10 Best Videogames We Played at E3 2015”. Paste (2015年6月22日). 2017年3月7日閲覧。
+
+^ Benson, Scott (2017年3月30日). “Developer Scott Benson on Characters' Identity”. curiouscat.me. 2018年2月17日閲覧。
+
+^ Cox, Davis (2014年5月1日). “The charming, melancholy Night in the Woods picks up where Gone Home left off”. Kill Screen. 2015年9月8日時点のオリジナルよりアーカイブ。2015年9月5日閲覧。
+
+^ Matulef, Jeffrey (2014年6月25日). “Night in the Woods is like Gone Home, in third-person, with talking animals”. Eurogamer. 2015年2月25日閲覧。
+
+^ “Kickstarter, Night in the Woods project page”.   Kickstarter (2013年11月22日). 2015年2月25日閲覧。
+
+^ “Night in the Woods Is Coming to Switch This Week” (英語). twinfinite.net. 2018年1月16日閲覧。
+
+^ NightInTheWoodsのツイート（1138222700495814658）
+
+^ NightInTheWoodsのツイート（1166779001320419329）
+
+^ “PS4/Switch版で日本語版が出る『ナイト・イン・ザ・ウッズ (Night in the Woods)』とは、どんなゲーム？”. PLAYISMブログ (2019年3月14日). 2019年10月10日閲覧。
+
+^ “日本語版　4月16日より配信開始！”. Steam. 2019年10月10日閲覧。
+
+^ “Longest Night”. itch.io (2013年12月21日). 2017年2月21日閲覧。
+
+^ “Lost Constellation”. itch.io (2014年12月31日). 2015年2月25日閲覧。
+
+^ “FULLY FUNDED! Also, stretch goals? Consoles? Linux?”.   Kickstarter (2013年10月24日). 2015年2月25日閲覧。
+
+^ Kuchera, Ben (2013年11月12日). “The goals that refused to stretch: Why Night in the Woods said no to Kickstarter tradition”. The Penny Arcade Report. 2013年12月11日時点のオリジナルよりアーカイブ。2015年9月5日閲覧。
+
+^ a b Ligman, Kris (2013年12月2日). “Q&A: How Night in the Woods taps into a real sense of community”. Gamasutra. 2015年9月5日閲覧。
+
+^ Ewert-Krocker, Nate (2017年3月9日). “'Rust Belt Gothic': lead writer Scott Benson unpacks the art that inspired Night in the Woods”. ZAM Network. 2017年3月11日閲覧。
+
+^ Fingas, Jon. “Relentlessly witty 'Night in the Woods' comes to your phone in 2018” (英語). Engadget. https://www.engadget.com/2017/10/23/night-in-the-woods-mobile-in-2018/ 2017年10月27日閲覧。 
+
+^ Gilyadov, Alex (2017年10月23日). “Night in the Woods Mobile Version Announced” (英語). IGN. 2017年10月27日閲覧。
+
+^ Reseigh-Lincoln, Dom (2018年1月16日). “The Anthropomorphic Mystery Of Night In The Woods Arrives On Switch This Feb”. Nintendo Life. http://www.nintendolife.com/news/2018/01/the_anthropomorphic_mystery_of_night_in_the_woods_arrives_on_switch_this_feb 2018年2月4日閲覧。 
+
+^ “Night in the Woods Vol. 1: At The End Of Everything”. Bandcamp. 2017年3月11日閲覧。
+
+^ “IGNレビュー”. IGN. 2019年10月10日閲覧。
+
+^ “Polygonレビュー”. Polygon. 2019年10月10日閲覧。
+
+^ “Gamespotレビュー”. GameSpot. 2019年10月10日閲覧。
+
+^ “GameInformerレビュー”. Game Informerレビュー. 2019年10月10日閲覧。
+
+^ “PC Gamerレビュー”. PC Gamer. 2019年10月10日閲覧。
+
+^ “Night in the Woods for PlayStation 4 Reviews - Metacritic”. Metacritic. 2017年3月23日閲覧。
+
+^ “Night in the Woods for PC Reviews - Metacritic”. Metacritic. 2017年3月23日閲覧。
+
+^ Croshaw, Ben (March 29, 2017). “Zero Punctuation: Ghost Recon Wildlands”. The Escapist. https://www.escapistmagazine.com/videos/view/zero-punctuation/117021-Tom-Clancy-Ghost-Recon-Wildlands-Review 2018年10月13日閲覧。. 
+
+^ Polygon staff (2017年12月18日). “The 50 best games of 2017”. Polygon. 2018年2月12日閲覧。
+
+^ Eurogamer staff (2017年12月29日). “Eurogamer's Top 50 Games of 2017: 20-11”. Eurogamer. 2017年12月31日閲覧。
+
+^ GamesRadar staff (2017年12月22日). “The best games of 2017”. GamesRadar+. 2018年3月25日閲覧。
+
+^ PC Gamer staff (December 8, 2017). “Games of the Year 2017: The nominees”. PC Gamer. http://www.pcgamer.com/nominees-pc-gamer-goty-2017/ 2018年1月1日閲覧。. 
+
+^ “Best of 2017 Awards: Best Adventure Game”. IGN (2017年12月20日). 2017年12月23日閲覧。
+
+^ “Best of 2017 Awards: Best Art Direction”. IGN (2017年12月20日). 2017年12月23日閲覧。
+
+^ “Best of 2017 Awards: Best Story”. IGN (2017年12月20日). 2017年12月23日閲覧。
+
+^ “Best of 2017 Awards: Best Original Music”. IGN (2017年12月20日). 2017年12月23日閲覧。
+
+^ Giant Bomb staff (2017年12月28日). “Game of the Year 2017 Day Four: Debut, New Characters, Story, and Styyyyyyyyyyyyyyyyyle”.   Giant Bomb. 2017年12月28日閲覧。
+
+^ Giant Bomb staff (2017年12月29日). “Game of the Year 2017 Day Five: Best, Worst, Cast, and Capture”.   Giant Bomb. 2017年12月29日閲覧。
+
+^ Favis, Elise (January 9, 2018). “The 2017 Adventure Game Of The Year Awards”. Game Informer. http://www.gameinformer.com/b/features/archive/2018/01/09/the-2017-adventure-game-of-the-year-awards.aspx 2018年1月9日閲覧。. 
+
+^ “Awards - Unity Awards 2017”.   Unity. 2017年10月4日閲覧。
+
+^ Aviles, Estevan (2017年1月31日). “Gamer's Voice Nominees Revealed for SXSW Gaming 2017”.   SXSW. 2018年2月20日閲覧。
+
+^ Gaito, Eri (2017年11月13日). “Golden Joystick Awards 2017 Nominees”.   Best in Slot. 2017年12月23日閲覧。
+
+^ Weber, Rachel (2017年11月17日). “The Legend of Zelda: Breath of the Wild scores big at the 35th Golden Joystick Awards presented with OMEN by HP”.   GamesRadar. 2017年12月23日閲覧。
+
+^ Makuch, Eddie (2017年12月8日). “The Game Awards 2017 Winners Headlined By Zelda: Breath Of The Wild's Game Of The Year”. GameSpot. 2017年12月23日閲覧。
+
+^ Makuch, Eddie (2018年1月14日). “Game Of The Year Nominees Announced for DICE Awards”. GameSpot. 2018年1月18日閲覧。
+
+^ “Nominee List for 2017”.   National Academy of Video Game Trade Reviewers (2018年2月9日). 2018年2月15日閲覧。
+
+^ “Horizon wins 7; Mario GOTY”.   National Academy of Video Game Trade Reviewers (2018年3月13日). 2018年3月14日閲覧。
+
+^ McNeill, Andrew (2018年1月31日). “Here Are Your 2018 SXSW Gaming Awards Finalists!”.   SXSW. 2018年2月1日閲覧。
+
+^ IGN Studios (2018年3月17日). “2018 SXSW Gaming Awards Winners Revealed”. IGN. 2018年3月18日閲覧。
+
+^ Faller, Patrick (2018年1月5日). “Independent Games Festival Awards Nominees Announced”. GameSpot. 2018年1月6日閲覧。
+
+^ Whitney, Kayla (2018年3月22日). “Complete list of 2018 Independent Games Festival Awards Winners”.   AXS. 2018年3月22日閲覧。
+
+^ Gamasutra staff (2018年1月5日). “Breath of the Wild & Horizon Zero Dawn lead GDC 2018 Choice Awards nominees!”. Gamasutra. 2018年1月8日閲覧。
+
+^ Makuch, Eddie (2018年3月21日). “Legend Of Zelda: Breath Of The Wild Wins Another Game Of The Year Award”. GameSpot. 2018年3月22日閲覧。
+
+^ deAlessandri, Marie (March 15, 2018). “Hellblade: Senua's Sacrifice at forefront of BAFTA Games Awards nominations”. MCV. https://www.mcvuk.com/business/hellblade-senuas-sacrifice-at-forefront-of-bafta-games-awards-nominations 2018年3月16日閲覧。. 
+
+^ Makedonski, Brett (2018年4月12日). “BAFTA names What Remains of Edith Finch its best game of 2017”. Destructoid. 2018年4月12日閲覧。
+
+
+外部リンク[編集]
+公式サイト (英語)
+Longest Night
+Lost Constellation
+PLAYISMプロモーション用ページ
+PLAYISMブログ
+Kickstaterのプロジェクトページ
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Night_in_the_Woods&oldid=83670156」から取得
+カテゴリ: 2017年のコンピュータゲームAndroid用ゲームソフトIPhone用ゲームソフトLinux用ゲームソフトMacintosh用ゲームソフトNintendo Switch用ソフトPlayStation 4用ソフトWindows用ゲームソフトXbox One用ソフトカナダで開発されたコンピュータゲームインディーゲームアドベンチャーゲームKickstarterで資金調達したコンピュータゲームLGBT関連ゲーム精神障害を題材にした作品ネコを主人公にした物語Unityを採用したゲームソフトFinjiゲーム
+

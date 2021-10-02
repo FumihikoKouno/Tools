@@ -1,0 +1,82 @@
+
+
+
+
+
+The friends of Ringo Ishikawa
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+The friends of Ringo Ishikawaジャンル
+アクションRPG対応機種
+Steam（Windows, MacOS）Nintendo Switch開発元
+yeo発売元
+SteamyeoSwitchCIRCLE Entertainment発売日
+Steam2018年5月17日[1]Switch 2019年4月3日[2] 2019年4月4日[3][4] 2019年4月5日[5]対象年齢
+CERO：D（17才以上対象）[3]ESRB：M（17歳以上）[2]PEGI：16[4]USK：12（12歳未満提供禁止）[6]ACB：MA15+[5]コンテンツアイコン
+CERO：飲酒・喫煙[3]ESRB：Mild Violence, Simulated Gambling, Strong Language, Suggestive Themes[2]PEGI：Simulated Gambling, Strong Language[4]USK：Gewalt, Sexuelle Andeutungen, Tabakkonsum, Alkoholkonsum, Diskriminierung, Gelegentliches Fluchen[6]ACB：Strong Themes[5]テンプレートを表示
+『The friends of Ringo Ishikawa』（ザ フレンズ オブ リンゴ イシカワ）は、ロシアのインディーゲームスタジオyeoが開発したアクションRPG。
+
+目次
+
+1 概要
+2 システム
+3 開発
+4 脚注
+
+4.1 注釈
+4.2 出典
+
+
+
+
+概要[編集]
+不良グループのリーダーを務める高校3年生・石河倫吾（いしかわ りんご）とその仲間たちによる群像劇が描かれる。作品内にはある程度の物語性があるがゲームの進め方はプレイヤーに委ねられ、他校生徒との抗争、勉学や身体トレーニング、アルバイトなどを、舞台となる学校や地域の中で自由に行うことができる。
+本作の物語は日本の不良文化をベースにしているが、開発はロシア人のVadim Gilyazetdinovが手掛けている。これは、Gilyazetdinovが子供時代からプレイしていた、テクノスジャパン（現在はアークシステムワークスが版権を保持）のゲームソフト『くにおくん』シリーズの影響によるものである（詳細は後述）。
+
+システム[編集]
+ゲーム内のグラフィックはサイドビューで表示され、操作キャラクターの倫吾は『くにおくん』シリーズと同様に左右方向と前後方向に移動する。また、仲間を3人まで連れて行動でき、敵との戦闘時には倫吾とともに戦う。
+ゲームプレイ中にはゲーム内の時間が経過し、昼夜や曜日の概念もある。ゲーム内では学校や飲食店など様々な施設が登場するが、これらの多くは利用可能な時間や曜日が決まっている。
+戦闘時には、パンチ、キック、ガード、ジャンプの基本技のほか、トレーニング等で習得する特殊なスキルを使用できる。敵を倒すと経験値を得られ、一定値を超えるごとにレベルアップして能力が強化される。一方、倫吾のHPが0になると、時間が大きく経過した上で倫吾の自宅からゲームを再開することになる。なお、倫吾が食事を取らずに行動し続けると空腹度のステータスが悪化し、戦闘時の攻撃力が低下する[7]。
+
+開発[編集]
+前述のように本作開発者のVadim Gilyazetdinovは長年の『くにおくん』シリーズファンで、子供時代には、文章が翻訳されておらず理解できないながらも物語を想像しつつ友達とプレイしていた。それから年月が経ち、Gilyazetdinovはくにおくんシリーズのファンサイトをロシアで開設、一方でテクノスジャパンの素材を使用した同人ゲームの制作も始める。ゲームの多くは小規模なものだったが並行して大規模ゲームの開発にも取り組み、その作品名を『Ryuichi no Blues』、後に『Friends of Riki Samejima』と付けた[注 1]。そうした中でGilyazetdinovは一念発起し、既存の素材に頼らないオリジナルゲームの制作を開始した[7]。
+制作にあたり、Gilyazetdinovはクリエイターを探すことになった。まずは背景画像アーティスト探しに取り掛かり、当初は次々に拒否され企画内容を酷評されることもあったが、最終的にドット絵のイラストレーター・Wedmak2の協力を得てGilyazetdinovの期待通りのグラフィックが出来上がった。続いてゲーム内キャラクターを描くアーティスト探しを行なったがこちらも難航し、Gilyazetdinovが失意に暮れていたところ、見かねた父親が名乗りを上げた。父親はそれまでコンピュータ上で絵を描いた経験が無かったが、Windows内ペイントソフト「ペイント」で一から勉強を始め、Gilyazetdinovが見せる動きを父親がゲーム用の絵に落とし込む形式で共同作業が行われた。一方でBGMの作曲家を見つけることはできず、作中音楽の9割はフリー素材が用いられている[7]。
+
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+
+
+^ Ryuichi（りゅういち）とRiki Samejima（さめじま りき）は、ともに『くにおくん』シリーズの登場人物。
+
+
+出典[編集]
+
+
+^ “The friends of Ringo Ishikawa”.   Steam. 2019年4月21日閲覧。
+
+^ a b c “The friends of Ringo Ishikawa for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2019年4月21日閲覧。
+
+^ a b c “The friends of Ringo Ishikawa”.   任天堂. 2019年4月21日閲覧。
+
+^ a b c “The friends of Ringo Ishikawa｜Nintendo Switch download software｜Games” (英語).   Nintendo UK. 2019年4月21日閲覧。
+
+^ a b c “The friends of Ringo Ishikawa”.   Nintendo Australia. 2020年5月14日閲覧。
+
+^ a b “The friends of Ringo Ishikawa｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2019年4月21日閲覧。
+
+^ a b c “高校生不良ACT『The friends of Ringo Ishikawa』「キャラを描く人が見つからなかった時、名乗り出たのは58歳の父でした」【注目インディーミニ問答】”.   Game*Spark (2018年5月19日). 2019年4月21日閲覧。
+
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=The_friends_of_Ringo_Ishikawa&oldid=80669514」から取得
+カテゴリ: 2018年のコンピュータゲームWindows用ゲームソフトMacOSのソフトウェアNintendo Switch用ソフトアクションRPGロシアで開発されたコンピュータゲーム不良少年・不良少女を主人公としたコンピュータゲーム高等学校を舞台としたコンピュータゲームインディーゲーム
+

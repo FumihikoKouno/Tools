@@ -1,0 +1,121 @@
+
+
+
+
+
+シャンティ -リスキィ・ブーツの逆襲-
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+シャンティ -リスキィ・ブーツの逆襲-Shantae: Risky's Revengeジャンル
+アクションアドベンチャー、Metroidvania[1]対応機種
+ニンテンドーDSiiOSMicrosoft WindowsPlayStation 4Wii U開発元
+WayForward Technologies発売元
+WayForward Technologies インターグロー→オーイズミ・アミュージオプロデューサー
+Matt Bozonディレクター
+Matt Bozonデザイナー
+James Montagnaシナリオ
+Matt Bozonプログラマー
+Michael Clasgens音楽
+ジェイク・カウフマン美術
+Henk Nieborgシリーズ
+シャンティ人数
+1人発売日
+[DSi] 2010年10月4日 2011年2月11日[iOS] 2011年10月27日[2][Win] 2014年7月15日[3][4][PS4] 2015年6月23日PAL 2015年12月8日 2016年8月31日[WiiU] 2016年3月24日 2016年8月31日対象年齢
+CERO：B（12才以上対象）iOS：9+（9歳以上対象）コンテンツアイコン
+[CERO]セクシャル、暴力[iOS]まれ/軽度なアニメまたはファンタジーバイオレンステンプレートを表示
+『シャンティ -リスキィ・ブーツの逆襲-』（Shantae: Risky's Revenge）は、WayForward Technologiesが開発したニンテンドーDSi用ゲーム[5]。ゲームボーイカラーで発売されたShantaeの続編。iOSでも発売された。Windows、PlayStation 4、Wii Uでは「ディレクターズ・カット」版が発売されている。
+日本でのローカライズはインターグロー（オーイズミ・アミュージオ）で、PS4版とWiiU版は日本語化されている。
+
+目次
+
+1 ゲームプレイ
+2 ストーリー
+3 開発
+4 評価
+5 出典
+6 外部リンク
+
+
+ゲームプレイ[編集]
+プレイヤーはハーフジーニーのシャンティとなりライバルの悪の海賊、リスキー・ブーツを打倒するため様々な世界を探索しなければならない。シャンティの主な攻撃は髪の毛を鞭のように使うが、遠隔攻撃のできる魔法の呪文も使えるようになる。ゲームを進めるには多くの呪文を見つける必要がある。ベリーダンスをすると発動するこれらの呪文はシャンティを特殊能力を持つ動物へ変身させる。壁の間を進めるサル、新しい場所切り開くため岩を砕くゾウ、水中で泳げる人魚などがある。シャンティの体力値の最大値を増やすハート・ホルダー、新たな能力や追加能力を購入するために使うマジック・ジャム、新しいエリアに進むための特別なアイテムも存在する。
+
+ストーリー[編集]
+毎年開かれている遺物発掘博覧会でシャンティとその友人はミミックおじさんが変哲のない石に覆われたランプを発見したことを発表するのを見ていた。そこへリスキー・ブーツと仲間の海賊は博覧会を襲撃、ランプを盗んだ。シャンティはリスキーと戦うがノックダウン、相手を逃がしてしまう。スカットルバッツの市長は街が混乱、仕事も捗らないことからハーフジーニーを責め、彼女をスカットル・タウン・ガーディアンとして出撃させる。
+ガーディアン・ジーニーでなくともリスキィ・ブーツの新たな策略を止めるとシャンティは決めた。ミミックはシャンティにランプを解放するには3つの魔法が必要だと教え、シャンティは友人の力も借りつつ出発した。彼女の友人、ゾンビのロッティトップスの力を借り、魔法を3人のトレジャーハンター、シークインランド男爵が持っていることを知る。彼女は男爵を探す最中、リスキィがロッテトップスとその兄弟たち、ミミックを誘拐、彼らに一生使える脳みそと正気を保つためのコーヒーを手に入れること約束させた。リスキーの欺きを見抜きながら3つの魔法を手に入れ、彼女たちに辿り着く。シャンティはミミックの命と引き換えに魔法を教える。リスキーはシャンティにランプがジニーを捕まえる能力があることを教える。シャンティの魔法の半分を吸収したランプは邪悪なクローン、ネガ・シャンティを生み出した。シャンティは自らのカウンターパートを撃破、それが崩壊するとリスキーの隠れ家から逃げおおせた。彼女は友人たちと再会、スカットルタウンを守るのを助けたみなを人間としての新しい生活を約束する。彼女の約束に感銘を受けた市長は再びガーディアンとしてシャンティを向かい入れる。
+
+開発[編集]
+Wiiウェア版は「Wiiにおいて2Dで試作が進行中」とあった他、ニンテンドーDS版と廃版のゲームボーイカラーの続編が2008年5月にWayForwardのニュースレターで明らかになった[6]。
+2009年9月15日、Shantae：Risky's Revengeが任天堂の2009年ホリデーラインナップでDSiウェアのタイトルとして2009年第4四半期に配信予定と発表された[7]。3部構成の続編の詳細は2009年11月のNintendo Powerで明らかとなった[8]。2010年9月末、WayForwardはシャンティファンクラブの全メンバーに2010年10月4日に北米で配信されると電子メールで発表[5]、公式のプレスリリースでも同趣旨の発表をした。Risky's Revengeは新エピソード構想を捨てて、1200ニンテンドーポイントで配信した[9]。
+
+評価[編集]
+評価集計結果媒体結果GameRankings(DS) 86.30%[10](iOS) 83.00%[11]Metacritic(DS) 85/100[12](iOS) 75/100[13]レビュー結果媒体結果1UP.comA-[14]Eurogamer6/10[15]ファミ通28/40[16]GamesRadar+[17]IGN9/10[18]Nintendo World Report9/10[19]AppSpy(iOS) 4/5[20]
+本作は批評家に好評を博した。Metacriticで85/100[12]、GameRankingsの86％のスコアで[10]、配信されている中で最良のDSiウェアであると批評家は述べた。批評家はビジュアル、優れたサウンドトラックを賞賛[21]、メトロイドや悪魔城ドラキュラのようであるしたが[22]、新鮮なアイデアも持っているとした。よく挙げられる不満としては地図システムの使い勝手が悪いことである[18]。IGNは「愛された、失望しない続編」と述べた[18]。Wii U、PS4版はファミ通クロスレビューでは8、7、6、7の28点[16]。レビュアーはアクションゲームとして完成度が非常に高いことや変身ダンスを賞賛した一方、地図を見るのために手間がかかることやゲームのヒントがもう少し欲しい、前作が日本で発売されていないため物語の展開や人物名の表示がないためわかりにくことを指摘、グラフィックについては滑らかな動きが魅力的、ドットが粗くてもすぐ慣れた者とDSiウェア版ベースのため据置機だと粗く見えるのが残念とする者で分かれた[16]。IGOSは2010年に本作をベストビジュアル賞[23]、ベストDSゲームに選んだ[24]。iOS版はDSiとは異なるが、Metacriticで75/100のスコアである[13]。
+
+出典[編集]
+
+
+^ Parish, Jeremy (2012年6月12日). “Metroidvania”.   GameSpite. 2016年7月7日閲覧。
+
+^ Brad Nicholson. “WayForward Bringing 'Shantae' to iOS With 'Shantae: Risky's Revenge'”.   Touch Arcade. 2013年11月14日閲覧。
+
+^ “Shantae: Half-Genie Hero by WayForward”. Kickstarter.com (2013年12月13日). 2016年1月11日閲覧。
+
+^ “Shantae: Half-Genie Hero by WayForward”. Kickstarter.com (2014年7月8日). 2016年1月11日閲覧。
+
+^ a b “Shantae: Risky's Revenge - Debut Trailer - IGN Video”.   Ds.ign.com (2010年4月5日). 2013年11月14日閲覧。
+
+^ “WayForward talks Shantae DS, WiiWare, GBA, and a lot more | GoNintendo - What are YOU waiting for?”.   GoNintendo. 2013年11月14日閲覧。
+
+^ “Nintendo Updates Holiday Lineup, Reveals New Games”.   Kotaku.com. 2013年11月14日閲覧。
+
+^ “Nintendo Power preview - First Shantae: Risky's Revenge screens, new RE:DC screens, C.O.P.: The Recruit, Pokemon Mystery Dungeon: Explorers of Sky, table of contents, 2010 Nintendo Power calendar | GoNintendo - What are YOU waiting for?”.   GoNintendo. 2011年7月20日時点のオリジナルよりアーカイブ。2013年11月14日閲覧。
+
+^ “Shantae: Risky's Revenge official PR - no longer episodic, release will be full game | GoNintendo - What are YOU waiting for?”.   GoNintendo. 2013年11月14日閲覧。[リンク切れ]
+
+^ a b “Shantae: Risky's Revenge for DS”. GameRankings.   CBS Interactive. 2013年5月20日閲覧。
+
+^ “Shantae: Risky's Revenge for iPhone/iPod”. GameRankings.   CBS Interactive. 2013年5月20日閲覧。
+
+^ a b “Shantae: Risky's Revenge for DS Reviews”. Metacritic.   CBS Interactive. 2013年5月20日閲覧。
+
+^ a b “Shantae: Risky's Revenge for iPhone/iPad Reviews”. Metacritic.   CBS Interactive. 2013年5月20日閲覧。
+
+^ Parish, Jeremy (2010年10月7日). “Not Quite a Love Letter to Classic Platformers...More Like a Quick Note with Hearts Scrawled on It”. 1UP.com.   IGN Entertainment. 2013年3月20日時点のオリジナルよりアーカイブ。2013年5月20日閲覧。
+
+^ Schilling, Chris (2011年2月16日). “Something Old, Nothing New”. Eurogamer.   Gamer Network. 2013年5月20日閲覧。
+
+^ a b c ファミ通2016年9月29日号 No.1450 270ページ
+
+^ Miller-Watt, Josh (2010年10月12日). “After Eight Long Years, the Sequel to the Game Boy Color Classic is Worth the Wait”. GamesRadar.   Future plc. 2013年5月20日閲覧。
+
+^ a b c Harris, Craig (2010年10月1日). “It's Been Eight Years, but One of the Finest Game Boy Color Games Gets an Incredible Sequel”. IGN.   IGN Entertainment. 2013年5月20日閲覧。
+
+^ Miller, Zachary (2010年10月11日). “The Best Reason So Far to Own a DSi”. Nintendo World Report.   Nintendo World Report, LLC. 2013年5月20日閲覧。
+
+^ Flodine, Dave (2011年11月15日). “Shantae: Risky's Revenge Review”. App Spy.   Steel Media Ltd. 2013年5月20日閲覧。
+
+^ “Shantae: Risky's Revenge Critic Reviews for DS”.   Metacritic. 2013年11月14日閲覧。
+
+^ “Shantae Risky's Revenge Review - Caz”.   YouTube. 2013年11月14日閲覧。
+
+^ “Best Visuals 2010 - Shantae: Risky's Revenge - DS - IGN”.   Bestof.ign.com. 2013年11月14日閲覧。
+
+^ “Best DS Game of the Year 2010 - Shantae: Risky's Revenge - DS - IGN”.   Bestof.ign.com. 2013年11月14日閲覧。
+
+
+外部リンク[編集]
+Shantae: Risky's Revenge Official Site
+シャンティ -リスキィ・ブーツの逆襲- - 任天堂によるWiiU版製品情報ページ
+シャンティ -リスキィ・ブーツの逆襲- - ソニー・インタラクティブエンタテインメントによるPS4版製品情報ページ
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=シャンティ_-リスキィ・ブーツの逆襲-&oldid=83652377」から取得
+カテゴリ: 2010年のコンピュータゲームニンテンドーDSiウェアIOSのゲームWindows用ゲームソフトPlayStation 4用ソフトWii U用ソフトアクションアドベンチャーゲームアメリカで開発されたコンピュータゲームオーイズミ・アミュージオのゲームソフト隠しカテゴリ: 外部リンクがリンク切れになっている記事/2018年3月
+

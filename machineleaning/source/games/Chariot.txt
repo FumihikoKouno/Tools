@@ -1,0 +1,138 @@
+
+
+
+
+
+Chariot (ゲーム)
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Chariotジャンル
+アクションパズル対応機種
+PlayStation 4Xbox OneSteam（Windows）Wii UPlayStation 3Apple TV (tvOS 9.0以降)[1]Nintendo Switch開発元
+Frima Studio（英語版）Microïds（英語版） (Switch)発売元
+Frima StudioMicroïds (Switch)クロスファンクション (PS4, Wii U, PS3)3goo (Switch)人数
+1 - 2人メディア
+ダウンロード販売発売日
+PS4 2014年9月30日[2] 2014年10月29日[3] 2015年3月25日[4]XBOne 2014年10月1日[5][6][7]Steam：2014年11月13日[8]Wii U 2015年1月8日[9][10] 2015年3月25日[11]PS3 2015年5月5日[12] 2015年5月6日[13] 2015年5月27日[14]Apple TV：2016年3月10日[1]Switch 2018年5月10日[15][16] 2018年7月5日[17]対象年齢
+CERO：A（全年齢対象）[4][5][11][14][17]ESRB：E（6歳以上）[2][6][9][12][15]PEGI：3[3][7][10][13][16]USK：6（6歳未満提供禁止）[18][19][20][21][22]Apple TV：9+[1]コンテンツアイコン
+ESRB：Mild Fantasy Violence[2][6][9][12]Apple TV：まれ/軽度なアニメまたはファンタジーバイオレンス[1]テンプレートを表示
+『Chariot』（チャリオット）は、カナダのゲームソフト開発会社Frima Studio（英語版）が開発したアクションパズルゲーム。各種家庭用ゲーム機向けに発売されたが、このうちNintendo Switch版は『チャリオット 王様パック』（チャリオット おうさまパック、英：Super Chariot）のタイトルで配信されている。
+
+目次
+
+1 概要
+2 システム
+3 受賞・ノミネート
+4 脚注
+5 外部リンク
+
+
+概要[編集]
+亡くなった王様を埋葬するのにふさわしい墓地を探すため、王女とその婚約者がチャリオット（車輪付きの棺）を曳いて地下迷宮を冒険する物語。作中では、棺に宿る王様の幽霊が度々現れて王女たちにアドバイスや小言を言うなどコミカルな表現が多く用いられている。日本版では一部で日本の声優による吹き替えが行われ、王様の声を烏田裕志が、様々なアイテムを販売するよろず屋の声を中田俊輔が演じている[23]。
+基本的なゲームシステムは、サイドビューで描かれた広大な各ステージ内でゴールやアイテムを探索するという、いわゆる「メトロイドヴァニア（英語版）」のような形式をとり、これにチャリオットを用いた様々な謎解き要素が加えられている。チャリオットの動きには物理演算が適用され、重力や慣性の影響を受ける[24]。本作は1人プレイだけでなく2人同時プレイも可能で、ステージ内には協力プレイを想定した謎解きもある。
+発売後の追加コンテンツとして、「王家の道具パック」（英：Royal Gadget Pack）の配信が行われた。これによりゲームプレイを補助する各種アイテムが追加されたほか、よろず屋を操作キャラクターとして使用可能となった。なお、Nintendo Switch版にはこのコンテンツが初めから含まれている[25][26]。
+
+システム[編集]
+全部で25のステージがある。操作キャラクターとチャリオットがステージ内のどこかにある出口に到達するとステージクリアとなり別ステージの入り口が開放される。ステージの入り口と出口は一つとは限らず、どの出口に到達したかによって開放される入り口が異なる。
+操作キャラクターはジャンプと敵への攻撃のアクションを行う。チャリオットの移動時は後ろから押すかロープで引っ張る。ロープを手繰ってチャリオットを引き寄せることもできる。下方にぶら下がったチャリオットを引き上げる際には、通常は操作キャラクターが引きずられるが、踏んばる動作をするとその場から動かずに実行できる。なお、操作キャラクターとチャリオットが離れすぎるとミスとなる。
+チャリオットは操作キャラクターが高い場所へ飛び移る際の足場ともなるほか、アイテムが入った木箱を上に乗せて運ぶ場面もある。この木箱をステージの先にある装置まで運ぶと中身を入手できるが、運ぶ最中にチャリオットがひっくり返って一定時間が経過すると箱が爆発し消滅する。
+ステージ内には、拠点の店にアイテムが追加される「設計図」やそのアイテムの購入時に通貨代わりとなる宝石、隠しステージへ進む際に必要となるアイテム「シャレコウベ」が各所にある。これらは、操作キャラクターではなくチャリオットを近づけた時点で入手できる。
+ステージ内の一部には魔物の巣がある。この目の前でチャリオットが壁や地面に激しくぶつかったり宝石を入手するなどして周囲に大きな音をたてると、中から魔物が次々と現れる。この魔物はチャリオットを目掛けて進み、手持ちの宝石を奪っていく。盗まれた宝石は敵を倒すことで取り戻せる。
+各ステージのクリア後にはスピードランモードが開放される。このモードではあらかじめ決められたルートでゴールに到達することを目指し、クリアタイムの速さに応じて金・銀・銅・何もなしの評価が与えられる。このタイムはオンラインランキングに登録される。
+
+受賞・ノミネート[編集]
+2014 Canadian Videogame Awards ノミネート（以下の8部門）[27]
+Game of the Year
+Fans' Choice Award
+Best Console Game
+Best Animation
+Best Game Design
+Best New Character (The Princess)
+Best Technology
+Best Visual Arts
+Numix Awards 2015 「Production Indépendante (Best Independent Videogame Production)」受賞[28]
+脚注[編集]
+[脚注の使い方]
+
+
+^ a b c d “Chariot - Royal Edition”.   App Store. 2018年9月5日閲覧。
+
+^ a b c “Chariot on PS4” (英語).   Official PlayStation Store US. 2018年9月5日閲覧。
+
+^ a b “Chariot on PS4” (英語).   Official PlayStation Store UK. 2018年9月5日閲覧。
+
+^ a b “Chariot”.   公式PlayStation Store 日本. 2018年9月5日閲覧。
+
+^ a b “Chariot”.   Microsoft Store ja-JP. 2018年9月5日閲覧。
+
+^ a b c “Buy Chariot” (英語).   Microsoft Store. 2018年9月5日閲覧。
+
+^ a b “Buy Chariot” (英語).   Microsoft Store en-GB. 2018年9月5日閲覧。
+
+^ “Chariot”.   Steam. 2018年9月5日閲覧。
+
+^ a b c “Chariot for Wii U” (英語).   Nintendo of America. 2018年9月5日閲覧。
+
+^ a b “Chariot｜Wii U download software｜Games” (英語).   Nintendo UK. 2018年9月5日閲覧。
+
+^ a b “Chariot｜Wii U”.   任天堂. 2018年9月5日閲覧。
+
+^ a b c “Chariot on PS3” (英語).   Official PlayStation Store US. 2018年9月5日閲覧。
+
+^ a b “Chariot on PS3” (英語).   Official PlayStation Store UK. 2018年9月5日閲覧。
+
+^ a b “Chariot”.   公式PlayStation Store 日本. 2018年9月5日閲覧。
+
+^ a b “Super Chariot for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2018年9月5日閲覧。
+
+^ a b “Super Chariot｜Nintendo Switch｜Games” (英語).   Nintendo UK. 2018年9月5日閲覧。
+
+^ a b “チャリオット 王様パック”.   任天堂. 2018年9月5日閲覧。
+
+^ “Chariot auf PS4” (ドイツ語).   Offizieller PlayStation Store Deutschland. 2018年9月5日閲覧。
+
+^ “Chariot kaufen” (ドイツ語).   Microsoft Store de-DE. 2018年9月5日閲覧。
+
+^ “Chariot｜Wii U Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2018年9月5日閲覧。
+
+^ “Chariot auf PS3” (ドイツ語).   Offizieller PlayStation Store Deutschland. 2018年9月5日閲覧。
+
+^ “Super Chariot｜Nintendo Switch｜Spiele” (ドイツ語).   Nintendo Deutschland. 2018年9月5日閲覧。
+
+^ “Chariot”.   クロスファンクション. 2018年9月5日閲覧。
+
+^ “Switch「チャリオット 王様パック」のプレイレポートをお届け。頭脳だけでも反射神経だけでもクリアできない手強いパズルアクション”.   4Gamer.net (2018年7月12日). 2018年9月5日閲覧。
+
+^ “New Chariot DLC "The Royal Gadget Pack" Is Out Today” (英語).   Pixelkin (2015年9月22日). 2018年9月5日閲覧。
+
+^ “チャリオット 王様パック”.   3goo (2018年6月26日). 2018年9月5日閲覧。
+
+^ “2014 Canadian Videogame Awards: Finalists Revealed ［Updated］” (英語).   Game Rant. 2018年9月5日閲覧。
+
+^ “PRIX NUMIX 2015” (フランス語).   NUMIX AWARDS. 2018年9月5日閲覧。
+
+
+外部リンク[編集]
+Frima Studio 公式サイト（英語）
+Chariot - Facebook
+Chariot (@ChariotGame) - Twitter
+クロスファンクション 公式サイト
+PlayStation 4版
+Wii U版
+PlayStation 3版
+3goo 公式サイト
+チャリオット 王様パックに関するカテゴリ:
+ Nintendo Switch用ソフト 
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Chariot_(ゲーム)&oldid=77408288」から取得
+カテゴリ: 2014年のコンピュータゲームPlayStation 4用ソフトXbox One用ソフトWindows用ゲームソフトWii U用ソフトPlayStation 3用ソフトカナダで開発されたコンピュータゲームアクションパズル王女を主人公としたコンピュータゲーム葬送を題材とする作品霊を題材としたコンピュータゲーム地下を舞台とした作品
+

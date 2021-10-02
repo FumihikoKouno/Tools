@@ -1,0 +1,137 @@
+
+
+
+
+
+The Gardens Between
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+The Gardens Betweenジャンル
+アクションパズルゲーム対応機種
+Nintendo SwitchPlayStation 4PC（Windows, MacOS, Linux）Xbox OneiOS開発元
+The Voxel Agents発売元
+The Voxel Agents音楽
+Tim Shiel（英語版）人数
+1人発売日
+Switch, PS4, PC2018年9月20日[1]XBOne2018年11月29日[2]iOS2019年5月16日[1]対象年齢
+CERO：A（全年齢対象）[3][4]ESRB：E（6歳以上）[5][6][7]PEGI：3[8][9][10]USK：0[11][12]ACB：G[13][14]MacOS, iOS：4+[15][16]IARC：3+[17]エンジン
+Unityテンプレートを表示
+『The Gardens Between』は、オーストラリアのゲームソフト開発スタジオThe Voxel Agentsが開発したアクションパズルゲーム。
+
+目次
+
+1 概要
+2 システム
+3 受賞・ノミネート
+4 サウンドトラック
+5 脚注
+6 外部リンク
+
+
+概要[編集]
+活発な少女Arinaと聡明な少年Frendtの友情を描いた作品で、現実世界から異世界に迷い込んだ二人が水上の島々を巡り、そこに散りばめられたノスタルジックな記憶の断片から二人の共通の思い出を浮かび上がらせていく。二人は作中で様々な仕草を見せるが台詞や説明文は一切なく、心情はプレイヤーの想像に委ねられる。
+ゲーム内では、キャラクターではなく時間の流れを操作する。ArinaとFrendtの行動や島の風景は、時間を前後させることにより映像を再生、逆再生、一時停止するかのように表現される。経路が寸断された地点では時間がそれ以上進まなくなるため、島にある仕掛けと時間の前後操作を組み合わせて問題の解決を目指すことになる。
+開発元のThe Voxel Agentsによると本作の作風は日本文化から大きな影響を受け、思春期の子供を主体とする空想的な物語の設定はスタジオジブリ作品の要素が、島の描写をきれいに見せる手法については枯山水の理念が反映されている[18][19][20]。一方、時間を操作するという前述のアイデアは、SF映画『マイノリティ・リポート』の中で主演のトム・クルーズが大型スクリーンに手をかざして映像を操作するシーンから着想を得ている[21][22]。
+
+システム[編集]
+本作の基本操作は、時間を進める、時間を戻す、特定地点で何らかのアクションを起こす、の3種類。何も操作していない時は時間が停止する。時間を進めてArinaとFrendtがゴール地点に到達しArinaが持つ点灯したランタンを台座に収めれば島のクリアとなり、次の島へ進む。
+Arinaが持つランタンは、島内の光に近づけると点灯、闇に近づけると消灯する。点灯したランタンは各地点の台座に収めることで道が切り開かれるほか、霧が発生していて進めない場所で霧を晴らす効果もある。
+Frendtは、島内に配置されている様々な仕掛けに反応する。特定個所に吊るされている鐘を鳴らすと、Frendtたちやその周囲の時間が停止した状態で特定の物の時間だけを操作することが可能になる。
+
+受賞・ノミネート[編集]
+BIC Awards 2017 「Excellence in Game Design」受賞、「Grand Prix」「Excellence in Art」ノミネート[23][24][25]
+The Freeplay（英語版） 2018 Awards 「Excellence in Visual Art」ノミネート[26]
+Play by Play 2018 「Game From Across the Ditch」ノミネート[27]
+BIG Festival 2018 「Excellence in Visual Art」ノミネート[28]
+Independent Games Festival（英語版） 2018 「Excellence in Visual Art」ノミネート[29]
+東京ゲームショウ2018 センス・オブ・ワンダーナイト 「Best Technological Award」受賞[30]
+Australian Game Developer Awards 2018 「Game of the Year」受賞[31]
+16th International Mobile Gaming Awards（英語版） 「Excellence in Art」受賞[32]
+サウンドトラック[編集]
+Glowing Pains: Music From The Gardens Between
+配信専用のアルバムとして2018年10月12日に発売。Tim Shiel（英語版）が手掛けたアンビエントの楽曲全12曲を収録[33]。
+脚注[編集]
+[脚注の使い方]
+
+
+^ a b “press kit” (英語).   The Voxel Agents. 2019年1月13日閲覧。
+
+^ “Travel Through Time and Memories in The Gardens Between, Available Now on Xbox One” (英語).   Xbox Wire (2018年11月29日). 2020年10月10日閲覧。
+
+^ “The Gardens Between”.   任天堂. 2019年1月13日閲覧。
+
+^ “The Gardens Between”.   プレイステーション. 2019年1月13日閲覧。
+
+^ “The Gardens Between for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2019年1月13日閲覧。
+
+^ “The Gardens Between on PS4” (英語).   Official PlayStation Store US. 2019年1月13日閲覧。
+
+^ “The Gardens Between” (英語).   Microsoft Store. 2019年1月13日閲覧。
+
+^ “The Gardens Between｜Nintendo Switch download Software｜Games” (英語).   Nintendo UK. 2019年1月13日閲覧。
+
+^ “The Gardens Between on PS4” (英語).   Official PlayStation Store UK. 2019年1月13日閲覧。
+
+^ “The Gardens Between” (英語).   Microsoft Store en-GB. 2019年1月13日閲覧。
+
+^ “The Gardens Between｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2019年1月13日閲覧。
+
+^ “The Gardens Between” (ドイツ語).   Microsoft Store de-DE. 2019年1月13日閲覧。
+
+^ “The Gardens Between” (英語).   Nintendo Australia. 2020年10月10日閲覧。
+
+^ “The Gardens Between” (英語).   Microsoft Store en-AU. 2019年1月13日閲覧。
+
+^ “The Gardens Between”.   Mac App Store. 2019年1月13日閲覧。
+
+^ “The Gardens Between”.   App Store. 2020年10月10日閲覧。
+
+^ “The Gardens Between”.   Microsoft Store jp-JP. 2019年1月13日閲覧。
+
+^ “The Gardens Between - Interview mit Entwickler Henrik Pettersson” (ドイツ語).   nerdLICH (2018年10月5日). 2019年1月13日閲覧。
+
+^ “Developer Interview: The Voxel Agents” (英語).   Game Pilgrim (2018年10月14日). 2019年1月13日閲覧。
+
+^ “The Voxel Agents公式Twitter” (2018年9月21日). 2019年1月13日閲覧。
+
+^ “The Gardens Between Director Talks Minority Report, Friendship, and Nostalgia” (英語).   AllGamers (2017年12月18日). 2019年1月13日閲覧。
+
+^ “Road to the IGF: The Voxel Agents' The Gardens Between” (英語).   Gamasutra (2018年2月7日). 2019年1月13日閲覧。
+
+^ “BIC Festival公式Twitter” (2017年9月29日). 2019年1月13日閲覧。
+
+^ “BIC Festival公式Twitter” (2017年9月29日). 2019年1月13日閲覧。
+
+^ “BIC Festival公式Twitter” (2017年9月29日). 2019年1月13日閲覧。
+
+^ “The Freeplay 2018 Awards Finalists” (英語).   Freeplay. 2018年8月31日時点のオリジナルよりアーカイブ。2019年1月13日閲覧。
+
+^ “2018 Finalists & Winners” (英語).   Play by Play. 2019年1月13日閲覧。
+
+^ “Nominated & Awarded Games of 2018” (英語).   BIG Festival. 2019年1月13日閲覧。
+
+^ “Independent Games Festival Winners” (英語).   IGF. 2019年1月13日閲覧。
+
+^ “センス・オブ・ワンダーナイト 2018『RPGタイム！～ライトの伝説～』が3冠を達成”.   IGN JAPAN (2018年9月21日). 2019年1月13日閲覧。
+
+^ “Australian Game Developer Awards 2018 winners revealed” (英語).   PC Games Insider (2018年10月24日). 2019年1月13日閲覧。
+
+^ “The Gardens Between” (英語).   International Mobile Gaming Awards. 2020年10月10日閲覧。
+
+^ “Glowing Pains: Music From The Gardens Between” (英語). 2019年1月13日閲覧。
+
+
+外部リンク[編集]
+The Voxel Agents 公式サイト（英語）
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=The_Gardens_Between&oldid=83652616」から取得
+カテゴリ: 2018年のコンピュータゲームNintendo Switch用ソフトPlayStation 4用ソフトWindows用ゲームソフトMacOSのソフトウェアLinux用ゲームソフトXbox One用ソフトIPhone用ゲームソフトアクションパズルオーストラリアで開発されたコンピュータゲームUnityを採用したゲームソフトインディーゲーム
+

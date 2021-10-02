@@ -1,0 +1,283 @@
+
+
+
+
+
+Cities: Skylines
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+この記事には、百科事典には本来必要のないファンサイト的な内容の記述が含まれています。特定の人物およびグループに対しての、百科事典に相応しくない記述や内容の過剰な記述は歓迎されません。ファンサイト的記述の修正・除去の議論や提案がありましたらこのページのノートでしてください。（2021年2月）
+シティーズ: スカイラインCities: Skylines対応機種
+全て64ビット版のみ動作  Windows 8.1 /Windows 8 / Windows 7 / Windows Vista / Windows XPMac OS X Mavericks / Mac OS X YosemiteSteamOS / LinuxPlayStation 4 / Xbox OneNintendo Switch開発元
+コロッサル・オーダー（英語版）発売元
+パラドックスインタラクティブPS4:スパイク・チュンソフトシリーズ
+Citiesシリーズバージョン
+1.8.0-f3(2017年8月17日）人数
+シングルプレイヤーコンピュータゲームメディア
+ダウンロード販売
+
+パッケージ販売発売日
+2015年3月10日[1]対象年齢
+CERO：A（全年齢対象）ESRB：E（6歳以上）PEGI：3USK：0ACB：Gデバイス
+マウス・キーボード
+
+コントローラ(コンソール版)必要環境
+Microsoft Windows：CPU：Intel Core 2 Duo 3.0GHz / AMD Athlon 64 X2 3.2GHz 以上メモリ：4GB以上ハードディスク容量：4GB以上サウンド：DirectX 9以降対応グラフィック：GeForce GTX 260 / Radeon HD 5670 以降を搭載するVRAM 512MB以上DirectX：9以降ネットワーク：ブロードバンド接続Mac：CPU：Intel Core 2 Duo 3.0GHz / AMD Athlon 64 X2 3.2GHz 以上メモリ：4GB以上ハードディスク容量：4GB以上グラフィック：GeForce GTX 260 / Radeon HD 5670 以降を搭載するVRAM 512MB以上ネットワーク：ブロードバンド接続SteamOS / Linux：CPU：Intel Core 2 Duo 3.0GHz / AMD Athlon 64 X2 3.2GHz 以上メモリ：4GB以上ハードディスク容量：4GB以上グラフィック：GeForce 8800 / Radeon HD 3850 以降を搭載するVRAM 512MB以上ネットワーク：ブロードバンド接続エンジン
+Unityテンプレートを表示
+Cities: Skylines （シティーズ:スカイライン）は、フィンランドのゲームデベロッパーコロッサル・オーダー（英語版）が開発した都市開発シミュレーションゲーム。販売元はスウェーデンのゲームパブリッシャー、パラドックスインタラクティブ[2][3][4]。2015年3月10日、デジタル配信サービスのSteamでWindows, Mac OS X, Linuxの各プラットフォーム向けに発売された[2][5]。
+発売時期とそのゲーム内容から、ゲームジャーナリストからは2013年に発売されたシムシティ (2013) の対抗製品とみなされている[4][6][3][7]。 なお、名称は似ているが、Focus Home Interactive（英語版）やMonte Cristo（英語版）が制作する同じく都市開発シミュレーションゲームのCities XL（英語版）やCities XXL（英語版）などとは無関係である。
+
+目次
+
+1 ゲームシステム
+2 MOD・Steam WorkShop対応
+3 Cities: Skylines - AfterDark
+
+3.1 『Cities: Skylines』からの主な変更点
+
+
+4 Cities: Skylines - Snowfall
+
+4.1 『Cities: Skylines、Cities: Skylines - AfterDark』からの主な変更点
+
+
+5 Cities: Skylines - Natural Disasters
+
+5.1 『Cities: Skylines、Cities: Skylines - Snowfall』からの主な変更点
+
+
+6 Cities: Skylines - Mass Transit
+
+6.1 『Cities: Skylines、Cities: Skylines - Natural Disasters』からの主な変更点
+
+
+7 Cities: Skylines - Green Cities
+
+7.1 『Cities: Skylines、Cities: Skylines - Mass Transit』からの主な変更点
+
+
+8 Cities: Skylines - Parklife
+
+8.1 『Cities: Skylines、Cities: Skylines - Green Cities』からの主な変更点
+
+
+9 Cities: Skylines - Industries
+
+9.1 『Cities: Skylines、Cities: Skylines - Parklife』からの主な変更点
+
+
+10 Cities: Skylines - Campus
+
+10.1 『Cities: Skylines、Cities: Skylines - Industries』からの主な変更点
+
+
+11 Cities: Skylines - Sunset Harbor
+
+11.1 『Cities: Skylines、Cities: Skylines - Campus』からの主な変更点
+
+
+12 日本語版
+13 評価
+14 関連項目
+15 参考文献
+16 外部リンク
+
+
+ゲームシステム[編集]
+Cities: Skylines は一人用の明確なゴールがないタイプの都市開発シミュレーションゲームである。プレイヤーは都市計画のために、区画の用途の指定（住宅地区・商業地区・工業地区など）や、道路や公共交通機関、教育や医療といった公共サービスなどを設定すると共に、都市の予算や人口、健康状態、幸福度、失業率、空気や水、騒音や公害、交通渋滞、その他さまざまな要素と向き合う。
+プレイヤーにはまず、2 km x 2 km のエリアと[8]、マップ外に通じる高速道路への出入り口、それに幾許か(PC版では66000ユーロ)の資金が与えられる。プレイヤーは道路を敷設し、住宅・商業・産業の各エリアを設定、さらに電力や上下水道といった基本的なサービスを整え、住民を呼び込み都市を発展させていく。都市の成長に従い、学校や消防署、ごみ処理施設、税金や条例のように徐々に機能がアンロックされていく。こうした機能の一つとして、都市に任意の区画を設定するものがあり、これらの区画により産業を農業限定にする、公共交通機関を無料にする、特定の産業の税金を増減する、といった地域の特徴づけが可能になっている[6]。建物には様々な種類やレベルがあり、例えば教育レベルの高い住民が多い地域にある商業地区では、より多くの雇用や収入をもたらす高レベルの施設が建つようになる。都市が発展しプレイヤーが十分な人口と資金を持つと、隣接するマップを購入し都市の領域をさらに拡大することができるようになる[8]。マップの最大サイズは、マシンスペックの制約上通常の状態では9タイルまでに制限されているが、Steam Workshopに公開されているModを用いることで、25タイル（10 km x 10 km）や81タイル（18 km x 18 km）まで拡張することができる。
+Cities: Skylines はまた、コロッサル・オーダーの前作Cities in Motion（英語版）に由来する強力な交通システムを備えており、プレイヤーは都市の交通問題を解決するための効果的な公共交通機関の設置に頭を悩ますことになる[8]。道路は直線に加えて自由な曲線で引くことができるが、それだけでなく建物も道路に合わせた自由な形状で割り当てることができるようになっており、過去に同ジャンルのゲームで見られたような方格設計を強いられることはない。道路自体も、交通量の多い経路に対応する幅の広いものや、コストがかかるものの騒音を減らし地価を上げる街路樹がついているものなど、様々な種類が用意されている[9]。
+
+MOD・Steam WorkShop対応[編集]
+本作はSteam WorkShopに対応しており、MOD制作前提でさまざまな関数があるため、柔軟にMODが制作できるように構築されている。道路拡張、交通管理、情報表示、公共交通機関追加、建物から乗り物、公園といった様々なアセット、バランス調整、グラフィック変更、BGM追加&SE変更、言語パッケージなど、2019年8月現在で193,000以上の追加MODが存在する[10]。
+
+Cities: Skylines - AfterDark[編集]
+Cities: Skylines - AfterDarkバージョン
+1.2.2-f3 (2015年11月6日）発売日
+2015年9月24日必要環境
+ハードディスク容量：4GB以上テンプレートを表示
+『Cities: Skylines - AfterDark』は本作の拡張パックで、DLCとして販売された。導入にはゲーム本体が必要となる。目玉は昼夜の概念の追加だが、無印にもパッチで昼夜のサイクルのみ移植されている。After Dark (DLC) 独自のコンテンツとしては以下が挙げられる。
+
+『Cities: Skylines』からの主な変更点[編集]
+昼夜のサイクルの概念の追加 (無印にもパッチで移植された)
+特化地区の追加
+レジャーの特化ができるようになった。日中は通常の商業施設として、夜間はレジャー施設として稼働するようにできる
+ビーチ特化ができるようになった。海岸線沿いにバーやレストラン、停泊所、釣りのツアーなどができるようにできる
+都市サービスの拡張
+刑務所、新しいモニュメントや公園、海沿いに建てられる観光スポットの追加
+新しい交通機関
+自転車が追加され、自転車レーンを設定できる道路、自転車専用道路の追加
+バス・タクシーレーンを設定できる道路の追加
+タクシーサービスの追加
+大きな港や地下鉄駅が付属する国際空港、バスターミナルの追加
+などがある。
+
+Cities: Skylines - Snowfall[編集]
+Cities: Skylines - Snowfallバージョン
+1.3.2-f1 (2016年3月2日）発売日
+2016年2月18日必要環境
+ハードディスク容量：4GB以上テンプレートを表示
+『Cities: Skylines - Snowfall』は拡張パック第2弾で、DLCとして販売された。導入には本体が必要となる。目玉は天候の概念の追加だが、無印にもパッチで雪を除く天気については移植されている。また、その他にもカスタム・テーマの設定や公共輸送機関UIの拡張なども無料でアップデートされた。Snowfall (DLC) 独自のコンテンツとしては以下が挙げられる。
+
+『Cities: Skylines、Cities: Skylines - AfterDark』からの主な変更点[編集]
+「冬テーマ」の追加
+新たなマップや公園、ランドマークやサウナ、効果音や音楽の追加
+暖房や道路除雪用の各設備の追加
+加熱装置、ヒートパイプ、地熱暖房プラント、ボイラー設備、道路メンテサービスの追加
+路面電車の追加
+4つの新条例
+Cities: Skylines - Natural Disasters[編集]
+Cities: Skylines - Natural Disastersバージョン
+1.6.3-f1 (2017年1月29日）発売日
+2016年11月29日必要環境
+ハードディスク容量：4GB以上テンプレートを表示
+『Cities: Skylines - Natural Disasters』は拡張パック第3弾で、DLCとして販売された。導入には本体が必要となる。自然災害システムを導入する拡張パックで、行政施設も追加される。
+
+『Cities: Skylines、Cities: Skylines - Snowfall』からの主な変更点[編集]
+各種災害（竜巻、隕石、津波、地震、地盤沈下、雷雨など）の追加
+ランダム若しくはマニュアルで発生させることが可能
+シナリオモードの追加
+防災無線の追加
+シェルターの追加
+各種ヘリコプターの追加
+上水放出ポンプの追加
+貯水槽の追加
+Cities: Skylines - Mass Transit[編集]
+Cities: Skylines - Mass Transitバージョン
+1.7.2-f1 (2017年6月1日）発売日
+2017年5月18日必要環境
+ハードディスク容量：4GB以上テンプレートを表示
+『Cities: Skylines - Mass Transit』は拡張パック第4弾で、DLCとして販売された。導入には本体が必要となる。公共交通機関を増強する拡張パック。
+
+『Cities: Skylines、Cities: Skylines - Natural Disasters』からの主な変更点[編集]
+モノレールの追加
+フェリーの追加
+飛行船の追加
+ロープウェイの追加
+大型交通ハブ施設の追加
+Cities: Skylines - Green Cities[編集]
+Cities: Skylines - Green Citiesバージョン
+1.9.3-f1(2018年3月23日）発売日
+2017年10月19日必要環境
+ハードディスク容量：4GB以上テンプレートを表示
+『Cities: Skylines - Green Cities』は拡張パック第5弾で、DLCとして販売された。導入には本体が必要となる。環境に配慮した施設やシステムなどを導入する拡張パック。
+
+『Cities: Skylines、Cities: Skylines - Mass Transit』からの主な変更点[編集]
+環境に優しい建物、オーガニックストアなど新たな建物を300種以上追加
+電気自動車の追加
+公害・騒音システムの変更
+新たな条例、特区の追加
+Cities: Skylines - Parklife[編集]
+Cities: Skylines - Parklifeバージョン
+1.10.1-f3 (2018年5月24日）発売日
+2018年7月4日必要環境
+ハードディスク容量：4GB以上テンプレートを表示
+『Cities: Skylines - Parklife』は拡張パック第6弾で、DLCとして販売された。導入には本体が必要となる。公園やテーマパークなどを追加する拡張パック。
+
+『Cities: Skylines、Cities: Skylines - Green Cities』からの主な変更点[編集]
+遊園地、自然保護区、都市公園、動物園などの施設が追加
+Cities: Skylines - Industries[編集]
+Cities: Skylines - Industriesバージョン
+1.11.1 (2018年12月13日）発売日
+2018年10月23日必要環境
+ハードディスク容量：4GB以上テンプレートを表示
+『Cities: Skylines - Industries』は拡張パック第7弾で、DLCとして販売された。導入には本体が必要となる。産業に焦点を絞ったシステムの拡張が行われた。
+
+『Cities: Skylines、Cities: Skylines - Parklife』からの主な変更点[編集]
+原料取得、加工、保管、輸送という製品の生産を一連の流れとして設定・管理できるようになった
+工場や倉庫などの施設が追加
+Cities: Skylines - Campus[編集]
+Cities: Skylines - Campusバージョン
+1.12.1-f2 (2019年6月4日）発売日
+2019年5月21日必要環境
+ハードディスク容量：4GB以上テンプレートを表示
+『Cities: Skylines - Campus』は拡張パック第8弾で、DLCとして販売された。導入には本体が必要となる。専門学校や大学を含む多彩なキャンパスを導入する拡張パック。
+
+『Cities: Skylines、Cities: Skylines - Industries』からの主な変更点[編集]
+スポーツ競技場などの施設、各種学部、条例等が追加
+Cities: Skylines - Sunset Harbor[編集]
+Cities: Skylines - Sunset Harbor発売日
+2020年3月26日必要環境
+ハードディスク容量：4GB以上テンプレートを表示
+『Cities: Skylines - Sunset Harbor』は拡張パック第9弾で、DLCとして販売された。導入には本体が必要となる。新たな産業として漁業を導入し、インフラも増強されている。
+
+『Cities: Skylines、Cities: Skylines - Campus』からの主な変更点[編集]
+新産業「漁業」と、関連する各種施設を追加
+都市間バス、トロリーバス、旅客ヘリを追加
+日本語版[編集]
+2020年12月時点ではPC版において日本語版は提供されていないがSteamで配信されているゲームでかつ公式でSteam WorkShopに対応しているため、さまざまな言語がワンクリックで導入することができユーザーメイドの日本語パッチが存在する[11]。
+PlayStation 4版はスパイク・チュンソフトより2018年4月12日に発売された[12]。
+Xbox One版はパラドックスインタラクティブよりダウンロード専用としてMicrosoftストアより販売されている[13]。Nintendo Switch版は2018年9月14日に配信開始。追加コンテンツの「After Dark」と「Snowfall」が最初から収録されている。
+
+評価[編集]
+Cities: Skylines は発売開始から24時間で25万本を販売するヒットとなったが、これはパラドックスインタラクティブが販売したゲームとしては過去最大であった[14]。発売から1週間弱が過ぎた3月16日には50万本を達成しており[15][16]、1ヵ月後の4月15日には100万本を突破[17]、2016年3月11日には200万本突破がアナウンスされた[18]。2018年3月にPC版だけの販売本数で500万本[19]、2019年3月時点で600万本を突破している[20]。
+
+関連項目[編集]
+シムシティ (2013)
+シティー ライフ
+参考文献[編集]
+
+
+^ Robert Purchese (2015年2月11日). “Cities Skylines release date revealed”.   Eurogamer. 2015年2月11日閲覧。
+
+^ a b “Cities: Skylines”. Paradox Store.   Paradox Interactive. 2014年9月21日時点のオリジナルよりアーカイブ。2014年9月21日閲覧。
+
+^ a b O'Connor, Alice (2014年8月15日). “Simulated Urban Area – Cities: Skylines Announced”. Rock, Paper, Shotgun. 2014年9月21日閲覧。
+
+^ a b Parrish, Peter (2014年8月14日). “Cities: Skylines announced at Paradox fan event”. IncGamers. 2014年9月21日閲覧。
+
+^ “Cities: Skylines - Release Date Reveal Trailer”.   パラドックスインタラクティブ (2015年2月11日). 2015年2月11日閲覧。
+
+^ a b Paul Dean (2014年9月14日). “Cities: Skyline is out to satisfy where SimCity couldn't”. Eurogamer. 2014年2月11日閲覧。
+
+^ Stoneback, Robert (2014年8月14日). “Cities: Skylines Revealed by Cities in Motion Creators at Gamescon”. The Escapist.   Defy Media. 2014年9月21日閲覧。
+
+^ a b c “How 'Cities: Skylines' aims to dethrone SimCity”. Wired.com (2014年9月23日). 2015年3月10日閲覧。
+
+^ Haimakainen, Henri (2014年9月24日). “Cities: Skylines - Dev Diary 1: Roads”. Paradox Interactive Forums. 2014年9月24日閲覧。
+
+^ http://steamcommunity.com/workshop/about/?l=japanese&appid=255710
+
+^ http://steamcommunity.com/sharedfiles/filedetails/?id=427164957
+
+^ http://www.spike-chunsoft.co.jp/cities_skylines/
+
+^ https://www.microsoft.com/ja-jp/store/p/cities-skylines-xbox-one-edition/c4gh8n6zxg5l
+
+^ “Cities: Skylines Sells 250,000 in First 24 Hours”. IGN. 2015年4月12日閲覧。
+
+^ “Cities Skylines First Official Progress Update”. Paradox Interactive. 2015年4月12日閲覧。
+
+^ Brenna Hillier (2015年3月17日). “Cities: Skylines has doubled its day one sales”. VG 247. 2015年3月17日閲覧。
+
+^ “都市開発シム「Cities: Skylines」が100万本以上のセールスを記録。MODの数は3万3000種類を突破”.   4Gamer.net (2015年4月15日). 2015年4月15日閲覧。
+
+^ “『Cities: Skylines』Paradox史上最速200万販売到達―ユーザーMODは7万6000作品も”. Game*Spark (2016年3月11日). 2016年3月19日閲覧。
+
+^ “Cities: Skylines Turns Three, Celebrates Five Million Copies Sold on PC” (英語).   Paradox Interactive (2018年3月10日). 2018年11月2日閲覧。
+
+^ “4周年を迎えるPC版『Cities: Skylines』600万セールス突破を発表―ゲーム内都市の総人口は2兆人以上！”. 2019年8月20日閲覧。
+
+
+外部リンク[編集]
+公式ウェブサイト （英語）
+Colossal Order （英語）
+シティーズ：スカイライン PlayStation 4 Edition 公式ウェブサイト （日本語） - PlayStation 4
+表話編歴CitiesシリーズCitiesシリーズ
+Cities: Skylines
+Cities in Motionシリーズ
+Cities in Motion（英語版）
+Cities in Motion 2（英語版）
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Cities:_Skylines&oldid=83728576」から取得
+カテゴリ: パラドックスインタラクティブスパイク・チュンソフトのゲームソフト2015年のパソコンゲーム2018年のコンピュータゲームミニスケープ経営シミュレーションゲームWindows用ゲームソフトMacintosh用ゲームソフトLinux用ゲームソフトSteamワークショップ対応ゲームPlayStation 4用ソフトXbox One用ソフトNintendo Switch用ソフトフィンランドで開発されたコンピュータゲームUnityを採用したゲームソフトミリオンセラーのゲームソフト隠しカテゴリ: ファンサイト的な内容が含まれている記事ウィキペディアとウィキデータで異なる公式ウェブサイト
+

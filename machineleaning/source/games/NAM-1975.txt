@@ -1,0 +1,321 @@
+
+
+
+
+
+NAM-1975
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+NAM-1975ジャンル
+アクションシューティング対応機種
+アーケード (AC)
+対応機種一覧
+ネオジオ (NG)ネオジオCD (NGCD)Windows (Win)WiiPlayStation 4 (PS4)Xbox One (XB1)Windows Apps (WA)Nintendo Switch (NS)
+開発元
+SNK発売元
+SNKプロデューサー
+川崎英吉音楽
+おさかようこ人数
+1 - 2人（同時プレイ）メディア
+業務用基板（7.06メガバイト）稼働時期
+ 199004261990年4月26日
+発売日一覧
+NG 199004261990年4月26日 199107011991年7月1日NGCD 199409091994年9月9日 199409091994年9月9日Win 201106012011年6月1日Wii 201301222013年1月22日 201304042013年4月4日PS4,XB1INT 201703022017年3月2日NSINT 201703092017年3月9日WAINT 201712152017年12月15日
+対象年齢
+ CERO：B（12才以上対象） ESRB：T（13歳以上） PEGI：12コンテンツアイコン
+ 暴力 Fantasy Violence, Mild Blood Violenceデバイス
+8方向レバー4ボタンシステム基板
+MVSCPU
+MC68000 (@ 12 MHz)サウンド
+Z80 (@ 4 MHz)YM2610 (@ 8 MHz)ディスプレイ
+ラスタースキャン横モニター320×224ピクセル59.19Hzパレット4096色テンプレートを表示
+『NAM-1975』（ナム1975）は、1990年にSNK（旧社）から稼動されたアーケード用アクションシューティングゲーム。家庭用バージョン「ネオジオ」で、他の数作と同時に、同年の4月26日に発売された（いわゆるローンチタイトル）。
+ベトナム戦争末期を舞台としており、主人公のシルバー中尉とブラウン中尉を操作し、誘拐されたR.マックリー博士とその娘ナンシーを救出するのを目的としている。
+1994年にはネオジオCD用ソフトとして発売された他、2011年Windows用ソフトとしてプロジェクトEGGにて、2013年にはWii用ソフトとしてバーチャルコンソールにて、2017年にはPlayStation 4およびXbox One、Nintendo Switch用ソフトとしてアケアカNEOGEOにて配信された。
+アーケード版はゲーム誌『ゲーメスト』の企画「第4回ゲーメスト大賞」（1990年度）にてベスト演出賞9位を獲得した。
+
+目次
+
+1 概要
+2 ゲーム内容
+
+2.1 システム
+2.2 武器
+
+
+3 ストーリー
+4 移植版
+5 スタッフ
+6 評価
+7 脚注
+8 外部リンク
+
+
+概要[編集]
+ネオジオの第1作で、フルボイスの実現、フレームレートの高さや多彩なグラフィックパターン、音楽の質などの点において当時の家庭用ゲーム機を圧倒していた。また初期の作品のため、後のネオジオに見られるネオジオロゴアニメーションは本作にはない。
+
+ゲーム内容[編集]
+システム[編集]
+主人公はシルバー中尉（1P）とブラウン中尉（2P）で、2人同時プレイも可能。また女性捕虜（クリス・ヘルパー）を助けることにより一緒に戦ってくれる。
+本作のステージは全6面。最終ボスはデフォルトではコンティニュー不可能となっている。なお、コンティニューできるように設定を変更する事は可能。
+
+武器[編集]
+本作には射撃用の武器と投擲用武器の2種類がある。
+射撃用の武器は次のようなものがある。
+
+マシンガン - 初期装備の武器。
+バルカン - マシンガンよりも強力な武器。
+ミサイル - 爆風が発生し、その範囲内の敵を一掃できるミサイルが撃てる。
+ファイア - 射程距離内の敵にまとめてダメージを当たられる。
+一方、投擲用の武器は次のようなものがある。
+
+手榴弾 - 震盪性の爆破で敵を倒すことができる。
+スパークボム - 手榴弾よりも強力で、誘爆を起こすこともできる。
+ナパーム爆弾 - 範囲内の敵を一掃できる。
+ストーリー[編集]
+舞台はベトナム戦争末期の戦場で、シルバー中尉とブラウン中尉はアメリカ陸軍の科学者R.マックリー博士、そしてやはり誘拐されNAMに投獄されていると思われる博士の娘のナンシーを救出する使命を与えられる。
+しかし任務を遂行していく過程で、マックリー博士こそが世界を破滅に導く巨大レーザーキャノン砲を造ろうとしているマッドサイエンティストであることが判明する。
+
+移植版[編集]
+
+
+No.
+
+タイトル
+
+発売日
+
+対応機種
+
+開発元
+
+発売元
+
+メディア
+
+型式
+
+備考
+
+
+1
+
+NAM-1975
+
+ 199004261990年4月26日 199107011991年7月1日
+
+ネオジオ
+
+SNK
+
+SNK
+
+ロムカセット
+
+NGH-001
+
+
+
+
+2
+
+NAM-1975
+
+ 199409091994年9月9日 199409091994年9月9日
+
+ネオジオCD
+
+SNK
+
+SNK
+
+CD-ROM
+
+ NGCD-001 NGCD-001E
+
+
+
+
+3
+
+NAM-1975
+
+ 201106012011年6月1日
+
+Windows
+
+SNK
+
+D4エンタープライズ
+
+ダウンロード（プロジェクトEGG）
+
+-
+
+
+
+
+4
+
+NAM-1975
+
+ 2013年1月22日[1][2] 201304042013年4月4日
+
+Wii
+
+SNK
+
+D4エンタープライズ
+
+ダウンロード（バーチャルコンソール）
+
+-
+
+
+
+
+5
+
+NAM-1975
+
+INT 2017年3月2日[3][4]
+
+PlayStation 4Xbox One
+
+ハムスター
+
+ハムスター
+
+ダウンロード（アケアカNEOGEO）
+
+PS4:CUSA-06688
+
+
+
+
+6
+
+NAM-1975
+
+INT 2017年3月9日[5]
+
+Nintendo Switch
+
+ハムスター
+
+ハムスター
+
+ダウンロード（アケアカNEOGEO）
+
+-
+
+
+
+
+7
+
+NAM-1975
+
+INT 201712152017年12月15日
+
+Windows Apps
+
+ハムスター
+
+ハムスター
+
+ダウンロード
+
+-
+
+
+
+スタッフ[編集]
+プロデューサー：川崎英吉 (GOD!)
+メイン・ディレクター：DACHIPEE
+サブ・ディレクター：FUKUPEE (NEW FACE)
+プログラマー：ZAC、KURASAN (NEW FACE)
+デザイン、チーフ：SATOPEE (NICE GUY)
+デザイナー：NAKAPEE、FUKUPEE、SATOPEE、ISHIPEE、MIYOPEE (BACK TO TOKYO)、KAWAPEE (NEW FACE)、SAKAPEE (NEW FACE)、YAMAPEE (NEW FACE)
+サウンド：おさかようこ (BEAUTIFUL!)
+評価[編集]
+ネオジオ版の評価集計結果媒体結果GameRankings70%[6]レビュー結果媒体結果AllGame[7]GameFan364 / 400[8]GamePro21 / 25[9]Mean Machines71%[10]The Games Machine81%[11]Joystick96%[12]Mega Fun85%[13]85%[14]ネオジオフリーク7/20[15]受賞媒体受賞第4回ゲーメスト大賞ベスト演出賞 9位[16]
+移植版の評価レビュー結果媒体結果NintendoLife7/10点 (Wii)[17]Nintendo World Report7/10点 (NS)[18]Cubed38/10点 (NS)[19]Digitally Downloaded (NS)[20]
+ゲーム誌『ゲーメスト』誌上で行われていた「第4回ゲーメスト大賞」（1990年度）において、読者投票によりベスト演出賞で9位を獲得した[16]。
+ゲーメストムック『ザ・ベストゲーム』（1991年）内の「ビデオゲームフルリスト」の紹介文では、「多彩な武器を使いこなしベトナムを突き進む、かなり暗い雰囲気のゲーム」と世界観に関しては否定的だが、「46メガはだてじゃなくグラフィックには目をみはる」とグラフィックに関して肯定的なコメントで紹介されている[21]。
+ネオジオ版発売時は批評家から肯定的な反応を受けた。1999年にGameFanではSuper Teeterが肯定的な見解を示し、本作の様々な部分を賞賛しつつ高難易度を指摘した[22]。
+ネオジオフリークが1997年に同誌で行ったネオジオゲームツインレビューでは3、4の7点[15]。レビュアーはデモはかなりインパクトがあるがネオジオ版発売当初は面白かったが1997年時点ではキャラが小さく弾が見難い、一見ガンシューティングだがアクションでもあるため難易度はかなり高く後半以降は普通の人ではクリアできないとした[15]。
+
+脚注[編集]
+[脚注の使い方]
+
+
+^ “「バーチャルコンソール」1月22日配信開始タイトル ― NEOGEO『NAM-1975』”. エキサイトニュース.   エキサイト (2013年1月21日). 2019年5月3日閲覧。
+
+^ “「バーチャルコンソール」1月22日配信開始タイトル ― NEOGEO『NAM-1975』”. iNSIDE.   イード (2013年1月21日). 2019年5月3日閲覧。
+
+^ “「アケアカNEOGEO」，「NAM-1975」が3月2日に配信” (日本語). 4Gamer.net.   Aetas (2017年2月28日). 2019年5月3日閲覧。
+
+^ にじ (2017年2月28日). “『NAM-1975』がアケアカNEOGEOシリーズ第8弾タイトルとして3月2日より配信開始” (日本語). 電撃オンライン.   KADOKAWA. 2019年5月3日閲覧。
+
+^ “Nintendo Switch『アケアカNEOGEO NAM-1975』3月9日配信が決定！” (日本語). ファミ通.com.   KADOKAWA (2017年3月8日). 2019年5月3日閲覧。
+
+^ “NAM-1975 for NeoGeo”.   GameRankings. 2018年10月21日閲覧。
+
+^ Knight, Kyle. “Nam-1975 (Neo Geo Advanced Entertainment System) - Review”. オールゲーム. 2014年11月15日時点のオリジナルよりアーカイブ。2018年10月21日閲覧。
+
+^ “Viewpoint - SNK - NAM 1975”. GameFan (Shinno Media) 1 (5):  16. (April 1993). https://archive.org/details/Gamefan_Vol_1_Issue_05/page/n15. 
+
+^ “Neo Geo For Real! - Previously Played... - 'Nam '75”. GamePro (IDG) (30):  103. (January 1992). https://archive.org/details/GamePro_Issue_030_January_1992/page/n106. 
+
+^ Rignall, Julian (February 1990). “Complete Guide to Consoles - The Complete Games Guide - Neo Geo - NAM 1975”. Mean Machines (EMAP) (4):  86-88. https://archive.org/details/Complete_Guide_to_Consoles_Volume_IV_1990_EMAP_Publishing_GB/page/n85. 
+
+^ Candy, Robin (August 1990). “Consoles - A Real Mean Machine - NAM 1975”. The Games Machine (Newsfield Publications) (33):  22. https://archive.org/stream/the-games-machine-33/TheGamesMachine33#page/n21/mode/1up. 
+
+^ Destroy, J.M (September 1990). “Tests - Neo Geo - NAM-1975”. Joystick (Anuman Interactive) (8):  116.  オリジナルの2018-10-21時点におけるアーカイブ。. https://web.archive.org/web/20181021190914/http://download.abandonware.org/magazines/Joystick/joystick_numero008/joystick%20-%20N008%20-%20septembre%201990%20-%20page116%20et%20page117.jpg 2018年10月21日閲覧。. 
+
+^ Noak, Philipp; Hellert, Stefan (August 1993). “Special - Neo Geo - NAM 1975”. Mega Fun (CT Computec Verlag GmbH & Co. KG) (11):  28-30.  オリジナルの2018-10-21時点におけるアーカイブ。. https://web.archive.org/web/20181021232116/http://www.kultboy.com/index.php?site=t&id=8807&s=3 2018年10月21日閲覧。. 
+
+^ Noak, Philipp; Hellert, Stefan (April 1994). “Oldie Ecke - NAM 1975 - Neo Geo”. Mega Fun (CT Computec Verlag GmbH & Co. KG) (19):  123.  オリジナルの2018-10-21時点におけるアーカイブ。. https://web.archive.org/web/20181021232206/http://www.kultboy.com/index.php?site=t&id=7324 2018年10月21日閲覧。. 
+
+^ a b c ネオジオフリーク1997年6月号 124ページ
+
+^ a b 「ゲーメスト大賞11年史」『GAMEST MOOK Vol.112 ザ・ベストゲーム2 アーケードビデオゲーム26年の歴史』第5巻第4号、新声社、1998年1月17日、 18 - 19頁、 ISBN 9784881994290。
+
+^ Dillard, Corbie (2013年4月12日). “NAM-1975 Review (Neo Geo)”.   Nintendo Life. 2018年10月22日閲覧。
+
+^ Rose, Bryan (2017年4月19日). “NAM-1975 (Switch) Review - One of the first NEO-GEO games released can be fun while it lasts”.   Nintendo World Report. 2018年10月23日閲覧。
+
+^ Jury, Shane (2017年3月31日). “ACA NeoGeo: NAM-1975 (Nintendo Switch) Review”.   Cubed3. 2018年10月23日閲覧。
+
+^ L., Harvard (2017年4月6日). “Short & Sweet Reviews: Nintendo Switch Neo Geo Edition”. digitallydownloaded.net. 2018年10月23日閲覧。
+
+^ 「ビデオゲーム フルリスト」『ザ・ベストゲーム 月刊ゲーメスト7月号増刊』第6巻第7号、新声社、1991年7月1日、 175 - 216頁、 ASIN B00BHEECW0。
+
+^ Teeter, Super (June 1999). “The Graveyard - Magician Lord”. GameFan (Shinno Media) 7 (6):  96. https://archive.org/details/Gamefan_Vol_7_Issue_06/page/n98. 
+
+
+外部リンク[編集]
+NAM-1975 for NEOGEO（プロジェクトEGG） - ウェイバックマシン（2016年3月5日アーカイブ分）
+NAM-1975（バーチャルコンソール）
+ハムスターアーケードアーカイブス公式サイト NAM-1975（PS4版）
+ハムスターアーケードアーカイブス公式サイト NAM-1975（Xbox One版）
+ハムスターアーケードアーカイブス公式サイト NAM-1975（Nintendo Switch版）
+NAM-1975 KLOV （英語）
+NAM-1975 - MobyGames（英語）
+
+
+この項目は、コンピュータゲームに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（P:コンピュータゲーム / PJコンピュータゲーム）。
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=NAM-1975&oldid=79331447」から取得
+カテゴリ: 1990年のアーケードゲームSNKのゲームソフトWii用バーチャルコンソール対応ソフトアーケードアーカイブス対応ソフトアクションシューティングゲーム戦争ゲーム日本で開発されたコンピュータゲームネオジオ用ソフトプロジェクトEGG対応ソフトベトナム戦争を題材とした作品隠しカテゴリ: コンピュータゲーム関連のスタブ記事
+

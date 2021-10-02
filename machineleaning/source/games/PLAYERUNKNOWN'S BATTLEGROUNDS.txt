@@ -1,0 +1,810 @@
+
+
+
+
+
+PlayerUnknown's Battlegrounds
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+（PLAYERUNKNOWN'S BATTLEGROUNDSから転送）
+
+
+ナビゲーションに移動
+検索に移動
+PlayerUnknown's Battlegrounds
+プレイヤーアンノウンズ バトルグラウンズジャンル
+バトルロイヤルゲーム対応機種
+Microsoft WindowsXbox OnePlayStation 4iOSAndroid開発元
+PUBG Corporation[1]発売元
+PUBG Corporation（Windows, Steam[1], PS4）DMM GAMES（日本のみ）テンセントゲームズ（中国のみ）マイクロソフト（Xbox One）プロデューサー
+キム・チャンハン（김창한）ディレクター
+ブレンダン・グリーン ジャン・テソク（장태석）デザイナー
+ブレンダン・グリーン美術
+ジャン・テソク（장태석）人数
+最大100人メディア
+PS4/XBOne：BD-ROM発売日
+2017年12月20日（PC）2017年12月12日（Xbox Oneプレビュー版）2018年9月4日（Xbox One製品版）2018年12月7日（PS4DL版）2019年1月17日(PS4パッケージ版)対象年齢
+CERO：D（17才以上対象）ESRB：T（13歳以上）USK：18（18歳未満提供禁止）PEGI：16ACB：MA15+コンテンツアイコン
+CERO:暴力エンジン
+Unreal Engine 4売上本数
+6000万本（2019年12月時点）[2]その他
+Xbox One:HDRおよびXbox One X Enhancedに対応PS4:HDRおよびPS4 Pro Enhancedに対応[3]テンプレートを表示
+
+
+動作環境
+
+
+
+
+
+
+
+最小動作環境
+
+推奨動作環境
+
+
+Windows
+
+
+OS
+
+Windows 7/Windows 8.1/Windows 10（64ビット版）
+
+
+CPU
+
+Intel Core i5-4430/AMD FX-6300
+
+Intel Core i5-6600K/AMD Ryzen 5 1600
+
+
+メモリ
+
+8GB
+
+16GB
+
+
+HDD空き容量
+
+30GB以上
+
+
+グラフィックカード
+
+NVIDIA GeForce GTX 960 2GB/AMD Radeon R7 370 2GB
+
+NVIDIA GeForce GTX 1060 3GB/AMD Radeon RX 580 4GB
+
+
+ネットワーク
+
+ブロードバンドインターネットコネクション[4]
+
+
+『PlayerUnknown's Battlegrounds』（プレイヤーアンノウンズ バトルグラウンズ、略称：PUBG）は、韓国のデベロッパーBlueholeの子会社[5]であるPUBG Corporationが開発しているバトルロイヤルゲーム。
+2017年3月24日にSteamで早期アクセス版の配信が開始され、2017年12月20日（日本時間では2017年12月21日）に正式版としてリリースされた[6]。
+Xbox One版は2017年12月12日にプレビュー版が発売されたが、ディスクメディアではなく紙箱にダウンロードカードが入る形であった[7]。その後、Xbox One版は2018年9月4日に製品版が発売され、パッケージ版ではディスクメディアで発売された。
+PlayStation 4版は2018年12月7日からダウンロード版が発売。『アンチャーテッド』シリーズのネイサンのコスチュームや『ラストオブアス』のエリーのバックパックなどの追加要素がある[8]。2019年1月17日からはパッケージ版も発売[9]。
+2018年5月16日に日本でもiOSとAndroid版の「PUBG MOBILE」の配信を開始した[10]。また、2019年12月13日には低スペックPC向けに無料の「PUBG LITE」の日本版を正式リリースした[11]。
+
+目次
+
+1 概要
+2 ゲーム内容
+3 制作の経緯
+
+3.1 日本語版
+
+
+4 登場する銃器や武器
+5 反響
+
+5.1 中国プレイヤーの隔離
+5.2 フォートナイトとの類似性
+5.3 競合類似タイトルの訴訟
+5.4 チートツールの販売組織の逮捕
+
+
+6 PUBG Lite
+7 eスポーツ
+
+7.1 試合方式
+7.2 出場チーム
+7.3 PUBG JAPAN SERIES リーグ結果
+
+7.3.1 関連大会結果
+
+
+
+
+8 脚注
+
+8.1 注釈
+
+8.1.1 PJS関連
+
+
+8.2 出典
+
+
+9 関連項目
+10 外部リンク
+
+
+概要[編集]
+最大100人のプレイヤーが、フィールド内にある装備などを駆使して最後の1人になるまで戦い抜くバトルロイヤル形式のサードパーソン・シューティングゲーム（ファーストパーソン・パースペクティブ（FPP）モードも追加された）であり、ストーリーも存在しない[12]。熾烈な激闘に勝ち抜き、見事第1位を勝ち取ったとき、日本語版では「勝った! 勝った! 夕飯はドン勝だ!!」と画面に表示される（英語版では"WINNER WINNER CHICKEN DINNER!"との表示）[13]。また、2人タッグや（最大）4人スクワッドでのチーム戦モードも用意されている。
+『ARMA 3』のMODの製作者で、「PlayerUnknown」というハンドルネームで知られるブレンダン・グリーン（Brendan Greene）をクリエイティブ・ディレクターに迎えて開発されている[14]。
+
+ゲーム内容[編集]
+プレイヤーを乗せた航空機がランダムな位置と方向からフィールドの上空へ飛行し、プレイヤーは任意のタイミングで飛び降り、目的地までパラシュートも駆使し降下する。
+マップには孤島、砂漠、密林、雪原、荒野があり、フィールドには平原、森、丘といった自然地形の他、家や小屋、畑、集落、倉庫、地下壕、軍事基地、遺跡等といった、多様な建造物が存在する。
+衣服などのコスチュームを除いてアイテムを一切所持していない状態でゲームを開始するので、武器や装備は各地の小屋などの建造物などから入手しなければならない。アイテムには、各種銃火器（実在のものが採用されている。ただし一部の武器は商標により実際の名称と異なるものがある）とその弾薬、サプレッサーや照準器等のオプション、フライパンやバールなどの近接武器、防弾ベスト、ヘルメット、バックパックといった装備、包帯などの回復アイテム、フラググレネードやスモークグレネード、エナジードリンクなどの補助アイテムがある。
+またマップ中には車やバイク、ボートなどの乗り物が存在し、移動に用いることができる。
+ゲーム開始から一定時間が経過するとプレイエリアが設定され、時間経過とともに狭まっていく。プレイエリア内外の境界には青白いバリアがあり、その外側に出てしまうとゆっくりダメージを受けてしまう。プレイエリアの内側に暫く入らずにプレイすると、HPが0になり死亡する。このシステムによって、生存人数が少なくなる終盤でも敵プレイヤーと遭遇するようになっている。プレイエリアが予告されると、一定時間のカウントダウンが終了した後に縮小を開始し、縮小が完了したら更に小さい次のプレイエリアが予告される。また、エリア外でプレイしている場合に受けるダメージは時間が経過すると大きくなり、中盤終盤でプレイエリアの外でプレイすることはほぼ不可能になる。
+ゲーム中は、ケアパッケージ(補給物資)と呼ばれるボックスが複数回プレイエリア内のランダムな地点に投下される。飛行機が上空を通過し、飛行機から物資が投下されることで音と目視でケアパッケージの存在をプレイヤーに知らせる。ケアパッケージには、構造物などからは入手できない性能の良い武器や、最大レベルのヘルメット等、強力な物資が封入されている。
+他に、ゲーム中は不定期に爆撃が行われ、爆撃範囲は爆撃の少し前から予告される。場所は完全にランダムで、推測することはできない。
+デュオまたはスクワッドの場合は、HPが0となっても死ぬことはなく、気絶状態となる。気絶状態でも四つん這いでゆっくりと移動することはできる。プレイヤーは気絶状態の味方を10秒かけて通常状態に復帰させることができる。気絶状態になるとHPが100になり、出血ダメージを毎秒受けるようになる。このまま、ダメージを更に受けるか一定時間が経過することでHPが0になると死亡し、復帰できなくなる。プレイ中は生存プレイヤー数が各プレイヤーに表示されている。また、PC版では味方に対しての攻撃でもダメージは発生し(いわゆる「フレンドリーファイア」)、Mobile版では一部の手段を除いて、味方に対する攻撃でダメージは発生しない(車両爆破•事故など)。
+
+制作の経緯[編集]
+この節は検証可能な参考文献や出典が全く示されていないか、不十分です。出典を追加して記事の信頼性向上にご協力ください。出典検索?: "PlayerUnknown's Battlegrounds" – ニュース · 書籍 · スカラー · CiNii · J-STAGE · NDL · dlib.jp · ジャパンサーチ · TWL（2018年4月）
+2013年ごろ、アイルランド人でブラジルを拠点に写真家やデザイナーなどとして生活していたグリーンは『ARMA 2』のMODである『DayZ』に熱中し、これをもとに、2000年の日本映画『バトル・ロワイアル』に強い影響を受けた新たなMOD『DayZ: Battle Royale』を制作した。
+『DayZ』が独立したゲームになったことでグリーンは、『DayZ』への関心を失い、『ARMA 3』のMODとして制作を継続した。これがソニーオンラインエンタテインメント（現在のデイブレイクゲーム）の目に留まり、グリーンを同社の『H1Z1』の制作顧問として招聘してバトル・ロワイアルのアイデアを展開させた。2016年に『H1Z1』はバトル・ロワイアルモードの『H1Z1: King of the Kill』と、サバイバルモードの『H1Z1: Just Survive』という二つのゲームに分割されている。
+ソニーオンラインエンタテインメントを退社後、グリーンは韓国のBluehole Ginno Gamesからの誘いを受けた。同社の前身であったGinno GamesはPC向けのMMOゲームを制作する会社で、モバイル向けゲーム大手のBlueholeに買収されていた。同社は国際的に展開できるゲームの開発を模索し、同時に開発にかける時間があまりないためゲームをアーリーアクセス（早期アクセス）方式でリリースすることを考えた。同社はグリーンに、『DayZ: Battle Royale』を独立したゲームにすることを提案した。話はとんとん拍子に進み、グリーンは韓国に移り、同国のゲーム企業でも前例のない外国人のクリエイティブ・ディレクターとして本作の開発に取り掛かることになった。
+
+日本語版[編集]
+本作がアジアでも人気が出たため、開発チームが日本語版の開発を考えていた矢先、DMM GAMESがオファーした[15]。本作の日本語版の特徴の一つである「勝った!勝った!夕飯はドン勝だ!!」という勝利メッセージについて、プロデューサーのキム・チャンハンは4Gamer.netとのインタビューの中で、勝利メッセージの「WINNER WINNER CHICKEN DINNER!」を日本語にアレンジする際、日本語のわかるスタッフから「カツ」が「勝つ」に似ていることを聞き、意図したダジャレとしてこのような表記にしたと述べており、「ドン勝」が「カツ丼」と「豚カツ」のどちらかを指しているかというわけではないとした[15]。
+
+登場する銃器や武器[編集]
+
+
+ハンドガン
+
+P1911
+P92
+R45
+R1895
+P18C
+ソードオフ(SG)
+Skorpion
+Deagle
+
+
+SMG
+
+UMP9/UMP45
+Micro UZI
+Vector
+Tommy Gun
+PP-19
+MP5K
+P90
+
+
+SG
+
+S686
+S1897
+S12K
+DBS
+M1014
+
+
+AR
+
+M416
+SCAR-L
+M16A4
+AKM
+Groza
+AUG
+Mk47
+M762
+QBZ
+G36C
+FA-MAS
+
+
+LMG
+
+M249
+DP-28
+
+
+SR
+
+AWM
+Kar98k
+M24
+Win94
+Mosin Nagant
+
+
+DMR
+
+Mini14
+SKS
+Mk14
+SLR
+QBU
+VSS
+クロスボウ
+Mk12
+
+
+近接武器
+
+マチェット
+バール
+鎌
+フライパン
+
+
+反響[編集]
+Blueholeが韓国で本作の積極的なマーケティングを行っていたため、本作は韓国のネットカフェで2番目か3番目の人気を誇り、その人気ぶりは『オーバーウォッチ』並みだった[15]。バトルロワイアルというゲーム性から日本でも本作の人気が高まった[15]。
+
+中国プレイヤーの隔離[編集]
+製品版発売後も定期的にアップデートを行ってきたゲームながらチートプログラム使用者が後を絶えず、果ては公式大会ですら不審な挙動のプレイヤーが出現する[16]など、依然としてチートが問題視されている。また、「開発・運営の調査によるとチート使用者の99%が中国からのアクセスであることが判明し、ブレンダン・グリーンから発表された[17]」とされる情報が日本国内のソーシャルメディアで広く拡散されるなど、中国人ユーザーに対する憎悪が高まった[注釈 1]。
+このためSteamコミュニティ上では中国のプレイヤーを既存サーバーから隔離することが熱望されているが、未だ運営から物理的にサーバー隔離を行う予定の発表は無い。Ping差を利用したマッチングこそ採用されたものの[18]、日本・オセアニアなど中国と地理的に近くPing差が起きにくい地域のプレイヤーからは「中国のチーターと一緒に私達も隔離されてしまったのでは」と懸念の声が挙がっている。これ以降#RegionLockChinaというハッシュタグ、同内容のアスキーアートの投稿が、Steam上での公式アナウンスのコメント欄あるいはゲームのレビュー欄を埋め尽くすという現象が続いている。タグと同名のサーバー隔離を求めるネット署名活動も始まり、2018年3月現在すでに10000人の署名が集まっている[19]。
+
+フォートナイトとの類似性[編集]
+2017年9月22日、『PUBG』のプロデューサー、キム・チャンハンは「『フォートナイト』のバトルロイヤルモード」（以下「Fortnite」）が『PUBG』のゲームプレイと類似していることに懸念を示す発表をした[20]。同氏は、『PUBG』に採用されているUnreal Engine4、および「Fortnite」の開発元であるEpic Gamesとビジネス関係を築いていることを明らかにしながらも、「Fortnite」による『PUBG』のゲーム体験の複製や、「Fortnite」の宣伝活動における、許可の無い『PUBG』への言及について、懸念を示した。これについてAUTOMATONのRyuki Ishiiは、Blueholeはバトルロイヤルというアイデア自体を占有したいのではなく、あくまで『PUBG』に類似し過ぎていることへの懸念を示しているとコメントしている[20]。
+2018年3月21日、調査会社SuperDataは、「Fortnite」の月間売上が『PUBG』を超えたと発表した[21]。注意すべきなのは、『PUBG』はゲーム本体の売上げが主な収入源であるのに対して、「Fortnite」は基本プレイ無料で、スキンアイテムの販売を主な収入源にしているという点である。「フォートナイト」がゲームモードやスキンアイテムを高頻度で更新するのに対し、『PUBG』は課金要素の有料ルートボックスの更新頻度も高くなく、期間で取得できる上限も決まっている。ただ『PUBG』も2018年のロードマップで、新機能の実装を発表している[22]。Twitchの視聴者数では、2018年2月に「Fortnite」が『PUBG』を抜いている。
+
+競合類似タイトルの訴訟[編集]
+『PUBG』の開発、運営元であるPUBG Corporationは、2018年4月2日付でNetEaseのタイトル『荒野行動』『Rules of Survival』に対して、『PUBG』の著作権を侵害するものだとして、配信差し止めと損害賠償を求める訴状をカリフォルニア州北部地区連邦地方裁判所に提出したと、海外メディアのPCGamesNが報じている[23]。これについては、ファミ通Appも独自にPUBG Corporationに問い合わせを行い、提訴が事実であることを確認している[24]。過去に『フォートナイト』について懸念を示したことはあるが、具体的な類似性の高いタイトルとして訴訟が行われるのは今回が初である[25]。今回の訴訟に踏み切った経緯として、PUBG Corporationは、2018年1月にApple経由で苦情申し立てを行い、訴状もNetEaseに送っているが、NetEaseが『PUBG』の著作権を認めなかったためだとしている。ファミ通は、PUBG Corporationが勝訴した場合、アプリストアから『荒野行動』『Rules of Survival』の両タイトルが消える可能性があるとしている[24]。これに対し、NetEaseは『荒野行動』の訴訟報道に対する公式コメントを発表し、サービス終了のデマを否定したうえで、著作権侵害の事実は一切無いものとし、正当性を今後の裁判で明らかにしていくとしている[26]。2019年3月にPUBG CorporationとNetEaseが和解したと発表があった[27][28]。
+2018年1月、PUBG Corporationは、『フォートナイト』が『PUBG』の特徴をコピーしているとして、『フォートナイト』の韓国でのサービス中断を求めてソウル中央地方裁判所に「著作権侵害禁止仮処分申請」を提出した[29]。しかし、その後2018年6月にPUBG Corporationは訴訟取り下げを行っており、関連する裁判も終了した[30]。
+
+チートツールの販売組織の逮捕[編集]
+PUBG Corporationは、2018年1月にBlueholeの大株主[31]で『PUBG』モバイル版の開発を手掛けるテンセントから協力を得、120名のチートツール制作者を逮捕したほか、同年4月27日、中国の『PUBG』のチートツール開発・販売に関わっていた15名の容疑者を逮捕したと発表した[32]。チートツールの中には、ハッキングプログラムを含み、チートツールを使用したプレイヤーの個人情報を抜き出すものもあった。
+
+PUBG Lite[編集]
+PlayerUnknown's Battlegrounds Liteプレイヤーアンノウンズ バトルグラウンズ ライトジャンル
+バトルロイヤルゲーム対応機種
+Microsoft Windows開発元
+PUBG Corporation発売元
+PUBG Corporation人数
+最大100人メディア
+基本無料（アイテム課金）発売日
+2019年12月3日エンジン
+Unreal Engine 4テンプレートを表示
+
+
+動作環境
+
+
+
+
+
+
+
+最小動作環境
+
+推奨動作環境
+
+
+Windows
+
+
+OS
+
+Windows 7/Windows 8/Windows 10（64ビット版）
+
+
+CPU
+
+Intel Core i3 2.4GHz
+
+Intel Core i5 2.8GHz
+
+
+メモリ
+
+4GB
+
+8GB
+
+
+HDD空き容量
+
+4GB以上
+
+
+グラフィックカード
+
+Intel HD Graphics 4000
+
+NVIDIA Geforce GTX 660/AMD Radeon HD 7870[33]
+
+
+PUBG LITEは、PUBGの軽量版である。描画品質が落とされて軽量化され、必要動作環境が大きく下がっているのが特徴。また、武器の反動が抑えられており、全体的にカジュアルになっている[34]。
+PUBG LITEでは、PUBGにはないARCADEモードが存在する。ARCADEモードには、4対4のデスマッチ形式のBodieと、自分以外の7人のプレイヤーと戦う、フリーフォーオール形式のPeriverkaの2種類がある[35]。
+クレートから入手できる衣装類も、PUBGより派手なものが多くなっている[35]。
+2021年4月29日14:00 サービス終了と同時に公式サイトも閉鎖された。
+
+eスポーツ[編集]
+PUBG JAPAN SERIES Grade 1最新シーズン・大会:Season 6後継PUBG Japan Championship競技PUBG開始年2018年参加チーム16国 日本最終年2020年最終優勝DetonatioN Gaming White降格先PUBG JAPAN SERIES Grade 2国内カップ戦PUBG Winter Invitational国際カップ戦PUBG Global Champion Shipトーナメント形式ゲーム内のeSportsルールでの16チームによる同時対戦公式サイトPJS公式サイト
+PUBG JAPAN SERIES Grade 2競技PUBG開始年2018年参加チーム16国 日本昇格先PUBG JAPAN SERIES Grade 1降格先PUBG JAPAN SERIES PaRトーナメント形式ゲーム内のeSportsルールでの16チームによる同時対戦公式サイトPJS公式サイト
+PUBGはPC, Mobileのプラットフォームを問わず日本のプロゲーミングチームにも良くプレイされており、エレクトロニック・スポーツとしての一面が形成されている。『PUBG』用のチームを編成しているプロゲーミングチームには「DetonatioN Gaming」、「DeToNator」、「SCARZ」などがある[36][37][38]。
+DMM GAMESは、2018年1月から2020年12月まで、合計6回PC版PUBGのリーグPUBG JAPAN SERIES（通称：PJS）を開催した。[39]1シーズンの賞金総額は620万円で、上位チームは世界大会への招待権を得ることができる。
+大会と賞金規模の規模と日本チームの国際競争力を高めたい PUBG Corp. の方針により、PJS は2020年12月で終了した。
+PJSでは、Grade1・Grade2の2部構成になっていて、Grade1において参加者全員にリーグ参加報酬が、成績優秀チームに賞金が配布された。成績に応じて毎シーズンGrade 1,2の入れ替え及びGrade 2からの降格が行われた。
+Mobileの場合、iPad Proを代表とした「ハイスペックかつ画面が大きく拡張性の高い端末」はFPSや大きい画面による索敵のやりやすさ、UIの自由さが桁違いとなるため画面が小さいスマートフォンと比べると劇的に有利になりプレイヤーの実力外の要素となるためイコールコンディション化のためタブレット端末は使用禁止とするなど利用可能な機種を絞ったり大会スポンサーにスマートフォンメーカーが付いている場合は参加者がある程度ふるい落とされ決勝またはそれに近いマッチではスポンサー提供という形で参加選手全員に同じ機種を貸し出されることが多い。
+また、付属品も規定が存在し例えば端末本体に付けられるデバイスは表面保護フィルム・ガラスや滑り調整のため指へのパウダー塗布や指サックの着用は認められていることが多いが、ゲームコントローラーライクに出来るデバイスやキーボードなど画面タッチ以外でプレーを可能にするデバイスの装着は禁止などがある。
+
+試合方式[編集]
+16チームが1チーム4人で一斉に試合を行うスクアッド・バトルロワイヤル形式で試合を行う。
+原則1日6試合で6日間、計36試合を行う。全ての試合はチーム内で敵を倒した数と各試合内の順位によってスコアが決定され、スコアの合計で競う。
+試合は3日間ずつでPhase1・Phase2に分けられる。
+Grade1にPhase1・Phase2の両方で在籍していたチームの中から、Phase1・Phase2のスコアを合計した点数で、シーズンの優勝チームを決定する。
+Phase1・Phase2それぞれの終了時に、各Phase中のスコアによって、Grade1の下位4チームはGrade2に降格し、Grade2の上位4チームがGrade1に昇格する。また、Phase2の下位4チームはPaR(Promotion and Relegation)と呼ばれる入れ替え戦に降格する。
+Phase2の下位4チームと一般公募で集められた60チームの計64チームが参加するPaRから、上位4チームが次のシーズンのPhase1 Grade2に昇格する。
+出場チーム[編集]
+以下はSeason6 Phase2 Grade1の所属チームを記載する。
+
+
+
+
+
+チーム名
+
+タグ
+
+
+Sunsister
+
+SST
+
+
+ELEMENT.36
+
+E36
+
+
+DetonatioN Gaming White
+
+DGW
+
+
+Sengoku Gaming
+
+SG
+
+
+Rascal Jester
+
+RJ
+
+
+V3 FOX
+
+V3F
+
+
+Gaming Team SELECTOR
+
+GTS
+
+
+Ace1
+
+A1
+
+
+Zoo Gaming / Penguin
+
+ZOO
+
+
+GrimNight REDCELL
+
+GNR
+
+
+Crest Gaming Xanadu
+
+CGX
+
+
+3R gaming Lotus
+
+3RL
+
+
+Dandelion
+
+DL
+
+
+CYCLOPS athlete gaming
+
+CAG
+
+
+BlackBird Xeno
+
+BBX
+
+
+AnimationCafe InVeLz
+
+ACI
+
+PUBG JAPAN SERIES リーグ結果[編集]
+
+
+
+
+リーグ
+
+優勝チーム
+
+準優勝チーム
+
+Phase1 一位
+
+Phase2 一位
+
+
+PJS αリーグ
+
+SunSister Suicider’s
+
+Detonation Gaming
+
+SunSister Suicider's
+
+USG_Hyster1cJam
+
+
+PJS βリーグ
+
+Crest Gaming Xanadu
+
+Crast Gaming Rapid
+
+THE SHABLES
+
+Creast Gaming Xanadu
+
+
+PJS Season1
+
+SunSister Suicider’s
+
+Crest Gaming Xanadu
+
+SunSister Suicider's
+
+V3 FOX
+
+
+PJS Season2
+
+BLUE BEES
+
+Team RAYZE
+
+V3 FOX
+
+Crest Gaming Xanadu
+
+
+PJS Season3
+
+DetonatioN Gaming White
+
+Rascal Jester
+
+DetonatioN Gaming White
+
+Rascal Jester
+
+
+PJS Season4
+
+Rascal Jester
+
+SunSister
+
+Rascal Jester
+
+SunSister
+
+
+PJS Season5
+
+SunSister
+
+Creast Gaming Xanadu
+
+SunSister
+
+Creast Gaming Xanadu
+
+
+PJS Season6
+
+DetonatioN Gaming White
+
+SunSister
+
+SunSister
+
+DetonatioN Gaming White
+
+関連大会結果[編集]
+
+
+年
+
+大会名
+
+開催場所
+
+優勝
+
+主な日本チームの成績
+
+備考
+
+
+2018
+
+PUBG Global Invitational TPP
+
+ベルリン
+
+Oh My God
+
+14th Crest Gaming Xanadu
+
+[PJS 1]
+
+
+PUBG Global Invitational FPP
+
+Gen.G Gold
+
+15th Crest Gaming Windfall
+
+
+2019
+
+FACE IT global summit: PUBG Classic
+
+ロンドン
+
+🇰🇷OP Gaming Rangers
+
+17th BLUE BEES
+
+
+
+
+PUBG Global Championship 2019
+
+オークランド
+ロサンゼルス
+
+
+Gen.G
+
+22nd SunSister
+29th Rascal Jester
+
+
+[PJS 2]
+
+
+PJS Winter Invitational 2019
+
+東京
+
+Gen.G
+
+2nd Detonation Gaming White
+4th V3 FOX
+
+
+[PJS 3]
+
+
+2020
+
+PUBG Global Series: Bellin
+
+ベルリン
+
+中止
+
+出場権所持: SunSister
+
+[40]
+
+
+PCS: Charity Showdown - Asia
+
+オンライン
+
+Tianba
+
+8th DetonatioN Gaming White
+16th Sunsister
+
+
+[PJS 4][40][41]
+
+
+PCS1 tournaments: ASIA
+
+オンライン
+
+INFANTRY
+
+9th ELEMENT36. JAPAN
+14 Creast Gaming Xanadu
+
+
+
+
+
+PCS2 tournaments: ASIA
+
+オンライン
+
+
+
+SunSister
+ELEMENT36. JAPAN
+
+
+
+
+
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+
+^  日本語ソースの情報元となった英文記事では記事公開直後の2017年12月22日に「99%」の文言について訂正する更新があったものの、日本では更新が2019年4月4日まで見落とされていた。そのため主に日本語圏でチート使用者の99%が中国人であるとされる情報が拡散され続けた。
+
+
+PJS関連[編集]
+
+^ PUBG Global Invitational 2018は20チームで開催された。また、前半2日間をTPP、後半2日間をFPPで開き、それぞれ別の大会として成績を集計した。 賞金総額はFPP,TPPそれぞれUS$1,000,000。
+
+^ PGC2019はトーナメント形式32チームで開催された。準決勝までの6日間をオークランド、決勝の2日間をロサンゼルスで行った。賞金総額はUS$2,000,000に加えて、大会アイテムの売上分が加算される。
+
+^ PJS Winter Invitationalは、PJS Season4の12チームと、海外からの4チームの合計16チームで行われた。
+
+^ 2020年のPUBG Global Seriesが新型コロナウイルス感染症の影響によって中止となった事により、代替大会として開催された。
+
+
+出典[編集]
+
+
+^ a b “PlayerUnknown's Battlegrounds on Steam”.   Valve Corporation. 2018年1月29日閲覧。
+
+^ “『PUBG』総売上本数6,000万本突破―海外アナリスト調べ” (日本語). Game*Sparkt (2019年12月17日). 2020年7月22日閲覧。
+
+^ “PS4とPS4 Proでプレイした場合、どのような違いがありますか？” (日本語). PUBG PS4 Support. 2020年7月22日閲覧。
+
+^ “PUBGをプレイするために最小要件または推奨要件は？” (日本語). PUBG Support. 2020年7月22日閲覧。
+
+^ “Blueholeが『PUBG』の専門子会社を設立―グローバル展開に専念”.   gamespark.jp (2017年9月30日). 2018年1月29日閲覧。
+
+^ “Steam：PLAYERUNKNOWN'S BATTLEGROUNDS”.   Steam. 2017年3月13日閲覧。
+
+^ “Xbox One版「PUBG」の“プレビュー版”が国内で12月12日に発売へ”.   4Gamer.net. 2017年11月3日閲覧。
+
+^ PS4版『PUBG』、日本も12月7日発売決定！ 世界4億人がプレイするバトロワブームの火付け役が満を持して登場！ファミ通.com 2018年11月14日
+
+^ PS4版『PUBG』12月7日より国内発売決定！2019年1月にはパッケージ版もリリースGameSpark 2018年11月14日
+
+^ Inc, Aetas. “「PUBG MOBILE」のサービス開始日が5月16日の午前中に決定。事前登録数は90万を突破，5月15日まで受付中” (日本語). www.4gamer.net. 2020年1月5日閲覧。
+
+^ “基本プレイ無料『PUBG LITE』国内サービス開始は12月13日から！ アカウント発行特典もアップグレード” (日本語). Game*Spark - 国内・海外ゲーム情報サイト. 2020年1月5日閲覧。
+
+^ “Blueholeの「PLAYERUNKNOWN’S BATTLEGROUNDS」が好評”.   4Gamer.net (2017年3月28日). 2017年4月1日閲覧。
+
+^ “勝った!勝った!夕飯はドン勝だ!! 100人参加のバトルロイヤル「PLAYERUNKNOWN’S BATTLEGROUNDS」で最後の1人になってみた”.   4Gamer.net (2017年4月21日). 2017年5月3日閲覧。
+
+^ “韓国Bluehole、64人のプレイヤーが生き残りを懸けて戦う「PLAYERUNKNOWN’S BATTLEGROUNDS」を開発中”.   4Gamer.net (2016年7月14日). 2017年3月13日閲覧。
+
+^ a b c d 御月亜希 (2017年9月24日). “［TGS 2017］「ドン勝」とは一体なんなのか。「PLAYERUNKNOWN’S BATTLEGROUNDS」のディレクター&プロデューサーにインタビュー”. 2018年3月21日閲覧。
+
+^ “『PUBG』チャリティー大会参加者にチートの疑い―見えない敵に手榴弾を…”.   gamespark.jp. 2018年3月10日閲覧。
+
+^ Ryuki Ishii (2017年12月22日). “『PUBG』チーターの99%は中国のユーザであることが判明。累計プレイヤー数3000万人を突破したメガヒット作ならではの苦難”. AUTOMATON.   アクティブゲーミングメディア. 2018年3月21日閲覧。" 
+
+^ “『PUBG』PING制限マッチングが実装―ついにチーター隔離なるか”.   gamespark.jp. 2018年3月10日閲覧。
+
+^ “キャンペーン · Petition to #RegionLockChina”.   change.org. 2018年3月10日閲覧。
+
+^ a b “『PUBG』のBlueholeが『Fortnite Battle Royale』の類似性を指摘。ゲームエンジン提供者が競業相手になることを懸念して”.   AUTOMATON (2017年9月26日). 2018年3月24日閲覧。
+
+^ “『フォートナイト』の月間売上が『PUBG』を超えたとの報告。モバイル版も4日間で1.5億円と好調な滑り出し”.   AUTOMATON (2018年3月22日). 2018年3月24日閲覧。
+
+^ “『PUBG』2018年のロードマップ公開。待望の新マップ2種類、武器スキン、新ゲームモードなどが実装予定”.   AUTOMATON (2018年3月9日). 2018年3月24日閲覧。
+
+^ “PUBG Corp take legal action against “substantially similar” mobile games”.   PCGamesN (2018年4月5日). 2018年4月6日閲覧。
+
+^ a b “訴訟報道は事実。PUBG Corp.が『荒野行動』、『Rules of Survival』に対し配信差止請求”.   ファミ通.com (2018年4月6日). 2018年4月6日閲覧。
+
+^ “PUBG Corp.が『荒野行動』など2作品に「配信/開発の差し止め」訴訟を提起【UPDATE】”.   gamespark (2018年4月6日). 2018年4月6日閲覧。
+
+^ “『荒野行動』の訴訟報道について、NetEaseが公式コメントを発表”.   Appbank (2018年4月10日). 2018年4月30日閲覧。
+
+^ “「PUBG」が「荒野行動」を訴えた裁判が，両社の和解で終了するも和解内容については不明” (日本語). 4gamer.net. 2019年3月29日閲覧。
+
+^ “PUBG & NETEASE SETTLE “BATTLE ROYALE” COPYRIGHT LAWSUIT | The McArthur Law Firm” (英語). 2019年3月29日閲覧。
+
+^ “「PUBG」開発元が「フォートナイト」を著作権侵害で提訴 韓国でのサービス中断を求める”.   ねとらぼ (2018年5月29日). 2018年5月30日閲覧。
+
+^ “PUBG Corp、『フォートナイト』に対する訴訟を取り下げ”.   IGN Japan (2018年6月28日). 2018年7月1日閲覧。
+
+^ “Tencent May Invest $470 Million To Become PUBG Dev's Second Largest Shareholder”. Shacknews. 2018年7月31日閲覧。
+
+^ “『PUBG』のチートツールには、使用者の個人情報を抜き取るウイルスが混入されていた。15名の販売者逮捕にあわせて報告”.   AUTOMATON (2018年4月30日). 2018年4月30日閲覧。
+
+^ “DOWNLOAD”. PUBG LITE. 2020年7月24日閲覧。
+
+^ “低スペックPCでも快適な『PUBG LITE』をプレイ！ バトロワの金字塔がよりカジュアルに【特集】”. Game*Spark (2019年12月16日). 2020年7月24日閲覧。
+
+^ a b “PUBG LITE Survivor's Guide”. PUBG LITE. 2020年7月24日閲覧。
+
+^ “DetonatioN Gaming主催のPUBG大会にG-Tuneが協賛”.   週刊アスキー (2018年3月16日). 2018年3月22日閲覧。
+
+^ “DeToNatorが大阪でファンと交流。『Overwatch』と『PUBG』で盛り上がり、指でハートを作った”.   コネクト!オン.com (2017年10月24日). 2018年3月22日閲覧。
+
+^ “プロリーグを見据えた「PUBG」の公式リーグ、ついに堂々開幕!”.   GAME Watch (2018年2月11日). 2018年3月22日閲覧。
+
+^ “[famitsu.com/news/201712/26149004.html/ 『PUBG』国内公式大会“PUBG JAPAN SERIES αリーグ”の参加者募集が開始]”. ファミ通. 2019年9月22日閲覧。
+
+^ a b “2020 PUBG Esports アップデート: PUBG CONTINENTAL SERIES”. 2020年5月30日閲覧。
+
+^ “日本からは「SST」と「DGW」が出場！PUBG CONTINENTAL SERIES Charity Showdown観戦ガイド”. 2020年5月30日閲覧。
+
+
+関連項目[編集]
+PUBG Mobile Japan League
+バトル・ロワイアル (映画)
+フォートナイト (ゲーム)
+荒野行動
+外部リンク[編集]
+PlayerUnknown's Battlegrounds 公式サイト
+PlayerUnknown's Battlegrounds LITE 公式サイト
+PUBG MOBILE 公式サイト
+DMM GAMES版日本公式サイト
+PUBG JAPAN SERIES
+PUBG JAPAN SERIES公式グッズ通販サイト
+PUBG JAPAN 公式 (@PUBG_JAPAN) - Twitter
+PUBG_DMM (@pubg_dmm) - Twitter
+PUBG LITE 日本公式 (@PUBGLITE_JP) - Twitter
+PUBG MOBILE 日本公式 (@PUBGMOBILE_JP) - Twitter
+PUBG CONSOLE 日本公式 (@PUBG_CONSOLE_JP) - Twitter
+PUBG JAPAN Partners (@PUBGJP_Partners) - Twitter
+PUBG (@PUBG) - Twitter（英語）
+PUBG MOBILE - Facebook
+PlayerUnknown's Battlegrounds - Facebook（英語）
+PUBG JAPAN Series - Facebook
+PlayerUnknown's Battlegrounds (pubg) - Instagram（英語）
+PUBG Mobile (pubgmobile) - Instagram（英語）
+PJS OFFICIAL (pubg_dmm) - Instagram
+pubg.jp.official (@pubg.jp.official) - TikTok
+PUBG JAPAN Official - YouTubeチャンネル
+PUBG JAPAN SERIES - YouTubeチャンネル
+PUBG JAPAN SERIES MAP - YouTubeチャンネル
+公式Wiki（英語）
+
+
+この項目は、コンピュータゲームに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（P:コンピュータゲーム / PJコンピュータゲーム）。
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=PlayerUnknown%27s_Battlegrounds&oldid=83763824」から取得
+カテゴリ: 2017年のコンピュータゲームWindows用ゲームソフトXbox One用ソフトPlayStation 4用ソフトオンラインゲーム作品バトルロイヤルゲームオープンワールドゲームサードパーソン・シューティングゲームファーストパーソン・シューティングゲーム大韓民国で開発されたコンピュータゲームミリオンセラーのゲームソフト隠しカテゴリ: Formatnumの引数に数値以外が入っているページ出典を必要とする記事/2018年4月Div colで文字を小さくしているページコンピュータゲーム関連のスタブ記事
+

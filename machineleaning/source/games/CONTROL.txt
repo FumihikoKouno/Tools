@@ -1,0 +1,738 @@
+
+
+
+
+
+Control (コンピュータゲーム)
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+コントロールControlジャンル
+サードパーソン・シューティング、アクションアドベンチャー対応機種
+Microsoft WindowsPlayStation 4Xbox OneNintendo SwitchPlayStation 5Xbox Series X/S開発元
+レメディー・エンターテインメント発売元
+505 Gamesプロデューサー
+Juha Vainioディレクター
+ミカエル・カスリネンデザイナー
+Paul Ehrethシナリオ
+サム・レイクJosh Stubbsプログラマー
+シーン・ドネリー音楽
+ペトリ・アランコマーティン・スティグ・アンデルセン美術
+Janne Pulkkinen人数
+1人発売日
+2019年8月27日テンプレートを表示
+『Control』（コントロール）は、レメディー・エンターテインメントが開発し、505 Gamesが販売したアクションアドベンチャーゲーム。Microsoft Windows、PlayStation 4およびXbox One向けに 2019年8月27日に発売された。また、Nintendo Switch版がDL無料のクラウドゲームとして2020年10月28日に配信され、レイトレーシング対応のPlayStation 5とXbox Series X/S版が2021年2月2日に配信された（PS5とSeries X/Sのパッケージ版は3月2日発売予定）[1][2]。
+
+目次
+
+1 概要
+2 ゲームプレイ
+3 あらすじ
+
+3.1 設定
+3.2 プロット
+3.3 The Foundation
+3.4 AWE
+
+
+4 開発
+
+4.1 設定
+4.2 キャスト
+4.3 マーケティングとリリース
+4.4 リリース後
+
+
+5 評価
+
+5.1 受賞
+
+
+6 脚注
+7 外部リンク
+
+
+概要[編集]
+本作の物語は、現実の法則に反する現象を封じ込めて研究することを任務とする米国政府の機密機関「連邦操作局」（Federal Bureau of Control、FBC）を中心に展開していく。新局長のジェシー・フェイデン（声：コートニー・ホープ）として、プレイヤーはオールデスト・ハウス（FBC本部）を探索し、強力な能力を使ってヒスと呼ばれる致命的な敵を倒す。プレイヤーは、主要な超常現象の中心にあり、FBCによって回収されていた別次元からのエネルギーが染み込んだダイヤル式電話やフロッピーディスクなどの日常的なアイテム「パワーオブジェクト」を見つけることで能力を獲得していく。 
+Controlは、ユーザーが創作した超常現象オブジェクト物語のオンラインプロジェクトであり、ニュー・ウィアードジャンルに基づいた架空のSCP財団から着想を得ている。オールデスト・ハウスの環境は、多くの圧政的な政府の建物で一般的なブルータリズム建築で設計されており、ゲームの破壊的な環境システムを引き立てるための設定として機能している。Controlは、新しいビデオカードハードウェアに搭載されたリアルタイムレイトレーシングを利用して発売された最初のゲームの1つである。コートニー・ホープに加えて、ジェームズ・マカフリー、マシュー・ポレッタ、マルティ・スオサロによる追加の音声作品と実写映像が提供され、バンドの「Poets of the Fall」は追加の音楽を提供した。 
+発売時に、Controlは批評家からの好意的なレビューを受け、複数のゲームメディアは彼らが選ぶ2019年のトップゲームの1つに本作を選んでいる。本作は数多くのコンピュータゲーム賞にノミネートされ、ゲームアートとデザインに関連するいくつかの賞を受賞した。本作の発売後の2020年3月26日にダウンロード拡張パック「The Foundation」が発売され、2020年8月27日には拡張パック第二弾「AWE」（Remedyの過去作『Alan Wake』とのクロスオーバー）が発売された。 
+
+ゲームプレイ[編集]
+Controlはプレイする際の視点は3人称で、Remedyの前作『Quantum Break』で最初に使用された同社独自のNorthlightエンジンを使用して開発されている。Controlは、ニューヨーク市にある特徴のないブルターリズムの超高層ビル「オールデスト・ハウス」内が舞台である。オールデスト・ハウスは架空の組織「連邦操作局」（FBC）の本部でもあり、内部で「変貌世界」（Altered World Event、AWE）を研究し、これらのAWEからのパワーオブジェクトを収集および研究している。オールデスト・ハウスはそれ自体がパワーオブジェクトであり、内部は外部よりはるかに大きく、 時空の法則に反する巨大で絶えず変化する超自然的な領域がある[3]。ゲームの開始時に、ヒスと呼ばれる存在が次元の壁を越えてこの現実への侵入を試み、オールデスト・ハウスの内部の職員を乗っ取り、オールデスト・ハウスのアーキテクチャを再構成していった。プレイヤーは、以前のAWEの後で弟についての答えを求めてオールデスト・ハウスに来てヒスとの戦いに巻き込まれたジェシー・フェイデンを操作する[4]。 
+Controlはメトロイドヴァニア形式で構築されており、主にリニアであったレメディーの過去作とは異なり、広大なワールドマップをノンリニアのペースで探索することができる。プレイヤーがメインストーリーのミッションの途中で遭遇するエリア「コントロールポイント」を浄化（解放）すると、そのコントロールポイント内でセーブや以前に浄化した別のコントロールポイントへのファストトラベルを行える。プレーヤーがミッションを完了すると、様々な報酬に加えて探索できる建物や追加のサイドクエストが解放される。これらには、ジェシーが周辺の破片や物体を遠隔で持ち上げて敵に投擲したり、敵を洗脳して一時的に味方に変えたりするなどのゲームの過程でジェシーが得られるサイコキネシス能力のパワーアップに使用できるスキルポイントが含まれる[4]。ミッション報酬には、近距離の敵に大きな衝撃を与えるショットガンのようなフォームや長距離の狙撃銃のようなフォームといったさまざまなフォームをとることができる特別な銃「サービスウェポン」の機能を向上させるリソースも含まれており、それぞれの形態には汎用・専用の様々なパークを装備することができる。また、武器のパークとは別にキャラクターのパークもあり、キャラクターパークを装備するとジェシーの体力やエネルギー（サイコキネシス能力を使用すると消費する）などの基本属性を向上/増加させることができる。 さまざまなサイドクエストとオプションの時間限定ミッションアラートが利用可能で、完了すると追加の報酬が付与される[5]。 
+Remedyが開発したAIプログラム「Encounter Director」は、オールデスト・ハウス内のプレイヤーのレベルと場所に基づいて、敵との相互作用を制御する[6]。Controlの敵は主にヒスに乗っ取られたFBCエージェントの人間と異世界の勢力である。それらは、銃器を持っている一般的な人間から、さまざまな異常な力を持つ非常に変異したものまでいる[4]。
+
+あらすじ[編集]
+設定[編集]
+コントロールは、米国政府の機密機関「連邦操作局」を中心に展開する。連邦操作局は、既知の現実の法則に反する「超自然的な」現象の調査を任務としている。これらの現象は、人間の集団無意識によって形成された知覚された現実への侵入である、「変貌世界」の形で現れる。これらの変貌世界は、原型的なオブジェクトに影響を与え、それらに固有の特性を与える。連邦操作局が変貌アイテムと呼ぶそれらのオブジェクトは、ニューヨーク市にあるブルータリズムの巨大超高層ビルであるオールデスト・ハウスの連邦操作局本部に収容されている。変貌世界は特定の個人に超自然的な能力を与えるという点でユニークな「パワーオブジェクト」を生み出している。パワーオブジェクトは、パワーオブジェクトであるサービスウェポンに関連する儀式を通じて、局長を任命するピラミッド型の存在「ボード」を収容する異次元「アストラル・プレーン」に繋がっている。ボードがサービスウェポンを振るうために選んだ者は誰であっても、規定で連邦操作局の局長とみなされる[7]。オールデスト・ハウスは連邦操作局によって力の源と呼ばれており、その内部はスレッシュホールドと呼ばれる部屋を介してさまざまな異次元に接続された無限の絶えず変化する超自然的な空間になっている。 
+コントロールの主人公はジェシー・フェイデンで、弟のディランの居場所を探してオールデスト・ハウスに到着する。ゲームの出来事の17年前、ジェシーとディランは彼らの故郷ウィスコンシン州のオーディナリーという町で、別次元へのポータルを開くことができるパワーオブジェクトのスライドプロジェクターによる変貌世界に関わった。スライドプロジェクターの超自然的な特性によりオーディナリーの成人が全員消失した後、現場に到着した連邦操作局によってディランとスライドプロジェクターが確保されたが、ジェシーは何とか逃げ切ることができ、彼女は1つを除いて複数枚あったスライドをすべて焼却していた。ジェシーは、オーディナリーでの変貌世界の中で彼女とディランを救った超自然的な存在であるポラリスの案内によってオールデスト・ハウスに到着する。 
+ジェシーは連邦操作局内で、研究専門家のエミリー・ポープ、警備主任のサイモン・アリッシュ、オペレーションリーダーのヘレン・マーシャル、謎のフィンランド人管理人アーティと出会う。彼女は連邦操作局の前局長、ザカリア・トレンチのことを知り、行方不明になっている局の研究リーダーのキャスパー・ダーリング博士が制作したさまざまな有益なビデオを見つける。
+
+プロット[編集]
+ポラリスのテレパシーによる案内でオールデスト・ハウスへとたどり着いたジェシー・フェイデンであったが、建物内には人気がなかった。内部へと進んでいった彼女はフィンランド人管理人のアーティと出会い、彼は「就職面接」のためのエレベーターを教える。エレベーターを使い上階に向かったジェシーは、局長室でFBCの局長ザカリア・トレンチが自身の銃で自殺したとみられる現場に遭遇する。銃を拾ったジェシーは、それがサービスウェポンとして知られるパワーオブジェクトであることを知り、アストラル・プレーンへと転送される。そこで彼女は儀式を達成し、ボードから新局長に選ばれた。トレンチのオフィスから出たジェシーは、オールデスト・ハウスが彼女が「ヒス」と呼ぶ敵対的な勢力による侵略を受けており、ヒスは局の大半のエージェントを乗っ取り、建物の変化する地形を破損させていた。ジェシーはパワーオブジェクトのホットラインを使ってトレンチの漂う存在から話を聞き、トレンチはFBCの幹部が局の秘密を知っていると伝え、ジェシーは十数年前にFBCによって誘拐された彼女の弟ディランの居場所を彼らが教えてくれることを期待する。
+ジェシーは、キャスパー・ダーリング博士が開発したヒスの影響から着用者を保護する装備「へドロン共鳴増幅器（HRA）」を身に着けていたことで生き残ったエミリー・ポープやその他のFBCエージェントの手助けをした。ポープはオールデスト・ハウスはヒスが排除されるまでロックダウンされていると説明した。ロックダウンを解除し、施設内の他セクターへと入ろうとするジェシーはオールデスト・ハウスのメンテナンスセクターに入り、アーティに指示されて大規模なメルトダウンを防ぐために建物の電気と配管の修理を行った。ジェシーは局長権限を利用して他のセクターを再解放し、ディランのことを知っていると思われるヘレン・マーシャルを探して研究セクターに入る。ジェシーはマーシャルを助けて研究セクターを奪還し、更なるHRAの生産を促進させた。マーシャルは、局内では「P6」として知られているディランが、その特殊な超常的ユーティリタリアン能力のために局長候補として連れてこられたが、彼が不安定であることが判明し、FBCエージェント数名を殺した後、収容セクターに拘留されていることを伝える。ジェシーはディランを探しにセクターに駆けつけるが、ディランがエグゼクティブ・セクターに現れ、FBCのエージェントに降伏したことを知る。ディランは、ジェシーに対してヒスがFBCから自分を解放してくれると信じてヒスを受け入れたとし、彼らの侵略は、FBCがオーディナリーで回収したパワーオブジェクトのスライドプロジェクターによって可能になったことを伝える。ディランはポラリスを信用しないよう姉に警告するも、ジェシーはスライドプロジェクターを見つけて無効化することを決意する。
+ジェシーは第一候補プログラムを調査し、彼女とディランの両方が長官候補とされていたことと、スライドプロジェクターが研究セクターにあることを知る。その後、アーティからスライドプロジェクターのチャンバーを守る入り組んだ迷路を進めるようになるカセットプレーヤーを渡されたジェシーは、チャンバーで行方不明のスライドプロジェクターを見つける。彼女は、FBCが回収できた唯一のスライド（他のスライドはジェシーによって焼却されていた）を介して入れる次元へのいくつかの探検をダーリングが主導して行い、そこで彼はヘドロンと名付けた多面体形の生物を発見しており、それがHRAの共鳴源であることを知る。ジェシーは、ヘドロンがジェシーをヒスから救うために呼びかけたポラリスであることを発見するが、ヘドロンの収容室に到達したときにヒスがへドロンを攻撃し、一見彼女を殺した。
+ヘドロン共鳴が弱まりジェシーの心は侵略されるが、彼女は自分の中のポラリスの本質を再発見し、立ち直ることができた。ジェシーは、トレンチがダーリングのある探検でヒスの影響下に落ちたことを知る。彼はへドロンがFBCを乗っ取ると思い込んでおり、それを破壊するために盗んで隠しておいた2枚目のスライドを使ってヒスをオールデスト・ハウスに侵入させたのであった。ジェシーはエグゼクティブ・セクターで発見したスライドプロジェクターを介してアストラル・プレーンへと入り、ヒスでボードを乗っ取ろうとしているディランに立ち向かう。アストラル・プレーンの制御を失っていることを恐れたボードは、ジェシーにできるだけの力を割り当てヒスを阻止するために彼女の能力を増幅させた。ジェシーは彼女の新しい力で防衛ヒスを倒し、昏睡状態に陥ったディランを浄化した。局長としての新しい役割を受け入れたジェシーは局に秩序を取り戻すために残存するヒスを倒すことを決意する。
+
+The Foundation[編集]
+The Foundationでは、ジェシーはボードから局への脅威に対処するためにオールデスト・ハウスの底部にある「基盤（The Foundation）」に呼び出される。ジェシーは基盤でオールデスト・ハウスとアストラル・プレーン間の導管として機能する 「ネイル」を発見する。ネイルが破損していることでアストラル・プレーンが現実世界へと流れ込んでおり、オールデスト・ハウスを超えて流入し続けた場合壊滅的な事態になる恐れがあった。ボードはジェシーに新しい能力を与え、修復するためにネイルの4つのノードを見つけるように彼女に指示し、その過程でジェシーは、最初のヒス侵略中に基盤の安全を確保しようと中に入っていったマーシャルの行方を捜索する。
+ノードの1つを修復している間、ジェシーは突然異次元の存在でボードの元構成体「フォーマー」と遭遇する。フォーマーはボードが与えなかった追加の能力をジェシーに付与した。ボードは激怒したが、その後落ち着きを取り戻してジェシーにフォーマーを信用しないように説得しようとする。その後、彼女はフォーマーと対話し、フォーマーは何かのために非難され、その結果ボードから追放されたと主張し、彼女の助力に積極的であったがその真の動機は不明のままであった。ジェシーはノードを全て修復するが、オールデスト・ハウスとアストラル・プレーンの間で起きる揺れが両方の次元を破壊する恐れがあった。ジェシーはネイルの底へと向かい、そこでヒスに取り付かれたマーシャルを見つけた。フォーマーの助けを借りてジェシーは彼女を殺し、ネイルを浄化した。
+マーシャルの存在は、ヒスがネイルを通じてオールデスト・ハウスを乗っ取るのを防ぐためとボードの支配に対する予防処置としてネイルを破壊したのは彼女だとホットラインで明らかにした。それを受けて、ボードはマーシャルのHRAを破壊してヒスが彼女を乗っ取れるようにした。ボードへの信頼を打ち砕かれたジェシーは自分のやり方で局を導くことを決意するが、主導権を握っているとボードに信じさせ続けることにした。ジェシーが基盤を出ると、フォーマーは遠くに離れていった。
+
+AWE[編集]
+AWEでは、過去に様々なAWE調査を行っていたが数年前の大規模な収容違反の発生後に閉鎖された「操作セクター」が舞台となる。ジェシーはアラン・ウェイク（レメディーの過去作『Alan Wake』の主人公）の幻影から操作セクターに呼び寄せられ、同セクターの調査に向かったジェシーは、ブライト・フォールズの町に自然発生したスレッショルドのコールドロンレイクの力によりアーティストの芸術作品で現実を書き換えられるようになったことがきっかけの「ブライト・フォールズAWE」（Alan Wakeの出来事を包含する変貌世界）を知る。心理学者のエミル・ハートマン医師は、彼の診療所に来た問題を抱えるアーティストを介してコールドロンレイクの力を研究し、制御しようと試みた。しかし、ウェイクでそうしようとして失敗に終わり、さらにハートマンの研究の全てをFBCに奪われてしまう。
+最終的にハートマンは、コールドロンレイクの中の力を研究するために自らコールドロンレイクに飛び込むことにした。飛び込んだハートマンは『Alan Wake』の奇怪な敵「闇の存在」（FBCでは「影」として知られる）に即座に乗っ取られた後、駆け付けたFBCによってオールデスト・ハウスに収容された。しかし、ハートマンはほどなくして収容を突破し、FBCはセクターの大半を放棄せざるを得なくなった。ヒスの侵略の際、ヒスは操作セクターへと侵入し、ハートマンと弱体化した闇の存在を乗っ取り、ヒスと闇の存在は互いを増幅して、ハートマンを巨大な存在へと「引き延ばした」。セクター内でジェシーはフレデリック・ラングストンから連絡を受け、セクターを奪還するためにハートマンを排除するよう伝えられた。その間、ジェシーはオーシャンビュー・モーテルを訪れ、らせん状のマークのついたドアからアランの幻影を見た。
+最終的に、ジェシーはセクターのブライト・フォールズAWEエリアにたどり着き、ハートマンを殺して脅威を終わらせ、ヒスと闇の存在が蠢くセクターを浄化していった。ラングストンはその後、FBCがブライト・フォールズからAWEの可能性のある報告を受け取ったと知らせたが、報告書の日付が数年後の未来になっていることに言及した。
+
+開発[編集]
+コントロールは、レメディー・エンターテインメントによって開発された。本作は2017年の株式公開以来最初のメジャーリリースであり、パブリッシングパートナーとしてのMicrosoftからは離れたため、より効率的な開発戦略を使用して開発され、コストと時間を低く抑えている。「Alan Wake」と「Quantum Break」がそれぞれ完成するまでに7年と5年を要したのとは対照的に、コントロールは3年足らずの内に約40億円の予算で完成し、一般的なAAAゲームのコストよりも低かった[8]。 
+「Alan Wake」と「Quantum Break」を手掛けたミカエル・カスリネンは、コントロールのディレクターを務め、サム・レイクは、ナラティブリードのアンナ・メギルと共に、ゲームの脚本とクリエイティブディレクターを務めた[9][10]。ゲームの開発は、「Quantum Break」の発売前から始まっていた[11]。「Quantum Break」を完成させて次のプロジェクトを決定するとき、カスリネンはそのゲームがムービーやその他の映画的要素に大きく依存していることを認識し、プレイヤーが体験したことをドライブする、よりオープンワールドなゲームを検討するよう提案した[12]。Remedyは、大規模で複雑なストーリーの作成に焦点を当てるのではなく、プレイヤーが独自の物語を作れるほど豊富なゲームの世界とユニバースの作成に重点を置きたいと考えていた。チームは、プレーヤーが世界を肉付けするのを助けるために発見できる物語の要素を残したいと考え、プレーヤーが自分のペースで確認できるオプションのドキュメント、音声ログおよび実写映像を追加した[13]。チームのもう1つの目標は、リプレイ性が高いゲームを作成することであった。カスリネンによると、彼らはまだ彼らが「狭く集中している」強力な物語を作りたかった[14]。 
+
+設定[編集]
+最初のコンセプトは、超常現象の基礎として、またストーリー中の出来事の触媒として機能する現実的な設定である架空の組織である連邦操作局を作成することであった[12]。これにより、プレイヤーキャラクターだけでなく連邦操作局の他の人物についても、伝えることができる複数のストーリーを検討することができるようになったが、他のキャラクターのストーリーをオープンワールド形式で提示する方法にも課題が生じた。架空のSCP財団のウェブサイトに集められた文章は、コントロールに大きな影響を与えた。SCP財団のサイト上のストーリーは、奇妙な超常現象の影響を伴う単一のオブジェクトに基づいており、全体として、それらはオブジェクトをカタログ化して研究する架空のSCP財団によって書かれた一般的な形式の報告書によって物語的にリンクしている。コントロールはこれの上に構築され、さまざまなパワーオブジェクトと変貌アイテム、およびSCPに沿ってこれらのオブジェクトに関する多数の収集可能な文章またはその他の物語を備えている[15]。彼らはウィアード・フィクションの現代の変種で、SFとファンタジーをこれらの出来事に関与する官僚的な政府機関としばしば組み合わせた物語「ニュー・ウィアード」のジャンルに物語を固定した。コントロールにおいて、彼らはその役割を逆転させて官僚機構を物語の中心に据えた。ナラティブデザイナーのブルック・マグスは、「企業のオフィス環境には、目に見えない、官僚主義の攻撃的な存在があり、それ自体が不穏なものである」と述べている[16]。ワールドデザインディレクターのスチュアート・マクドナルドによると、オールデスト・ハウスのありふれた特徴は、ゲームの超常現象的側面との対比を助けるのに役立つのでニュー・ウィアードに適しているという 。ニュー・ウィアードアプローチを使用するデザインチームの目標は、ホラーゲームのような恐ろしい瞬間を作り出すことではなく、プレイヤーに継続的な恐怖感を与えることであった。 
+ゲームで「パワーオブジェクト」になる日常のオブジェクトは、ニュー・ウィアードのコンセプトに沿ったものが選ばれており、その1つがフロッピーディスクである。マクドナルドは、米国のミサイル防衛拠点の多くがフロッピーディスクから最近移行したばかりであり、それ以前はこれらのディスクは高い敬意をもたれていた有名な武器と見なされていたという話を読んだ後、このようにフロッピーディスクを使用することに惹かれたと述べた[16]。空気圧管、スライドプロジェクター、モノクロモニターなどの1960年代および1970年代の技術がオールデスト・ハウス内に多く存在し、携帯電話などの現代の技術が存在しないのは、オールデスト・ハウスの境界内では新しい技術は故障や誤動作を起こす傾向があるためであることがゲーム中に説明されている。 
+
+ AT＆Tロングラインズビルがオールデスト・ハウスのインスピレーションとなった。
+オールデスト・ハウスの設定は、1950年代に普及し当時多くの政府の建物で使用されていた大きなコンクリートブロックを利用したスタイルであるブルータリズムの建築に基づいている。 ゲームのワールドデザインディレクターのスチュアート・マクドナルドは、ブルータリズムは「力強さ、重量、強さ、安定感」があり、オールデスト・ハウスの幾何学がヒスの影響を受けた時に、「ありえない建築物とのコントラストが非常に良いものになる」として良いSF的設定だと評している[17]。背景の壁の比較的フラットな色は、ゲームの他のデザインや照明効果を見せるのに理想的なキャンバスになっており、プレイヤーがテレキネシスで敵に破片を投げる際にコンクリートの壁がターゲットオブジェクトの代わりに使用され、最初は傷つけられていない状態のスペースは、大規模な破壊的な戦闘の結果を示すようになることから、ゲームのテレキネシスの力にも役立っている。ゲームの建築における現実世界の影響には、 33トーマスストリートがある。マクドナルドはこの建物をブルータリズムの現代的な例として使用し、連邦操作局を収容するための「奇妙で残忍なモノリス」としてオールデスト・ハウスを作った。インスピレーションとして使用された他の実際の場所には、ボストン市庁舎、トロント大学スカボロ校のアンドリュースビル、メット・ブロイヤーなどがある。 
+他の現実世界の建築家がゲームの構造物にインスピレーションを与えている。カルロ・スカルパの作品は、構造物の他の部分と一緒に昇っていく階段のデザインに多用され、安藤忠雄の照明と精神的な空間へのこだわりは、ゲームの他の部分に反映されている[17]。さらに、デザインチームは他のインスピレーションを得るために映画に目を向けた。スタンリー・キューブリックの映画、特に「時計じかけのオレンジ」や、「シェイプ・オブ・ウォーター」などの抑圧的な政府機関の映画は、デザインの基礎の一部となった。「裏切りのサーカス」のような他の映画は、これらの機関の反復性、プロセス、および儀式の概念を呼び起こし、それは内部のアートワークおよびアーキテクチャの一部を定義するために使用された。アートディレクターのジャンヌ・プルキネンは、現実世界の教会や儀式が一般的である他の場所にも目を向けていたと述べている。これらのスペースの照明やデザインは、特定のスポットに注意を引くためによく使用されるためである。 
+ゲームの特定の領域には、 ムービーシーケンスがある。これらのほとんどは、マシュー・ポレッタが演じるキャスパー・ダーリング博士がオールデスト・ハウスの一部とその中にあるパワーオブジェクトについて説明しているものである。別の動画セットは、「The Threshold Kids」と呼ばれる架空のショーの短編エピソードであり、オールデスト・ハウスに住む子供たちを対象にしているとみられる人形ベースのショーである。「The Threshold Kids」は、ナラティブリードのアナ・メギルによって書かれ、上級シネマティックデザイナーのミルシア・プルディアによって制作された[16]。本作用に「Take コントロール」などの曲を提供したRemedyの親友であるオルタナティブ・ロックグループ「Poets of the Fall」は、ゲーム中では架空のバンド「The Old Gods of Asgard」と言及されており、それ自体がAlan Wakeをほのめかすものとなっている[18]。Remedyは、この曲をゲームの「灰皿の迷路」の一部として使用した。灰皿の迷路では、ジェシーはこの曲に合わせて刻々と変化する部屋のセットの中を戦う。Remedyは、Poets of the Fallと協力して、プレイヤーがこの迷路を進むときに動的に曲を組み込むことができるようにした[19]。 
+このゲームには、コントロールと同様の超常現象テーマを共有するAlan Wakeに関するイースターエッグがある。そのようなイースターエッグの1つにAlan Wakeの余波について論じる連邦操作局の事件ファイルがあり、ファイルではAlan Wakeの主な舞台ブライトフォールズで起こったことをAWEと見なしている[20]。シークレットエリアには、アランウェイクのビジョンが含まれている。オーディナリーでの過去の出来事は、「Alan Wake: American Nightmare」のクレジットシーケンスのバックマスキングトラックで仄めかされており、未知の話し手が「それは別の町で再び起こる。オーディナリーと呼ばれる町で」と話している[21][18]。カスリネンは、そのような参照を含めることで、ゲーム間の継続性の一種を確立するのに役立ち、そのプレイヤーコミュニティによって発見され共有される要素が、必ずしもゲーム間の共有されたユニバースを確立することを意図していないと述べた[22]。しかし、サム・レイクは後に、レメディーコネクテッドユニバースとして知られるAlan Wakeとコントロールの間で共有されたユニバースの存在を認めた[23]。 
+
+キャスト[編集]
+ゲームのメインボイスキャストは、2018年のニューヨーク・コミコンで発表され、Remedyの過去作のさまざまな俳優で構成されている。「Quantum Break」でベス・ワイルダーを演じたコートニー・ホープがジェシー・ファデンとして主演し、「Alan Wake」のトーマス・ゼインとマックスペインの主人公役で知られているジェームズ・マカフリーがザカリア・トレンチの役を演じている。Alan Wakeの主人公を演じたマシュー・ポレッタもキャスパー・ダーリング博士として、声の演技と実写映像の両方でフィーチャーされている[24][13]。フィンランドの俳優マルティ・スオサロが用務員のアフティを演じている。Remedyのサム・レイクは、自分の故郷のフィンランドをゲームの1つに追加することを切望していたと言い、コントロールはこれを組み込む機会を提示した。これらの作品の1つに、レイクが書き、ペトリ・アランコが作曲し、スオサロが歌った曲「英雄のタンゴ」がある[25]。 
+このゲームには、小島秀夫と彼の英語通訳の斉藤亜紀が声のカメオ出演をしている。サイドミッションでは、小島が発声したトクイ・ヨシミ博士の夢のような経験についての日本語での録音と斎藤による英語訳がある[26]。 
+
+画像外部リンク
+ コントロールは、リアルタイムレイトレーシングを搭載した新しいグラフィックカードをサポートする最初のゲームの1つ。下の画像はレイトレーシングをオンにした状態で、上の画像の従来のレンダリングバージョンと比較して、大理石の床にライトや他の表面が反射していることを示している
+ゲームの設計と実装におけるさらなる課題は、プレイヤーが探索し、それに夢中になり、観察して学ぶことを推奨する環境を作り上げる事だった。カスリネンは、プレーヤーにミッションマーカーなどが散らかった従来のヘッドアップディスプレイではなく、ログに記載されたミッションの説明を利用させ、周囲を注意深く観察して次にどこに行くかを判断させた[12]。これにより、何らかの手段でプレイヤーに重要な情報のみを伝えるという決定に至り、プレイヤーは足りない部分を自分自身の観察と想像力で補うことになる。彼らはまた、ほぼすべてのオブジェクトがプレイヤーキャラクターのテレキネシスパワーの一部として使用できるような流動的な環境を望んでいたので、ゲームの世界はプレイヤーが使用する武器、またはプレイヤーに対する武器の両方になりえた。これを実現するために、Remedyは自社のゲームエンジンのHavok物理をPhysXに置き換え、敵がこれらの変更を利用できるように人工知能を改良した。 
+コントロールは、リアルタイムレイトレーシングをサポートするグラフィックスカードの販売後に発売された最初の主要なゲームの1つであり、可能なすべてのレイトレーシング機能をほぼ完全に実装した最初のゲームと考えられている[27]。このゲームは、あまり強力でないグラフィックハードウェアに適したより標準的なレンダリング技術もサポートしている。Nvidiaはハードウェアレイトレーシングサポートを搭載した最初のレイトレーシンググラフィックスカードと並んで、キャンペーンの中でコントロールを大々的に宣伝した[28]。このゲームは、レイトレーシングテクノロジーをサポートするグラフィックスカードに同梱され販売された[29]。Nvidiaは、ゲームのレイトレーシング統合を表示するために、専用ゲームプレイ映像を含む9つの動画を制作またはホストした。 
+
+マーケティングとリリース[編集]
+2017年5月、Remedyは505 Gamesと提携してゲームを発売すると発表した。505はマーケティングとパブリッシングのサポートとゲームの開発の支援をするために775万ユーロの資金を提供し、Remedyはコントロールの知的所有権を保持した。プレスリリースで、Remedyは本作が複雑なゲーム性を持ち、同社のこれまでのゲームよりも「より長期的な体験」になることを明らかにした[30]。ゲームはRemedyが他の2つのプロジェクトと並行して制作していた[31]。本作は、2018年のE3でのソニー・インタラクティブエンタテインメントの記者会見で正式に明らかにされた[32]。 
+このゲームは、Windows、PlayStation 4、Xbox One用に2019年8月27日にリリースされた[33]。Epic Gamesは505 Gamesの親会社のDigital Brosと約12億円で本作のEpic Gamesストアでの1年間の時限独占販売契約を結んだ[34]。 
+ゲームのリリースから1周年を迎えた2020年8月27日、 「Control：Ultimate Edition」がSteamで発売された。これには、本体と拡張パック「Foundation」「AWE」および追加の無料アップデートが収録されている。「Control：Ultimate Edition」は、2020年9月10日にEpic Games Store、GOG.com、PlayStation 4、Xbox Oneで発売される予定で、PlayStation 5およびXbox SeriesXが発売された後は、それらのゲーム機でも利用できるようになる。PlayStation 4またはXbox OneでUltimate Editionを所有しているユーザーは、バージョンを新型ゲーム機版に無料アップデートできる[35][36]。505 Gamesは、すべてのユーザーに有効な無料のアップグレードパスを模索していたが、「いくつかの形式のブロッカーは、少なくとも1つのグループのプレーヤーがアップグレードから取り残されることを意味していた」と述べた[37]。 
+
+リリース後[編集]
+Remedyは、「The Foundation」と「AWE」という名前のコントロールのコンテンツ拡張パックを少なくとも2つ追加する計画を断言した。どちらも、ジェシーがFBC局長としての役目を果たした本編の後の物語である。ストーリーデザイナーのブルック・マッグスによるとチームはゲームの家庭用ゲーム機版のパフォーマンスの問題に対処していたため、コントロールの発売時にこのコンテンツの詳細はまだ決まっていなかった[13]。2020年3月26日にPlayStation 4とMicrosoft Windows、2020年6月25日にXbox One向けに拡張パック「The Foundation」が発売された。 [38]。拡張パック第二弾「AWE」は、ゲーム発売一周年となる2020年8月27日に発売された[39][40][41]。 
+ストーリー性の無い小さな追加コンテンツも計画されている[13]。最初の「Expeditions」は2019年12月12日に無料アップデートとしてリリースされ、キャラクターのパワーアップアイテムを使用してさまざまな難易度のスタンドアロンミッションを提示する[38]。DLC「AWE」と一緒にリリースされたすべてのプレイヤーが利用できる無料のアップデートは、コントロールポイントの数、またはゲームの保存が可能な「ハード」チェックポイントの数を増やす。ジェシーが死んだ場合、プレイヤーがコントロールポイントに戻る必要なしに再起動できるいくつかの「ソフト」チェックポイントが追加された。 新しい「アシストモード」により、プレイヤーはゲームの難易度をカスタマイズすることができ、初心者でもゲームをクリアできるようになる[42]。
+
+評価[編集]
+評価集計結果媒体結果Metacritic(PC) 85/100[43](PS4) 82/100[44](XONE) 84/100[45]レビュー結果媒体結果デストラクトイド9/10[46]エレクトロニック・ゲーミング・マンスリー[47]ゲーム・インフォーマー8.75/10[48]Game Revolution4.5/5[49]GameSpot8/10[50]GamesRadar+[51]IGN8.8/10[52]PC Gamer US88/100[53]VideoGamer.com8/10[54]
+レビュー収集サイトのMetacriticによると、Controlは「概ね好意的なレビュー」を得た。    
+IGNはControlを「Game of the Year」及び「Best-Action Adventure Game」「Best Video Game Art Direction」「Best Video Game Story」に選んだ[55]。Game Informer[56]、エレクトロニック・ゲーミング・マンスリー[57]およびGamesRadar+[58]が彼らの「Game of the Year」にControlを選び、Polygon[59]、Easy Allies[60]、USGamer[61]、Giant Bomb[62]、Hardcore Gamer[63]、GameRevolution[64]およびGameSpot[65]は、彼らの2019年の上位10ゲームにControlを掲載した。PC Gamer[66]は、Best Games of 2019の「Best setting」にControlを選んだ。Eurogamer[67]は、Games of the yearの中でControlを選んだ。 
+Digital FoundryとPolygonは、PC版のControlをNvidiaのRTXグラフィックスカードの「キラーアプリケーション」の可能性があると見なし、ゲームの視覚スタイルを向上させるのに役立つと述べた[68][69]。 
+
+受賞[編集]
+
+
+年
+
+アワード
+
+カテゴリー
+
+結果
+
+脚注
+
+
+2018
+
+ゴールデンジョイスティックアワード
+
+Most Wanted Game
+
+ノミネート
+
+[70]
+
+
+2019
+
+Game Critics Awards
+
+Best Original Game
+
+ノミネート
+
+[71]
+
+
+Best PC Game
+
+ノミネート
+
+
+Best Action/Adventure Game
+
+ノミネート
+
+
+Golden Joystick Awards
+
+Best Storytelling
+
+ノミネート
+
+[72][73][74]
+
+
+Best Visual Design
+
+ノミネート
+
+
+Best Audio
+
+ノミネート
+
+
+Critics' Choice Award
+
+受賞
+
+
+Ultimate Game of the Year
+
+ノミネート
+
+
+Titanium Awards
+
+Game of the Year
+
+ノミネート
+
+[75]
+
+
+Best Art
+
+ノミネート
+
+
+Best Game Design
+
+ノミネート
+
+
+Best Narrative Design
+
+ノミネート
+
+
+Best Adventure Game
+
+ノミネート
+
+
+Best Soundtrack (Petri Alanko)
+
+ノミネート
+
+
+The Game Awards 2019
+
+Game of the Year
+
+ノミネート
+
+[76][77]
+
+
+Best Game Direction
+
+ノミネート
+
+
+Best Narrative
+
+ノミネート
+
+
+Best Art Direction
+
+受賞
+
+
+Best Audio Design
+
+ノミネート
+
+
+Best Performance (Courtney Hope)
+
+ノミネート
+
+
+Best Performance (Matthew Porretta)
+
+ノミネート
+
+
+Best Action/Adventure Game
+
+ノミネート
+
+
+2020
+
+New York Game Awards
+
+Great White Way Award for Best Acting in a Game (Courtney Hope)
+
+受賞
+
+[78]
+
+
+Visual Effects Society Awards
+
+Outstanding Visual Effects in a Real-Time Project
+
+受賞
+
+[79][80]
+
+
+23rd Annual D.I.C.E. Awards
+
+Game of the Year
+
+ノミネート
+
+[81][82]
+
+
+Outstanding Achievement in Art Direction
+
+受賞
+
+
+Outstanding Achievement in Character (Jesse Faden)
+
+ノミネート
+
+
+Outstanding Achievement in Game Direction
+
+受賞
+
+
+Outstanding Achievement in Original Music Composition
+
+受賞
+
+
+Outstanding Achievement in Story
+
+ノミネート
+
+
+Outstanding Technical Achievement
+
+ノミネート
+
+
+Action Game of the Year
+
+受賞
+
+
+NAVGTR Awards
+
+Game of the Year
+
+ノミネート
+
+[83][84]
+
+
+Animation, Technical
+
+受賞
+
+
+Art Direction, Contemporary
+
+受賞
+
+
+Control Design, 3D
+
+受賞
+
+
+Direction in a Game Cinema
+
+受賞
+
+
+Game, Original Action
+
+ノミネート
+
+
+Graphics, Technical
+
+受賞
+
+
+Lighting/Texturing
+
+受賞
+
+
+20th Game Developers Choice Awards
+
+Game of the Year
+
+ノミネート
+
+[85][86]
+
+
+Best Audio
+
+受賞
+
+
+Best Narrative
+
+ノミネート
+
+
+Best Technology
+
+受賞
+
+
+Best Visual Art
+
+受賞
+
+
+SXSW Gaming Awards
+
+Video Game of the Year
+
+ノミネート
+
+[87][88]
+
+
+Most Promising New Intellectual Property
+
+ノミネート
+
+
+Excellence in Art
+
+ノミネート
+
+
+Excellence in Design
+
+受賞
+
+
+Excellence in Narrative
+
+ノミネート
+
+
+Excellence in Technical Achievement
+
+ノミネート
+
+
+Excellence in Visual Achievement
+
+ノミネート
+
+
+16th British Academy Games Awards
+
+Best Game
+
+ノミネート
+
+[89][90]
+
+
+Game Design
+
+ノミネート
+
+
+Animation
+
+ノミネート
+
+
+Artistic Achievement
+
+ノミネート
+
+
+Audio Achievement
+
+ノミネート
+
+
+Music
+
+ノミネート
+
+
+Narrative
+
+ノミネート
+
+
+Original Property
+
+ノミネート
+
+
+Performer in a Leading Role (Courtney Hope)
+
+ノミネート
+
+
+Performer in a Supporting Role (Martti Suosalo)
+
+受賞
+
+
+Technical Achievement
+
+ノミネート
+
+
+18th Annual G.A.N.G. Awards
+
+Best Dialogue
+
+ノミネート
+
+[91]
+
+
+Best Original Instrumental
+
+ノミネート
+
+
+Best Original Soundtrack Album
+
+ノミネート
+
+
+Best Audio Mix
+
+ノミネート
+
+脚注[編集]
+
+
+^ “PS5及びXbox Series X/S版『CONTROL Ultimate Edition』のリリース日が発表！” (日本語). IGN Japan (2020年12月18日). 2021年2月6日閲覧。
+
+^ “レイトレーシング対応のPS5/XSX|S版『CONTROL アルティメット・エディション』配信開始！” (日本語). Game*Spark - 国内・海外ゲーム情報サイト. 2021年2月6日閲覧。
+
+^ Shea. “Uncovering The Mysteries Of Control's The Oldest House”. Game Informer. 2019年3月15日閲覧。
+
+^ a b c Shea. “A Look At Every Supernatural Ability In Remedy's Control”. Game Informer.[リンク切れ]
+
+^ Vader. “Remedy's Control Only Has One Gun. Here's Why It's Awesome”. Game Informer. 2019年3月13日閲覧。
+
+^ Favis. “How Control's Gameplay Differs From Past Remedy Games”. Game Informer. 2019年3月11日閲覧。
+
+^ Kunzelman (2019年9月4日). “The Mysterious "Board" in 'コントロール' Is One of the Game's Best, Most Unsettling Ideas”. Vice. 2019年9月4日閲覧。
+
+^ Handrahan (2019年12月4日). “People of the Year 2019: Remedy Entertainment”. GamesIndustry.biz. 2019年12月4日閲覧。
+
+^ Takahashi (2017年7月5日). “Remedy’s Sam Lake on 21 years of game storytelling and transmedia”. VentureBeat. 2018年6月13日閲覧。
+
+^ Shea (2018年6月11日). “Remedy Announces Gravity-Bending Shooter, コントロール”. Game Informer. 2018年6月13日閲覧。
+
+^ Purchese (2017年5月26日). “Remedy on life after Xbox exclusivity”. Eurogamer. 2018年6月13日閲覧。
+
+^ a b c Robinson (2019年8月27日). “‘The Best Game I’ve Ever Made’: How Remedy Made コントロール”. Video Games Chronicle. 2019年9月3日閲覧。
+
+^ a b c d Williams (2019年9月4日). “コントロール Postmortem: Exploring the Story, Lore, and DLC Possibilities With Remedy”. USGamer. 2019年9月5日閲覧。
+
+^ Crecente (2016年12月18日). “Why Alan Wake's creators want to make you the storyteller”. Polygon. 2018年6月13日閲覧。
+
+^ Garst (2019年8月27日). “The web's creepiest fictional wiki is now a mind-bending video game”. Wired UK. 2019年9月2日閲覧。
+
+^ a b c Moosa (2019年10月7日). “コントロール Confronts Us With A Very Specific Type of Horror: A Lack of コントロール”. IGN. 2019年10月7日閲覧。
+
+^ a b Wilson (2019年9月3日). “Remedy's コントロール is built on concrete foundations”. Eurogamer. 2019年9月4日閲覧。
+
+^ a b Hornshaw (2019年9月23日). “コントロール Is Full Of Details About Alan Wake's Fate”. GameSpot. 2019年10月7日閲覧。
+
+^ Hussain (2020年1月5日). “See How コントロール's Incredible Ashtray Maze Was Created”. GameSpot. 2020年1月5日閲覧。
+
+^ McKeand (2019年8月29日). “Here’s the brilliant Alan Wake easter egg in コントロール and how to find it”. VG247. 2019年8月29日閲覧。
+
+^ Jackson (2019年9月3日). “コントロール Is Packed With Alan Wake References”. Kotaku. 2019年9月3日閲覧。
+
+^ Robinson (2019年8月31日). “コントロール’s Remedy wants ‘a continuity’ between its games”. Video Games Chronicle. 2019年9月3日閲覧。
+
+^ Chalk (2020年8月7日). “The next 'Remedy Connected Universe' game is already in development”. PC Gamer. 2020年8月7日閲覧。
+
+^ Dwan. “Alan Wake and Max Payne’s voice actors are going to appear in Remedy’s next game, コントロール”. VG24/7. 2018年10月15日閲覧。
+
+^ Takahashi (2019年11月27日). “Sam Lake interview — How storytelling creates value in games”. Venture Beat. 2020年4月22日閲覧。
+
+^ Good (2019年8月28日). “Hideo Kojima is in コントロール, narrating a very weird mission”. Polygon. 2019年8月29日閲覧。
+
+^ Walton (2019年8月30日). “コントロール is the best, most complex implementation of ray tracing in a game so far”. PC Gamer. 2019年8月30日閲覧。
+
+^  (英語) コントロール – Exclusive New レイトレーシング Gameplay Trailer, https://www.facebook.com/NVIDIAGeForce/videos/614774169031498/ 2019年10月15日閲覧。 
+
+^ “Buy GeForce レイトレーシング, Get Games” (英語). NVIDIA. 2019年10月15日閲覧。
+
+^ Handrahan (2018年5月3日). “505 Games will publish Remedy Entertainment's new game”. Gameindustry.biz. 2018年6月13日閲覧。
+
+^ Horti (2018年2月18日). “Remedy's upcoming third-person action game, codenamed ゲーム, will be out in 2019”. PC Gamer. 2018年6月13日閲覧。
+
+^ Russell (2018年6月11日). “E3 2018: New Remedy Game コントロール Announced at Sony Conference”. Game Revolution. 2018年6月13日閲覧。
+
+^ Jeff. “コントロール Is Coming Out This August”. Game Informer. 2019年3月5日閲覧。
+
+^ Valentine (2019年9月20日). “Epic paid 505 Games parent over $10m for コントロール PC exclusivity”. GamesIndustry.biz.[リンク切れ]
+
+^ Carr (2020年6月11日). “コントロール Coming To Next-Gen Consoles”. GameSpot. 2020年6月11日閲覧。
+
+^ Faulkner (2020年8月12日). “コントロール limits free next-gen upgrades to its new $40 Ultimate Edition”. The Verge. 2020年8月12日閲覧。
+
+^ Carpenter (2020年8月20日). “コントロール publisher tries, fails to explain why next-gen upgrade is limited to Ultimate Edition”. Polygon. 2020年8月20日閲覧。
+
+^ a b Adler (2019年12月12日). “コントロール DLC Out Now, First Expansion Release Date Announced”. IGN. 2019年12月12日閲覧。
+
+^ Power (2020年5月14日). “Alan Wake at 10: How Remedy’s cult classic spawned a connected universe”. VG247. 2020年5月14日閲覧。
+
+^ Kim (2020年8月6日). “コントロール: AWE Expansion Release Date”. IGN. 2020年8月6日閲覧。
+
+^ O'Conner (2020年8月26日). “コントロール: The AWE Expansion, Which Ties Into Alan Wake, Is Available Now”. GameSpot. 2020年8月27日閲覧。
+
+^ O'Conner (2020年8月13日). “コントロール: First 15 Mins Of Alan Wake Expansion Shown, And A Big Free Update Is Coming”. GameSpot. 2020年8月13日閲覧。
+
+^ “Control for PC Reviews”.   Metacritic. 2019年8月26日閲覧。
+
+^ “Control for PlayStation 4 Reviews”.   Metacritic. 2019年8月26日閲覧。
+
+^ “Control for Xbox One Reviews”.   Metacritic. 2019年8月26日閲覧。
+
+^ Makedonski, Brett (2019年8月26日). “Review: Control”.   Destructoid. 2019年8月26日閲覧。
+
+^ Goroff, Michael (2019年8月26日). “Control review”.   Electronic Gaming Monthly. 2019年8月26日閲覧。
+
+^ Reeves, Ben (2019年8月26日). “Control Review – A Heady Power Trip”.   Game Informer. 2019年8月26日閲覧。
+
+^ Leri, Michael (2019年8月26日). “Control Review - Weirdness, perfected”.   Game Revolution. 2019年8月26日閲覧。
+
+^ Brown, Peter (2019年8月26日). “Control Review - An Action-Packed Paranormal Portal”.   GameSpot. 2019年8月26日閲覧。
+
+^ Loveridge, Sam (2019年8月26日). “Control review: "A game we'll be talking about for generations"”.   GamesRadar+. 2019年8月26日閲覧。
+
+^ Dornbush, Jonathan (2019年8月26日). “Control Review”.   IGN. 2019年8月26日閲覧。
+
+^ Davenport, James (2019年8月26日). “Control review”.   PC Gamer. 2019年8月26日閲覧。
+
+^ Wise, Josh (2019年8月26日). “Control review”.   VideoGamer.com. 2019年8月26日閲覧。
+
+^ https://www.ign.com/articles/2019/12/10/best-games-2019 IGN Game Awards 2019 | date = December 11, 2019 | accessdate = December 15, 2019 | work = [[IGN]}}
+
+^ Vader. “Why Control Is Game Informer's 2019 Game Of The Year” (英語). Game Informer. 2020年1月11日閲覧。
+
+^ Harmon (2020年1月1日). “EGM’s Game of the Year 2019: Control” (英語). EGM. 2020年1月11日閲覧。
+
+^ Staff 2019-12-20T14:02:15Z. “The 25 best games of 2019” (英語). gamesradar. 2020年1月11日閲覧。
+
+^ Frushtick (2019年12月12日). “GOTY 2019 #2: Control” (英語). Polygon. 2020年1月11日閲覧。
+
+^ https://www.youtube.com/watch?v=Z0otI5G-sWw&t=602s
+
+^ https://www.usgamer.net/articles/usgamer-top-20-games-of-2019
+
+^ https://www.giantbomb.com/shows/game-of-the-year-2019-day-five-deliberations/2970-19814
+
+^ https://hardcoregamer.com/2020/01/07/top-10-games-of-2019-game-of-the-year/364183/
+
+^ https://www.gamerevolution.com/features/623340-top-50-best-games-of-2019
+
+^ “GameSpot Game Of The Year: 2019's 10 Best Games” (英語). GameSpot. 2020年1月11日閲覧。
+
+^ Gamer (2019年12月30日). “Game of the Year Awards 2019” (英語). PC Gamer. 2020年1月11日閲覧。
+
+^ https://www.eurogamer.net/articles/2019-12-27-game-of-the-year-control-is-the-best-game-about-destroying-office-supplies
+
+^ Plante (2019年9月2日). “Why Control looks so much better on PC” (英語). Polygon. 2020年2月25日閲覧。
+
+^ Battaglia (2019年8月31日). “Control PC: a vision for the future of real-time rendering?” (英語). Eurogamer. 2020年2月25日閲覧。
+
+^ Hoggins, Tom (2018年9月24日). “Golden Joysticks 2018 nominees announced, voting open now”. The Daily Telegraph. https://www.telegraph.co.uk/gaming/news/golden-joysticks-2018-nominees-announced-voting-open-now/ 2019年11月16日閲覧。 
+
+^ Nunneley (2019年6月27日). “E3 2019 Game Critics Awards – Final Fantasy 7 Remake wins Best of Show”.   VG247. 2019年11月16日閲覧。
+
+^ Tailby (2019年9月20日). “Days Gone Rides Off with Three Nominations in This Year's Golden Joystick Awards”.   Push Square. 2019年11月16日閲覧。
+
+^ GamesRadar staff (2019年10月25日). “Vote now for your Ultimate Game of the Year in the Golden Joystick Awards 2019”.   GamesRadar+. 2019年11月16日閲覧。
+
+^ GamesRadar staff (2019年11月15日). “Here's every winner from this year's Golden Joystick Awards, including the Ultimate Game of the Year”.   GamesRadar+. 2019年11月16日閲覧。
+
+^ “Titanium Awards 2019”.   Fun & Serious Game Festival. 2019年11月21日時点のオリジナルよりアーカイブ。2019年11月21日閲覧。
+
+^ Winslow (2019年11月19日). “The Game Awards 2019 Nominees Full List”.   GameSpot. 2019年11月19日閲覧。
+
+^ Makuch (2019年12月13日). “The Game Awards 2019 Winners: Sekiro Takes Game Of The Year”.   GameSpot. 2019年12月13日閲覧。
+
+^ Meitzler (2020年1月22日). “The New York Video Game Awards 2020 Winners Revealed; The Outer Worlds Takes Game of the Year”.   DualShockers. 2020年1月22日閲覧。
+
+^ Hipes (2020年1月7日). “VES Awards Nominations: ‘The Lion King’, ‘Alita: Battle Angel’, ‘The Mandalorian’ & ‘GoT’ Top List”.   Deadline Hollywood. 2020年1月7日閲覧。
+
+^ Pedersen (2020年1月29日). “VES Awards: ‘The Lion King’ & ‘The Irishman’ Take Top Film Honors – Winners List”.   Deadline Hollywood. 2020年1月30日閲覧。
+
+^ Valentine (2020年1月10日). “Control, Death Stranding each receive eight DICE 2020 nominations, including Game of the Year”.   GamesIndustry.biz. 2020年1月10日閲覧。
+
+^ Van Allen (2020年2月14日). “Untitled Goose Game Wins Top Bill at the 2020 D.I.C.E. Awards”.   USgamer. 2020年2月14日閲覧。
+
+^ “2019 Nominees”.   National Academy of Video Game Trade Reviewers (2020年1月13日). 2020年1月21日閲覧。
+
+^ “2019 Winners”.   National Academy of Video Game Trade Reviewers (2020年2月24日). 2020年2月25日閲覧。
+
+^ Gamasutra staff (2020年1月8日). “Death Stranding leads the pack of 2020 Game Developers Choice Awards nominees”.   Gamasutra. 2020年1月8日閲覧。
+
+^ Makuch (2020年3月18日). “Untitled Goose Game Wins Another Game Of The Year Award”.   GameSpot. 2020年3月19日閲覧。
+
+^ Grayshadow (2020年2月17日). “2020 SXSW Gaming Awards Nominees Revealed”.   NoobFeed. 2020年2月18日閲覧。
+
+^ Grayshadow (2020年3月25日). “SXSW 2020 Gaming Award Winners Revealed”.   Noobfeed. 2020年3月28日閲覧。
+
+^ Stuart (2020年3月3日). “Death Stranding and Control dominate Bafta games awards nominations”.   The Guardian. 2020年3月3日閲覧。
+
+^ Chilton, Louis (2020年4月2日). “Bafta Games Awards 2020: The results in full”. The Independent. https://www.independent.co.uk/arts-entertainment/games/news/bafta-games-awards-2020-results-list-winners-outer-wilds-death-stranding-control-disco-elysium-a9444411.html 2020年4月2日閲覧。 
+
+^ Wilson (2020年2月13日). “Game Audio Network Guild Announces 18th Annual G.A.N.G. Award Nominees”.   The Hype Magazine. 2020年2月27日閲覧。
+
+
+外部リンク[編集]
+公式ウェブサイト
+Control - Steam
+Control - Epic Games Store
+Control - YouTubeプレイリスト
+Control - YouTubeチャンネル
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Control_(コンピュータゲーム)&oldid=83980732」から取得
+カテゴリ: 2019年のコンピュータゲームWindows用ゲームソフトXbox Series X/S用ソフトXbox One用ソフトNintendo Switch用ソフトPlayStation 5用ソフトPlayStation 4用ソフト505 Gamesのゲームソフトサードパーソン・シューティングゲームアクションアドベンチャーゲームSFコンピュータゲームニューヨーク市を舞台としたコンピュータゲームフィンランドで開発されたコンピュータゲーム隠しカテゴリ: 外部リンクがリンク切れになっている記事/2021年3月ウィキペディアとウィキデータで異なる公式ウェブサイト
+

@@ -1,0 +1,113 @@
+
+
+
+
+
+Z1 Battle Royale
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+（H1Z1から転送）
+
+
+ナビゲーションに移動
+検索に移動
+Z1 Battle Royaleジャンル
+バトルロイヤル対応機種
+Microsoft WindowsPlayStation 4開発元
+Daybreak Game Company発売元
+Daybreak Game Companyプロデューサー
+Chris Wynn音楽
+Cris Velasco人数
+マルチプレイヤー発売日
+Microsoft Windows2018年2月28日PlayStation 42018年5月22日エンジン
+ForgeLightテンプレートを表示
+『Z1 Battle Royale』（ゼットワン バトルロイヤル、旧称：H1Z1、King of the Kill）はデイブレイクゲームカンパニーが開発・販売する基本プレイ無料（F2P）のバトルロイヤルゲーム。本作の開発はオリジナルのH1Z1が2016年初期に2つの別々のプロジェクト(『H1Z1: Just Survive』と『H1Z1: King of the Kill』)に分割された後に開始された[1][2]。2017年10月にこれらのゲームは更に別のプロジェクトとして分割され、『Just survive』はH1Z1の名称が無くなり、『King of the Kill』は『H1Z1』となった[3]
+Microsoft Windows向けの3年に渡る早期アクセス後の2018年2月に同作はF2Pのゲームとして正式リリースされた[4]。H1Z1はまた2018年5月にプレイステーション4向けにリリースされた。しかし、一か月後にゲームの開発はNantG Mobileに移管され、彼らは2017年からの初期ビルドまでゲームを戻すことを試み、本作を『Z1 Battle Royale』にリブランディングした。2019年4月、ゲームの開発はデイブレイクへと戻された。
+
+目次
+
+1 開発
+2 ゲームプレイ
+3 脚注
+4 外部リンク
+
+
+開発[編集]
+本作は元々は2015年1月15日にSteamの早期アクセスプログラム上にリリースされた[5]。リリース時にプレイヤーから自身のアカウントにログインできなかったり稼働サーバーに入ることができない等の報告が寄せられるなど本作は数々の技術的問題に見舞われた[6]。開発者が他の問題を修復するためのパッチをリリース後に全サーバーがオフラインになる新たなバグがゲームに生じた[7]。不安定な立ち上げにもかかわらず、デイブレイクゲームカンパニーのジョン・スメドレー(John Smedley)CEOはゲームは2015年3月までに100万本以上売れたと発表した[8]
+2016年2月、元々H1Z1として知られている本作をそれぞれの専属開発チームと共に2つのプロジェクト(副題「Just Survive」と「King of the Kill」)に分割することがデイブレイクから発表された[9]。その年の後半にゲームのWindows版(正式リリース予定日：2016年9月20日)に集中するために家庭用ゲーム機版の開発を停止すると発表した[10]。しかしながらリリースの一週間前にゲームのエクゼクティブプロデューサーは現在までに多くの機能が未完成であるため、ゲームは別途通知があるまで早期アクセスのままになるだろうと語った。妥協の結果として、ゲームは9月20日に正式リリース用の機能の多くを含む大規模アップデートを行った[11]
+2017年4月にThe CWでゲームのトーナメントのテレビ番組「H1Z1: Fight for the Crown」が放映された[12]。2017年10月に本作は副題の「King of the Kill」が無くなることが発表され、シンプルに『H1Z1』として知られるようになった[13]。同月に「ロングビーチ・コンベンション・センター」でのTwitchConの期間中に招待トーナメントが開催された[14]。加えて、2017年10月にはH1Z1のプロリーグが発表され、プロリーグではデイブレイクとTwin Galaxiesが「1対全員」のバトルロイヤルジャンルの持続可能なプロフェッショナルのeスポーツリーグを作るための「プレイヤー・ファースト」のアプローチで提携を結んだ[15]。
+本作は2018年2月28日にスコアリング、戦闘、武器、ゲームプレイ、UI、新ゲームモード「Auto Royale」のアップデートと共に正式にリリースされた[16][17][18] 。アップデートはまたキルを得て試合の上位に着実に入るプレイヤーに報酬を与える新しいスコアシステムを導入する「Season 1」を開始した[19]。リリースから一週間後、本作は基本プレイ無料に戻る予定であることが発表された[20]。本作は2018年5月22日にプレイステーション4向けにリリースされ、数日以内に150万人以上のプレイヤーを獲得した[21][22]。本作にはキャラクターのスキンを提供するシーズン制のバトルパスオプションが用意されている[23]。
+2019年3月、本作はNantG Mobileの開発の下、Z1 Battle Royaleにリブランドされた。このアップデートでは、ゲームのメカニクス、武器バランス、ユーザーインターフェイスに加えられた変更の大半が、2017年初頭のゲームのビルドに戻された。新しいミッションシステムに加えて、地域の上位75名のプレイヤー間の月間トーナメントを含むランク戦が追加された[24][25]。翌月にはゲームの開発がデイブレイクゲームに戻されることが発表され、NantGはその理由として自身とDaybreakが2つのブランドで同じゲームを運営していることによるゲームの混乱から生じた「多くの課題」を挙げている[26]。
+
+ゲームプレイ[編集]
+H1Z1はデスマッチのラストマン・スタンディングで最大150人のプレイヤーが互いに戦うバトルロイヤルゲームである。プレイヤーはソロ(1人)、デュオ(2人)、クインテッド（5人）を選択することができ、最後の人物または最後のチームになることを目標にする[27]
+プレイヤーがマップ上空の任意の位置からパラシュート降下することで試合が始まる。着陸後、プレイヤーは自分の身を守るための手段を探さなければならない。手段として武器を取得し積極的に他のプレイヤーを狩ったり他のプレイヤーが殺し合いをしている間隠れたりするなど様々な方法が取られ得る。マップ内には車両が配置されており、それを用いて敵を追跡したり素早く逃走したりすることができる。武器、装備、医療キットなどの周辺の様々な用品を採集することができる。本作はまた採集アイテムを包帯や防具として機能するアイテムに分解するなどプレイヤーが間に合わせのツールを作れるクラフトシステムを搭載している。
+ゲームが進行していくにつれて毒ガスがマップを覆っていき、毒ガスの中に留まっているとプレイヤーはダメージを受ける。これは最終的に接近戦でプレイヤー同士を争わせるために事実上マップのプレイエリアを小さくすることになる。ガスは時間をずらして広がり、試合の最終段階では大ダメージを受けるようになる。
+
+脚注[編集]
+
+
+^ “H1Z1 Coming to PS4 and Xbox One This Summer, PC Version Getting Split Into Two Games”. GameSpot. 2016年2月27日閲覧。
+
+^ “H1Z1 is splitting into two games, headed to consoles”. Polygon. 2016年2月24日閲覧。
+
+^ Livingston, Christopher (2017年10月14日). “H1Z1: King of the Kill is now called just H1Z1”. PC Gamer. http://www.pcgamer.com/h1z1-king-of-the-kill-is-now-called-just-h1z1/ 2017年11月3日閲覧。 
+
+^ “H1Z1 becomes a free-to-play game today”. PC Gamer. 2018年3月8日閲覧。
+
+^ Brian Albert (2014年12月8日). “H1Z1 early access date revealed”. IGN. 2015年3月24日閲覧。
+
+^ Handrahan, Matthew (2015年1月19日). “Sony's H1Z1 plagued by technical issues at launch”. Gameindustry.biz. 2015年3月3日閲覧。
+
+^ Crossley, Rob (2015年1月21日). “Server Woes Worsen Following H1Z1's Disaster Launch”. GameSpot. 2015年3月24日閲覧。
+
+^ Crossley, Rob (2015年3月24日). “Zombie MMO H1Z1 Hits 1m Sales”. GameSpot. 2015年3月24日閲覧。
+
+^ “Breaking News: H1Z1 is Evolving”. H1Z1.com. 2016年2月25日閲覧。
+
+^ “H1Z1 PS4/Xbox One Versions "Paused," as PC Edition Gets Release Date”. GameSpot. 2016年9月3日閲覧。
+
+^ “September 20 Game Update”. h1z1.com. 2016年9月29日閲覧。
+
+^ “H1Z1 tournament to air on The CW in prime-time”. Polygon (2017年2月22日). 2017年5月18日閲覧。
+
+^ “New Look, New Name, All H1Z1”. h1z1.com. 2017年10月26日閲覧。
+
+^ “Full TwitchCon Invitational Standings” (英語). H1Z1 (2017年10月24日). 2017年11月7日閲覧。
+
+^ “H1Z1 Pro League – H1Z1 Professional Video Game Esports Tournament 2018” (英語). www.h1pl.com. 2018年3月8日閲覧。
+
+^ “H1Z1 is leaving Steam Early Access right now, adding a new cars-only mode”. Polygon. 2018年2月28日閲覧。
+
+^ “Game Update: Auto Royale, Season One, Match Rewards & More!” (英語). H1Z1 (2018年2月27日). 2018年3月8日閲覧。
+
+^ “H1Z1 becomes a free-to-play game today”. PC Gamer. 2018年3月8日閲覧。
+
+^ “Welcome To Season One!” (英語). H1Z1 (2018年2月28日). 2018年3月8日閲覧。
+
+^ “H1Z1 becomes a free-to-play game today”. PC Gamer. 2018年3月8日閲覧。
+
+^ “Battle royale game H1Z1 hits PS4 in May”. Eurogamer. 2018年4月24日閲覧。
+
+^ “H1Z1 Sees Over 1.5 Million Players With PS4 Open Beta”. IGN. 2018年5月24日閲覧。
+
+^ “PS4 Battle Pass: Season 1 Guide”. h1z1.com (2018年8月2日). 2018年11月28日閲覧。
+
+^ Good, Owen S. (2019年3月7日). “H1Z1 changed its name again, this time to Z1 Battle Royale”. Polygon. 2019年3月8日閲覧。
+
+^ “H1Z1 is now Z1 Battle Royale, and it's heading back to a two-year-old patch” (英語). PCGamesN. 2019年3月8日閲覧。
+
+^ “Z1 Battle Royale dropped by new developer, returns to Daybreak Games”. PC Gamer (2019年4月8日). 2019年4月9日閲覧。
+
+^ “Home | H1Z1 | Massively Multiplayer Arena Shooter” (英語). H1Z1. 2017年11月6日閲覧。
+
+
+外部リンク[編集]
+公式ウェブサイト
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Z1_Battle_Royale&oldid=79182747」から取得
+カテゴリ: 2018年のコンピュータゲームPlayStation 4用ソフト文明崩壊後の世界が描かれたコンピュータゲームWindows用ゲームソフトXbox One用ソフトゾンビを題材としたコンピュータゲームアメリカで開発されたコンピュータゲームバトルロイヤルゲーム
+

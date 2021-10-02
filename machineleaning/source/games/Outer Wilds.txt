@@ -1,0 +1,487 @@
+
+
+
+
+
+Outer Wilds
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+
+
+
+
+
+「The Outer Worlds」あるいは「アウターワールド」とは異なります。
+
+
+Outer Wilds
+ジャンル
+アクションアドベンチャー対応機種
+Microsoft WindowsXbox OnePlayStation 4Nintendo Switch開発元
+Mobius Digital発売元
+アンナプルナ・インタラクティブプロデューサー
+マシ・オカAvimaan SyamSarah Scialliディレクター
+Alex Beachumデザイナー
+Alex BeachumLoan Verneauシナリオ
+Kelsey Beachumプログラマー
+Logan ver HoefJeffrey Yu音楽
+Andrew Prahlow美術
+Wesley Martin人数
+シングルプレイヤー発売日
+Microsoft Windows2019年5月28日（EGS）2020年6月18日（Steam）Xbox One2019年5月29日PlayStation 42019年10月15日Nintendo Switch2021年夏エンジン
+Unityテンプレートを表示
+『Outer Wilds』（アウターワイルズ）は、メビウス・デジタル (Mobius Digital) が開発しアンナプルナ・インタラクティブより2019年に発売されたSFアクションアドベンチャーゲーム。対応機種はMicrosoft Windows、Xbox One、PlayStation 4、Nintendo Switch。日本語対応[1]。 
+インディーゲームでありながら、英国アカデミー賞ゲーム部門ベストゲーム賞などの世界的な賞（ゲーム・オブ・ザ・イヤー）を獲得した[2][3]。 
+物語の舞台は架空の星系。ただし、物語が始まって約20分後（ゲーム内時間かつ実時間）に、恒星が超新星爆発を起こして星系が滅亡してしまう。プレイヤーはその星系の地球にあたる惑星の宇宙飛行士として、謎のタイムループ能力によって死を繰り返しながら、宇宙船とジェットパックを操縦して星系を探検し、ループの原因、そして星系に隠された壮大な秘密を解き明かしていく。 
+
+目次
+
+1 システム
+2 開発
+3 評価
+
+3.1 受賞
+
+
+4 プロット
+
+4.1 用語
+4.2 題材
+
+
+5 脚注
+6 外部リンク
+
+
+システム[編集]
+プレイヤーは名無しの新米宇宙飛行士として、初飛行を目前に控えた夜に物語が始まる。 
+物語が始まる前にチュートリアルが用意されており、このチュートリアルの終了とともに爆発のカウントダウンが始まる。チュートリアルでは、母星住民との会話や天文台の展示品を通じて、操作方法や世界設定などが説明される。ただし、断片的な知識しか説明されないため、具体的な操作方法や世界設定はプレイヤーが死を繰り返しながら自力で把握していくことになる。 
+物語が始まって22分が経過するか、もしくはプレイヤーが死亡すると、世界全体がリセットされて開始地点に戻る。これを繰り返して徐々に世界を探検していく。所持品や解錠した扉などもすべてリセットされるが、探検によって得られた知識だけはゲーム内の情報端末に自動記録（オートセーブ）される。知識がある程度蓄積されると、最終的に何をすれば良いのかがおのずから分かる。 
+星系は全体がシームレスなオープンワールドで、サイズが現実の星系に比べて独特な仕方で縮尺・デフォルメされている。そのため、1分程度で惑星間を航行したり、徒歩で惑星の北極から南極まで縦断したりできる。そしてそのようなオープンワールドのなかで、惑星の公転や重力といった物理演算がリアルタイムに行われている。 
+物語の開始地点は木立のなかの焚き火で、ゲームカバーにも描かれているように、その焚き火が本作の象徴になっている。同様の焚き火は先遣の宇宙飛行士たちによって他の惑星にも設置されており、そこでは彼らと歓談したり、マシュマロを焼いて食べたりできる。（マシュマロ#食べ方） また、先遣の宇宙飛行士たちは、各々がバンジョーやハーモニカなどの楽器をビーコン代わりに演奏しており、その演奏が本作のゲームミュージックの基調になっている。 
+
+開発[編集]
+コンセプトアート（宇宙飛行士たち）アルファ版のスクリーンショット
+開発ドキュメンタリー動画（約1時間、クリア後向け）が公開されている[4][5]。  
+Outer Wildsの開発は、本作のクリエイティブ・ディレクターを務めるAlex Beachumが、南カリフォルニア大学映画芸術学部インタラクティブメディア・ゲーム学科（英語版）に在学中の2012年に始めた、修士論文[6]を兼ねた学生プロジェクトにさかのぼる[4][7]。このプロジェクトは、「先進的なゲームを開発する」という課題に対してのプロジェクトだった[7]。  
+Beachumがこのとき考案したゲームのアイデアは、映画『アポロ13』や『2001年宇宙の旅』で描かれているような、人為の及ばない宇宙という環境に対する「探検精神」を、ゲームの形で表現するというものだった[7]。さらにそれを表現する上で、「行き先」の意識をプレイヤーにもたせながらも、行き先を指示しないオープンワールドゲームを作る、というアイデアだった[7]。そのようなアイデアのヒントになったのは、『ゼルダの伝説 風のタクト』のNPCたち（とりわけ写真家のゲンゾー）による、異郷の地について語り方、すなわちプレイヤーが自発的にその地を探検したいと思えるような語り方だった[4][7]。なお、Outer Wildsとゼルダの伝説シリーズとの関連性に関しては、『ゼルダの伝説 ムジュラの仮面』のループシステムとの類似性も指摘されている[7][8]。Beachumは、同作からの影響も認めつつも、同作のループが複雑に入り組んだループであるのに対して、Outer Wildsのループはシンプルで大胆なループであり、それゆえ両者は類似しつつもあくまで対照的な作品だとしている[7][8]。そのほか、焚き火に象徴されるキャンプ文化、バックパッキング文化からも影響を受けている[7]。 
+プロジェクトは開発チームを結成して進められた。チームのメンバーは、南カリフォルニア大学のほか、同じくカリフォルニア州のLaguna College of Art and Design（英語版）や、プエルトリコのAtlantic University College（英語版）の学生で構成されていた[7]。チームはまず、ペーパープロトタイピング（英語版）とTRPGセッションの形式を通じて、物語の原案をブレインストーミングで出し合うことから始めた。その後、Unityでゲームを制作しつつ、 Processingでテキストアドベンチャー形式の試作品を制作した。Beachumが大学を卒業した後も、ゲームの商品化を目指して開発は続き、Beachum自身はクリエイティブ・ディレクターとして携わりつつ、メンバーをフルタイムで雇用して開発を進めた[7]。ちょうどこの頃、南カリフォルニア大学の学生作品公開イベント（Demo Day）に、ゲーム開発会社Mobius Digitalの創業者で、俳優としても知られるマシ・オカが訪れた。このときオカは、千載一遇の好機と見て、Beachumのチーム全員をMobius Digitalに雇い入れた[9]。なお、オカ自身はエグゼクティブ・プロデューサーとして本作に携わっている。 
+2015年には、ゲーム専門のクラウドファンディングサイト「Fig（英語版）」で本作の開発資金を募った[10]。本作はFig最初の掲載作品だった[11]。また同年には、アルファ版をホームページで無料公開したり、後述のインディーゲーム賞（IGF Awards）を受賞したりした[12]。 
+2018年3月、Mobius Digitalは、ゲーム販売会社アンナプルナ・インタラクティブが、Figから本作の権利を買い取って資金援助と販売業務を引き受けたこと、および本作を同年内に発売する予定であることを発表した[13][14]。また同年6月には、PC版だけでなくXbox One版も発売する予定であることを発表した[15]。しかしながら、同年12月、発売が年内ではなく2019年に延期になることを発表した[16]。また、延期の発表に加えて、PCゲーム販売サイトのEpic Games Store (EGS)から追加の資金援助を受けた代わりに、PC版は同サイトの時限独占販売になることを発表した。このEGS関連の発表をめぐっては、少々不満が寄せられて騒動になった[17]。というのも、当初のFigの記載では投資者にSteamの使用キーを配布すると記載していたこと、また、LinuxユーザーにとってはEGSにLinux互換のフロントエンドが無かったことなどによる[18]。 
+最終的に、2019年5月28日にWindows版がEGSから発売され、その1日後にXbox One版が発売された[19]。Xbox One版は、サブスクリプション方式（Xbox Game Pass）での配信作品という形態もとった[20]。その後、2019年10月15日にはPlayStation 4版が発売され、独占期間終了後の2020年6月18日にはSteamからも発売された[21][22]。なお、これらはいずれもダウンロード販売によるものだったが、2020年にはPlayStation 4のパッケージ版がLimited Run Games（英語版）から発売された[23]。 
+ちなみに、本作が発売されたのとちょうど同時期に、他社から似たようなタイトルの『The Outer Worlds』が発売されて混同を招いた。その点でも話題になった[4][24][25]。　 
+
+評価[編集]
+評価集計結果媒体結果MetacriticPC: 85/100[26]XONE: 85/100[27]PS4: 82/100[28]レビュー結果媒体結果デストラクトイド9/10[30]ゲーム・インフォーマー7.75/10[33]Game Revolution[32]GameSpot9/10[31]IGN8.4/10[29]
+複数のゲームメディアが、2019年で最高のゲームの一つ（ゲーム・オブ・ザ・イヤー）として本作を挙げている[35][36][37][38][39][40]。なかでもPolygonとペーストは、2010年代で最高のゲームの一つとして本作を挙げている[41][42]。大手レビューサイトのMetacriticでは「概ね好意的」（"generally favorable"）の高評価を得ている。 
+特徴的なゲームシステムやストーリーが高評価を得ている[43]。ストーリーに関しては、SF小説『星を継ぐもの』に匹敵するハードSFであるとする評価もある[44]。そして実際に、SF文学賞として著名なネビュラ賞の、2020年のゲームライティング部門にもノミネートされている[44][45]。ストーリーは、シナリオライターでAlex Beachumの妹でもあるKelsey Beachumが手掛けている[5]。 
+また、コンポーザーのAndrew Prahlowによる、上述のバンジョーを基調にしたゲームミュージックも高く評価されており、サウンドトラックアルバムも販売・配信されている[46]。 
+本作は、開発途中のアルファ版の頃から高評価を得ている。2015年には、世界的なインディーゲームイベントIndependent Games Festival（英語版）（IGF）において、デザイン部門賞と最優秀賞（Seumas McNally Grand Prize（英語版））の二部門を制した[47]。 
+
+受賞[編集]
+
+
+Year
+Award
+Category
+Result
+Ref
+
+
+2015
+
+Independent Games Festival（英語版） Awards
+（Game Developers Conference内）
+
+
+Seumas McNally Grand Prize（英語版）
+
+受賞
+
+[47]
+
+
+Excellence in Design
+
+受賞
+
+
+2018
+
+Game Critics Awards（英語版）
+
+Best Independent Game
+
+ノミネート
+
+[48]
+
+
+2019
+
+ゴールデンジョイスティックアワード
+
+Best Storytelling
+
+ノミネート
+
+[49]
+
+
+Best Visual Design
+
+ノミネート
+
+
+Best Indie Game
+
+受賞
+
+
+Best Audio
+
+ノミネート
+
+
+Xbox Game of the Year
+
+ノミネート
+
+
+Ultimate Game of the Year（英語版）
+
+ノミネート
+
+
+The Game Awards 2019
+（The Game Awards 2019（英語版））
+
+
+Best Game Direction
+
+ノミネート
+
+[50]
+
+
+Best Independent Game
+
+ノミネート
+
+
+Fresh Indie Game (Mobius Digital)
+
+ノミネート
+
+
+2020
+
+第23回D.I.C.E. Awards
+（23rd Annual D.I.C.E. Awards（英語版））
+
+
+Game of the Year
+
+ノミネート
+
+[51]
+
+
+Outstanding Achievement in Game Design
+
+ノミネート
+
+
+Outstanding Achievement in Game Direction
+
+ノミネート
+
+
+Outstanding Achievement in Story
+
+ノミネート
+
+
+第20回ゲーム・デベロッパーズ・チョイス・アワード
+（20th Game Developers Choice Awards（英語版））
+
+
+Game of the Year（英語版）
+
+ノミネート
+
+[52]
+
+
+Best Debut (Mobius Digital)
+
+ノミネート
+
+
+Best Design
+
+ノミネート
+
+
+Innovation Award
+
+ノミネート
+
+
+Best Narrative
+
+ノミネート
+
+
+SXSWゲーム賞
+
+Excellence in Design
+
+ノミネート
+
+[53]
+
+
+Excellence in Musical Score
+
+ノミネート
+
+
+Excellence in Narrative
+
+ノミネート
+
+
+第16回英国アカデミー賞ゲーム部門
+（16th British Academy Games Awards（英語版））
+
+
+Best Game（英語版）
+
+受賞
+
+[2][3]
+
+
+Game Design（英語版）
+
+受賞
+
+
+Music
+
+ノミネート
+
+
+Narrative
+
+ノミネート
+
+
+Original Property
+
+受賞
+
+
+ネビュラ賞
+
+ゲームライティング部門
+
+ノミネート
+
+[44][45]
+
+
+日本ゲーム大賞
+
+ゲームデザイナーズ大賞
+
+ノミネート
+
+[54]
+
+プロット[編集]
+この節の加筆が望まれています。 （2020年8月）
+用語[編集]
+アウター・ワイルズ・ベンチャーズ（Outer Wilds Ventures）
+木の炉辺（Timber Hearth）
+ハーシアン（Hearthian）
+ノマイ（Nomai）
+幽霊物質（Ghost Matter）
+偵察機、リトル・スカウト（Little Scout）
+アトルロック（Attlerock）
+巨人の大海（Giant's Deep）
+砂時計の双子星（Hourglass Twins）
+灰の双子星（Ash Twin）
+燃え盛る双子星（Ember Twin）
+脆い空洞（Brittle Hollow）
+空洞のランタン（Hollow's Lantern）
+闇のイバラ（Dark Bramble）
+太陽ステーション（Sun Station）
+侵入者（The Interloper）
+量子の月（Quantum Moon）
+宇宙の眼（Eye of the Universe）
+題材[編集]
+超新星爆発
+恒星進化論
+重力
+自転
+公転
+軌道
+彗星
+海洋惑星
+二重惑星
+地球空洞説
+ブラックホール
+ホワイトホール
+太陽エネルギー
+慣性
+チョウチンアンコウ
+クラゲ
+宇宙文明
+超古代文明
+大量絶滅
+異星言語学
+転送装置
+精神転送
+量子力学
+観察者効果
+宇宙の終焉
+脚注[編集]
+[脚注の使い方]
+
+
+^ Sawahata, Takayuki (2019年6月1日). “『Outer Wilds』日本語対応で配信開始。滅亡までの20分をループし続ける宇宙探索アドベンチャー” (日本語). AUTOMATON. 2020年8月4日閲覧。
+
+^ a b doope!. “多数のGOTYを獲得したタイムループものの傑作「Outer Wilds」のSteam版がリリース、期間限定の33％セールも « doope! 国内外のゲーム情報サイト” (日本語). 2020年8月4日閲覧。
+
+^ a b “2020英国アカデミー賞ゲーム部門受賞作品発表！ Best Gameは『Outer Wilds』” (日本語). Game*Spark - 国内・海外ゲーム情報サイト. 2020年8月4日閲覧。
+
+^ a b c d doope!. “多数のGOTYを獲得したタイムループものの傑作「Outer Wilds」の誕生と開発に焦点を当てるドキュメンタリーが公開 « doope! 国内外のゲーム情報サイト” (日本語). 2020年8月4日閲覧。
+
+^ a b The Making of Outer Wilds - Documentary - YouTube（2020年・Noclip（英語版））
+
+^ Beachum, Alex (2013年). “Outer Wilds: a game of curiosity-driven space exploration”. digitallibrary.usc.edu.   南カリフォルニア大学. 2020年11月13日閲覧。
+
+^ a b c d e f g h i j “Winners Announced at the 2019 Golden Joystick Awards”. Gamasutra.   UBM plc (2019年11月15日). 2020年8月4日閲覧。
+
+^ a b Warr, Philippa (2015年3月5日). “Lunching In Space With IGF Winner Outer Wilds”. Rock, Paper, Shotgun. 2015年3月7日時点のオリジナルよりアーカイブ。2015年3月11日閲覧。
+
+^ Hall (2015年8月18日). “What if Kickstarter let you profit from a game's success? Fig found a way, launches today”.   Polygon. 2015年9月3日閲覧。
+
+^ Fig Crowdfunding: Outer Wilds Loopdy Loop - YouTube（2015年・Fig（英語版） ）
+
+^ “ガチの出資も可能なゲーム向けクラウドファンディングサイト“Fig”が発足。第1弾はマシ・オカのスタジオの『Outer Wilds』”.   ファミ通.com. 2020年8月4日閲覧。
+
+^ Savage, Phil (2015年3月4日). “Outer Wilds wins IGF grand prize”. PC Gamer.   Future Publishing. 2015年3月11日閲覧。
+
+^ Takahashi (2018年3月15日). “Outer Wilds is about backpacking in outer space”. Venture Beat. 2018年3月15日閲覧。
+
+^ Sinclair (2018年3月16日). “Fig turns a profit for some investors”. GamesIndustry.biz. 2018年3月16日閲覧。
+
+^ Singletary (2018年6月6日). “FPS Space Mystery Outer Wilds Coming To Xbox One At Launch”. Shacknews. 2018年6月6日閲覧。
+
+^ Chalk (2018年12月19日). “Outer Wilds, the game of cosmic exploration and campfires, is delayed into 2019”. PC Gamer. 2018年12月19日閲覧。
+
+^ Umise, Minoru (2019年5月13日). “宇宙探索オープンワールド『Outer Wilds』はEpic Gamesストア時限独占。クラウドファンディングのバッカーからは不満の声” (日本語). AUTOMATON. 2020年8月4日閲覧。
+
+^ Van Allen (2019年5月13日). “Outer Wilds Will Launch As Timed Epic Exclusive, And Backers Don't Seem Happy”. USGamer. 2019年5月13日閲覧。
+
+^ Hyrb (2019年5月29日). “Outer Wilds Is Now Available For Xbox One”.   Microsoft. 2019年5月29日閲覧。
+
+^ Inc, Aetas. “Outer Wildsのデベロッパ：サブスクリプションは「奇妙なものに対して市場のロックを解除する」” (日本語). jp.gamesindustry.biz. 2020年8月7日閲覧。
+
+^ Romano (2019年10月8日). “PS4Outer Wilds coming to PS4 on October 15”. Gematsu. 2019年10月8日閲覧。
+
+^ O'Connor (2020年3月24日). “Outer Wilds blasts off on Steam in June” (英語). Rock, Paper, Shotgun. 2020年3月29日閲覧。
+
+^ “Limited Run #348: Outer Wilds (PS4) [PREORDER]” (英語). Limited Run Games. 2020年6月28日閲覧。
+
+^ Ishii, Ryuki (2019年10月29日). “それって『The Outer Worlds』？『Outer Wilds』？カスタマーサポート泣かせな両作のパブリッシャーによる、ユーモラスなかけあい” (日本語). AUTOMATON. 2020年8月4日閲覧。
+
+^ Umise, Minoru (2020年4月16日). “『Outer Wilds』シナリオライター、『The Outer Worlds』開発元に加わる。ややこしさ加速” (日本語). AUTOMATON. 2020年8月4日閲覧。
+
+^ “Outer Wilds for PC Reviews”. Metacritic.   CBS Interactive. 2019年6月20日閲覧。
+
+^ “Outer Wilds for Xbox One Reviews”. Metacritic.   CBS Interactive. 2019年7月4日閲覧。
+
+^ “Outer Wilds for PlayStation 4 Reviews”. Metacritic.   CBS Interactive. 2020年4月6日閲覧。
+
+^ Epstein, Mike (2019年5月31日). “Outer Wilds Review”. IGN. 2020年4月25日閲覧。
+
+^ Tolentino, Josh (2019年6月2日). “Review: Outer Wilds”. Destructoid.   Enthusiast Gaming. 2020年5月29日閲覧。
+
+^ Barbosa, Alessandro (2019年6月8日). “Outer Wilds Review - One small step”. 2020年4月25日閲覧。
+
+^ Faulkner, Jason (2019年5月29日). “Outer Wilds Review - Wonder And Frustration Intertwined”. GameRevolution. 2020年4月25日閲覧。
+
+^ Gwaltney, Javy (2019年6月3日). “Outer Wilds Review | Out of this world”. Game Informer. 2020年4月25日閲覧。
+
+^ “Outer Wilds Review: And tomorrow comes. It’s a world, it’s a way.” (2019年8月16日). 2020年4月25日閲覧。
+
+^ Simon Parkin (2019年12月17日). “The Best Video Games of 2019”. New Yorker. 2020年1月9日閲覧。
+
+^ Christopher Byrd (2019年12月6日). “The 10 best video games of 2019”. Washington Post. 2020年1月9日閲覧。
+
+^ Chelsea Stark (2019年12月13日). “GOTY 2019 #1: Outer Wilds”. Polygon. 2020年1月9日閲覧。
+
+^ Christian Donlan (2019年12月31日). “Eurogamer's game of the year 2019 is Outer Wilds”. Eurogamer. 2020年1月9日閲覧。
+
+^ Guardian Staff (2019年12月17日). “Top 20 games of 2019”. The Guardian. 2020年1月9日閲覧。
+
+^ Giant Bomb Staff (2019年12月30日). “Here's What Won in 2019 - Giant Bomb's Game of the Year”. Giant Bomb. 2020年1月9日閲覧。
+
+^ Polygon staff (2019年11月4日). “The 100 best games of the decade (2010-2019): 50-11”. Polygon. 2019年11月5日閲覧。
+
+^ Martin, Garrett (2019年10月8日). “The 100 Best Videogames of the 2010s”. Paste. 2019年11月5日閲覧。
+
+^ Ikemi, Maho (2020年3月25日). “高評価の宇宙探索ADV『Outer Wilds』Steam版6月18日配信へ。終末までの22分を繰り返す恒星系で、タイムループの謎に迫る” (日本語). AUTOMATON. 2020年8月4日閲覧。
+
+^ a b c “【ゲームで英語漬け：Game*Spark的学習術】第20回『Outer Wilds』進め、好奇心の赴くままに！ レトロフォントで楽しむハードSF体験” (日本語). Game*Spark - 国内・海外ゲーム情報サイト. 2020年8月4日閲覧。
+
+^ a b Inc, Aetas. “ネビュラ賞のゲームライティング部門を「The Outer Worlds」が受賞。他のノミネート作品は「Outer Wilds」や「Disco Elysium」など” (日本語). www.4gamer.net. 2020年8月4日閲覧。
+
+^ Remington, Kate. “Andrew Prahlow's Banjo Makes 'Outer Wilds' Feel Like Home” (英語). www.wshu.org. 2020年8月4日閲覧。
+
+^ a b “インディーならではの作品ばかり！ 第17回IGF Awards受賞作品リスト” (日本語). Game*Spark - 国内・海外ゲーム情報サイト. 2020年8月4日閲覧。
+
+^ “E3で最も注目を集めたのは？「Game Critics Awards Best of E3 2018」受賞リスト！『スマブラ』『バイオ』も” (日本語). Game*Spark - 国内・海外ゲーム情報サイト. 2020年8月4日閲覧。
+
+^ Umise, Minoru (2019年11月18日). “英国の歴史あるアワードGolden Joystick Awards 2019まとめ。『バイオハザード RE:2』がGOTYを獲得するなどカプコンが存在感” (日本語). AUTOMATON. 2020年8月4日閲覧。
+
+^ Winslow, Jeremy (2019年11月19日). “The Game Awards 2019 Nominees Full List”. GameSpot.   CBS Interactive. 2019年11月19日閲覧。
+
+^ “『Untitled Goose Game』がGOTYを獲得！ 第23回「D.I.C.E. Awards」受賞作品リスト” (日本語). Game*Spark - 国内・海外ゲーム情報サイト. 2020年8月4日閲覧。
+
+^ Inc, Aetas. “2020年のGame Developers Choice Awards，Gema of the Yearに輝いたのは「Untitled Goose Game ～いたずらガチョウがやって来た！～」” (日本語). www.4gamer.net. 2020年8月4日閲覧。
+
+^ doope!. “From Softwareの傑作「SEKIRO: Shadows Die Twice」が“SXSW Gaming Awards 2020”のGOTYを獲得 « doope! 国内外のゲーム情報サイト” (日本語). 2020年8月4日閲覧。
+
+^ “日本ゲーム大賞2020 ゲームデザイナーズ大賞は『Baba Is You』、特別賞に『ドラゴンクエストウォーク』【TGS2020】”.   ファミ通.com (2020年9月26日). 2020年9月28日閲覧。
+
+
+外部リンク[編集]
+
+
+
+ウィキメディア・コモンズには、Outer Wildsに関連するカテゴリがあります。
+公式ウェブサイト
+Official Outer Wilds Wiki - Gamepedia
+The Making of Outer Wilds - Documentary - YouTube（2020年・Noclip（英語版））
+Fig Crowdfunding: Outer Wilds Loopdy Loop - YouTube（2015年・Fig（英語版） ）
+
+
+この項目は、コンピュータゲームに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（P:コンピュータゲーム / PJコンピュータゲーム）。
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Outer_Wilds&oldid=81916508」から取得
+カテゴリ: 2019年のコンピュータゲームXbox One用ソフトWindows用ゲームソフトLinux用ゲームソフトPlayStation 4用ソフトNintendo Switch用ソフトアメリカで開発されたコンピュータゲームアンナプルナ・インタラクティブのゲームソフトUnityを採用したゲームソフトオープンワールドゲームインディーゲームループもの隠しカテゴリ: Template:コンピュータゲームの画像を指定した項目書きかけの節のある項目ウィキペディアとウィキデータで異なる公式ウェブサイトコンピュータゲーム関連のスタブ記事
+

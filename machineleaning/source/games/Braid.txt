@@ -1,0 +1,153 @@
+
+
+
+
+
+Braid (ビデオゲーム)
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Braidジャンル
+アクションパズル対応機種
+Xbox 360WindowsPlayStation 3OS XLinux開発元
+Number None, Inc.（Xbox 360，Windows）Hothead games（PS3、OS X）[1][2]発売元
+ Microsoft（Xbox 360）[3] Number None, Inc.（Windows，Steam）[4] MumboJumbo（Windows）[4] Avanquest Software（Windows）[4] ズー（Windows）[5] イグニッション・エンターテイメント・リミテッド（PS3）[6]デザイナー
+ジョナサン・ブロウ美術
+デビッド・ヘルマン人数
+1人発売日
+Xbox 360
+ 2008年8月6日[4]
+Windows
+ 2009年4月10日（Steam）[4]
+ 2009年9月4日（オンライン）[5]
+ 2010年1月26日（パッケージ）[4]
+ 2010年4月23日（パッケージ）[4]
+ 2010年7月23日（オンライン）[4]
+OS X
+ 2009年5月20日[4]
+PS3
+ 2009年11月12日[4]
+ 2009年12月17日[4]
+
+ 2010年9月9日[4]
+
+Linux
+
+ 2010年12月14日[4]対象年齢
+CERO：A（全年齢対象）ESRB：E（6歳以上）PEGI：12その他
+Windows版以外はダウンロード販売のみ[4]テンプレートを表示
+『Braid』（ブレイド）はNumber None, Inc.が開発したビデオゲーム。2008年8月にXbox 360用にリリースされ、その後Windows、OS X、PlayStation 3、Linux用がリリースされた[4]。
+
+目次
+
+1 概要
+2 ストーリー
+3 開発
+4 評価
+5 脚注
+
+5.1 注釈
+5.2 出典
+
+
+6 関連項目
+7 外部リンク
+
+
+概要[編集]
+本作は時間を操る能力を持つ主人公をプレイヤーが操作して進む、2Dの横スクロール型プラットフォームアクションパズルゲームである[5]。敵に接触するとミスとなる一般的なアクションゲームとは異なり、敵に接触しても接触前の時間に戻すことによりミスをなかったことにできるため、本作にはゲームオーバーの概念が存在しない[7]。
+基本操作は移動、ジャンプ、タイムコントロールの3種類のみ。各ワールドに12個ずつパズルのピースが散らばっており、プレイヤーは主人公を操作して、各ワールドに仕掛けられた謎を解きながらパズルのピースを集めていく[7][6]。
+プレイヤーキャラクターがお姫様を救おうとすること、左から右へ進むこと、敵を踏みつけることができること、各ワールドの最終地点が城であり「Our princess is in another castle」という全く同じ台詞が現れることなど、本作には『スーパーマリオブラザーズ』との共通性がある[8]。また、『ドンキーコング』と同じゲームデザインの場面がある[8]。
+
+ストーリー[編集]
+時間を操る能力を持つスーツ姿の男、ティムが、恐ろしい悪のモンスターにさらわれたお姫様を救出するために旅に出る[7][5][6]。[9]。
+
+本作を映画『メメント』のように時間と物語展開を弄ることで受け手に再考を促す「ジャンル解体もの」であるとする見解がある[10]。さらには、本作を『スーパーマリオブラザーズ』を原点として再生産を繰り返している現代のビデオゲームとゲーム産業を批判し脱構築を図ったものであるとする見解がある[11]。映画『エターナル・サンシャイン』との共通性を指摘する評もある[12]。
+
+開発[編集]
+インディーゲームである本作は、制作開始からXbox Live Arcade（XBLA）での配信が始まるまでにおよそ3年を要した[13]。本作の開発者であるジョナサン・ブロウは、本作の開発に20万ドルかかったことを明かしているが、その費用のほとんどはメインアーティストのデビッド・ヘルマンの賃金と開発中の生活費であるという[14]。
+ジョナサン・ブロウは2008年、「大部分においてMicrosoftとの仕事は素晴らしかった」としながらも、XBLAにおける認証プロセスについて、「ユーザーが気にかけない事柄にエネルギーを費やすことになるのでゲームの品質を損なうものだと思う」と述べた[15]。また、2013年には、次作の『The Witness』がまずPlayStation 4で発売される予定であることについて、過去Microsoftとのビジネス上の関係が悪く、Microsoftと再契約を行うのは恐怖心があったがソニーに対しては恐怖心がなかったと語った[16]。
+
+評価[編集]
+2006年のIndependent Games Festivalで本作はInnovation in Game Designを受賞[17]。
+第12回Academy of Interactive Arts & Sciencesでは、「Casual Game of the Year」を受賞[18]。
+ゲームメディアでは、Xbox 360版に対し、Eurogamerが10/10、IGNが8.8/10、GameSpotが9.5/10、Edgeが9/10という評価を行った[19]。
+2009年にジョナサン・ブロウが語ったところによれば、本作は2008年のXBLAの売上2位であった。本作による儲けはとても大きく、本作を楽しんでくれるコアな人々がいるとは思っていたがこんなに長く売上十傑にあるとは思っていなかったという[20]。
+本作で一躍名を挙げたジョナサン・ブロウは2009年のDevelop Conferenceにおいて「ゲーム開発者にとっての開発業界のヒーロー」投票の10位に入った[21]。
+2012年の映画『Indie Game: The Movie』では発売済みのインディーゲームの開発者として、本作に絡めてジョナサン・ブロウが採りあげられた[22]。
+
+脚注[編集]
+注釈[編集]
+
+
+出典[編集]
+
+
+^ “Confirmed:  Braid Coming To PSN [Update]”.   IGN (2009年7月31日). 2014年12月8日閲覧。
+
+^ “Hothead games to help indie devs port games”.   Ars Technica (2009年2月25日). 2014年12月8日閲覧。
+
+^ “Xbox.com: Braid Xbox Live Arcade”.   Microsoft. 2010年3月7日時点のオリジナル[リンク切れ]よりアーカイブ。2014年12月8日閲覧。
+
+^ a b c d e f g h i j k l m n o “Number None Inc. Company Information”. GameFAQs.   CBS Interactive Inc.. 2014年12月8日閲覧。
+
+^ a b c d “時間をコントロールして謎に挑むアクションパズル，「ブレイド 日本語版」のダウンロード販売が本日スタート”. 4Gamer.net.   Aetas, Inc. (2009年9月4日). 2014年12月8日閲覧。
+
+^ a b c d “Braid”. プレイステーションオフィシャルサイト.   Sony Computer Entertainment Inc.. 2014年12月8日閲覧。
+
+^ a b c “2008年XBLAタイトルの中でもトップクラスの評価を受けた横スクロールアクション「Braid」を紹介”. 4Gamer.net.   Aetas, Inc. (2009年3月31日). 2014年12月8日閲覧。
+
+^ a b “Braid Review”.   Eurogamer.net (2008年8月6日). 2014年12月8日閲覧。
+
+^ “Braid's Ending Explained”. The Official Xbox Magazine.   Future Publishing Limited (2008年8月12日). 2014年12月8日閲覧。
+
+^ “Indie game designer earns raves for 'Braid'”.   MSNBC (2008年8月22日). 2014年12月8日閲覧。
+
+^ “What Made "Braid" a Punk-Rock Video Game? A Look Back at the Innovative Title”. Rolling Stone (2009年9月4日). 2014年12月8日閲覧。
+
+^ “Super Mario Bros. for grown-ups”.   The Globe and Mail Inc. (2009年4月9日). 2014年12月8日閲覧。
+
+^ “Jonathan Blow: The Path to Braid”. Gamasutra (UBM Tech). (2008年9月12日). http://www.gamasutra.com/view/feature/132180/jonathan_blow_the_path_to_braid.php 2014年12月8日閲覧。 
+
+^ “Braid Cost $200,000 To Make”. The Escapist (DefyMedia, LLC.). (2009年3月27日). http://www.escapistmagazine.com/news/view/90505-Braid-Cost-200-000-To-Make 2014年12月8日閲覧。 
+
+^ “Blow: 'Unnecessary' XBLA Hurdles Hurt Game Quality”. Gamasutra (UBM Tech). (2008年8月8日). http://www.gamasutra.com/php-bin/news_index.php?story=19748 2014年12月8日閲覧。 
+
+^ “Why The Witness is coming to PS4 first”. Edge Online (Future Publishing). (2013年3月8日). http://www.edge-online.com/news/why-the-witness-is-coming-to-ps4-first/ 2014年12月8日閲覧。 
+
+^ “The 12th Annual Independent Games Festival - 2006 Finalists & Winners”. Independent Games Festival (UBM TechWeb). http://www.igf.com/2006finalistswinners.html 2014年12月8日閲覧。 
+
+^ Jenkins, David (2009年2月20日). “LittleBigPlanet Dominates At AIAS Awards”.   Gamasutra. 2009年2月20日閲覧。
+
+^ “Braid Critic Reviews for Xbox 360”. Metacritic.   CBS Interactive Inc. (2008年8月7日). 2014年12月8日閲覧。
+
+^ “Braid has been “very profitable” for creator”.   NOWGamer.com (2009年3月18日). 2014年12月8日閲覧。
+
+^ “[海外ゲームニュース宮本茂氏、ゲーム開発業界のヒーローに]”. ファミ通.com.   KADOAWA CORPORATION (2009年6月15日). 2014年12月9日閲覧。
+
+^ “Indie Game: The Movie – Where Are They Now?”. Gameinformer.   GameStop Network (2008年8月7日). 2014年12月8日閲覧。
+
+
+関連項目[編集]
+インディーゲーム
+外部リンク[編集]
+ブレイド 日本語版 日本公式サイト - 株式会社ズー
+Braid, Anniversary Edition（英語）
+
+
+この項目は、コンピュータゲームに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（P:コンピュータゲーム / PJコンピュータゲーム）。
+
+典拠管理 
+BNF: cb177830419 (データ)
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Braid_(ビデオゲーム)&oldid=82845164」から取得
+カテゴリ: Xbox 360用ソフトXbox Live Arcade対応ソフトPlayStation 3用ソフトPlayStation 5用ソフトWindows用ゲームソフトMacintosh用ゲームソフトLinux用ゲームソフト2008年のコンピュータゲーム横スクロールアクションゲームタイムトラベルを題材としたコンピュータゲームインディーゲーム隠しカテゴリ: コンピュータゲーム関連のスタブ記事BNF識別子が指定されている記事
+

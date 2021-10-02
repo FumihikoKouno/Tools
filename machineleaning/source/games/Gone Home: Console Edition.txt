@@ -1,0 +1,130 @@
+
+
+
+
+
+Gone Home
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+（Gone Home: Console Editionから転送）
+
+
+ナビゲーションに移動
+検索に移動
+Gone Home
+ジャンル
+3Dアドベンチャーゲーム対応機種
+PC（Windows, MacOS, Linux）PlayStation 4Xbox OneNintendo SwitchiOS開発元
+The Fullbright Company（英語版）発売元
+PCThe Fullbright CompanyPS4, Xbox Oneマジェスコ・エンターテインメント[注 1]Switch, iOSアンナプルナ・インタラクティブ音楽
+Chris Remo発売日
+PC2013年8月15日PS4 2016年1月12日 2016年2月12日 2016年11月2日Xbox One 2016年1月12日 2016年2月12日Switch 2018年9月6日 2018年10月25日iOS2018年12月11日対象年齢
+CERO：C（15才以上対象）ESRB：M（17歳以上）PEGI：16USK：6（6歳未満提供禁止）ACB：MiOS：12+コンテンツアイコン
+CERO：セクシャルESRB：Drug Reference, Sexual Themes, Strong LanguagePEGI：Strong LanguageUSK：Sexuelle Andeutungen, Explizite SpracheACB：Coarse Language, Mature ThemesiOS：まれ/軽度な過激な言葉遣いまたは下品なユーモア, まれ/軽度な成人向けまたはわいせつなテーマ, まれ/軽度なアルコール、タバコ、ドラッグの使用または言及エンジン
+Unity売上本数
+70万本（2017年10月時点）[1]テンプレートを表示
+メディアを再生する トレーラー映像
+『Gone Home』（ゴーンホーム）は、アメリカのインディーゲームスタジオThe Fullbright Company（英語版）が開発した3Dアドベンチャーゲーム。プレイヤーは久々に家族の家に戻った若い女性のケイティとなり、家族のいない無人の家の中を探索することで自身が不在の期間に起きた出来事について解明する。ゲーム画面はケイティの一人称視点で表示され、軽い謎解き要素や家の各所にある妹のサムのメッセージを探す要素などをこなしながらゲームを進行していく。
+
+目次
+
+1 ストーリー
+2 開発
+3 評価
+
+3.1 受賞・ノミネート
+3.2 論評
+
+
+4 脚注
+
+4.1 注釈
+4.2 出典
+
+
+5 外部リンク
+
+
+ストーリー[編集]
+1995年6月7日午前1時15分、ケイティ（Katie, 正式名：ケイトリン・グリーンブライア Kaitlin Greenbriar）は、1年間旅行していたヨーロッパからアメリカのオレゴン州にある家族の家に戻る。彼女の家族は、作家の父親・テレンス（Terrence）、環境保護員の母親・ジャニス（Janice）、高校生の妹・サム（Sam, 正式名：サマンサ Samantha）で構成され、ケイティがヨーロッパにいる間に新居に引っ越していた。ケイティは、入口の扉に張り紙があるのを発見する。そこには、私を捜さないでというサムからケイティへのメッセージが記されていた。
+ケイティが家に入ると、内部には誰もいなかった。辺りを調べる中で屋根裏部屋へ向かうと、テーブルの上に日記帳が置いてあった。その内容はケイティに宛てたもので、ケイティがいない1年の間にサムの周囲で起きた以下の出来事について綴られていた。
+
+
+引っ越しの後、サムは新しい高校に転校するが、同級生から奇異な目で見られクラスで孤立してしまう。そうした中、先輩の女生徒・ロニー（Lonnie, 正式名：ヨランダ・デソト Yolanda DeSoto）と出会う。二人は、コンピュータゲームの『ストリート・ファイター』[注 2]やライオット・ガールのバンドの曲を通じて仲を深め、互いの感情はやがて恋愛に発展する。しかし、二人の関係を知った両親は「一時の気の迷い」と諭し、サムはその無理解さに落胆する。
+ロニーはかねてから高校卒業後の軍への入隊を希望しており、出発の日、そして別れの日となる1995年6月6日を迎える。両親は7日まで外出中で、サムは二人の思い出の場所である屋根裏部屋に一人でとどまっていた。そこへ、ロニーから電話がかかってくる。ロニーはバスで訓練場に向かっていたが、その道中でサムへの感情が溢れて抑えられなくなりバスを降りたという。ロニーが二人での逃避行を持ち掛けると、サムは即座に応じ彼女のもとへ向かう。
+
+
+日記のあとがきでは、私は行くべきところへ行ったという晴れやかな決意が示され、ケイティとのいつかの再会を誓う言葉で締められていた。
+
+開発[編集]
+本作の開発当初の構想ではコンピュータ制御の未来の家が舞台で、The Fullbright CompanyのSteve Gaynorは、戦闘要素のない『System Shock』に近かったと語っている。しかし、少人数のチームでこれを実現するのは困難と判断しプロジェクトの範囲を狭める中で、ただの普通の家でも十分面白くできるのではないかとの考えに至った[2]。1990年代という時代設定については、コンピュータや携帯電話によるデジタル通信でのやりとりが身近でない時代のシナリオにしたいとの思惑があり、当時開発メンバー全員が10代だった頃の記憶が内容に反映されている[2]。
+
+ 作中のある部屋に置いてある冊子。表紙の文章やイラストにはライオット・ガールの影響がみられる。サムはこの冊子を学校内で配布したことにより停学処分を受ける。
+ゲーム内では、ライオット・ガールのバンドであるヘヴンズ・トゥ・ベッツィー（英語版）とブラットモービル（英語版）の音楽をフィーチャーしている。両バンドの楽曲の権利を保有するキル・ロック・スターズ・レコードはThe Fullbright Companyと同じオレゴン州ポートランドを拠点としており、彼らと早くから協力し権利を確保した[3][4]。また、同じくゲーム内で使用されている架空のバンド「ガールスカウト（Girlscout）」の楽曲は、2013年にポートランドで行われた音楽イベント「Grrrl Front Music Festival」に参加していたバンドThe Younginsが手掛けている[4]。
+舞台となる家の一室にはSuper Nintendo Entertainment System（日本のスーパーファミコンに相当するゲーム機）用の架空ソフトのカートリッジが置いてあるが、Nintendo Switch版では任天堂とのコラボレーションにより、任天堂のソフト『スーパーマリオカート』などの実際のカートリッジ画像が使用されている[5]。
+The Fullbright Companyは、本作発売前の2013年6月開催のゲームイベント「PAX Prime」に出展する予定だったが、イベントを主催するペニー・アーケード（英語版）の創設者であるジェリー・ホーキンズ（英語版）とマイク・クラフリク（英語版）が性差別的な発言を繰り返していたことに反発し出展を取りやめた[6][7]。翌2014年4月、ペニー・アーケードがイベント会場内において、女性、LGBTQ、人種、障害者等を取り巻く問題に関する情報を提供するスペース「ダイバーシティラウンジ」を設置することが明らかになり、前年の騒動が関係しているとみられている[8]。
+
+評価[編集]
+受賞・ノミネート[編集]
+ 第14回Game Developers Choice Awardsで登壇するThe Fullbright Companyのメンバー。左から、Kate Craig、Steve Gaynor、Johnnemann Nordhagen、Karla Zimonja。
+IGF（英語版） Awards 2013 「Excellence in Narrative」ノミネート[9]
+第10回英国アカデミー賞ゲーム部門（英語版） 「Debut Game」受賞、「Story」ノミネート[10]
+第14回Game Developers Choice Awards 「Best Debut」受賞、「Game of the Year」「Innovation Award」「Best Narrative」「Best Audio」「Best Downloadable Game」ノミネート[11]
+論評[編集]
+本作はゲーム批評家からから好意的なレビューを受けた。Metacriticでは、PC版をレビューした56人の点数の平均が100点満点中86点となっている[12]。
+本作の内容は空間を歩き回って物語を追うことに終始しインタラクティブ性が薄いため、ゲームと言えるのかどうかという議論が起きた。本作のようなジャンルの作品はリリース当初はあまり例がなく、批評家、ファン双方から「徒歩シミュレーター（walking simulators）」の異名で呼ばれていたが、本作の発売後に、同様のコンセプトを持つソフト『Everybody's Gone to the Rapture -幸福な消失-（英語版）』『Firewatch（英語版）』『Virginia（英語版）』『フィンチ家の奇妙な屋敷でおきたこと』などが続々とリリースされ、『アンチャーテッド 海賊王と最後の秘宝』を開発したノーティードッグが作品内の「スローペースな探索」は徒歩シミュレーターの影響だと語るなど、ジャンルの一つとして定着した[13]。
+物語にLGBT要素を含めたことには大きな反響があり、デリケートな題材に取り組んだことに賞賛の声が上がったが、同性愛描写に拒否感を持つ一部プレイヤーからは批判意見も寄せられた[2][14][15]。
+
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+
+
+^ Xbox One版は子会社のMidnight City名義。
+
+^ ゲーム内での表記。1994年から1995年という時代設定や、アーケード版とSuper Nintendo Entertainment System（日本のスーパーファミコンに相当するゲーム機）版をプレイした記述があることなどから『ストリートファイターII』シリーズを指していると推測される。
+
+
+出典[編集]
+
+
+^ Joe Donnelly (2017年10月3日). “Gone Home prevented Tacoma from being judged on its own, says creator Steve Gaynor” (英語).   PC Gamer. 2021年1月27日閲覧。
+
+^ a b c Joe Donnelly (2015年10月7日). “The making of: Gone Home” (英語).   PCGamersN. 2021年1月27日閲覧。
+
+^ Matt Connolly (2013年9月20日). “Why This Indie Game Studio Chose a Feminist Drama Over Guns and Zombies” (英語).   Mother Jones. 2021年1月27日閲覧。
+
+^ a b “The Music of Gone Home!” (英語).   The Fullbright Company (2013年8月14日). 2021年1月27日閲覧。
+
+^ Luke Plunkett (2018年9月10日). “Gone Home's Switch Version Has Official SNES Cartridges” (英語).   Kotaku. 2021年1月27日閲覧。
+
+^ Allegra Frank (2018年9月7日). “Gone Home producer Steve Gaynor: Gamer ‘tribalism’ led to backlash” (英語).   Polygon. 2021年1月27日閲覧。
+
+^ Steve Gaynor (2013年6月21日). “Why we are not showing Gone Home at PAX” (英語).   The Fullbright Company. 2021年1月27日閲覧。
+
+^ Eddie Makuch (2014年4月8日). “PAX addresses inclusivity with addition of "Diversity Lounges"” (英語).   GameSpot. 2021年1月27日閲覧。
+
+^ “2013” (英語).   Independent Games Festival. 2021年1月27日閲覧。
+
+^ “Games in 2014” (英語).   BAFTA Awards. 2021年1月27日閲覧。
+
+^ “【GDC 14】ゲーム開発者が選ぶ「Game Developers Choice Awards」にて『The Last of Us』がGoTY獲得、3部門制覇”.   Game*Spark (2014年3月20日). 2021年1月27日閲覧。
+
+^ “Gone Home for PC Reviews” (英語).   Metacritic. 2021年1月27日閲覧。
+
+^ Nicole Carpenter (2019年11月13日). “Why Gone Home is the most important game of the decade” (英語).   Polygon. 2021年1月27日閲覧。
+
+^ Terry Mulcahy (2013年11月12日). “The Gaying of Video Games” (英語).   Slate. 2021年1月27日閲覧。
+
+^ Tim Bowers (2014年4月10日). “Sharing joysticks: how video games are opening up to LGBT themes” (英語).   The Guardian. 2021年1月27日閲覧。
+
+
+外部リンク[編集]
+公式サイト（英語）
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Gone_Home&oldid=83652170」から取得
+カテゴリ: 2013年のコンピュータゲームWindows用ゲームソフトMacOSのソフトウェアLinux用ゲームソフトPlayStation 4用ソフトXbox One用ソフトNintendo Switch用ソフトIPhone用ゲームソフトアメリカで開発されたコンピュータゲームアンナプルナ・インタラクティブのゲームソフトインディーゲームアドベンチャーゲームUnityを採用したゲームソフト家族を題材としたコンピュータゲームLGBT関連ゲームオレゴン州を舞台としたコンピュータゲーム住宅を題材とした作品隠しカテゴリ: Template:コンピュータゲームの画像を指定した項目
+

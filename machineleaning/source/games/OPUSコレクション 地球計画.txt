@@ -1,0 +1,116 @@
+
+
+
+
+
+OPUS-地球計画
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+OPUS-地球計画OPUS: The Day We Found Earthジャンル
+アドベンチャーゲーム対応機種
+iOSAndroidSteam（Windows, MacOS）auスマートパスNintendo Switch開発元
+SIGONO発売元
+SIGONO四荒八極（au）フライハイワークス（Switch）音楽
+Triodustバージョン
+iOS：1.9.2（2018年3月23日）[1]Android：1.8.0（2018年3月12日）[2]人数
+1人メディア
+ダウンロード販売発売日
+iOS, Android：2015年10月22日[3]Steam：2016年4月22日[3]au：2017年1月5日[4]Switch：2017年11月30日[5][6][7]対象年齢
+iOS：4+[1]Android：3+[2]CERO：A（全年齢対象）[5]ESRB：E（6歳以上）[6]PEGI：3[7]USK：0[8]その他
+iOS, Android：ダウンロード無料、課金要素ありテンプレートを表示
+『OPUS-地球計画』[注 1]（オプス ちきゅうけいかく、英：OPUS: The Day We Found Earth、中：OPUS:地球計畫）は、台湾のインディーゲームスタジオSIGONOが開発したアドベンチャーゲーム。iOS、Android、Steam、auスマートパス、Nintendo Switch向けに配信されている。
+
+目次
+
+1 概要
+2 登場キャラクター
+3 受賞・ノミネート
+4 脚注
+
+4.1 注釈
+4.2 出典
+
+
+5 外部リンク
+
+
+概要[編集]
+人類が地球を離れてから長い年月が経過し地球の存在が神話のように語られる時代を舞台としたSF作品。行き過ぎた遺伝子操作の施策により人類が存亡の危機を迎えた事態を受け、起源となる遺伝子を得るべく2人の研究者が宇宙船「オプス号」に搭乗し地球を目指すことになるが、その宇宙船内部で展開する物語が、同行するロボットを主人公として描かれる。
+ゲームシステムは、オプス号内部の探索パートと望遠鏡による宇宙空間の探索パートの2つに大別される。オプス号のパートでは画面上の人物やオブジェクトをタップ（またはクリック）することで様々な反応が返ってくるが、その一部で特定の星に関するヒントを得ることができる。一方、宇宙空間のパートではヒントを手掛かりに数多の星々の中から目的の星を探索することになり、地球に近似する惑星を発見すると物語が進行する。
+シリーズ作品として、2017年に『OPUS: 魂の架け橋』が発売された。この作品は本作との直接的なつながりはないものの、世界観は共通しているとされる[9]。また、2019年1月31日には、本作と『OPUS: 魂の架け橋』をセットにし、両作品の楽曲収録のサウンドトラックをダウンロードできるPC用シリアルコードを同梱したNintendo Switch用パッケージソフト『OPUSコレクション 地球計画+魂の架け橋』がフライハイワークスより発売された[10]。
+
+登場キャラクター[編集]
+OP1414-エム (Emeth)
+オプス号に搭乗しているロボット。通称「エム」。正式名「汎用船外活動ロボットOP1414型」。大人の膝下くらいの大きさ。小さい子供のような言動をとり、感情の変化により瞳部分の形態が変化する。リサ・アダムズのことを母親のように慕っている。オプス号と使用電力を共有しており、電力不足に陥ると自動でスリープ状態になる。
+リサ・アダムズ (Lisa Adams)
+地球探査任務に携わる女性博士。遺伝子研究者である一方、エムの開発も手がけた。自身が発見した恒星を「LISA」と命名している。オプス号が停電状態となった時期を境に、船内から姿を消す。
+竹内 マコト (Makoto Takeuchi)
+地球探査任務に携わる男性博士。計画に参加しているものの、地球の存在に懐疑的な考えを持つ。リサ・アダムズと同じく、オプス号の停電後に姿を消す。
+オプス汎用サポート人工知能第三型 (OPUS' onboard assistive AI)
+オプス号のシステムにより生成された、リサ・アダムズの姿に酷似したホログラム。通称「リサ」。オプス号が停電状態から復旧した後に姿を現す。エムからは、リサ・アダムズとは別の存在として扱われる。
+受賞・ノミネート[編集]
+Haogamers Best of Asian Indie Games 2015 「Most Original」受賞[11]
+12th International Mobile Gaming Awards（英語版） 「Best Meaningful Play」ノミネート[12]
+1st International Mobile Gaming Awards Southeast Asia 「Excellence in Storytelling」受賞[13]
+2017 Taipei Game Show - Indie Game Award 「Best Narration」受賞[14]
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+
+
+^ 表題はiOS版とNintendo Switch版のもので、Android版とauスマートパス版は「OPUS 地球計画」、Steam版は「OPUS: The Day We Found Earth」の表記で配信されている。
+
+
+出典[編集]
+
+
+^ a b “OPUS-地球計画”.   App Store. 2018年4月4日閲覧。
+
+^ a b “OPUS 地球計画”.   Google Play. 2018年4月4日閲覧。
+
+^ a b “Presskit” (英語).   SIGONO. 2018年1月31日時点のオリジナルよりアーカイブ。2020年5月6日閲覧。
+
+^ “Google Play エディターオススメアプリに選定されたアドベンチャー「OPUS 地球計画」が1月5日（木）auスマートパスにてサービス開始！”.   4Gamer.net (2017年1月6日). 2018年4月4日閲覧。
+
+^ a b “OPUS-地球計画”.   任天堂. 2018年4月4日閲覧。
+
+^ a b “OPUS: The Day We Found Earth for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2018年4月4日閲覧。
+
+^ a b “OPUS: The Day We Found Earth｜Nintendo Switch download software｜Games” (英語).   Nintendo UK. 2018年4月4日閲覧。
+
+^ “OPUS: The Day We Found Earth｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2018年4月4日閲覧。
+
+^ “探索とストーリーテリングをより深くするために”.   Made with Unity (2017年10月17日). 2018年11月2日閲覧。
+
+^ “シリーズ2タイトルを同梱した『OPUSコレクション 地球計画＋魂の架け橋』が2019年1月31日に発売決定！ スペシャルサウンドトラックがダウンロードできるシリアルコードも同梱”.   ファミ通.com (2018年10月31日). 2018年11月2日閲覧。
+
+^ “The Best of Asian Indie Games 2015” (英語).   Haogamers (2015年12月31日). 2018年4月4日閲覧。
+
+^ “OPUS: The Day We Found Earth” (英語).   International Mobile Gaming Awards Global. 2018年4月4日閲覧。
+
+^ “OPUS: The Day We Found Earth” (英語).   International Mobile Gaming Awards Southeast Asia. 2018年4月4日閲覧。
+
+^ “2017 Taipei Game Show - Indie Game Award”.   2017 Taipei Game Show. 2018年4月4日閲覧。
+
+
+外部リンク[編集]
+SIGONO公式サイト（英語）
+フライハイワークス公式サイト
+OPUS 地球計画に関するカテゴリ:
+ Android用ゲームソフト 
+OPUS: The Day We Found Earthに関するカテゴリ:
+ Windows用ゲームソフト 
+ MacOSのソフトウェア 
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=OPUS-地球計画&oldid=83651998」から取得
+カテゴリ: 2015年のコンピュータゲームIPhone用ゲームソフトNintendo Switch用ソフトインディーゲーム台湾で開発されたコンピュータゲームフライハイワークスのゲームソフトアドベンチャーゲーム宇宙を舞台としたコンピュータゲーム宇宙船を舞台としたSF作品ロボットを主人公としたコンピュータゲーム
+

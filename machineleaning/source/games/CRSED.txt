@@ -1,0 +1,128 @@
+
+
+
+
+
+CRSED
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+CRSEDジャンル
+バトルロイヤルゲーム対応機種
+Microsoft WindowsPlayStation 4PlayStation 5Xbox OneXbox Series X/SNintendo Switch開発元
+Darkflow Software運営元
+Gaijin EntertainmentDMM GAMES運営開始日
+2018年6月15日（Cuisine Royale）2020年12月3日（CRSED）対象年齢
+CERO：D（17才以上対象）コンテンツアイコン
+セクシャル、暴力エンジン
+Dagor Engine 6.0[1]テンプレートを表示
+
+
+動作環境
+
+
+
+
+
+
+
+最小動作環境
+
+推奨動作環境
+
+
+Microsoft Windows
+
+
+OS
+
+Windows 8.1/10(64bit)
+
+
+CPU
+
+Inte Core i3
+
+Intel Core i7
+
+
+メモリ
+
+8GB
+
+
+HDD空き容量
+
+7GB
+
+
+グラフィックカード
+
+NVIDIA GeForce GTX 560/AMD Radeon HD 77XX系統
+
+NVIDIA GeForce GTX 1060/AMD Radeon RX480
+
+
+ネットワーク
+
+必須[2]
+
+
+『CRSED』（カースド）は、Darkflow Softwareが開発し、Gaijin Entertainment（日本ではDMM GAMES）により配信されている基本プレイ無料のバトルロイヤルゲーム。対応プラットフォームは、Microsoft Windows、PlayStation 4、PlayStation 5、Xbox One、Xbox Series X/S。
+
+目次
+
+1 概要
+2 ゲーム内容
+3 開発
+4 脚注
+5 外部リンク
+
+
+概要[編集]
+最大約40人が参加可能な戦場で、最後の生き残りを目指すバトルロイヤル形式のサードパーソン・シューティングゲーム。キッチン用品などのユニークな装備を身にまとい、アビリティやトラップといった魔法の要素を駆使して戦うのが特徴。
+
+ゲーム内容[編集]
+ソロ・デュオ・分隊の3つのゲームモードが用意されており、プレイヤーはヒーローと呼ばれるキャラクターを選択し、最後の1チームになるまで戦う。主に敵を倒すことで獲得する「ソウル」を消費し、それぞれのヒーローが所持する「アビリティ」や、インベントリから装備できる「儀式」や「罠」といった特殊能力を使用できる[3]。
+
+開発[編集]
+2018年4月1日、Darkflow Softwareが開発する第二次世界大戦を舞台としたMMOシューター『Enlisted』は、エイプリルフールのジョークとしてキッチン用品を装備して戦うバトルロイヤルゲーム、『Cuisine Royale』を発表した[4]。当初はジョークとしてアルファテストを行っていたが、本作のシュールな世界観と、『War Thunder』のDagor Engineを採用したリアルなグラフィックや『Enlisted』譲りの本格的なシューティング要素のギャップが人気を呼び、6月にはスタンドアロンのタイトルとして公開された[5]。
+当初は銃とキッチン用品のみが特徴だった『Cuisine Royale』はアップデートが重ねられ、新たなヒーロー、武器、マップ、固有のアビリティなどの多数の要素が追加されていった。2020年8月20日には、DMM GAMESにより日本でのサービスが開始された[6]。
+2020年12月3日、コミカルな演出や不思議な世界観からシリアスでハードな路線への転換として、大型アップデートの配信と同時に『Cuisine Royale』は『CRSED』にリブランディングされた[7]。「CRSED」は「Cuisine Royale Second Edition」の略称であると同時に、ゲームキャラクターが持つ呪われた（CRSED）力のことを指している[8]。
+
+脚注[編集]
+[脚注の使い方]
+
+
+^ “『CRSED』：『Cuisine Royale：Second Edition』再生”. CRSED(カースド) - DMM GAMES (2020年12月7日). 2021年2月15日閲覧。
+
+^ “動作環境”. CRSED(カースド) - DMM GAMES. 2021年2月15日閲覧。
+
+^ “PS4/PS5基本プレイ無料バトロワシューター『CRSED（カースド）』初心者向け攻略ガイド。これを読めば始めやすい、過酷な戦場で生き残る術とは”. AUTOMATON (2021年2月3日). 2021年2月15日閲覧。
+
+^ “バトルロイヤル多め？ 海外ゲームのエイプリルフールネタひとまとめ！”. Game*Spark (2018年4月3日). 2021年2月15日閲覧。
+
+^ “エイプリルフールネタだった調理器具バトルロイヤル『Cuisine Royale』がホントに公開” (2018年6月16日). 2021年2月15日閲覧。
+
+^ “銃と魔法とキッチン用品のバトルロイヤル『Cuisine Royale』DMM GAMESから日本向けに8月20日配信開始” (2020年7月21日). 2021年2月15日閲覧。
+
+^ “キッチン用品バトロワ「Cuisine Royale」が「CRSED」にリニューアル。PS4版の配信もスタート” (2020年12月3日). 2021年2月15日閲覧。
+
+^ “シュールからシリアス＆スタイリッシュへ！「CRSED」開発者インタビュー” (2021年2月3日). 2021年2月15日閲覧。
+
+
+外部リンク[編集]
+CRSED: F.O.A.D.（英語）
+CRSED(カースド) - DMM GAMES（日本語）
+CRSED_JP (@CRSEDJP) - Twitter
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=CRSED&oldid=83898419」から取得
+カテゴリ: Windows用ゲームソフトPlayStation 4用ソフトPlayStation 5用ソフトXbox One用ソフトXbox Series X/S用ソフトサードパーソン・シューティングゲームバトルロイヤルゲーム
+

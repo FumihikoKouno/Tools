@@ -1,0 +1,483 @@
+
+
+
+
+
+Nintendo Labo
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Nintendo Labo開発元
+任天堂発売元
+任天堂1作目
+Nintendo Labo Toy-Con 01: Variety KitNintendo Labo Toy-Con 02: Robot Kit（2018年4月20日）最新作
+Nintendo Labo Toy-Con 04: VR Kit（2019年4月12日）公式サイト
+Nintendo Laboテンプレートを表示
+『Nintendo Labo』（ニンテンドー ラボ）は、任天堂より発売されたNintendo Switch用ゲームソフトとペーパークラフトのセットである。2018年4月20日に「Nintendo Labo Toy-Con 01: Variety Kit」「Nintendo Labo Toy-Con 02: Robot Kit」が発売され、以降シリーズ化している。
+
+目次
+
+1 概要
+2 Variety Kit
+3 Robot Kit
+4 Drive Kit
+5 VR Kit
+6 関連商品
+7 受賞・ノミネート
+8 ゲームで解決! プログラメン
+9 関連作品
+10 脚注
+11 外部リンク
+
+
+概要[編集]
+「Toy-Con（トイコン）」と呼ばれる段ボールシートなどを組み立てて出来るペーパークラフトにNintendo Switch本体や標準コントローラであるJoy-Conを組み合わせ、Joy-Conの機能であるHD振動、モーションIRカメラ、加速度センサー・ジャイロセンサーなどを使用し、Nintendo Switchのより発展した楽しみ方が可能となっている。ゲームソフト内には組み立て説明のチュートリアルがあり、組み立てに工具は必要ない[1]。
+また、全てのキットに収録されている「Toy-Conガレージ」では四角形で表示される「ノード」と呼ばれる設定を組み合わせることで簡易的なビジュアルプログラミングが可能[2]。
+第1弾の発売前には親子ペア対象の体験会「Nintendo Labo Camp」が世界各国で開催された。募集枠に対する応募者の倍率は各地で高く、アメリカでは約50倍に達した[3]。その後も定期的に体験イベントやコンテストが開催されている[4]。
+2018年10月には、STEAM教育の支援を目的とし、教育事業を手掛ける企業Institute of Play（英語版）とNintendo of Americaが共同でNintendo Laboをアメリカ各地の小学校に提供することを発表した[5]。
+
+Variety Kit[編集]
+『Nintendo Labo Toy-Con 01: Variety Kit』（バラエティキット）は2018年4月20日に発売された。
+「リモコンカー」「つり」「おうち」「バイク」「ピアノ」との5種類のToy-Conが作成できる。またAmazon.com限定品だけ特別な箱で届き、その箱を変形させることでピアノと連動できるスピーカー型のToy-Conが作成できる[6]。
+2018年6月26日には「バイクToy-Con」が『マリオカート8 デラックス』に対応し、直感的な操作が可能になった[7]。また10月には「ピアノToy-Con」が『DEEMO』に対応した[8]。
+
+セット内容
+ソフト「Nintendo Labo Toy-Con 01: Variety Kit」
+ダンボールシート28枚（「デコる」「発明」お助けシート付き）
+再帰性反射材シート3枚
+スポンジシート3枚
+ヒモ（オレンジ）1本
+ヒモ（ブルー）1本
+ハトメセット（グレー）1セット
+ハトメセット（ブルー）4セット
+輪ゴム（大）2本＋予備
+輪ゴム（小）6本＋予備
+このほか、Amazon.comで販売された限定版には特典としてオリジナルマスキングテープや「ダンボー」というマスコットキャラクターのダンボールシートが付属している。
+
+Robot Kit[編集]
+『Nintendo Labo Toy-Con 02: Robot Kit』（ロボットキット）は2018年4月20日に発売された。
+頭にかぶる「バイザー」、背中に背負う「ドック」といった複数のパーツで構成されたロボットToy-Conが作成できる。またAmazon.com限定品には、特別な箱で届き、ロボットと連携できるToy-Con が作成できる[1]。
+
+セット内容
+ソフト「Nintendo Labo Toy-Con 02: Robot Kit」
+ダンボールシート19枚（「デコる」「発明」お助けシート付き）
+厚紙シート4枚
+再帰性反射材シート1枚
+ヒモ（オレンジ）2本
+ヒモ（ブルー）2本
+平ヒモ（グレー）大1本、中1本、小2本
+ハトメセット（グレー）10セット
+ハトメセット（オレンジ）2セット
+このほか、Amazon.comで販売された限定版にはVariety Kitと同じものが付属している。
+
+Drive Kit[編集]
+『Nintendo Labo Toy-Con 03: Drive Kit』（ドライブキット）は2018年9月14日に発売された。
+「クルマ」「ヒコウキ」「センスイカン」といったハンドル、操縦桿と「アクセルペダル」のToy-Conが作成できる[9]。「クルマToy-Con」は2018年9月19日より『マリオカート8 デラックス』に対応した[8]。
+
+セット内容
+ソフト「Nintendo Labo Toy-Con 03: Drive Kit」
+ダンボールシート25枚
+再帰性反射材シート1枚
+スポンジシート1枚
+ヒモ（ブルー）1本
+ハトメセット（グレー）2セット
+ハトメセット（レッド）2セット
+輪ゴム（大）1本＋予備
+輪ゴム（小）8本＋予備
+VR Kit[編集]
+『Nintendo Labo Toy-Con 04: VR Kit』（ブイアールキット）は2019年4月12日に発売された。このキットのソフトは全てVR対応で、ソフト内ツール「Toy-ConガレージVR」ではVRゲームを作成できる。利用年齢は7歳以上を推奨としている[10]。
+パッケージは「通常版」と「ちょびっと版」の2バージョンで、通常版のToy-Conは「VRゴーグルToy-Con」「カメラToy-Con」「バズーカToy-Con」「ゾウToy-Con」「トリToy-Con」「風Toy-Con」の6種、ちょびっと版のToy-Conは「VRゴーグルToy-Con」「バズーカToy-Con」の2種が含まれる。また、遊びを補助する「サブToy-Con」として、「かざぐるまToy-Con」と「シュノーケルToy-Con」（カメラToy-Con収録パッケージのみ）も付属する。また、ちょびっと版に含まれないToy-Conは別売りも行われている[10]。
+このほか、ソフト内には、64種類のVR対応ミニゲームをプレイできる「VRひろば」や、様々なVR対応映像を閲覧できる「おためしVRムービー」が収録されている[10]。
+2019年4月26日より『スーパーマリオ オデッセイ』の一部と『ゼルダの伝説 ブレス オブ ザ ワイルド』の全編が「VRゴーグルToy-Con」に対応し、これ以降、他の作品への対応が広がっている[8]。また、2019年5月28日にはユニティ・テクノロジーズ・ジャパンよりUnityのVRゴーグルToy-Con対応が発表され、開発者をサポートするとしている[11]。
+なお、Nintendo Switch Liteでは本体の形状が異なるためVRでのプレイには対応していない。 
+
+セット内容
+ソフト「Nintendo Labo Toy-Con 04: VR Kit」
+ダンボールシート32枚
+VRレンズ1セット
+再帰性反射材シート1枚
+スポンジシート1枚
+ポリエステルシート1枚
+ハトメセット（グレー）6セット
+凹ハトメ（グレー）2個
+輪ゴム（大）1本＋予備
+輪ゴム（小）8本＋予備
+関連商品[編集]
+デコるセット（2018年4月20日発売）
+マスキングテープ（2種類）
+ステンシルシート（2枚）
+シール（2種類）
+マスキングテープ（2018年4月20日発売）
+Nintendo Labo（アイコン/ピクト）
+Nintendo Labo（ステンシルロゴ/Toy-Con）
+スーパーマリオ（カモフラージュ）
+スーパーマリオ（きのこ/ハテナブロック）
+スーパーマリオ（テレサ/キラー）
+各2本（2柄）セット
+おかたづけボックス（2018年9月14日発売）
+受賞・ノミネート[編集]
+
+2018 Golden Joystick Awards 「Nintendo Game of the Year」ノミネート[12]
+Time Best Inventions of 2018受賞[13]
+PC Mag（英語版） The Best Tech Products of 2018 受賞（他作品と共同）[14]
+Popular Science Best of What's New Awards 2018 「Entertainment」受賞（他作品と共同）[15]
+Twinfinite Most Innovative Games of 2018 受賞（他作品と共同）[16]
+The Game Awards 2018（英語版） 「Best Family Game」ノミネート[17]
+Kotaku The Best Toys Of 2018 受賞（他作品と共同）[18]
+Polygon The 50 best games of 2018 受賞（他作品と共同）[19]
+Shacknews（英語版） Year of the Games: 2018 「Biggest Surprise of 2018」受賞[20]
+The 2019 KAPi Awards 「Best Overall Tech」受賞[21]
+New York Game Awards 2019 「Central Park Children’s Zoo Award for Best Kids Game」受賞[22]
+2019 National Academy of Video Game Trade Reviewers（英語版） Awards 「Game, Special Class」受賞[23]
+日経MJ賞 日経優秀製品・サービス賞2018 最優秀賞受賞（他作品と共同）[24]
+Game Developers Choice Awards 2019 「Innovation Award」受賞[25]
+第15回英国アカデミー賞ゲーム部門（英語版） 「Family」「Game Innovation」受賞、「Game Beyond Entertainment」ノミネート[26][27]
+Italian Video Game Awards 2019 「Videogames for the whole family」受賞[28]
+Games for Change（英語版） Awards 2019 「Game of the Year」受賞、「Most Innovative」ノミネート[29][30]
+CEDEC AWARDS 2019 ゲームデザイン部門受賞[31]
+日本ゲーム大賞2019 特別賞受賞[32]
+Golden Joystick Awards 2019 「Best VR / AR Game」ノミネート（VR Kit）[33]
+
+ゲームで解決! プログラメン[編集]
+『ゲームで解決! プログラメン』（ゲームでかいけつ プログラメン）は、任天堂のYouTubeチャンネルで公開されているインターネット番組。Nintendo Laboでゲームを開発する様子をドラマ仕立てで紹介する。全3話。
+登場人物の「サカイノベーション」「リコード」「ナガノマド」とロボットの「スミタップ」は、劇団「ヨーロッパ企画」のメンバーが演じている。
+
+
+
+話数
+公開日
+サブタイトル
+
+
+第1話
+2019年7月31日
+バースデーサプライズゲームをつくろう！
+
+
+第2話
+2019年8月6日
+さわれる思い出アルバムをつくろう！
+
+
+第3話
+2019年8月13日
+ゆびわを求めて水道管をたんさく！
+
+関連作品[編集]
+大乱闘スマッシュブラザーズ SPECIAL
+登場キャラクターが身につける衣装の一種として、Robot KitのロボットToy-Conが登場する。
+ヨッシークラフトワールド
+主人公のヨッシーが身につける「きせかえ工作」の一種として、Variety KitのリモコンカーToy-ConとピアノToy-Con、Robot KitのロボットToy-Conの合計3種が登場する。
+ナビつき! つくってわかる はじめてゲームプログラミング
+Toy-ConガレージVRを切り出して発展させた[34]、ビジュアルプログラミングが可能な任天堂のソフト。
+脚注[編集]
+[脚注の使い方]
+
+
+^ a b “「Nintendo Labo」の「ロボットキット」を作ってみたレポート!”. GAME Watch (2018年4月24日). 2018年8月17日閲覧。
+
+^ “「Nintendo Labo」親子体験記【応用編】。旗上げゲームから剣道マシンまで，「こんなの作りたい」をToy-Conガレージで形にしてみた”. 4Gamer.net (2018年4月28日). 2018年8月17日閲覧。
+
+^ “第 78 期（2018 年 3 月期） 経営方針説明会”.   任天堂. 2018年2月7日閲覧。
+
+^ “ユニークなデコToy-Conがいっぱい！東急ハンズ心斎橋店で開催されたNintendo Labo体験会の模様をご紹介”.   任天堂 (2018年6月20日). 2018年7月30日閲覧。
+
+^ “Nintendo partners with Institute of Play to bring Nintendo Labo to schools across U.S.” (英語).   Nintendo of America (2018年10月22日). 2019年4月10日閲覧。
+
+^ “「Nintendo Labo」開封＆作ってみたレポート!”. GAME Watch (2018年4月20日). 2018年8月17日閲覧。
+
+^ “「Nintendo Labo」で作った“バイクToy-Con”が「マリオカート8 デラックス」に対応。ダンボール風のSwitch本体が賞品のコンテストも開催に”. 4Gamer.net (2018年6月26日). 2018年8月17日閲覧。
+
+^ a b c “Toy-Conであそべる”.   任天堂 (2018年8月25日). 2018年8月25日閲覧。
+
+^ “任天堂、「Nintendo Labo ドライブキット」発売日決定”. GAME Watch (2018年7月27日). 2018年8月17日閲覧。
+
+^ a b c “本日発売！『Nintendo Labo Toy-Con 04: VR Kit』10のまるわかりポイントまとめ”.   任天堂 (2019年4月12日). 2019年4月12日閲覧。
+
+^ “Unityが『Nintendo Labo： VR Kit』のVRゴーグルToy-Conに対応。アプリケーションの開発に利用できる”.   電撃オンライン (2019年5月28日). 2019年5月31日閲覧。
+
+^ “『フォートナイト』がGOTY！「2018 Golden Joystick Awards」受賞作品リスト―生涯功労賞は宮崎英高氏”.   Game*Spark (2018年11月17日). 2019年4月7日閲覧。
+
+^ “Nintendo Labo Is One of TIME's Best Inventions of 2018” (英語).   Time. 2019年8月27日閲覧。
+
+^ “The Best Tech Products of 2018” (英語).   PC Mag. 2019年8月27日閲覧。
+
+^ “The 100 greatest innovation of 2018” (英語).   Popular Science. 2019年8月27日閲覧。
+
+^ “5 Most Innovative Games of 2018” (英語).   Twinfinite (2018年12月6日). 2019年8月27日閲覧。
+
+^ “「The Game Awards 2018」各部門受賞作品リスト―『RDR2』が最多4部門受賞！【TGA2018】”.   Game*Spark (2018年12月7日). 2019年4月7日閲覧。
+
+^ “The Best Toys Of 2018” (英語).   Kotaku (2018年12月21日). 2019年8月27日閲覧。
+
+^ “Best games of 2018: The top 50 games of the year” (英語).   Polygon (2018年12月21日). 2019年8月27日閲覧。
+
+^ “Year of the Games:2018” (英語).   Shacknews (2018年12月26日). 2019年8月27日閲覧。
+
+^ “Kapi Awards” (英語). 2019年7月22日時点のオリジナルよりアーカイブ。2019年8月27日閲覧。
+
+^ “Here Are All Of The New York Game Awards Winners!” (英語).   The New York Videogame Critics Circle (2019年1月23日). 2019年4月7日閲覧。
+
+^ “Winners” (英語).   National Academy of Video Game Trade Reviewers Corporation. 2019年4月7日閲覧。
+
+^ “日経優秀製品・サービス賞2018”.   日経MJ賞. 2019年8月27日閲覧。
+
+^ “［GDC 2019］「Game Developers Choice Awards」の大賞は「ゴッド・オブ・ウォー」に”.   4Gamer.net (2019年3月21日). 2019年4月7日閲覧。
+
+^ “2019年英国アカデミー賞ゲーム部門のノミネート作品が発表！”.   Game*Spark (2019年3月15日). 2019年4月7日閲覧。
+
+^ “2019英国アカデミー賞ゲーム部門受賞作発表！Best Gameは『ゴッド・オブ・ウォー』に”.   GameBusiness.jp (2019年4月6日). 2019年4月7日閲覧。
+
+^ “Italian Videogame Award 2019: the winners” (英語).   Enkey Magazine (2019年4月23日). 2019年8月27日閲覧。
+
+^ “Detroit: Become Human, Nintendo Labo among Games for Change Awards finalists” (英語).   Gamasutra (2019年5月30日). 2019年12月15日閲覧。
+
+^ “Nintendo and Ubisoft honored at the 2019 Games for Change Awards” (英語).   Gamasutra (2019年6月19日). 2019年12月15日閲覧。
+
+^ ““CEDEC AWARDS 2019”各部門の最優秀賞が発表。ゲームデザイン部門は『Nintendo Labo』開発チームが受賞【CEDEC 2019】”.   ファミ通.com (2019年9月5日). 2019年12月15日閲覧。
+
+^ “「日本ゲーム大賞2019」受賞作品発表―大賞の『スマブラSP』は5冠を達成！スマホ作品からは『メギド72』が唯一の受賞を果たす”.   インサイド (2019年9月12日). 2019年12月15日閲覧。
+
+^ “『バイオハザード RE:2』がGOTY！「Golden Joystick Awards 2019」受賞作品リスト ― 生涯功労賞は鈴木裕氏”.   Game*Spark (2019年11月16日). 2019年12月31日閲覧。
+
+^ “開発者に訊きました CHAPTER1:ひっくり返したらどうかな?”. ナビつき! つくってわかる はじめてゲームプログラミング.   任天堂 (2021年6月10日). 2021年6月10日閲覧。
+
+
+外部リンク[編集]
+Nintendo Labo 公式サイト
+
+
+この項目は、コンピュータゲームに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（P:コンピュータゲーム / PJコンピュータゲーム）。
+
+表話編歴Nintendo Switchハードウェア
+Nintendo Switch
+Nintendo Switch Lite
+Joy-Con
+Nintendo Switch Proコントローラー
+ニンテンドーWi-Fiネットワークアダプタ
+amiibo
+Nintendo Labo
+ソフトウェアとサービス
+Nintendo Switch (オペレーティングシステム)
+Nintendo Switchのシステムアップデート
+Mii
+ニンテンドーeショップ
+Nintendo Switch Online
+ファミリーコンピュータ Nintendo Switch Online
+スーパーファミコン Nintendo Switch Online
+アプリ
+niconico
+YouTube
+ゲーム
+Nintendo Switchのゲームタイトル一覧
+Nintendo Switchダウンロードソフトのタイトル一覧
+ニンテンドーアカウント
+マイニンテンドー
+
+前世代: Wii U
+ カテゴリ
+表話編歴 任天堂の家庭用ゲーム機プラットフォーム
+据置型
+ファミリーコンピュータ/NES（ソフト - ディスクカード）
+スーパーファミコン/SNES（パッケージソフト - ニンテンドウパワー - サテラビュー）
+バーチャルボーイ（ソフト）
+NINTENDO64/iQue Player（ソフト）
+ニンテンドーゲームキューブ（ソフト）
+Wii/Wii Mini（パッケージソフト - VCソフト - Wiiウェア - システム）
+Wii U（パッケージソフト - VCソフト - Wiiウェア - システム）
+Nintendo Switch（パッケージソフト - ダウンロードソフト - システム）
+携帯型
+ゲーム&ウオッチ（一覧）
+ゲームボーイ/ポケット/ライト/カラー（ソフト）
+ポケモンミニ（ソフト）
+ゲームボーイアドバンス/SP/ミクロ（ソフト）
+ニンテンドーDS/DS Lite/DSi/DSi LL（パッケージソフト - DSiウェア）
+ニンテンドー3DS/3DS LL/2DS/New3DS/New3DS LL/New2DS LL（パッケージソフト - ダウンロードソフト - VCソフト - システム）
+Nintendo Switch/Nintendo Switch Lite（ソフト - ダウンロードソフト - システム）
+
+周辺機器
+FC
+光線銃シリーズ
+ファミリーベーシック
+ロボット
+ジョイボール
+ジョイカードMK.2
+ディスクシステム
+ファミリートレーナー
+ターボファイル
+ファミコン3Dシステム
+パワーグローブ
+スタディボックス
+データック
+SFC
+スーパージョイカード
+マウス
+スーパースコープ
+スーパーゲームボーイ
+ターボファイルツイン
+サテラビュー
+スーファミターボ
+N64
+振動パック
+ジョイカード64
+64GBパック
+バイオセンサー
+メモリー拡張パック
+64DD
+GC
+コントローラ
+メモリーカード
+カードeリーダー
+GBAケーブル
+ゲームボーイプレーヤー
+SDカードアダプタ
+タルコンガ
+Wii/Wii U
+Wiiリモコン
+USBコネクタ
+バランスWiiボード
+ファミリートレーナー
+Wiiスピーク
+Switch
+Nintendo Labo
+GB
+通信ケーブル
+ライトボーイ
+バーコードボーイ
+ポケットプリンタ
+ターボファイルGB
+モバイルアダプタGB
+GBA
+通信ケーブル
+ライトボーイ
+モバイルアダプタGB
+ターボファイルアドバンス
+ワイヤレスアダプタ
+プレイやん
+DS/3DS
+振動カートリッジ
+USBコネクタ
+ワンセグ受信アダプタ
+生活リズム計
+ポケウォーカー
+ワイヤレスキーボード
+
+互換機
+FC
+ファミコンテレビC1
+ツインファミコン
+編集ファミコン
+SFC
+SF1
+GC
+Q
+
+GB/GBA
+スーパーゲームボーイ - ゲームボーイプレーヤー
+
+
+
+ カテゴリ
+ コモンズ
+任天堂
+ソニー
+セガ
+NEC
+左記以外
+表話編歴メディアクリエイト週間ソフトセルスルーランキング第1位(2018年4月22日付)1月
+7日 スプラトゥーン2
+14日 ディシディア ファイナルファンタジー NT
+21日 マリオ+ラビッツ キングダムバトル
+28日 モンスターハンター：ワールド（PS4）
+2月
+4日・11日・18日・25日 モンスターハンター：ワールド(PS4)
+3月
+4日 モンスターハンター：ワールド(PS4)
+11日 北斗が如く
+18日・25日 星のカービィ スターアライズ
+4月
+1日 スーパーロボット大戦X(PS4)
+8日 星のカービィ スターアライズ
+15日 スナックワールド トレジャラーズ ゴールド
+22日 Nintendo Labo Toy-Con 01: Variety Kit
+29日 実況パワフルプロ野球2018(PS4)
+5月
+6日・13日 ドンキーコング トロピカルフリーズ(NS)
+20日 Caligula Overdose -カリギュラ オーバードーズ-
+27日 DARK SOULS REMASTERED(PS4)
+6月
+3日 DARK SOULS REMASTERED(PS4)
+10日 Fate/EXTELLA LINK(PS4)
+17日 スプラトゥーン2
+24日 マリオテニス エース
+7月
+1日・8日 マリオテニス エース
+15日 OCTOPATH TRAVELER
+22日 太鼓の達人 Nintendo Switchば～じょん！
+29日 ロックマンX アニバーサリー コレクション 1＋2(PS4)
+8月
+5日 世界樹の迷宮X
+12日 龍が如く3(PS4)
+19日 Minecraft(NS)
+26日 コナン アウトキャスト(PS4)
+9月
+2日 ウイニングイレブン 2019(PS4)
+9日・16日・23日 Marvel's Spider-Man
+30日 無双OROCHI 3(PS4)
+10月
+7日 スーパー マリオパーティ
+14日・21日 コール オブ デューティ ブラックオプス4(PS4)
+28日 レッド・デッド・リデンプションII(PS4)
+11月
+4日 コール オブ デューティ ブラックオプス4(PS4)
+11日 ルイージマンション(3DS)
+18日・25日 ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ
+12月
+2日 ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ
+9日・16日・23日・30日 大乱闘スマッシュブラザーズ SPECIAL
+
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Nintendo Labo Toy-Con 01: Variety Kitに関するカテゴリ:
+ 2018年のコンピュータゲーム 
+ ミニゲーム集 
+Nintendo Labo Toy-Con 02: Robot Kitに関するカテゴリ:
+ 2018年のコンピュータゲーム 
+ 巨大ロボットを題材としたコンピュータゲーム 
+Nintendo Labo Toy-Con 03: Drive Kitに関するカテゴリ:
+ 2018年のコンピュータゲーム 
+ 乗り物を題材としたコンピュータゲーム 
+Nintendo Labo Toy-Con 04: VR Kitに関するカテゴリ:
+ 2019年のコンピュータゲーム 
+ VRゲーム 
+ ミニゲーム集 
+ゲームで解決! プログラメンに関するカテゴリ:
+ 日本のWebドラマ 
+ 任天堂 
+ ヨーロッパ企画 
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Nintendo_Labo&oldid=83951072」から取得
+カテゴリ: Nintendo Switch用ソフト任天堂のゲームソフトコンピュータゲーム制作ソフトコンピュータゲームのシリーズコンピュータゲームの周辺機器紙細工隠しカテゴリ: コンピュータゲーム関連のスタブ記事
+

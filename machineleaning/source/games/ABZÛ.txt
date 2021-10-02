@@ -1,0 +1,100 @@
+
+
+
+
+
+ABZÛ
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+
+
+
+
+
+その他の類似表記については「Abzu」をご覧ください。
+
+
+
+
+
+この項目には、一部のコンピュータや閲覧ソフトで表示できない文字（サーカムフレックス付きのU）が含まれています（詳細）。
+ABZÛ
+ジャンル
+3Dアクションアドベンチャーゲーム対応機種
+Microsoft WindowsPlayStation 4Xbox OneNintendo Switch開発元
+Giant Squid（英語版）発売元
+505 Gamesディレクター
+Matt Nava音楽
+オースティン・ウィントリー人数
+1人発売日
+Win2016年8月2日PS4 2016年8月2日 2018年2月7日Xbox One 2016年12月6日Switch  2018年11月29日 2018年11月30日 2020年2月27日対象年齢
+CERO：A（全年齢対象）ESRB：E（6歳以上）PEGI：7USK：6（6歳未満提供禁止）ACB[PS4, Xbox One] G[Switch] PGコンテンツアイコン
+ESRB：Mild Fantasy ViolencePEGI：Fear, ViolenceUSK：Seltene SchreckmomenteACB[Xbox One] Violence, Very Mild Themes[Switch] Scary Scenesエンジン
+Unreal Engine 4テンプレートを表示
+『ABZÛ』（アブズ）は、アメリカのインディーゲームスタジオGiant Squid（英語版）が開発し505 Gamesより発売された3Dアクションアドベンチャーゲーム。
+プレイヤーはダイバーとなって深海へ潜り、多様な海洋生物の生息域や海底に築かれた遺跡を探索していく。作中には台詞やナレーションの類はなく、映像や音楽を通じて物語が表現される。
+
+目次
+
+1 システム
+2 開発
+3 評価
+4 脚注
+5 外部リンク
+
+
+システム[編集]
+本作の舞台は大きく7つのエリアに分かれ、これを順番に進んでいく構成になっている。エリアの通路の所々は何らかの理由で塞がれており、辺りを探索し仕掛けを作動させるなどして解決を図ることになる。一部では急流に乗って強制的に先へ進む。
+各所には瞑想を行う場所があり、ダイバーがここを調べると周囲を泳ぐ生物を観察することができる。また、特定の場所に配置されている貝殻を見つける収集要素もある。
+
+開発[編集]
+開発元のGiant Squidは、『風ノ旅ビト』などで知られるゲーム開発会社thatgamecompany（英語版）でアートディレクターを務めていたMatt Navaが独立し新たに設立したスタジオで、本作が初の作品となる[1]。楽曲は、『風ノ旅ビト』の楽曲も手掛けたオースティン・ウィントリーが本作でも担当している[2]。
+Navaは以前から古代の文化に関する多くのドキュメンタリーを見たり本を読んだりしており、それらのアートワークや歴史に魅了されていた。そうした中で、シュメール神話やアッカド神話に登場する海のアプスーについて知り、その興味深い概念やユニークな言葉の虜となった[3]。タイトルの『ABZÛ』はアプスーのシュメール語由来の表記「Abzu」とアッカド語由来の表記「Apsû」を組み合わせたもので[3]、公式サイトでは「知の海（the ocean of wisdom）」を意味すると記載されている[4]。
+
+評価[編集]
+2016ハリウッド・ミュージック・イン・メディア・アワード（英語版） 「Original Score - Video Game」ノミネート[5]
+Movie Music UK Awards 2016 「Best Video Game Score」ノミネート
+2016 IFMCA（英語版） Awards 「Best Original Score for a Video Game or Interactive Media」受賞[6]
+第20回D.I.C.E. Awards 「Outstanding Achievement in Original Music Composition」ノミネート[7]
+第15回G.A.N.G. Awards 「Music of the Year」「Best Original Soundtrack Album」「Best Original Vocal Song - Choral」受賞、「Best Original Instrumental」「Best Audio Mix」ノミネート[8]
+第13回英国アカデミー賞ゲーム部門（英語版） 「Artistic Achievement」「Music」ノミネート[9]
+脚注[編集]
+[脚注の使い方]
+
+
+^ “AAAスタジオとインディスタジオ、それぞれで共通する「アートと技術」の方向性【GDC2017レポート vol.1】”.   CGWORLD.jp (2017年3月24日). 2021年2月18日閲覧。
+
+^ Jeremy Peel (2016年9月21日). “海中探索アドベンチャー、『Abzu』の世界”.   UNREAL ENGINE. 2021年2月18日閲覧。
+
+^ a b Steve Haske (2016年9月27日). “How Abzû Makes Something Reverent Out of Fish and Water” (英語).   Inverse. 2021年2月18日閲覧。
+
+^ “ABZÛ” (英語). 2021年2月18日閲覧。
+
+^ “2016 Music In Visual Media Nominees” (英語).   Hollywood Music In Media Awards. 2016年11月5日時点のオリジナルよりアーカイブ。2021年2月18日閲覧。
+
+^ “2016 IFMCA Awards” (英語).   IFMCA: International Film Music Critics Association. 2021年2月18日閲覧。
+
+^ “「Overwatch」が“DICE Awards 2017”のGOTYを獲得、Uncharted 4とInsideを含む3作品がリードした部門別受賞作品まとめ”.   doope! (2017年2月24日). 2021年2月18日閲覧。
+
+^ “2017 G.A.N.G. Awards” (英語).   Game Audio Network Guild (2017年3月3日). 2021年2月18日閲覧。
+
+^ “Games in 2017” (英語).   BAFTA. 2021年2月18日閲覧。
+
+
+外部リンク[編集]
+公式サイト（英語）
+典拠管理 
+MBW: 9824215d-29f0-4d2a-adc8-2bec6d2dbd83
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=ABZÛ&oldid=82551698」から取得
+カテゴリ: 2016年のコンピュータゲームWindows用ゲームソフトPlayStation 4用ソフトXbox One用ソフトNintendo Switch用ソフト505 Gamesのゲームソフトアメリカで開発されたコンピュータゲームアクションアドベンチャーゲームUnreal Engineを採用したゲームソフトスクーバダイビングゲーム海を扱った作品隠しカテゴリ: Template:コンピュータゲームの画像を指定した項目MusicBrainz作品識別子が指定されている記事
+

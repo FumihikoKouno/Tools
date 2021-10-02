@@ -1,0 +1,482 @@
+
+
+
+
+
+Among Us
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Among Usジャンル
+
+パーティーゲーム
+ソーシャルディダクションゲーム（英語版）[1][2]
+対応機種
+
+Android
+iOS
+Microsoft Windows
+Nintendo Switch
+開発元
+InnerSloth[1][2][3]発売元
+Innerslothデザイナー
+Marcus Bromander[注 1][5][6]プログラマー
+Forest Willard[注 2][5][6]音楽
+Forest Willard[注 2][8]美術
+
+Marcus Bromander[注 1]
+Amy Liu[5][6]
+人数
+4人 - 10人[1][2]（マルチプレイヤー（英語版））発売日
+
+Android, iOS2018年6月15日[9]
+Windows (Steam)2018年11月16日[10]
+Nintendo Switch[11][12] 202012162020年12月16日 202012152020年12月15日
+Xbox One, Xbox Series X/S[13][14]2021年予定
+対象年齢
+CERO：B（12才以上対象）ESRB：E10+（10歳以上）ACB：PGPEGI：7USK：6（6歳未満提供禁止）コンテンツアイコン
+暴力エンジン
+Unityテンプレートを表示
+『Among Us[注 3]』（アマング・アス、アモング・アス[注 4]）は、InnerSlothによって開発されたオンラインマルチプレイヤー（英語版）・ソーシャルディダクション（英語版）ゲーム[1][2]。2018年6月15日にAndroidおよびiOS向けに同年11月16日にはMicrosoft Windows、2020年12月16日にはNintendo Switch向けにもリリースされた[11][12]。2021年にはXbox One,"PlayStation 4"およびXbox Series X/S,"PlayStation 5"向けのリリースも予定されている[13][14]。
+
+目次
+
+1 概要
+2 ゲーム内容
+3 マップの種類
+4 開発・リリース
+
+4.1 作品の開発とリリース
+4.2 人気の高まり
+
+4.2.1 人気の高まりと要因
+4.2.2 継続する作品への人気
+4.2.3 政治家や物議を醸した軍人によるプレイ
+
+
+4.3 続編の取り消しと計画の見直し
+4.4 ハッカーによるチャットスパム
+
+
+5 評価・反響
+
+5.1 受賞歴
+
+
+6 脚注
+
+6.1 注釈
+6.2 出典
+
+
+7 外部リンク
+
+
+概要[編集]
+本作は宇宙をテーマとした、いわゆる「人狼ゲーム」であり、プレイヤーはクルー（英語版ではCrewmate, 「乗組員」の意）と少数のインポスター（Impostor, 「詐欺師」や「ペテン師」の意味だが、本作ではクルーではない「偽物」<クルーに擬態した異星の知的生物>を指す。）の2つの役割に分けられる[1][2][22][23][24]。
+クルーの目標は、インポスターの特定・排除、マップ上にあるタスク（調査業務やクルーに支障をきたす障害の解消など）を完了することである[1][22][23][24]。一方のインポスターは、クルーがすべてのタスクを完了する前に、密かに妨害し、殺すことである[1][22][23][24]。死体の発見や緊急招集といった事例にて複数回行われる怪しいクルーを探る投票の結果、インポスターと思われるプレイヤーはゲームから排除される場合がある[22][24]。すべてのインポスターが排除されるか、マップ上にあるすべてのタスクが完了するとクルーが勝利する[22][24]。一方で、クルーとインポスターの数が同じになったとき、または、インポスターによって引き起こされる重大な妨害が解決されなかったとき、インポスターが勝利する[22][24]。
+本作は2018年にリリースされ、最初は大きな注目を集めることはほとんどなかったが、多くのTwitchストリーマーやYouTuberがプレイしたため、2020年に人気が高まった[1][22][23]。ゲームの人気に応える形で、2020年8月に続編となる『Among Us 2』が発表されたが、1か月後にキャンセルとなり、開発チームは元のゲーム（本作）の改善に焦点を移した[1][3][25][26]。
+
+ゲーム内容[編集]
+本作は4人から10人のプレイヤーでプレイ可能なマルチプレイヤーゲームである[1][2][22][23][24]。各ゲームでは、プレイヤーのうち1人から3人がランダムに選出されて「インポスター」となり、残りは「クルー」となる[23]。インポスターは、別のインポスターを把握することもできる。
+
+クルーの目的
+クルーにはミニゲームの形でさまざまな「タスク」が与えられ[22][23][24]、電気の配線やエンジンの燃料補給といったシステムのメンテナンス作業をマップ上の特定の位置で行う。タスクは単一で完了するものもあれば、複数の施設を経由するロングタスクなど複数の種類が存在する。タスクを完了すると画面左上のタスクゲージが上昇する(設定で非表示可、またタスクゲージ更新を会議時に変更可能)。
+
+インポスターの目的
+インポスターはクルーに与えられたタスクを完了することはできないが、クルーに溶け込むために「フェイクタスク」（偽のタスク）が与えられるほか、「サボタージュ」（破壊活動）を実行することができ、停電を引き起こして視野を狭くしたり、原子炉に異常を起こすなどタスクを追加して、ゲームの進行を妨害できる[22][23][24]。また、マップ上の各所に配置されている「ベント」（通気孔）を通じて繋がっている別のベントの場所まで瞬間移動することができ、他のインポスターと協力しながら、クルーを殺していく[22][23][24]。殺害は一度行うとクールタイムが発生するため、連続して行うことはできない。
+
+死亡(追放後)のプレイヤーの挙動
+クルー・インポスターともに、プレイヤーは死ぬと「ゴースト」（幽霊）になり、壁を通り抜けることができるが、生存しているプレイヤーとの対話は制限され、他のゴーストを除いて誰にも見えない[22][23][24]。しかし、ゴーストは生存しているプレイヤーを手助けでき、（クルーとして）タスクをこなしたり、（インポスターとして）サボタージュを実行できたりする[22]。また、ゴーストは壁やサボタージュを無視して画面全体の様子を見ることができ、ゴースト同士でチャットでコミュニケーションすることもできる。
+
+勝利方法
+クルーは、すべてのタスクを完了する（追加タクス型サボタージュが実行中の場合はそれも解消させる）か、すべてのインポスターを特定・排除することで勝利する[22]。一方のインポスターは、自身または会議投票でクルーを殺してインポスターの数と同じにする(追放不能にする)か、一定時間後に全滅するサボタージュが解決されることなく時間切れになることで勝利する[22]。
+
+追放会議
+死体を見つけたプレイヤーはクルー・インポスター問わず誰でも報告でき、報告によって進行中のゲームを停止し、その時点での死亡者を全て公開した後にグループ会議を開始できる[1][22][23][24](発見された死体は除去される)。また、サボタージュの進行中を除き、マップ上のボタンを押すことで同じような「緊急会議」を開始できる[1][22][23][24](一人ごとに押せる最大回数を設定可能)。ただし、ボタンを押して会議を開始した場合、リスタート後のマップに死体が残らないため死者がいた場合、どこで殺されたのか分からなくなる。会議では各プレイヤーの状況から取り巻く証拠に基づき、インポスターを特定するための話し合いを行う[1][22][23][24]。いずれの会議にも終了時には生存しているプレイヤーによる投票（各人投票スキップ可）が設けられており、選出されたプレイヤーはマップから排除され、死亡する[22][23][24]（スキップへの投票が最も多かった場合や、同じ票数の投票先がスキップ含め複数あった場合は、誰も死亡しない）。生存しているプレイヤーは、会議中にのみテキストチャットでコミュニケーションを取ることができる[1][22][24]（後のアップデートで人物指定や現在位置、質問・宣言などのショートカット入力機能が設置）。ゲームにはボイスチャットが組み込まれておらず、Discordといった外部アプリケーションや、ボイスチャットを導入した有志MOD導入サーバを使用するのが一般的になっている[1]。
+ただし、お互いの状況を知らせる手段が限られたプレイヤー同士でアリバイをさぐり合う事がゲーム性の主軸であり、対戦中にボイスチャットを利用するとゲームバランスが崩壊してしまうため、対戦開始前にはボイスチャット使用自粛を促す演出が挿入される。
+
+その他
+マップ上にはタスク用の施設の他、上記の緊急会議ボタン、プレイヤーの位置を把握できる施設、監視カメラを閲覧できる施設、などといったものも存在する。
+ゲームの前後にプレイヤーが集合するロビーでは、さまざまなオプションを調整し、タクスの数、クルーとインポスターの視界の範囲、緊急会議の回数、匿名投票、プレイヤー排除時のインポスターかどうかの判明の有無など、ゲームプレイに関してカスタマイズできる[27][28][29]。また、キャラクターの見た目を変更できるアイテムも用意されており、有料のダウンロードコンテンツも含まれている[注 5][7][27][31][32][17]。ゲームをプレイするマップは、「The Skeld」「Mira HQ」「Polus」「The Airship」の4種類が用意されている[22][23]。
+
+マップの種類[編集]
+ The Skeld(宇宙船 スケルド号) 
+
+宇宙船内部を思わせるステージ。
+追放を宣告されたプレイヤーは宇宙空間に放り出される。
+タスクを行える場所
+ウエポンルーム・エンジン・カフェテリア・シールドルーム・セキュリティルーム・ナビゲーション・医務室・管理室・原子炉・酸素ルーム・通信室・電気室・保管庫の13個。
+スタート地点及び会議後のリスタート地点はステージ中央のカフェテリア。
+インポスターが行えるサボタージュ
+管理室・通信室・酸素ルーム・ウエポンルーム・シールドルーム・ナビゲーション以外の10秒間の部屋のドアロック・停電・通信妨害・酸素枯渇・メルトダウン。
+酸素枯渇とメルトダウンは30秒以内に異常を解決できなければインポスターが勝利する。
+タスク以外の要素
+セキュリティールームの監視カメラと管理室の管理装置。
+監視カメラは作動中、ステージ内4か所のマップの状況を同時に確認できる。プレイヤーの使用中はカメラが発光する。
+管理装置は作動中、プレイヤーがどの部屋に何人いるか確認できるが、死体や部屋のベント内に隠れているインポスターも1人として加算される。また、部屋と部屋の間の通路にいるプレイヤーは検知されない。
+
+ MIRA HQ (宇宙ステーション ミラ社本部) 
+
+飛行要塞のようなステージ。
+追放を宣告されたプレイヤーは空から突き落とされる。
+タスクを行える場所
+オフィス・カフェテリア・バルコニ・医務室・温室・管理室・研究室・原子炉・通信室・通路・発射台・保管庫の12個。
+スタート地点は発射台で会議後のリスタート地点はカフェテリア。
+原子炉・研究室とロッカールームの間の除染室はスイッチを起動しなければ開かず、部屋にいるプレイヤーを除染後にもう片方の扉が開くため通過に時間がかかる。
+インポスターが行えるサボタージュ
+停電・通信妨害・酸素枯渇・メルトダウン。
+酸素枯渇とメルトダウンは45秒以内に異常を解決できなければインポスターが勝利する。
+なおこのステージのみ、ベントが全て繋がっている。
+タスク以外の要素
+通信室のドアのログ履歴と管理室の管理装置。
+ドアのログ履歴は、ロッカールームと通信室の間の通路・オフィスと管理室の間の通路・カフェテリア上部出入口の通路の3か所にプレイヤーの通過を検知する線があり、作動することでどの場所を誰が通過したかを確認できる。
+
+ Polus (惑星基地 ポーラス) 
+
+火口近くに作られた冬のロケット発射施設らしきステージ。
+追放を宣告されたプレイヤーは火口に落とされる。「追放を確認」の設定をオンにしているとき、プレイヤーがインポスターだった場合、サムズアップしながら溶岩に沈んでいく。
+タスクを行える場所
+ウエポンルーム・オフィス・ドロップシップ・ボイラー室・医務室・研究室・酸素ルーム・船外・通信室・電気室・標本室・保管庫の12個。
+スタート地点はドロップシップで会議後のリスタート地点はオフィス。
+インポスターが行えるサボタージュ
+酸素ルーム・通信室・標本室以外の部屋のドアロック・停電・通信妨害・耐震装置故障。
+耐震装置故障は60秒以内に異常を解決できなければインポスターが勝利する。
+またこのステージのドアロックは、閉鎖されているドアに近づき、ランダムでいくつかオンになっている8つのスイッチを全てオフにしなければ開かない。
+タスク以外の要素
+セキュリティールームの監視カメラと管理室の管理装置、オフィスのバイタル装置。
+監視カメラは作動中、ステージ内6か所のマップの状況を1つずつ切り替えながら確認できる。使用中はカメラが発光する。
+バイタル装置は作動中、どのプレイヤーが生存しているのかを確認できる。
+
+ The AirShip(飛行船) 
+
+2021年4月1日に追加された飛行船内部のステージ。
+追放を宣告されたプレイヤーは飛行船から落とされる。
+タスクを行える場所
+エンジンルーム・キッチン・コックピット・シャワー室・セキュリティルーム・ミーティングルーム・メインホール・ラウンジ・貨物室・換気室・金庫室・宿舎前通路・昇降機・診察室・通信室・展望デッキ・電気室・武器庫の19個。
+スタート地点及び会議のリスタート地点は、宿舎前通路・エンジンルーム・キッチン・メインホール・アーカイブ・貨物室からランダムに3か所が選出され、プレイヤーはその中から1つ場所を選ぶことができる。(10秒以内に選ばなかった場合は3か所からランダムとなる)
+昇降機は左右2つのエリアに分断されており、ステージの間にある1人乗りのリフトだけが左右のエリアを直接行き来する方法だが、使ったリフトは戻ってこないため向かい側で誰かが使うまで片方のエリアはリフトを使用できなくなる。
+電気室はゲーム開始時に別の部屋への行き来を遮断しない範囲でランダムに5つ扉が封鎖された状態で始まるため、ゲーム毎に毎回通れるルートが変わる。
+メインホール内に存在する暗室はクルーが入った場合、停電時と同じ範囲まで視界が狭くなる。
+エリア3か所に配置されているハシゴは使用時の音が全プレイヤーに聞こえるようになっている。
+インポスターが行えるサボタージュ
+通信室・キッチン・宿舎前通路・メインホール・アーカイブ・診察室の部屋のドアロック・停電・通信妨害・衝突コース回避。
+衝突コース回避は90秒以内に異常を解決できなければインポスターが勝利する。
+このステージのドアロックは、閉鎖されているドアに近づきカードキーを認証させなければ開かない。なおカード認証はカードを通すスピードが速すぎる・最後まで通し切らないと認証に失敗する時があるが、遅すぎる場合は必ず成功する。
+停電は貨物室・昇降機・展望デッキの3箇所で直せるが、操作盤のスイッチは全て連動しているため、遠隔で停電復旧を妨害することも可能。
+タスク以外の要素
+コックピットの管理装置とセキュリティールームの監視カメラ、診察室のバイタル装置。
+監視カメラは作動中、ステージ内6か所のマップの状況を1つずつ切り替えながら確認できる。使用中はカメラが発光する。
+開発・リリース[編集]
+作品の開発とリリース[編集]
+本作は実際のパーティーゲームであるマフィア（英語版）に触発され[33]、当初は1つのマップのみを搭載したモバイル専用のローカルマルチプレイヤーゲームとして予定されていた[7][34]。デザイナーのMarcus Bromanderは、ゲームの最初のマップである「The Skeld」を制作するために、InnerSlothで取り組んでいた『The Henry Stickmin Collection（スペイン語版）』の開発を一時停止した[8]。
+2018年6月、『Among Us』がAndroidとiOS向けにリリースされた[7][35]。リリース直後の同時接続プレイヤー数の平均は30人から50人であった[28]。Bromanderは「（InnerSlothは）マーケティングが本当に苦手だから」とし、プログラマーのForest Willardは「あまり上手にリリースされなかった」と考えた[6]。チームは諦めるつもりであったが、少ないながらも送られるフィードバックに応えようと作業を続け、オンラインによるマルチプレイヤー、新たなタスク、カスタマイズ可能な設定オプションを追加した[36]。その後、2018年11月にSteamを通じてPC版がリリースされ、PCとモバイル機器とのクロスプラットフォームに対応した[6][10][37][38]。
+2019年8月8日には2番目のマップである「MiraHQ」を発表、11月12日には「Polus」という名前の3番目のマップが追加された[39][40][41]。いずれのマップも当初は4ドルほどの課金が必要であったが、2020年1月6日には2ドルに引き下げられ、6月11日には無料となった[42]。Willardによると、チームは「純粋なビジネスの観点から、おそらく必要以上に長くゲームにこだわった」とし、週に1回の頻度でゲームの定期的な更新を行っていた。これにより、プレイヤー数は着実に増加し、プレイヤーベースも雪だるま式（英語版）に広がっていった[6]。
+2021年4月1日には大型アップデートを実施。新マップ「The Airship」の追加やメッセージボードのショートカット入力など新たな機能が多々実装された他、不正・迷惑プレイヤーを運営に通報できるようになり、その内容に応じてアカウントを一時および永久停止する機能も実装された。
+
+人気の高まり[編集]
+人気の高まりと要因[編集]
+ Twitchにおける『Among Us』の人気に火をつけたとされるストリーマーのソーダポッピン
+本作は2018年にリリースされたものの、人気の急上昇を見せたのは2020年の半ばになってからであり、その人気は韓国とブラジルのオンラインコンテンツクリエーターによって牽引されていた。Bromanderによると、アメリカよりもメキシコやブラジル、韓国ではさらに人気が高まっていたと述べている[6][7]。また、Willardによると、2020年7月にTwitchストリーマーであるソーダポッピンが、Twitchにおける本作の人気に火をつけたと述べている[6]。これに続くように、エックスキューシー（英語版）やポキマネ（英語版）、シュラウド、ニンジャ、ピューディパイなど、数多くのTwitchストリーマーやYouTuberがプレイするようになった[2][34][43][44]。
+新型コロナウイルス感染症の世界的流行によって社会距離拡大戦略（ソーシャル・ディスタンシング）が提唱される中、ゲームを通じた社会化を可能にしたため、本作が人気になった理由として頻繁に引用されていた[6][39][45][46]。EurogamerのEmma Kentは、InnerSlothの『The Henry Stickmin Collection』のリリースも本作の人気に貢献したと考えており、PC GamerのWes Fenlonは、TwitchストリーマーであるSR_Kaifの功績が大きいと分析している[33][34][43]。また、本作が『シークレットヒトラー（英語版）』のようなマフィアに触発された他の人気のあるテーブルゲームと類似していることも、成功の理由として挙げている。マフィアに似たゲームの中でも、『タウン・オブ・セイラム（英語版）』や『ウェアウルブズ・ウィズイン（英語版）』といったコンピュータゲーム化されたものもあったが、Fenlonはこれらを「基本的な人狼ゲームにオンラインインターフェースを追加しただけ」と見ていたのに対し、本作はそのコンセプトを全く新しいものにしたと評している[34]。
+
+継続する作品への人気[編集]
+ 作品のファンが製作した「crewsona」キャラクターシート
+本作の人気はその後も続き、2020年9月、YouTubeは本作に関する動画が40億回以上視聴されたと報告した[47][48]。TikTokでは、2020年10月に130億回以上再生されていた[3]。2020年9月、ゲームのダウンロード数は1億回を超え[1][34][49]、同時に接続するプレイヤー数は150万人に上り[50]、そのうちの40万人近くがSteamから接続していた[4][39][51]。その後、9月の後半にピークに達し、プレイヤー数は380万人になった[49][52]。この頃、突然のプレイヤーの増加により、ゲームサーバーは過負荷な状態になっていた。Willardによれば、「当時は完全に無料のAmazonのサーバーであり、それはひどいものだった」ため、急いでサーバーを修復する必要があったとしている[36]。
+ゲームの人気は「crewsonas」という現象を含め[32][53]、ファンアートやインターネット・ミームに大きな影響を与えた[36][54][55]。Willardは、ファンが作成したコンテンツは「本当に最高」と表現し、Bromanderはそれを「見るのが一番のお気に入り」としている[36]。人気の真っ只中でInnerSlothは、PlayStation 4やXbox Oneなどのコンソール機器にゲームを移植することを検討していた。しかし、標準的なテキストベースまたは音声ベースのチャットが使用できないように思え、プレイヤー間のコミュニケーション機能を実装する上で問題が発生した。チームは『ロケットリーグ』の「クイックコミュニケーション」システムに似たシステムや、ゲーム用にまったく新しいコミュニケーションシステムの開発を検討した。2020年9月現在、開発がどのような状態にあるのか不明だが、少なくとも移植については検討されている[56][57]。
+
+政治家や物議を醸した軍人によるプレイ[編集]
+2020年10月、アメリカ合衆国下院議員であるアレクサンドリア・オカシオ＝コルテスとイルハン・オマルは、次期アメリカ合衆国大統領選挙への投票を促す方法として、ポキメインやHasan Pikerなどの著名なストリーマーとともにゲームをストリーミング配信し、Twitch上で70万人近くの同時視聴者を集めた[58][59][60][61]。
+一方で、アメリカ海軍のeスポーツチームによるストリーミング配信では物議を醸した。このチームでは、あるプレイヤーが「Nagasaki」や「Japan 1945」といった長崎市への原子爆弾投下をからかうようなユーザー名や、黒人に対する蔑称（ニガー）を連想させる「gamer word」を名乗っていた。これに対しインターネット上では、「不謹慎だ」や「虫唾が走る」といった非難が殺到した[62][63]。
+
+続編の取り消しと計画の見直し[編集]
+2020年8月、開発チームは続編である『Among Us 2』に焦点を移した[17][16][18][19]。しかしながらこの間もWillardとAmy Liuは本作の更新を続け、3つのリージョンに4つのサーバーを追加して最大プレーヤーベースを増やしたり、より長いゲームコードを追加したりして、より多くのゲームが同時に進行できるように対応した[64]。
+9月23日、続編の開発の中止を発表した[25][26]。その代わりとして、「多くのプレイヤーが『Among Us』を楽しんでいる」ことから、本作の継続的な改善・サポートに加え、続編に向けたコンテンツの追加を決定した[25][26][43][65][66]。InnerSlothは、ゲームのコードベースが「時代遅れであり、新しいコンテンツを追加できるように構築されていない」と判断し、新しいコンテンツの追加を可能にするために、ゲームのコアとなるコードを再構築した上で続編をリリースする予定だった[25][26][66]。その後、開発チームはゲームサーバーの問題と蔓延する不正行為に対する計画を発表し[67][68][69]、プレイヤーを追放するシステムの追加や[70]、ゴーストとしてプレイする際のゲームプレイの改善を行った[71]。さらに今後の計画として、ゲームをカスタマイズするオプション設定の追加や、色覚異常への対応、フレンド機能、Bromanderが制作するThe Henry Stickminシリーズを題材にした新マップの追加などが発表されている[25][43][65][66][70][72]。
+
+12月15日、Nintendo Direct Indie World Showcaseにおける発表と同日（日本では16日）、本作がNintendo Switch向けにリリースされた。Switch版で初めて日本語に対応し、モバイル版やWindows版とのクロスプレイにも対応している[11][12]。この発表を受け、Twitterにおける日本のトレンドでは、発表に関連した「Switch版」や「日本語対応」といったワードがトレンド入りした[12]。
+2021年3月6日に配信されたアップデートで、モバイル版及びWindows版にも日本語に対応。これによって全対応機種で日本語のプレイが可能になった。このアップデートでは、クイックチャット機能が導入され、定型テキストを使った簡単でスピーディな会話が可能になった。[73]
+2021年にはXbox OneおよびXbox Series X/S向けのXbox Game Passへのリリースが予定されており、同機種でもプレイできるようになる計画がある[13][14]。
+
+ハッカーによるチャットスパム[編集]
+2020年10月中旬、「エリス・ロリス」と名乗るハッカーが、主に北アメリカのサーバーを標的にしたチャットスパムを始めた。『Among Us』のサブレディット（Redditにおけるコミュニティ）やTwitter上では、ロビーが操作され、YouTubeのチャンネルへの誘導やDiscordのサーバーへのリンク、物議を醸すような政治的メッセージによってゲーム内チャットが荒らされているという報告が上がっていた[74]。エリス・ロリスは、自身のYouTubeチャンネルへの誘導だけでなく、チャンネル登録を拒否したプレイヤーに対しては、個人的にハッキングすると脅迫していた。また、Discordのサーバーには、人種差別的な言葉や流血・ポルノ・動物虐待を描写した画像など、大量のNSFWコンテンツが含まれていたことが判明している[75]。
+10月23日に掲載されたEurogamerのレポートでは、チャットに書き込まれたDiscordサーバーへのリンクを経由して行われた、エリス・ロリスと名乗る人物へのインタビューが載せられている。インタビューにおいてロリスは、「わずか6時間で」ハッキングの原因となるボットを作成し、最大50人のボランティアを集めてボットネットを形成し、攻撃の強度を高めたと主張している。また、このハッキングが150万のゲーム・490万人のプレイヤーに影響を与え、次期アメリカ合衆国大統領選挙においてドナルド・トランプに投票するように促す宣伝の一環であったとも付け加えている[75]。
+InnerSlothは、10月22日にハッキングについてプレーヤーに警告するゲーム内メッセージを追加した[75]。その翌日にはTwitterで声明を発表し、この問題について「非常に認識している」と述べ、ハッキングと戦うために「緊急のサーバーアップデート」を配信するとした。それを踏まえて、アップデートが配信されるまではパブリックゲームでプレイすることを避け、プライベートゲームに固執するよう勧めた[76]。開発チームはオーバーホールの一環として、ハッキングの脆弱性に対処することを計画している[67][68][69]。
+
+評価・反響[編集]
+評価レビュー結果媒体結果iOSPCゲーム・インフォーマーN/A8.5/10点[77]集計結果MetacriticN/A84/100点[78]
+AP通信は本作が、2020年10月にiPhoneおよびiPadの両方のApp Storeで最もダウンロードされたアプリだとしている[79]。Rock, Paper, ShotgunのCraig Pearsonは、「疲れ果てる」クルーメイトとしてプレイするよりも、インポスターとしてプレイする方が「はるかに楽しい」としている[80]。Alice O'Connerは、このゲームを「マフィアまたはウェアウルフだが、ミニゲームがある」と表現している[81]。TheGamerのAndrew Penneyは、このゲームは「価格に見合う価値がある」とし、「誰と一緒にプレイするかによって、ゲームの楽しさが決まる」と述べた[27]。ストリーマーの間での人気について、The NationalのEvelyn Lauは、「誰がインポスターなのかを当てようとする人々の反応を見ていると、（時には大きな間違いをすることもあるが）インポスターではないとひどく嘘をついている人々の反応を見ていると、とても楽しい」と述べている[45]。
+新型コロナウイルス感染症の世界的流行時にパーティーゲームとして人気を博していたことから、『Fall Guys』とよく比較されているが[6][72][82]、それぞれのゲームの開発者はTwitterにおいて互いを肯定的に認め合っている[83][84]。また、比較されやすい要因の1つとして、両ゲームのキャラクターがゼリービーンズのように見えることも挙げられている[85][86]。
+
+受賞歴[編集]
+
+
+受賞年
+賞
+部門
+結果
+出典
+
+
+2020年
+
+ゴールデンジョイスティックアワード 2020
+
+Breakthrough Award
+
+受賞
+
+[87]
+
+
+The Game Awards 2020
+
+Best Mobile Game
+
+受賞
+
+[88][89]
+
+
+Best Multiplayer Game
+
+受賞
+
+脚注[編集]
+注釈[編集]
+
+
+^ a b 「Puffballs United」という名前でも知られている[4]。
+
+^ a b 「ForteBass」という名前でも知られている[7]。
+
+^ 作品名称の表記についてApp Store上では『Among Us!』と感嘆符が付与されている[15]。また、本作の続編について議論される際、作品の開発元といくつかのマスメディアによっては『Among Us 1』とレトロニムが与えられている[16][17][18][19]。
+
+^ 日本における作品名称の呼称・カナ表記について、ゲームメディア・AUTOMATONの問い合わせに対してInnerSlothのコミュニティディレクター・Victoria Tranが「a-MON-gu a-su」であると回答しており[20]、任天堂が公開した動画「Indie World 2020.12.16」でも「アモング・アス」と呼ばれている[21]。ただし、プレイヤー間では「アマング・アス」「アモング・アス」と二分化しており、マスメディアによって表記が異なる例がある。マイニンテンドーストアの検索では「アマング・アス」「アマングアス」「アマンガス」「アモング・アス」「アモングアス」で当タイトルがヒットするようになっている。
+
+^ 無料のモバイル版と有料のPC版の両方にダウンロードコンテンツ (DLC) が用意されているが、PC版にはモバイル版のDLCの一部があらかじめ含まれている[7][30]。
+
+
+出典[編集]
+
+
+^ a b c d e f g h i j k l m n o p Rodriguez, Salvador (2020年10月14日). “How Amazon's Twitch turned an obscure game called Among Us into a pandemic mega-hit”. CNBC. 2020年10月24日閲覧。
+
+^ a b c d e f g “Among Us: Everything to know about the game everyone is obsessing over”. CNET (2020年10月22日). 2020年10月24日閲覧。
+
+^ a b c Lorenz, Taylor (14 October 2020), “With Nowhere to Go, Teens Flock to Among Us - YouTubers, influencers and streamers popularized the multiplayer game. Then their fans started playing too.”, The New York Times, https://www.nytimes.com/2020/10/14/style/among-us.html 2020年10月14日閲覧。 
+
+^ a b Lugris, Mark (2020年9月9日). “InnerSloth's Party Game Among Us Reaches 1.5 Million Simultaneous Players” (英語). TheGamer. 2020年9月9日閲覧。
+
+^ a b c “About”. InnerSloth. 2020年9月9日閲覧。
+
+^ a b c d e f g h i j Grayson, Nathan (2020年9月8日). “Among Us' Improbable Rise To The Top Of Twitch” (英語). Kotaku Australia. 2020年9月8日閲覧。
+
+^ a b c d e f Carless, Simon (2020年9月10日). “Behind the dizzying ride to the top for Among Us” (英語). Gamasutra. 2020年9月16日閲覧。
+
+^ a b “#27 - Innersloth” (英語). 2020年10月20日閲覧。
+
+^ Innersloth (2018年8月17日). “PC and Online Released! - Among Us by Innersloth” (英語). Itch.io. 2020年9月11日閲覧。
+
+^ a b InnerSloth (2018年11月8日). “Among Us Out of Beta and Pricing - Among Us by InnerSloth” (英語). Itch.io. 2020年9月27日閲覧。
+
+^ a b c “宇宙人狼『Among Us』がNintendo Switchで発売決定！ 本日（12/16）発売で、価格は520円”. ファミ通.com (2020年12月16日). 2020年12月16日閲覧。
+
+^ a b c d “1億DLされたインディーゲーム「Among Us」、Switch版発売 日本語対応”. ITmedia NEWS.   アイティメディア (2020年12月16日). 2020年12月18日閲覧。
+
+^ a b c “Among Us comes to Xbox in 2021”. Polygon (2020年12月17日). 2020年12月18日閲覧。
+
+^ a b c “‘Among Us’ is coming to Xbox in 2021”. Engadget (2020年12月17日). 2020年12月18日閲覧。
+
+^ “Among Us!” (英語). App Store. 2020年9月13日閲覧。
+
+^ a b InnerSloth (2020年8月18日). “Among Us 2 - Among Us by InnerSloth” (英語). Itch.io. 2020年9月9日閲覧。
+
+^ a b c Brian, Renadette (2020年8月19日). “Among Us 2 Announced Following First Game's Huge Surge In Popularity” (英語). Game Rant. 2020年9月8日閲覧。
+
+^ a b Perrault, Patrick (2020年8月18日). “Among Us 2 Announced” (英語). TechRaptor. 2020年9月8日閲覧。
+
+^ a b Manson, Leonard (2020年9月4日). “Among Us 2 confirmed for PC and mobile; first details” (英語). Somag News. 2020年9月8日閲覧。
+
+^ Yuki Kurosawa (2021年3月18日). “宇宙人狼『Among Us』の発音は「アモングアス」か「アマングアス」か論争。開発元に正しい読み方を直撃”. AUTOMATON. https://automaton-media.com/articles/newsjp/20210318-155176/ 2021年3月19日閲覧。 
+
+^ “注目のインディーゲーム11本を紹介。「Indie World 2020.12.16」を公開しました。”. 任天堂 (2020年12月16日). 2020年12月16日閲覧。
+
+^ a b c d e f g h i j k l m n o p q r s t u T田 (2020年10月15日). “話題の宇宙人狼「Among Us」のプレイガイドをお届け。アクションと議論が融合したカジュアルなゲーム性で国内でも流行の兆し”. 4Gamer.net.   Aetas. 2020年10月23日閲覧。
+
+^ a b c d e f g h i j k l m n o ロラルロラック (2020年9月15日). “海外で爆発的人気の宇宙船人狼ゲーム『Among Us』―同接者数150万人達成のダークホースの魅力とは!?【プレイレポ】”. Game*Spark.   イード. 2020年10月23日閲覧。
+
+^ a b c d e f g h i j k l m n o p 重田雄一 (2020年9月14日). “「Fall Guys」の大ヒットの裏で海外では人狼もヒットしていた スマホなら無料で遊べるSFオンライン人狼『Among Us』を紹介”. IGN Japan.   産経デジタル. 2020年10月23日閲覧。
+
+^ a b c d e H.Laameche (2020年9月24日). “大ヒット宇宙版人狼ゲーム『Among Us』の続編計画キャンセル発表―ゲーム改善に集中”. Game*Spark.   イード. 2020年10月23日閲覧。
+
+^ a b c d 重田雄一 (2020年9月24日). “宇宙人狼ゲーム『Among Us』の続編がキャンセルに 今後は無印『Among Us』のアップデートに全力を注ぐ”. IGN Japan.   産経デジタル. 2020年10月23日閲覧。
+
+^ a b c Penney, Andrew (2020年9月16日). “Among Us Review: A Perfect Way To Ruin Your Friendships” (英語). TheGamer. 2020年9月16日閲覧。
+
+^ a b Joseph, Funké (2020年9月4日). “Why Among Us Became One of the Biggest Games on Twitch Two Years After Release” (英語). Paste. 2020年9月8日閲覧。
+
+^ Garst, Aron. “Playing "Among Us?" Here are some tips and alternate rules to up the ante.” (英語). The Washington Post. ISSN 0190-8286. https://www.washingtonpost.com/video-games/tips/among-us-tips-rules/ 2020年10月9日閲覧。 
+
+^ Cuevas, Zackery (2020年10月2日). “All the differences between the PC and mobile versions of Among Us”. Android Central. 2020年10月2日閲覧。
+
+^ Wilde, Tyler (2020年9月24日). “How to customize your character in Among Us” (英語). PC Gamer. 2020年9月28日閲覧。
+
+^ a b Marshall, Cass (2020年9月25日). “Among Us fans are creating their own crewsonas and sweet impostors” (英語). Polygon. 2020年9月27日閲覧。
+
+^ a b 細谷元 (2020年10月11日). “累計6000万DL突破、2年前リリース「Among Us」が今ブームに コロナ禍でのゲームヒットの理由”. AMP.   ブラーブメディア. 2020年10月23日閲覧。
+
+^ a b c d e Fenlon, Wes (2020年9月24日). “How Among Us became so wildly popular” (英語). PC Gamer. 2020年9月25日閲覧。
+
+^ “Among Us - Apps on Google Play” (英語). Google Play. 2020年9月13日閲覧。
+
+^ a b c d Campbell, Amy (2020年9月22日). “Among Us Devs Have Created a Gaming Phenomenon, Albeit Two Years After It Launched” (英語). Escapist Magazine. 2020年9月24日閲覧。
+
+^ Power, Tom (2020年9月16日). “Is there crossplay in Among Us?” (英語). Gamepur. 2020年9月21日閲覧。
+
+^ Matthews, Emma (2020年9月10日). “How crossplay works in Among Us” (英語). PC Gamer. 2020年9月15日閲覧。
+
+^ a b c Coto, Adrian (2020年9月21日). “Among Us Surpasses PUBG With Almost 400,000 Concurrent Steam Players” (英語). Screen Rant. 2020年9月21日閲覧。
+
+^ InnerSloth (2019年8月8日). “MIRA HQ Launched! - Among Us by InnerSloth” (英語). Itch.io. 2020年9月16日閲覧。
+
+^ InnerSloth (2019年11月12日). “Polus Map Launched! - Among Us by InnerSloth” (英語). Itch.io. 2020年9月16日閲覧。
+
+^ InnerSloth (2020年1月6日). “Among Us and InnerSloth in 2020 - Among Us by InnerSloth” (英語). Itch.io. 2020年9月27日閲覧。
+
+^ a b c d Kent, Emma (2020年9月24日). “Among Us 2 cancelled as devs focus on original title”. Eurogamer. 2020年9月24日閲覧。
+
+^ Zheng, Jenny (2020年9月21日). “Among Us Is Even More Popular Than You Think Right Now” (英語). GameSpot. 2020年9月24日閲覧。
+
+^ a b Lau, Evelyn (2020年9月8日). “'Among Us': what to know about the online survival game that's all about deceit” (英語). The National. 2020年9月8日閲覧。
+
+^ 
+Epstein, Adam. “How an obscure 2018 computer game became a global phenomenon overnight” (英語). Quartz. 2020年10月2日閲覧。
+Stuart, Keith (2020年9月29日). “Among Us is the ultimate party game of the Covid era” (英語). The Guardian. 2020年10月2日閲覧。
+Sands, Sean (2020年8月23日). “'Among Us' Is Not Just the Game of 2020, It's '2020: The Game'” (英語). Vice. 2020年10月2日閲覧。
+
+^ log1i_yk (2020年10月16日). “YouTubeで2020年9月に最も流行したゲームは宇宙人狼ゲーム「Among Us」”. GIGAZINE.   OSA. 2020年10月23日閲覧。
+
+^ “"Among Us" Surged in September - "Among Us" videos topped 4 billion views in September”, YouTube Culture and Trends, (14 October 2020), https://www.youtube.com/trends/articles/among-us-september/ 2020年10月14日閲覧。 
+
+^ a b ロラルロラック (2020年9月29日). “スペース人狼『Among Us』が同接300万人を達成―ダウンロード数は1億を突破”. Game*Spark.   イード. 2020年10月23日閲覧。
+
+^ ロラルロラック (2020年9月8日). “スペース人狼ゲーム『Among Us』が同接150万人達成―Twitchストリーマーたちの配信により人気急上昇”. Game*Spark.   イード. 2020年10月23日閲覧。
+
+^ 
+Macgregor, Jody (2020年9月9日). “Multiplayer space mystery Among Us hits 1.5 million simultaneous players” (英語). PC Gamer. 2020年9月12日閲覧。
+O'Connor, Alice (2020年9月8日). “Among Us had 1.5 million people playing at the same time this weekend” (英語). Rock, Paper, Shotgun. 2020年9月12日閲覧。
+Bailey, Dustin (2020年9月7日). “Among Us reaches 1.5 million concurrent players” (英語). PCGamesN. 2020年9月8日閲覧。
+Zheng, Jenny (2020年9月18日). “Among Us Is Really, Really Popular Right Now” (英語). GameSpot. 2020年9月19日閲覧。
+
+^ Lugris, Mark (2020年9月29日). “Among Us Had 3.8 Million Concurrent Players Last Weekend” (英語). TheGamer. 2020年10月1日閲覧。
+
+^ Lopez, Michael (2020年9月28日). “Among Us Fans Are Making Their Own Unique "Crewsonas"” (英語). TheGamer. 2020年9月29日閲覧。
+
+^ Marshall, Cass (2020年9月21日). “Among Us fans are calling everything 'pretty sus,' and it keeps working” (英語). Polygon. 2020年9月26日閲覧。
+
+^ Marshall, Cass (2020年9月11日). “Why Among Us' Emergency Meeting is the big social media mood” (英語). Polygon. 2020年9月13日閲覧。
+
+^ Winslow, Jeremy (2020年9月18日). “Among Us PS4, Xbox One Port More Complicated Than You Think” (英語). GameSpot. 2020年9月19日閲覧。
+
+^ Paez, Danny (2020年9月17日). “'Among Us' dev offers disappointing update on progress for Xbox, PS4 ports” (英語). Inverse. 2020年9月19日閲覧。
+
+^ Stephen, Bijan (2020年10月20日). “Watch AOC play Among Us live on Twitch with HasanAbi and Pokimane” (英語). The Verge. 2020年10月21日閲覧。
+
+^ Brown, Abram (2020年10月20日). “Almost 700,000 People Flock To Twitch To Watch Alexandria Ocasio-Cortez Play Hit Video Game ‘Among Us’” (英語). Forbes. 2020年10月21日閲覧。
+
+^ Ziady, Hanna (2020年10月21日). “Alexandria Ocasio-Cortez just played a video game on Twitch to encourage voting”. CNN. 2020年10月21日閲覧。
+
+^ “Alexandria Ocasio-Cortez Streams On Twitch With Hasan Piker And Pokimane, Draws Over 430,000 Viewers” (英語). Kotaku. 2020年10月21日閲覧。
+
+^ Kurosawa, Yuki (2020年9月14日). “米国海軍のゲーム実況にて、「長崎原爆投下」をからかうようなユーザー名でプレイが展開され批判殺到。ネットに翻弄され、リテラシーを見失う軍人たち”. AUTOMATON.   アクティブゲーミングメディア. 2020年11月6日閲覧。
+
+^ 
+Lemon, Jacon (2020年9月13日). “US Navy's Twitch account criticized for streaming games with offensive player names” (英語). Newsweek. 2020年9月15日閲覧。
+Gault, Matthew (2020年9月14日). “A U.S. Navy Twitch Stream Included Jokes About Nagasaki and the N-Word” (英語). Vice. 2020年9月15日閲覧。
+Grayson, Nathan (2020年9月15日). “Navy Twitch Stream Spirals Out Of Control Due To Slur, War Crime Jokes” (英語). Kotaku Australia. 2020年9月17日閲覧。
+Marchetto, Claudia (2020年9月14日). “Among Us: la Marina americana lo gioca su Twitch usando nickname razzisti ed è bufera” (イタリア語). Eurogamer.it. 2020年9月15日閲覧。
+
+^ Willard, Forest (2020年9月1日). “Among Us Beta 2020.9.1 :: Among Us General Discussions” (英語). Steam Community. 2020年9月18日閲覧。
+
+^ a b 
+“The game that's so popular, it can't have a sequel” (英語). BBC News. (2020年9月24日). https://www.bbc.com/news/newsbeat-54277123 2020年9月24日閲覧。 
+Oloman, Jordan (2020年9月24日). “Among Us 2 Cancelled, New Content Headed to Among Us 1” (英語). IGN. 2020年9月24日閲覧。
+Carpenter, Nicole (2020年9月24日). “Among Us 2 canceled — but don't worry” (英語). Polygon. 2020年9月24日閲覧。
+Plunkett, Luke (2020年9月23日). “Among Us 2 Cancelled One Month After It Was Announced” (英語). Kotaku. 2020年9月24日閲覧。
+Prescott, Shaun (2020年9月23日). “Among Us 2 cancelled in favour of ongoing work on the current game” (英語). PC Gamer. 2020年9月24日閲覧。
+Peters, Jay (2020年9月23日). “Among Us is so popular that its developers just canceled the sequel” (英語). The Verge. 2020年9月24日閲覧。
+
+^ a b c InnerSloth (2020年9月23日). “The Future of Among Us”. Itch.io. 2020年9月23日閲覧。
+
+^ a b Grayson, Nathan (2020年10月2日). “Among Us Has A Cheating Problem” (英語). Kotaku. 2020年10月4日閲覧。
+
+^ a b Marshall, Cass (2020年10月8日). “Among Us with randoms is rough” (英語). Polygon. 2020年10月9日閲覧。
+
+^ a b Wilde, Tyler (2020年10月5日). “Of course there are already Among Us cheaters” (英語). PC Gamer. 2020年10月9日閲覧。
+
+^ a b Turney, Alexandria (2020年10月9日). “Everything Among Us Desperately Needs To Add” (英語). Screen Rant. 2020年10月13日閲覧。
+
+^ Paez, Danny (2020年10月6日). “'Among Us' developers promise to fix the most boring part of the game” (英語). Inverse. 2020年10月7日閲覧。
+
+^ a b Liao, Shannon (2020年9月26日). “Among Us, a murder mystery set in space, is the latest multimillion dollar craze in video games”. CNN. 2020年9月27日閲覧。
+
+^ Inc, Aetas. “「Among Us」，PC/スマホ版がついに日本語に対応。クイックチャット機能も追加” (日本語). www.4gamer.net. 2021年3月6日閲覧。
+
+^ Mukherjee, Arnab (2020年10月24日). “Among Us Hacker: Who is Eris Loris & how to respond to his Among Us hack /spam attack - guide” (英語). The SportsRush. 2020年10月25日閲覧。
+
+^ a b c Emma, Kent (2020年10月23日). “Among Us is dealing with a huge spam attack” (英語). Eurogamer. 2020年10月24日閲覧。
+
+^ Innersloth (2020年10月23日). “Innersloth's Response to the hacking problem” (英語). Twitter. 2020年10月24日閲覧。
+
+^ Ruppert, Liana (2020年9月29日). “Among Us Review – Better Late Than Never”. Game Informer. 2020年10月25日閲覧。
+
+^ “Among Us for PC Reviews”. Metacritic.   CBS Interactive. 2020年11月18日閲覧。
+
+^ “The top iPhone and iPad apps on Apple App Store”, The Washington Post, (13 October 2020), https://www.washingtonpost.com/business/technology/the-top-iphone-and-ipad-apps-on-apple-app-store/2020/10/13/69318488-0d7c-11eb-b404-8d1e675ec701_story.html 2020年10月13日閲覧。 
+
+^ Pearson, Craig (2020年8月27日). “Among Us has made a lying murderer out of me” (英語). Rock, Paper, Shotgun. 2020年9月8日閲覧。
+
+^ O'Conner (2020年9月8日). “Among Us had 1.5 million people playing at the same time this weekend”. Rock, Paper, Shotgun. 2020年9月8日閲覧。
+
+^ Matthews, Emma (2020年8月25日). “Why Among Us is the best game to watch on Twitch right now” (英語). PC Gamer. 2020年9月8日閲覧。
+
+^ Fall Guys [@FallGuysGame] (22 August 2020). "This is actually trueWe love Among Us 😍" (ツイート). Twitterより2020年10月23日閲覧。
+
+^ Forest Willard [@forte_bass] (23 August 2020). "This is horrifying.I love it" (ツイート). Twitterより2020年10月23日閲覧。
+
+^ Fairfax, Zackerie (2020年9月27日). “A Fall Guys X Among Us Crossover Could Happen (& It Just Makes Sense)” (英語). Screen Rant. 2020年10月4日閲覧。
+
+^ Harris, Iain (2020年10月1日). “Someone has modded Among Us's Red into Left 4 Dead 2, naturally” (英語). PCGamesN. 2020年10月4日閲覧。
+
+^ Tyrer, Ben (2020年11月24日). “Among Us developer wins this year's Breakthrough Award at the Golden Joysticks”. GamesRadar+. 2020年11月28日閲覧。
+
+^ Makuch, Eddie (2020年11月18日). “New Among Us Map Teased, Announcement Coming At The Game Awards”. GameSpot. 2020年11月19日閲覧。
+
+^ Ryan, Jackson. “The Game Awards 2020: Every result, winner, world premiere, trailers and more” (英語). CNET. 2020年12月11日閲覧。
+
+
+外部リンク[編集]
+
+
+
+ウィキメディア・コモンズには、Among Usに関連するカテゴリがあります。
+公式ウェブサイト（英語）
+Among Us (@AmongUsGame) - Twitter（英語）
+Among Us - Google Play
+Among Us! - App Store 
+Among Us - Steam
+
+
+この項目は、コンピュータゲームに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（P:コンピュータゲーム / PJコンピュータゲーム）。
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Among_Us&oldid=83952683」から取得
+カテゴリ: 2018年のコンピュータゲームAndroid用ゲームソフトIOSのゲームWindows用ゲームソフトNintendo Switch用ソフトPlayStation 5用ソフトコンピュータパーティーゲームSFコンピュータゲームアメリカで開発されたコンピュータゲーム宇宙を舞台としたコンピュータゲーム隠しカテゴリ: コンピュータゲーム関連のスタブ記事
+

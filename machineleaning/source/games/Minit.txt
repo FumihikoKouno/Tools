@@ -1,0 +1,146 @@
+
+
+
+
+
+Minit
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Minitジャンル
+アクションアドベンチャーゲーム対応機種
+PC（Windows, MacOS, Linux）PlayStation 4Xbox OneNintendo SwitchiOS（8.0以降）[1]Android（4.0以降）[2]発売元
+Devolver Digitalデザイナー
+Kitty CalisJan Willem NijmanJukio KallioDominik Johann音楽
+Jukio Kallio美術
+Dominik Johann人数
+1人メディア
+ダウンロード販売発売日
+PC：2018年4月3日[3]PS4 2018年4月3日[4][5] 2018年8月9日[6]XBOne 2018年4月3日[7][8]Switch 2018年8月9日[9][10][11]iOS, Android：2019年6月27日[12]対象年齢
+CERO：A（全年齢対象）[6][9]ESRB：E（6歳以上）[4][7][10]PEGI：3[5][8][11]USK：0[13][14][15]iOS：9+[1]Android：3+[2]コンテンツアイコン
+ESRB: Mild Fantasy Violence[4][7][10]iOS：まれ/軽度なアニメまたはファンタジーバイオレンス[1]テンプレートを表示
+『Minit』（ミニット）は、アメリカのゲームソフト販売会社Devolver Digitalより発売されたアクションアドベンチャーゲーム。開発は、オランダの開発者Kitty Calis、Jan Willem Nijman、フィンランドの作曲家Jukio Kallio、ドイツのイラストレーターDominik Johannの4人を中心に行われた[16]。
+
+目次
+
+1 概要
+2 システム
+3 アイテム
+4 評価
+5 脚注
+6 外部リンク
+
+
+概要[編集]
+手にした剣の呪いにより1分後に死ぬ運命を背負ってしまった主人公が、呪いを解く手段を求めて世界を冒険する物語。ゲームの中では1分経過ごとに強制的に拠点に戻され、アイテムの入手や謎解き等により行動範囲を広げていく。作品内のグラフィックは、黎明期のゲームのような黒白2色の簡素なドット絵で表現されている。
+本作の開発が始まる前の2012年に行われたゲームジャムにKitty CalisとJan Willem Nijmanが参加した際、二人が気に入っていたアメリカのファンタジーアニメ『アドベンチャー・タイム』のエピソードを1分の冒険として描いたらどうなるかとのコンセプトでゲームを作成し、好評を得た。その数年後、ゲームジャムでの作品を基にし、Jukio KallioとDominik Johannを迎えて本格的な開発が行われることになった[17]。
+
+システム[編集]
+フィールドはトップビューで描かれ、フィールドの移動時には『ゼルダの伝説』などのような画面切り替えスクロール方式で表示エリアが切り替わる。
+ゲーム内では、メニュー画面表示時を除くほぼ全ての場面で時間が経過し、前述のように1分が経過すると主人公は強制的に拠点に戻される。拠点はフィールド上に複数箇所あり、最後に訪れた場所から再スタートすることになる。なお、1分経過時以外でも、主人公のライフが尽きた際に戻されるほか、任意のタイミングで戻ることもできる。
+ゲームのクリア後には難易度の高い「ハードモード」が解禁される。このモードでは制限時間が40秒に短縮されるほか、ライフが1つのみ（一度でもダメージを受けるとミス）で、リーチが短い「こわれた つるぎ」を武器に用いる。また、敵や障害物などの配置が通常モードと一部異なる。
+
+アイテム[編集]
+つるぎ / メガソード / こわれた つるぎ
+主人公が装備する武器。メガソードは攻撃力が2倍。こわれた つるぎは前述のようにリーチが短い。
+コーヒー
+飲むとフィールド上のブロックを押せるようになる。
+フラッシュライト
+暗闇の中で周囲が見えるようになる。
+みずかき
+水中を移動できる。
+とうだいの カギ / ちかしつの カギ
+施錠された扉を開けることができる。
+ジョウロ
+色々な物に水をかけることができる。入手時には武器と置き換えることになり、両方同時には所持できない。
+おたすけグローブ
+武器をブーメランのように前方に飛ばせるようになる。
+こうそくスニーカー
+移動速度が上昇する。
+ガーデニング グローブ
+フィールド上の樹木を取り除くことができる。
+ボートよう もくざい
+ボートを修理する際の材料として使用する。
+かんけいしゃパス
+工場の内部に入れるようになる。
+ハート
+ライフの最大値が1上昇する。ハードモードでは入手しても上昇せず、その場で破棄される。
+コイン
+こうそくスニーカーを購入する際に一定枚数必要となる。各地の宝箱内などに入っている。
+評価[編集]
+Develop（英語版） Awards 2018 「Gameplay Innovation」ノミネート[18]
+Golden Joystick Awards 2018 「Best Indie Game」ノミネート[19]
+New York Game Awards 2019 「Statue of Liberty Award for Best World」ノミネート[20]
+22nd Annual D.I.C.E. Awards 「Outstanding Achievement for an Independent Game」ノミネート[21]
+2019 National Academy of Video Game Trade Reviewers Awards 「Game, Original Family」ノミネート[22]
+Independent Games Festival（英語版） Awards 「Seumas McNally Grand Prize」ノミネート[23]
+2019 G.A.N.G. Awards 「G.A.N.G. / MAGFEST People's Choice Award」ノミネート[24]
+第15回英国アカデミー賞ゲーム部門（英語版） 「Game Design」ノミネート[25]
+脚注[編集]
+[脚注の使い方]
+
+
+^ a b c “Minit”.   App Store. 2019年11月15日閲覧。
+
+^ a b “Minit”.   Google Play. 2019年11月15日閲覧。
+
+^ “Devolver Digital公式Twitter” (英語) (2018年4月3日). 2018年8月16日閲覧。
+
+^ a b c “MINIT on PS4” (英語).   Official PlayStation Store US. 2018年8月16日閲覧。
+
+^ a b “MINIT on PS4” (英語).   Official PlayStation Store UK. 2018年8月16日閲覧。
+
+^ a b “ゲームソフト｜Minit”.   プレイステーション. 2018年8月16日閲覧。
+
+^ a b c “Buy MINIT” (英語).   Microsoft Store. 2018年8月16日閲覧。
+
+^ a b “Buy MINIT” (英語).   Microsoft Store en-GB. 2018年8月16日閲覧。
+
+^ a b “Minit”.   任天堂. 2018年8月16日閲覧。
+
+^ a b c “Minit for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2018年8月16日閲覧。
+
+^ a b “Minit｜Nintendo Switch download software｜Games” (英語).   Nintendo UK. 2018年8月16日閲覧。
+
+^ “Devolver Digital公式Twitter” (2019年6月13日). 2019年11月15日閲覧。
+
+^ “MINIT auf PS4” (ドイツ語).   Offizieller PlayStation Store Deutschland. 2018年8月16日閲覧。
+
+^ “MINIT kaufen” (ドイツ語).   Microsoft Store de-DE. 2018年8月16日閲覧。
+
+^ “Minit｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2018年8月16日閲覧。
+
+^ “Minit is a new '60-second adventure' from an indie supergroup and Devolver Digital” (英語).   PC Gamer (2017年1月25日). 2016年8月16日閲覧。
+
+^ “Minit Interview” (英語).   Neocrisis (2018年4月1日). 2018年8月16日閲覧。
+
+^ “Announcing the Develop Awards 2018 nominations shortlist” (英語).   MCV (2018年5月21日). 2019年1月14日閲覧。
+
+^ “『フォートナイト』がGOTY！「2018 Golden Joystick Awards」受賞作品リスト―生涯功労賞は宮崎英高氏”.   Game*Spark (2018年11月17日). 2019年1月14日閲覧。
+
+^ “NY Game Awards ’19! Full List Of Nominees!” (英語).   The New York Videogame Critics Circle. 2019年4月5日閲覧。
+
+^ “『ゴッド・オブ・ウォー』がGOTY含む9部門で受賞！ 第22回「D.I.C.E. Awards」受賞作品リスト”.   Game*Spark (2019年2月14日). 2019年4月5日閲覧。
+
+^ “Winners” (英語).   National Academy of Video Game Trade Reviewers Corporation. 2019年4月5日閲覧。
+
+^ “2019 Independent Games Festival Reveals This Year's Finalists!” (英語).   GDC (2019年1月3日). 2019年4月5日閲覧。
+
+^ “2019年英国アカデミー賞ゲーム部門のノミネート作品が発表！”.   Game*Spark (2019年3月15日). 2019年4月5日閲覧。
+
+^ “2019年英国アカデミー賞ゲーム部門のノミネート作品が発表！”.   Game*Spark (2019年3月15日). 2019年4月5日閲覧。
+
+
+外部リンク[編集]
+Minit 公式サイト（英語）
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Minit&oldid=83652430」から取得
+カテゴリ: 2018年のコンピュータゲームWindows用ゲームソフトMacOSのソフトウェアLinux用ゲームソフトPlayStation 4用ソフトXbox One用ソフトNintendo Switch用ソフトIPhone用ゲームソフトAndroid用ゲームソフトオランダで開発されたコンピュータゲームDevolver Digitalのゲームソフトインディーゲームアクションアドベンチャーゲーム死を題材としたコンピュータゲーム
+

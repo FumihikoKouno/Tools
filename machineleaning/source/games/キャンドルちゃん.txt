@@ -1,0 +1,131 @@
+
+
+
+
+
+キャンドルちゃん
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+キャンドルちゃんCandlemanジャンル
+3Dアクションゲーム対応機種
+Xbox OnePlayStation 4Steam（Windows, MacOS）iOSAndroidNintendo Switch開発元
+Spotlightor Interactive発売元
+XBOneE-Home Entertainment DevelopmentPS4 Shanghai Oriental Pearl Culture Development Zodiac Interactive Beijing Spirit Games Beijing Jiao Dian Chuang Yi Digital TechnologySteamZodiac InteractiveiOS, AndroidCMGE GroupSwitchindienova発売日
+XBOne 2016年11月18日[1] 2017年2月1日[2][3][4][5]PS4 2018年1月18日[6] 2018年8月21日[7][8][9] 2018年10月17日[10]Steam：2018年1月31日[11]iOS, Android：2018年3月27日[12]Switch 2019年10月3日[13][14][15][16]対象年齢
+IARC：7+[2]CERO：A（全年齢対象）[10][13]ESRB[XBOne] E10+（10歳以上）[3][PS4, Switch] E（6歳以上）[7][14]PEGI[XBOne, PS4] 7[4][8][Switch] 3[15]USK[XBOne] 6（6歳未満提供禁止）[17][Switch] 0[18]ACB[XBOne, Switch] G[5][16][PS4] PG[9]コンテンツアイコン
+IARC：軽い暴力[2]ESRB[XBOne] Fantasy Violence[3][Switch] Mild Fantasy Violence[14]PEGI[XBOne] Mild Violence[4][PS4] Fear[8]USK：abstract violence[17]ACB[XBOne, Switch] Very Mild Violence[5][16]テンプレートを表示
+『キャンドルちゃん』（英：Candleman、中：蜡烛人）は、中国のインディーゲームスタジオSpotlightor Interactive（中：交典创艺）が開発した3Dアクションゲーム。
+
+目次
+
+1 概要
+2 システム
+3 章
+4 脚注
+
+4.1 注釈
+4.2 出典
+
+
+5 外部リンク
+
+
+概要[編集]
+ろうそくの姿をしたキャラクター「キャンドルちゃん」[注 1]が、なぜ自分が燃えているのかと自問する中で闇夜を明るく照らす大きな存在になることを決意し、自身を導く光を放つ遠方の灯台へ向けて歩みを進める。キャンドルちゃんは10秒間だけ火を灯す能力を持っており、これを駆使しながら暗闇に包まれた各ステージを攻略していく。
+本作のプロトタイプの制作は、プロデューサーのGao Mingが参加したゲームジャム「the 27th Ludum Dare」の中で行われた。この時に提示された開発テーマは「10秒」で、初めの段階では10秒の光を放つトーチを持った人間を主人公としていたが、テストを重ねる中で燃焼時間が限られているキャンドルのアイデアを思い付き、そこから、キャンドルに足のついた「歩くキャンドル」が生まれた。このプロトタイプに対してゲームジャム内で好意的な意見が寄せられたことから、1週間をかけて内容を洗練したものをウェブサイト「Kongregate」上で無料配信し、閲覧者たちから注目を集めた。その後まもなく、マイクロソフトが展開するインディーゲームスタジオ支援機構「ID@Xbox（英語版）」のプロジェクトに選出され、製品化に向けた開発が行われることとなった[19][20]。
+
+システム[編集]
+本作の物語は後述のように各章に分かれており、それぞれに複数のステージが含まれている。各ステージの大部分は周囲や足元が全く見えない暗さで、キャンドルちゃんの灯火やステージ各所のキャンドルにキャンドルちゃんが火を灯すことなどで明るくしながら状況を把握する必要がある。ステージ最深部にある光のエリアに到達すればステージクリアとなる。
+キャンドルちゃんは1ステージ内で累計10秒間火を灯すことができる。点灯中は体の蝋が溶け落ちていき、10秒が経過すると溶けきってミスとなる。落ちた蝋は暗い中でも目視でき、ミス後にゲームを再開する際にもそのまま残っている。
+
+章[編集]
+第1章 キャンドルはなぜ燃える
+木製の廃船の内部を探索する。全4ステージ。
+第2章 彼方からの呼び声
+大量の本が堆く積まれた空間を進む。全3ステージ。
+第3章 運命の針路
+触れるとミスになる炎が至る所で噴き出している。全3ステージ。
+第4章 外の世界
+キャンドルちゃんの炎で開く棘付き花や長く伸びている足場のツタなど、様々な植物で構成されている。全4ステージ。
+第5章 恐ろしいほど静かな海
+水面で浮き沈みする花や水面を流れる花を飛び移りながら進む。全5ステージ。
+第6章 花の咲き誇る道
+キャンドルちゃんの炎に反応して開く花を足場にしながら進む。全3ステージ。
+第7章 冷たい歓迎
+一部の石壁が上下・左右・前後に動き続けている。全4ステージ。
+第8章 影とともに進む
+画面手前の通常世界と奥の鏡面世界の2層構造。両方のキャンドルちゃんは同じ動きをするが、一方の世界の地形は一部が見えなくなっていたり影のみが表示されていたりする。全5ステージ。
+第9章 夢の終わり
+回り続ける巨大な歯車を乗り継ぎながら進む。全3ステージ。
+第10章 悪夢
+青白い光を放つ電球が各所に配置されており、キャンドルちゃんがこの光を浴びると寿命が徐々に削られていく。全4ステージ。
+第11章 暖かい答え
+最初のステージでは画面奥の光に向かって進み、他のステージでは水面を流れる花に乗って移動する。一部の水面は薄氷で覆われている。全3ステージ。
+第12章 より明るい炎
+火をつけると上方または前方へ進む爆竹や、光弾を放ち障害物を破壊できる魚型の砲台を利用しながら進む。全5ステージ。
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+
+
+^ 日本語版以外では「little candle」などと表現され、固有のキャラクター名は存在しない。
+
+
+出典[編集]
+
+
+^ “蜡烛人” (中国語).   Microsoft Store zh-CN. 2019年10月9日閲覧。
+
+^ a b c “キャンドルちゃん”.   Microsoft Store ja-JP. 2019年10月9日閲覧。
+
+^ a b c “Candleman” (英語).   Microsoft Store. 2019年10月9日閲覧。
+
+^ a b c “Candleman” (英語).   Microsoft Store en-GB. 2019年10月9日閲覧。
+
+^ a b c “Candleman” (英語).   Microsoft Store en-AU. 2020年10月10日閲覧。
+
+^ “蜡烛人 (中文版)” (英語).   PlayStation Store官方网站 中国. 2019年10月9日閲覧。
+
+^ a b “Candleman: The Complete Journey” (英語).   Official PlayStation Store US. 2019年10月9日閲覧。
+
+^ a b c “Candleman: The Complete Journey” (英語).   Official PlayStation Store UK. 2019年10月9日閲覧。
+
+^ a b “Candleman” (英語).   Official PlayStation Store Australia. 2020年10月10日閲覧。
+
+^ a b “キャンドルちゃん”.   公式PlayStation Store 日本. 2019年10月9日閲覧。
+
+^ “Candleman: The Complete Journey is coming to PC at the end of January” (英語).   PC Gamer (2018年1月17日). 2019年10月9日閲覧。
+
+^ “Candleman:自分自身を見つける”.   ドットアップス. 2019年10月9日閲覧。
+
+^ a b “キャンドルちゃん (Candleman)”.   任天堂. 2019年10月9日閲覧。
+
+^ a b c “Candleman for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2019年10月9日閲覧。
+
+^ a b “Candleman｜Nintendo Switch download software｜Games” (英語).   Nintendo UK. 2019年10月9日閲覧。
+
+^ a b c “Candleman” (英語).   Nintendo Australia. 2020年10月10日閲覧。
+
+^ a b “Candleman” (ドイツ語).   Microsoft Store de-DE. 2019年10月9日閲覧。
+
+^ “Candleman｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2019年10月9日閲覧。
+
+^ “Exclusive Q&A interview with the developer of Candleman on Xbox One” (英語).   TheXboxHub (2017年2月9日). 2019年10月9日閲覧。
+
+^ “Interview With Spotlightor On… Candleman” (英語).   GameCritics.com (2017年2月18日). 2019年10月9日閲覧。
+
+
+外部リンク[編集]
+公式サイト（英語）
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=キャンドルちゃん&oldid=83652941」から取得
+カテゴリ: 2016年のコンピュータゲームXbox One用ソフトPlayStation 4用ソフトWindows用ゲームソフトMacOSのソフトウェアIPhone用ゲームソフトAndroid用ゲームソフトNintendo Switch用ソフト中華人民共和国で開発されたコンピュータゲーム3Dアクションゲームろうそくを題材とした作品インディーゲーム
+

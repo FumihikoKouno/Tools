@@ -1,0 +1,272 @@
+
+
+
+
+
+Minecraft Dungeons
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Minecraft Dungeonsジャンル
+アクションアドベンチャーゲーム対応機種
+Microsoft WindowsNintendo SwitchPlayStation 4Xbox OneXbox Series X/S開発元
+Mojang StudiosDouble Eleven（英語版）販売元
+Xbox Game StudiosMojang 日本マイクロソフト（Switch/Xbox） バンダイナムコエンターテイメント（PS4）人数
+[オフライン]1-4人[オンライン]2-4人メディア
+光ディスクおよびダウンロード販売運営開始日
+2020年5月26日対象年齢
+CERO：A（全年齢対象）ESRB：E10+（10歳以上）PEGI：7USK：12（12歳未満提供禁止）ACB：PGダウンロードコンテンツ
+ありエンジン
+Unreal Engine 4売上本数
+switch：36000テンプレートを表示
+『Minecraft Dungeons』（マインクラフトダンジョンズ）は、Mojang StudiosおよびDouble Eleven（英語版）によって開発されたアクションアドベンチャーゲームである。『Minecraft』のスピンオフであり、Nintendo Switch、PlayStation 4、Xbox OneおよびMicrosoft Windows用に2020年5月26日にダウンロード版がリリースされた。2021年2月には本作の累計プレイヤー数が1000万人を突破した[1]。2021年3月24日にはXbox Series X/S版が発売された。
+
+目次
+
+1 概要
+2 ゲームプレイ
+3 ゲームの進行
+4 ストーリー
+5 リリース
+
+5.1 ヒーローパスの内容
+
+
+6 DLC
+
+6.1 有料コンテンツ
+6.2 無料アップデート
+
+
+7 開発
+
+7.1 沿革
+
+
+8 評価
+9 脚注
+
+9.1 注釈
+9.2 出典
+
+
+10 関連項目
+11 外部リンク
+
+
+概要[編集]
+『Minecraft Dungeons』はダンジョン探索型のアクションアドベンチャーゲームである。Minecraftと同じ世界観・スタイルを継承し[2]、武器やアイテムを含めたすべてがドット絵で描かれたブロックで構成される[3]。プレイヤー以外の登場キャラクターは「モブ」と呼ばれ、プレイヤーに対して敵対的なものと、友好的なものがいる。Minecraftとは異なり、ステージクリア型となる。ステージは自動生成され、挑戦する度にモブの配置などが変わる仕組みになっている。ゲームは直線的でストーリー主導のキャンペーンを特徴としている。ダンジョン内で武器や防具、アーティファクトを収集し、より性能の良いアイテムに装備を交換しパワーを上げていくというシンプルなシステムとなっている。
+
+ゲームプレイ[編集]
+Minecraft DungeonsはMinecraftとは異なり、ステージクリア型である。オープンワールドを備えておらず、鉱山や建物はない[4][5]。代わりにプレイヤーは、自動生成されるダンジョンを探索し、トラップ、パズル、宝物などを発見することが出来る。より性能の良い装備を入手し、交換することでプレイヤーのパワーが上がる。プレイヤーのパワーがステージの難度を上回ったとしても、最終的にステージの難度がそれに追いつく仕組みになっている[6]。ゲームには、ローカルマルチプレイとオンラインマルチプレイで4人まで一緒にプレイすることが可能[注釈 1][7][8][9][10][11]。
+
+ゲームの進行[編集]
+この節は検証可能な参考文献や出典が全く示されていないか、不十分です。出典を追加して記事の信頼性向上にご協力ください。出典検索?: "Minecraft Dungeons" – ニュース · 書籍 · スカラー · CiNii · J-STAGE · NDL · dlib.jp · ジャパンサーチ · TWL（2020年6月）
+プレイヤーは「キャンプ」を拠点にステージを攻略する。Minecraft本編と違い、クラフトや採掘という要素はなく、戦闘に重きを置いたダンジョンクローラーと称するゲーム進行になっている。
+ストーリーに関わるダンジョンは9つあり[2]、そのほかに隠しステージも存在する。プレイヤーは「英雄」と呼ばれ、「キャンプ」と呼ばれる拠点をベースに、森、沼地、砂漠、鉱山などといったMinecraftのバイオームを思わせる特徴のあるマップに赴き、それぞれのマップのミッションを攻略して新しいマップに進んで行くことで、邪悪な村人の王のいる「ハイブロックホール」、「黒曜石の尖塔」を目指していく。英雄は多種多様な武器、鎧、アーティファクトで武装してマップにいる敵対的なMOBを倒していき、マップ最深部にあるゴールを目指すことを基本とする。マップによっては途中で「村人を救出する」「敵の奇襲を退ける」といったサブミッションがある場合がある。武器防具やアーティファクトはマップ内のチェストや、モブのドロップの他、「キャンプ」にいる鍛冶屋などからエメラルドと引き換えに入手したり強化、他のプレイヤーと交換したりすることができる。また、特定のミッションで一定の条件を満たすとシークレットミッションが開放される[12]。
+
+ストーリー[編集]
+この節は検証可能な参考文献や出典が全く示されていないか、不十分です。出典を追加して記事の信頼性向上にご協力ください。出典検索?: "Minecraft Dungeons" – ニュース · 書籍 · スカラー · CiNii · J-STAGE · NDL · dlib.jp · ジャパンサーチ · TWL（2020年6月）
+冒頭のカットシーンは、出会ったすべての人に拒絶されたという「邪悪な村人の王」の物語ではじまる。ある日、彼は「支配のオーブ」として知られる強力なアーティファクトに遭遇した。それは彼に大きな力を与えたが、彼を堕落させた。さらに力を必要とする「邪悪な村人の王」はその後、彼を拒絶した全ての人に復讐をするため、すぐに彼の新しい軍隊で世界を征服し、村を襲撃し、村人を奴隷として働かせ、無秩序だけを残した。 「邪悪な村人の王」の暴政に立ち向かうのがプレイヤーが操作する「英雄」である。プレイヤーはさまざまな場所を探索して「邪悪な村人の王」の暴政を止めさせようとし、彼の軍隊と戦い、次のレベルに進むためにミッションを完了させる。最後、プレイヤーは城で「邪悪な村人の王」と戦い、彼を倒し、世界を支配していた「支配のオーブ」を破壊する。戦いが終わると、プレイヤーが「邪悪な村人の王」に優しさを示し、共に悪が打ち負かされて世界が救われたことを祝っている。その後、「支配のオーブ」は自身の破片を集め自分自身を再構築している。
+
+リリース[編集]
+本作は4月の最初のリリース日から延期された後、2020年5月26日にダウンロード版がリリースされた[注釈 2][13][14]。ゲームは、ゲーム本体のみの通常版である「スタンダードエディション」、またはダウンロードコンテンツを含むシーズンパスである「ヒーローパス」をセットにした「ヒーローエディション」の2種類がある[15][16]。ヒーローパスは単体でも販売されている。
+また、同日に本作のヒーローエディションを同梱したパソコンである「GALLERIA XT Minecraft Dungeons Hero Edition 同梱版」が株式会社サードウェーブから発売された[17]。
+2020年9月8日にはXbox One版、Nintendo Switch版のパッケージ版が発売された[18]。
+
+ヒーローパスの内容[編集]
+2つの追加コンテンツ(DLC)
+「Jungle Awakens」
+「Creepy Winter」
+2つのプレイヤースキン
+ヒーローマント
+ペットのニワトリ[19]
+DLC[編集]
+ダウンロードコンテンツは有料のものと、無料アップデートで追加されるものがある[20]。
+
+有料コンテンツ[編集]
+第1弾「Jungle Awakens」は2020年7月1日に配信。
+第2弾「Creepy Winter」は2020年9月8日に配信[21]。
+第3弾「Howling Peaks (荒れ狂う頂)は2020年12月9日に配信[22]。
+
+有料DLCは単品販売のほか、第1弾と第2弾は「ヒーローパス」に対応。第3弾以降のDLCは別途「シーズンパス」に対応し、ヒーローパスに収録されない。
+第4弾 「Flames of the Nether (ネザーの炎)」は2021年2月24日に配信[23]。
+
+無料アップデート[編集]
+下記の内容は有料DLCを購入しなくても自動アップデートで追加される[24]。クロスプラットフォームマルチプレイは2020年11月17日に対応した[25]。
+
+シークレットミッション「地下寺院」の追加
+新アイテムの追加
+バランス調整　ソウル系武器とアーティファクトの仕様が変更された。全ての撃破方法でソウルを回収可能になり、ソウル回収能力を持つアイテムを装備せずともソウル系武器・アーティファクトを使用可能になった[20]。
+新たな難易度アポカリプスプラスがリリース予定。
+クロスプレイが実装された。
+2021年2月24日
+
+自動生成ミッション「古代狩り」の実装。
+新武装、古代のモブの追加。
+開発[編集]
+Minecraft Dungeonsは、Mojang StudiosがXbox One（Series X対応）、Windows 10、PlayStation 4、およびNintendo Switch向けにUnreal Engine 4を使用して開発した[26][27][28]。
+オリジナルのMinecraftの継続的な成功に伴い、MojangはMinecraftの世界に新しい何かをもたらす可能性のあるゲームについて考えた[29]。ゲームは元々シングルプレイヤーゲームを想定して作られたNintendo 3DS用だった[30][31]。しかし、ゲームが形になり始めると、要素が変更または削除された[32]。ゲームディレクターのMånsOlsenによると、このゲームは  Torchlight およびLeft 4 Deadのような協力的なゲームに触発されたという。
+開発チームが直面した主な課題の1つは、「ディアブロ」のようなダンジョンクロールゲームのゲームプレイを「マインクラフト」の世界観に適応させる方法を見つけ出すことだった。Minecraftのキャラクターには魔法などの特別な能力がないため、Mojangはcharacter classなどの代替手段を検討する必要があった。彼らの解決策は、エンチャントによってプレイヤーがより強力にすることができる武器と防具に焦点を当てることであり、プレイヤーはカスタマイズを通じて創造性を探求することができるようになった[31][33]。
+さらに、Mojangは、従来のダンジョンクロールゲームエクスペリエンスをより使いやすいものに合理化したいと考えていた[要出典]。Mojangのオルセンは、Minecraft dungeonsに「非常に簡単」でありながら瞬時に合理化したいと述べた[34]。Minecraftの定番であるをクラフト許可しないという決定も、コアダンジョンクロールエクスペリエンスに集中するために行われた[30]。
+
+沿革[編集]
+2018年
+9月28日 - 「MineCon」ライブストリーミングイベントにて『Minecraft Dungeons』を発表[35][36]。
+2019年
+6月10日- ゲームプレイを紹介するビデオがE3 2019中にリリースされた[37]。
+9月14日- 東京ゲームショウ 2019のステージイベントにて4人協力ゲームプレイが披露された[38]。
+2020年
+3月25日 - クローズドベータ版、4月24日までの1か月間実施された[39][40][41]。
+5月26日 - 『Minecraft Dungeons』の発売[42][43]。
+7月1日 - DLC『Jungle Awakens』の配信開始。
+9月8日 - DLC『Creepy Winter』の配信開始。
+9月8日 - Nintendo Switch版、Xbox One版のパッケージ版発売。
+評価[編集]
+評価集計結果媒体結果Metacritic（PC）70/100 [44] （NS）72/100 [45]
+(XONE）75/100 [46]レビュー結果媒体結果デストラクトイド8/10 [47]EurogamerN / A [48]ゲーム・インフォーマー7/10 [49]GameSpot7/10[50]GamesRadar+3.5/5[4]IGN7/10[51]
+この節の加筆が望まれています。 （2020年6月）
+review aggregator Metacriticの評論家によると、Minecraft dungeonsはゲームが楽しくて魅力的[4][44][46][50][51][53]であり、そのビジュアルを補完するシンプルさ[51][54]、および戦利品とダンジョンのレイアウトの生成システムに対して好意的なレビューを受けた[5][48]。多くの人がゲームを楽しく魅力的であるとみなし、そのビジュアルと音楽に向けられた賞賛があった[5][48]。しかし、その短編的で深くないストーリーは批判された[55]。
+
+
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+
+^ ローカルマルチプレイだと複数のコントローラーが必要
+
+^ COVID-19によるパンデミックのため
+
+
+出典[編集]
+
+
+^ “ダンジョンアクションアドベンチャー「Minecraft Dungeons」の累計プレイヤーが1,000万人を突破”.   doope!. 2021年4月20日閲覧。
+
+^ a b “「Minecraft」の世界観で「Diablo」風ハクスラが楽しめる「Minecraft Dungeon」”.   GAME Watch. 2020年7月18日閲覧。
+
+^ “多彩なダンジョンを駆け巡る「Minecraft Dungeons」が多数のプラットフォームに対応！”.   GAME Watch. 2020年7月11日閲覧。
+
+^ a b c “Minecraft Dungeons review: "A more approachable entry point for the hack and slash genre"”. GamesRadar+ (2020年5月22日). 2020年5月25日閲覧。
+
+^ a b c May 2020, Alex Avard 22. “Minecraft Dungeons review: "A more approachable entry point for the hack and slash genre"” (英語). gamesradar. 2020年6月7日閲覧。
+
+^ “「Minecraft Dungeons」メールインタビュー。マイクラの世界を舞台にしたスピンオフは何を目指しているのか”.   4Gamer.net. 2020年7月5日閲覧。
+
+^  Marks, Tom (2019年6月9日). “Minecraft Dungeonsリリースウィンドウの発表-E3 2019” (英語). IGN. 2019年6月10日閲覧。 
+
+^ “'Minecraft Dungeons' is a blocky, smash-and-slash adventure” (英語). Engadget. 2019年6月11日閲覧。
+
+^ “Minecraft dungeonsのマルチプレイのやり方”. 2020年6月7日閲覧。
+
+^ Marks, Tom (2019年6月9日). “Minecraft Dungeons Release Window Announced - E3 2019” (英語). IGN. 2019年6月10日閲覧。
+
+^ “Windows 版 Minecraft Dungeons” (日本語). Minecraft.net (2020年5月22日). 2020年6月7日閲覧。
+
+^ “【マイクラダンジョン】シークレットミッション一覧【マインクラフトダンジョンズ】 - アルテマ” (日本語). @AltemaGame. 2020年6月7日閲覧。
+
+^  “Minecraftダンジョンズは5月まで遅延”. PC Gamer. 2020年3月31日閲覧。 
+
+^  Beckhelling, Imogen (2020年4月1日). “Minecraft Dungeonsは、パンデミックのため、予定より少し遅れて公開されます”. Rock Paper Shotgun (Gamer Network). https://www.rockpapershotgun.com/2020/04/01/minecraft-dungeons-is-coming-out-a-little-later-than-planned-due-to-the-pandemic/ 
+
+^ “【マイクラダンジョン】通常版とヒーローエディションの違い【マインクラフトダンジョンズ】 - アルテマ” (日本語). @AltemaGame. 2020年6月11日閲覧。
+
+^  Holt, Kris (31 2020年3月). “'Minecraft Dungeons'は5月26日まで延期されます”. 3 2020年4月閲覧。 
+
+^ “GALLERIA，「Minecraft Dungeons」とDLC同梱のゲームPCを発売”.   4Gamer.net. 2021年4月21日閲覧。
+
+^ “「Minecraft Dungeons」，凍てつく山が舞台のDLC「忍び寄る冬」は9月8日リリースへ。同日の無料アップデート，パッケージ版リリースも発表”.   4Gamer.net. 2020年9月20日閲覧。
+
+^ “PS4/Switch/Xbox One/PC用「Minecraft Dungeons」本日発売”.   Game Watch. 2020年7月18日閲覧。
+
+^ a b “Minecraft Dungeons Patch Notes” (英語). Home. 2020年7月7日閲覧。
+
+^ “Minecraft Dungeons ：アップデートのお知らせ” (日本語). Minecraft.net (2020年6月15日). 2020年7月15日閲覧。
+
+^ “新 DLC 「HOWLING PEAKS (荒れ狂う頂)」とシーズン パスが MINECRAFT DUNGEONS にやってくる”.   MINECRAFT. 2021年1月23日閲覧。
+
+^ “「Minecraft Dungeons」の第4弾DLC“ネザーの炎”と大型無料アップデートが遂に配信、ローンチトレーラーも”.   doope!. 2021年4月20日閲覧。
+
+^ “『マインクラフト ダンジョンズ』アップデート1.3.2.0では、ソウル系アーティファクトを中心にバランス調整。パッチノート公開”.   AUTOMATON. 2020年7月5日閲覧。
+
+^ “「Minecraft: Dungeons」，11月17日予定のアップデートで，ついにクロスプラットフォームプレイに対応”.   4gamer.net. 2021年1月23日閲覧。
+
+^  Kain, Erik. “'Minecraft Dungeons'は 'Minecraft'ユニバースの新しいアクションRPGセットです” (英語). Forbes. 2019年6月10日閲覧。 
+
+^  “Minecraft： DungeonsはUnreal Engineで作成されています” (英語). PCGamesN. June 11、2019閲覧。 
+
+^  “Announcement：Minecraft Dungeons”.  Double Eleven (2019年9月17日). 2019年9月18日閲覧。 
+
+^  Williams, Mike (2020年5月5日). “Minecraftダンジョンの内部、ゼルダ風の3DSゲームから親しみやすいダンジョンクローラーまで” (英語). USgamer. 2020年6月2日閲覧。 
+
+^ a b 経験豊富なプレーヤーに挑戦を与えるために、チームはゲームの難易度を変更するオプションを追加しました。これにより、より困難な状況でプレーするための優れた装備と新しい秘密のコンテンツがプレーヤーに報酬される。
+
+^ a b  Beckhelling, Imogen (2019年10月28日). “Minecraftダンジョンズはニンテンドー3DSゲームとしてスタートしました” (英語). Eurogamer. 2020年6月2日閲覧。 
+
+^  O'Connor, James (2020年5月5日). “/ 1100-6476907 / Minecraft DungeonsはもともとDiabloよりもZeldaに似ていました” (英語). GameSpot. 2020年6月2日閲覧。 
+
+^  Roxburgh, Ewan (2020年5月5日). “Minecraftを新しいジャンルに取り込む：MinecraftダンジョンのMånsOlsonとDaniel Bjorkeforsへのインタビュー” (英語). プレススタート. 2020年6月2日閲覧。 
+
+^  Talbot, Carrie (2019年11月18日). “ダンジョンクローラーは「トリッキー」である可能性がありますが、Minecraftダンジョンに入るのは「非常に簡単」” (英語). PCGamesN. 2020年6月2日閲覧。 
+
+^  Gilbert, Ben (2018-09 -29). “オリジナル以来初めて、新しい「Minecraft」ゲームが開発中であり、2019年に登場”. Business Insider. 2020年6月2日閲覧。 
+
+^  Campbell, Colin (2018年9月29日). “MojangがMinecraftを発表：Dungeons” (英語). Polygon. 2020年6月2日閲覧。 
+
+^  Grubb, Jeff (2019年6月9日). “Minecraft：ダンジョンズゲームプレイがE3 2019でデビュー” (英語). VentureBeat. 2020年6月2日閲覧。 
+
+^ “「ヒカキンビーーム!!」　HIKAKINさんの新必殺技も飛び出した「Minecraft Dungeons」お披露目イベント”.   GAMEWatch. 2020年7月18日閲覧。
+
+^  “Minecraft Dungeons FAQ”. Minecraft Help.   Mojang. 2020年4月24日閲覧。 “クローズドベータ版は次から実行されます3月25日〜4月24日午前11時CEST（午前2時）。” 
+
+^  “Minecraft Dungeons Betaのプレイ方法”. Windows Central (2020年4月3日). 2020年5月28日閲覧。 
+
+^  Lee, Helen A. (2020年5月18日). “MinecraftダンジョンをプレイするにはMinecraftを所有する必要がありますか？” (英語). Looper.com. 2020年5月28日閲覧。 
+
+^ “PS4/Switch/Xbox One/PC用「Minecraft Dungeons」本日発売”.   GAME Watch. 2020年7月11日閲覧。
+
+^ “「Minecraft Dungeons」の配信が本日開始。ローンチトレイラーも公開”.   4Gamer.net. 2020年7月18日閲覧。
+
+^ a b  “Minecraft Dungeons for PC Reviews”. Metacritic. 2020年5月25日閲覧。 
+
+^  Minecraft Dungeons for Switch 
+
+^ a b  “Minecraft Dungeons for Xbox One Reviews”. Metacritic. 2020年5月25日閲覧。 
+
+^  Carter, Chris (2020年5月24日). “Review：Minecraft Dungeons”. Destructoid. 2020年5月25日閲覧。 
+
+^ a b c  Phillips, Tom (2020年5月27日). thats-just-deep-enough “Minecraftダンジョンのレビュー：十分に深いディアブロのようなもの”. Eurogamer. https://www.eurogamer.net/articles/2020-05-26-minecraft-dungeons-review-a-diablo-like- thats-just-deep-enough 2020年5月29日閲覧。  
+
+^  “レビュー-Minecraftダンジョンズ”. Game Informer. (2020年5月26日). https://www.gameinformer.com/minecraft-dungeons-review-familiarity-needs-content 2020年5月29日閲覧。  
+
+^ a b Watts, Steve (2020年5月28日). “Minecraft Dungeons Review - A Cuter Looter”. GameSpot (CBS Interactive). https://www.gamespot.com/reviews/minecraft-dungeons-review-a-cuter-looter/1900-6417469 2020年5月29日閲覧。 
+
+^ a b c “Minecraft Dungeons Review - IGN”. IGN (2020年5月23日). 2020年5月25日閲覧。
+
+^ “Minecraft Dungeons review: Foundation for adventure”. Shacknews. 2020年5月25日閲覧。
+
+^ a b Stuart, Keith (2020年5月26日). “Minecraft Dungeons review – hours of fun for locked-down families”. The Guardian. https://www.theguardian.com/games/2020/may/26/minecraft-dungeons-review-hours-of-fun-for-locked-down-families 2020年5月29日閲覧。 
+
+^  Corliss, Cameron (2020年5月24日). “Minecraft Dungeons Review”. Game Rant. 2020年5月25日閲覧。 
+
+^ “Minecraft Dungeons E3 2019 preview: Creative sidestep” (英語). Shacknews. 2019年6月11日閲覧。
+
+
+関連項目[編集]
+Minecraft-本作品のスピンオフ元
+Mojang-開発元
+ハックアンドスラッシュ
+ディアブロ (ゲーム)
+外部リンク[編集]
+日本語版公式サイト
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Minecraft_Dungeons&oldid=83617180」から取得
+カテゴリ: 2020年のコンピュータゲームMinecraftゲームのスピンオフ作品アクションアドベンチャーゲームマイクロソフトのゲームソフトスウェーデンで開発されたコンピュータゲームUnreal Engineを採用したゲームソフトNintendo Switch用ソフトPlayStation 4用ソフトXbox One用ソフトXbox Series X/S用ソフトWindows用ゲームソフト隠しカテゴリ: 出典を必要とする記事/2020年6月出典を必要とする記述のある記事/2020年6月書きかけの節のある項目
+

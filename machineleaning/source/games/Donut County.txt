@@ -1,0 +1,251 @@
+
+
+
+
+
+Donut County
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Donut County対応機種
+PC（Widows, MacOS）iOSPlayStation 4Nintendo SwitchXbox One発売元
+アンナプルナ・インタラクティブデザイナー
+Ben Espositoシナリオ
+Geneva Hodgson音楽
+Dan KoestnerBen Esposito人数
+1人発売日
+PC, iOS2018年8月28日PS4 2018年8月28日 2018年12月18日Switch 2018年12月18日XBOne 2018年12月18日対象年齢
+CERO：A（全年齢対象）ESRB：E（6歳以上）PEGI：3USK：6（6歳未満提供禁止）コンテンツアイコン
+ESRB：Comic Mischief, Mild Fantasy ViolenceUSK：Abstrakte Gewaltエンジン
+Unityテンプレートを表示
+『Donut County』（ドーナツ カウンティ）は、アメリカのゲームクリエイターBen Espositoが開発しアンナプルナ・インタラクティブより発売されたゲームソフト。
+
+目次
+
+1 概要
+2 開発
+3 受賞・ノミネート
+4 脚注
+5 外部リンク
+
+
+概要[編集]
+擬人化された動物たちが暮らす街「Donut County」の様々なものが地上の穴に落とされてしまう騒動が描かれる作品。街を乗っ取り穴を操作してゴミを漁ろうとするアライグマたちの一人・BKは後に自らも穴に落ち999フィートの地下に閉じ込められるが、同じく落下した人間の友人Miraや他の住民たちから追及を受け、どうすれば全員が地上へ脱出できるかを模索することになる。
+プレイヤーはBKが遠隔操作する穴となり各ステージを攻略していく。穴は物を落とすごとに直径が広がっていき、より大きなものを落とせるようになる。また、一部ステージでは、穴から物を発射したり穴に液体を溜めたりする機能などを用いてパズル的な仕掛けを解く要素もある。
+
+開発[編集]
+本作開発者のBen EspositoはGiant Sparrow（英語版）開発のゲームソフト『The Unfinished Swan（英語版）』『フィンチ家の奇妙な屋敷でおきたこと』に携わっているが、本作はそれらの空き時間を利用してほぼ一人で開発が進められた[1][2]。開発にあたっては、2013年にインディーゲーム開発者支援機構「Indie Fund（英語版）」より資金提供を受けている[3]。
+本作のアイデアは、ゲームクリエイターのピーター・モリニューの名前をパロディ化し様々なゲームシステムのアイデアが投稿されているTwitterアカウント「Peter Molydeux（英語版）」が着想の元となっている。2012年1月5日付の同アカウントには以下の文章が投稿されている。
+
+You play a hole, you must move around an environment making certain elements fall into correct targets at the right time.[4]（あなたは穴となり、特定の要素がタイミングよく正しいターゲットに落ちるように環境内を移動しなければならない。）
+この内容を踏まえ、Espositoは同年開催のゲームジャム「Molyjam」でプロトタイプのソフト『The Pits』を開発した[2][5]。
+開発当初は『Kachina』というタイトルが用いられていた。Kachina（カチナ）とは、アメリカインディアンのホピ族が信仰の対象とする超自然的な存在のことである。Espositoはホピ族が作成した人型の彫刻（カチナドール）を好んでおり、このスタイルをゲームに取り入れたいと考えたことが由来となっている。当時の開発画面には、一部のアメリカインディアンが用いる移動用住居のティピーや彫刻のトーテムポールが描写されており、公式サイトには「ホピの民話からの描画」との記述もなされた。すると、アメリカインディアンの文化を扱う教育サイト「American Indians In Children's Literature」の執筆者が本作に目を通し、Espositoに対して、ティピーやトーテムポールはホピの人々と何の関係もなく、先住民の宗教的伝統を民話と呼ぶことは軽蔑的だとして問題視する文章を投稿した。これを受けEspositoはホピ族について調べたものの行き詰まりを感じたため周囲に助けを求めたところ、先住民の文化に詳しいある教授を介してホピ族の人々と対話する機会を得た。そして、これを機にEspositoは方針を転換し、それまでの素材を扱わないことを決めた[6][7]。
+
+受賞・ノミネート[編集]
+
+
+年
+賞
+部門
+結果
+出典
+
+
+2015
+
+IGF（英語版） Awards
+
+Excellence in Visual Art
+
+ノミネート
+
+[8]
+
+
+2017
+
+Game Critics Awards（英語版）
+
+Best Independent Game
+
+ノミネート
+
+[9]
+
+
+2018
+
+Golden Joystick Awards
+
+Mobile Game of the Year
+
+ノミネート
+
+[10]
+
+
+The Game Awards 2018（英語版）
+
+Best Mobile Game
+
+ノミネート
+
+[11]
+
+
+Best Debut Indie Game
+
+ノミネート
+
+
+Gamers' Choice Awards（英語版）
+
+Fan Favorite Indie Game
+
+ノミネート
+
+[12]
+
+
+2019
+
+New York Game Awards
+
+Off Broadway Award for Best Indie Game
+
+ノミネート
+
+[13]
+
+
+Guild of Music Supervisors Awards（英語版）
+
+Best Music Supervision in a Video Game
+
+ノミネート
+
+[14]
+
+
+22nd Annual D.I.C.E. Awards（英語版）
+
+Portable Game of the Year
+
+ノミネート
+
+[15]
+
+
+SXSW Gaming Awards
+
+Excellence in Design
+
+ノミネート
+
+[16]
+
+
+Mobile Game of the Year
+
+受賞
+
+
+Game Developers Choice Awards
+
+Best Mobile Game
+
+ノミネート
+
+[17]
+
+
+第15回英国アカデミー賞ゲーム部門（英語版）
+
+Debut Game
+
+ノミネート
+
+[18]
+
+
+Mobile Game
+
+ノミネート
+
+
+Italian Video Game Awards
+
+Best Mobile Game
+
+ノミネート
+
+[19]
+
+
+2019 Webby Awards（英語版）
+
+Best Game Design
+
+ノミネート
+
+[20]
+
+脚注[編集]
+[脚注の使い方]
+
+
+^ “IndieCade selection Kachina has shades of Katamari Damacy and one intriguing hole” (英語).   Polygon (2012年10月8日). 2020年3月4日閲覧。
+
+^ a b “Interview - Ben Esposito, Creator of Donut County on Raccoons, Holes & Peter Molydeux” (英語).   PlayStation Universe (2018年11月30日). 2020年3月4日閲覧。
+
+^ “Donut County Interview - Ben Esposito Talks the Trials of Working Alone and Fighting Against Clones” (英語).   DualShockers (2018年9月26日). 2020年3月4日閲覧。
+
+^ “Peter Molydeux Twitterアカウント” (2012年1月5日). 2020年3月4日閲覧。
+
+^ “Donut County is like a reverse Katamari inspired by Bruce Springsteen and fake Peter Molyneux” (英語) (2014年8月11日). 2020年3月4日閲覧。
+
+^ John Walker (2015年3月4日). “Hopi-less: How Kachina Became Donut County” (英語).   Rock Paper Shotgun. 2020年3月4日閲覧。
+
+^ “Ben Esposito's "Kachina"” (英語).   American Indians in Children's Literature (AICL) (2012年10月14日). 2020年3月4日閲覧。
+
+^ “インディーならではの作品ばかり！ 第17回IGF Awards受賞作品リスト”.   Game*Spark (2015年3月5日). 2020年3月4日閲覧。
+
+^ “Game Critics Awards: Best of E3 2017” (英語).   Game Critics Awards. 2020年3月4日閲覧。
+
+^ “『フォートナイト』がGOTY！「2018 Golden Joystick Awards」受賞作品リスト―生涯功労賞は宮崎英高氏”.   Game*Spark (2018年11月17日). 2020年3月4日閲覧。
+
+^ ““The Game Awards 2018”全アワードの受賞作品を紹介、日本からは『モンスターハンター：ワールド』や『ASTRO BOT』が受賞【The Game Awards 2018】”.   ファミ通.com (2018年12月7日). 2020年3月4日閲覧。
+
+^ “2018 Gamers’ Choice Awards Nominees” (英語).   File 770 (2018年11月19日). 2020年3月4日閲覧。
+
+^ “2018 New York Game Awards Nominees Revealed” (英語).   Screen Rant (2019年1月3日). 2020年3月4日閲覧。
+
+^ “2019 Guild of Music Supervisors Awards: Complete Winners List” (英語).   Hollywood Reporter (2019年2月13日). 2020年3月4日閲覧。
+
+^ “「God of War」が第22回“DICE Awards”のGOTYを含む9部門を制覇、“Celeste”の2冠を含む部門別受賞作品まとめ”.   doope! (2019年2月14日). 2020年3月4日閲覧。
+
+^ “GOTYは『ゴッド・オブ・ウォー』に！「2019 SXSW Gaming Awards」受賞作品リスト”.   Game*Spark (2019年3月18日). 2020年3月4日閲覧。
+
+^ “GDCアワードのGOTYは『ゴッド・オブ・ウォー』！ 日本からは『Nintendo Labo』が革新賞、セガの小玉理恵子氏がパイオニア賞を受賞【GDC 2019】”.   ファミ通.com (2019年3月21日). 2020年3月4日閲覧。
+
+^ “2019年英国アカデミー賞ゲーム部門のノミネート作品が発表！”.   Game*Spark (2019年3月15日). 2020年3月4日閲覧。
+
+^ “Italian Video Game Awards” (英語). 2020年1月1日時点のオリジナルよりアーカイブ。2020年3月4日閲覧。
+
+^ “Best Game Design 2019” (英語).   The Webby Awards. 2020年3月4日閲覧。
+
+
+外部リンク[編集]
+公式サイト（英語）
+Donut County (@donutcounty) - Twitter
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Donut_County&oldid=83653072」から取得
+カテゴリ: 2018年のコンピュータゲームWindows用ゲームソフトMacOSのソフトウェアIPhone用ゲームソフトPlayStation 4用ソフトNintendo Switch用ソフトXbox One用ソフトアメリカで開発されたコンピュータゲームアンナプルナ・インタラクティブのゲームソフトUnityを採用したゲームソフトインディーゲーム
+

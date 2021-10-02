@@ -1,0 +1,180 @@
+
+
+
+
+
+GRIS
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+GRISジャンル
+アクションパズル対応機種
+Nintendo SwitchSteam（Windows, MacOS）iOS（10.0以降）[1]PlayStation 4Android開発元
+Nomada Studio発売元
+Devolver Digitalプロデューサー
+Roger Mendozaディレクター
+Conrad RosetAdrián Cuevas音楽
+Berlinist美術
+Conrad Roset人数
+1人発売日
+Switch, Steam2018年12月13日[2][3][4][5]iOS2019年8月22日[6]PS4 2019年11月26日[7] 2019年11月28日[8] 2019年12月12日[9]Android2020年4月1日[10][注 1]対象年齢
+CERO：A（全年齢対象）[2][9]ESRB：E（6歳以上）[3][7]PEGI[Switch] 7[4][PS4] 3[8]USK[Switch] 6（6歳未満提供禁止）[11][PS4] 0[12]iOS：4+[1]Android：7+[13]コンテンツアイコン
+Android：恐怖を引き起こすコンテンツ[13]エンジン
+Unity売上本数
+100万本（2020年4月時点）[14]テンプレートを表示
+『GRIS』は、スペインのインディーゲームスタジオNomada Studioが開発しDevolver Digitalより発売されたアクションパズルゲーム。
+
+目次
+
+1 概要
+2 システム
+3 受賞・ノミネート
+4 脚注
+
+4.1 注釈
+4.2 出典
+
+
+
+
+概要[編集]
+人生に傷つき深い悲しみにとらわれた末に精神世界へ迷い込んだ女性Grisの物語。色彩が失われた世界の中でGrisは様々な能力を身につけ、謎解き要素のある経路を進む。旅を続けるにつれ世界は次第に色づいていくが、やがて、Grisの前に内なる敵が現れ行く手を阻まれることになる。
+ゲーム内のグラフィックにはイラストレーターのConrad Rosetによるデジタルの手描きイラストが用いられ、それらが滑らかなアニメーションとして表現されている。こうした要素が評価され、後述のように数々のゲーム賞等においてアートやアニメーションの部門で受賞・ノミネートを果たしている。
+本作の題名や主人公名の「Gris」はスペイン語で灰色を意味する。これは、白黒の状態からゲームが始まることに加え、主人公Grisの内面も表している。本作ディレクターの1人Adrián Cuevasは「似たような状況にある人々にGrisの感情や克服の過程を見てもらい、最後にGrisと同じように感じることを願っている」との旨を述べている[15]。
+
+システム[編集]
+本作のゲーム画面はサイドビューで表現される。基本的なアクションとしてジャンプを行い、ゲームの進行によって、岩のようになり脆い地形を破壊する能力、空中で2段ジャンプをする能力、水中を高速で泳ぐ能力、歌を歌いつぼみを開花させる能力を身につける。また、Grisに仲間が同行する場面もあり、力を合わせて謎解きを行うことになる。なお、一般のアクションゲームで用いられるライフやゲームオーバーの概念は本作にはない。
+特定のエリアでは、周囲に点在する光を全て集めることで寸断された道が開ける。また、ゲームクリアには関係しないが、通常の光よりも取りづらい箇所に大きい光が配置されている。
+2019年3月8日配信の無料アップデート「GRIS Undone」により、制作時のコンセプトアートやゲーム未使用曲を鑑賞できるモードが追加された[16]。
+
+受賞・ノミネート[編集]
+
+The 8th Annual New York Game Awards[17]
+Off Broadway Award for Best Indie Game ノミネート
+第46回アニー賞（英語版）[18]
+Character Animation in a Video Game 受賞
+22nd Annual D.I.C.E. Awards[19]
+Outstanding Achievement in Animation ノミネート
+Outstanding Achievement in Art Direction ノミネート
+National Academy of Video Game Trade Reviewers（英語版） Awards 2018[20]
+Art Direction, Contemporary 受賞
+Animation, Artistic ノミネート
+Original Light Mix Score, New IP ノミネート
+2019 SXSW Gaming Awards[21]
+Excellence in Art ノミネート
+Excellence in Visual Achievement ノミネート
+Excellence in Musical Score ノミネート
+Most Promising New Intellectual Property ノミネート
+2019 Game Developers Choice Awards[22]
+Best Visual Art 受賞
+Best Debut ノミネート（Nomada Studioとしてのノミネート）
+15th British Academy Games Awards（英語版）[23]
+Artistic Achievement ノミネート
+Debut Game ノミネート
+Music ノミネート
+Italian Video Game Awards 2019[24]
+Best Indie Game 受賞
+2019 Webby Awards（英語版）[25]
+Best Visual Design 受賞
+2019 Games for Change（英語版） Awards[26]
+Best Gameplay 受賞
+BIG Festival Awards 2019[27]
+Best Game 受賞
+Best Art 受賞
+Golden Joystick Awards 2019[28]
+Best Visual Design ノミネート
+Titanium Awards 2019[29][30]
+Best Art 受賞
+Best Spanish Development ノミネート
+The Game Awards 2019（英語版）[31][32]
+Best Art Direction ノミネート
+Games for Impact 受賞
+Fresh Indie Game Presented by Subway ノミネート（Nomada Studioとしてのノミネート）
+
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+
+
+^ 日本時間では4月2日。
+
+
+出典[編集]
+
+
+^ a b “GRIS”.   App Store. 2019年9月21日閲覧。
+
+^ a b “GRIS”.   任天堂. 2019年4月3日閲覧。
+
+^ a b “GRIS for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2019年4月3日閲覧。
+
+^ a b “GRIS｜Nintendo Switch download software｜Games” (英語).   Nintendo UK. 2019年4月3日閲覧。
+
+^ “GRIS”.   Steam. 2019年4月3日閲覧。
+
+^ “名作インディーADV『GRIS』iPhone/iPad版が8月22日配信、日本語にも対応”.   Game*Spark (2019年8月11日). 2019年9月21日閲覧。
+
+^ a b “GRIS”.   Official PlayStation Store US. 2019年12月15日閲覧。
+
+^ a b “GRIS”.   Official PlayStation Store UK. 2019年12月15日閲覧。
+
+^ a b “GRIS”.   プレイステーション. 2019年12月15日閲覧。
+
+^ “「GRIS」のAndroid版が配信開始。色鮮やかなアートが目を引くアクションアドベンチャーゲーム”.   4Gamer.net (2020年4月2日). 2020年7月4日閲覧。
+
+^ “GRIS｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2019年4月3日閲覧。
+
+^ “GRIS”.   Official PlayStation Store Deutschland. 2019年12月15日閲覧。
+
+^ a b “GRIS”.   Google Play. 2020年7月4日閲覧。
+
+^ “Beautiful sadcore platformer Gris has sold over a million copies” (英語).   PC Gamer (2020年4月20日). 2020年7月4日閲覧。
+
+^ “What does GRIS mean? We talk to Nomada Studio” (英語).   Gamereactor (2018年12月4日). 2019年4月3日閲覧。
+
+^ “美麗なインディーアクション『GRIS』30万本突破を記念し、コンセプトアートや未使用曲などのギャラリーを追加するアップデートが配信”.   ファミ通.com (2019年3月8日). 2019年4月3日閲覧。
+
+^ “NY Game Awards ’19! Full List Of Nominees!” (英語).   The New York Videogame Critics Circle. 2019年4月3日閲覧。
+
+^ “2019 Annie Award Winners: Complete List” (英語).   Hollywood Reporter (2019年2月2日). 2019年4月3日閲覧。
+
+^ “『ゴッド・オブ・ウォー』がGOTY含む9部門で受賞！ 第22回「D.I.C.E. Awards」受賞作品リスト”.   Game*Spark (2019年2月14日). 2019年4月3日閲覧。
+
+^ “Winner List for 2018: God of War Breaks Record” (英語).   National Academy of Video Game Trade Reviewers Corporation (2019年3月13日). 2019年4月3日閲覧。
+
+^ “Complete list of nominees for the 2019 SXSW Gaming Awards” (英語) (2019年2月11日). 2019年4月3日閲覧。
+
+^ “GDCアワードのGOTYは『ゴッド・オブ・ウォー』！ 日本からは『Nintendo Labo』が革新賞、セガの小玉理恵子氏がパイオニア賞を受賞【GDC 2019】”.   ファミ通.com (2019年3月21日). 2019年4月3日閲覧。
+
+^ “2019年英国アカデミー賞ゲーム部門のノミネート作品が発表！”.   Game*Spark (2019年3月15日). 2019年4月3日閲覧。
+
+^ “Red Dead Redemption 2 named Game of the Year at Italian Video Game Awards” (英語).   GamesIndustry.biz (2019年4月12日). 2019年9月21日閲覧。
+
+^ “Here are all the winners of the 2019 Webby Awards” (英語).   The Verge (2019年4月23日). 2019年9月21日閲覧。
+
+^ “Festival Awards” (英語).   Games for Change. 2019年7月14日時点のオリジナルよりアーカイブ。2019年9月21日閲覧。
+
+^ “BIG Festival Awards 2019 winners revealed” (英語).   Pocket Gamer.biz (2019年6月29日). 2019年9月21日閲覧。
+
+^ “『バイオハザード RE:2』がGOTY！「Golden Joystick Awards 2019」受賞作品リスト ― 生涯功労賞は鈴木裕氏”.   Game*Spark (2019年11月16日). 2019年12月31日閲覧。
+
+^ “Titanium Awards” (英語).   Fun & Serious Game Festival 2019. 2019年11月21日時点のオリジナルよりアーカイブ。2019年12月15日閲覧。
+
+^ “Ganadores de los premios Titanium del Fun & Serious 2019” (スペイン語) (2019年12月10日). 2019年12月15日閲覧。
+
+^ ““The Game Awards 2019”のノミネート作が発表。Game of The Yearには『デス・ストランディング』や『スマブラSP』、『バイオ RE2』、『SEKIRO』などがノミネート”.   ファミ通.com (2019年11月20日). 2019年12月15日閲覧。
+
+^ “「SEKIRO: SHADOWS DIE TWICE」が，The Game Awards 2019「Game of the Year」を受賞”.   4Gamer.net (2019年12月13日). 2019年12月15日閲覧。
+
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=GRIS&oldid=83652705」から取得
+カテゴリ: 2018年のコンピュータゲームNintendo Switch用ソフトWindows用ゲームソフトMacOSのソフトウェアIPhone用ゲームソフトIPad用ゲームソフトPlayStation 4用ソフトAndroid用ゲームソフトスペインで開発されたコンピュータゲームDevolver DigitalのゲームソフトアクションパズルUnityを採用したゲームソフトアニー賞受賞作品インディーゲーム
+

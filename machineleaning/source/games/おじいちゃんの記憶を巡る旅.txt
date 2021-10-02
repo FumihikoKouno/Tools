@@ -1,0 +1,133 @@
+
+
+
+
+
+おじいちゃんの記憶を巡る旅
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+おじいちゃんの記憶を巡る旅Old Man's Journeyジャンル
+パズルゲーム対応機種
+iOSAndroidPC（Steam, itch.io, Humble Bundle）Nintendo SwitchPlayStation 4Xbox One開発元
+Broken Rules発売元
+Broken RulesTilt Games（アジア圏のiOS, Android版）音楽
+scntfc（英語版）人数
+1人メディア
+ダウンロード販売発売日
+iOS, Android, PC2017年5月18日[1]Switch 2018年2月20日[1] 2018年2月22日[1]PS4 2018年5月29日[1] 2018年6月6日[2]XBOne 2019年3月4日[1]対象年齢
+iOS：4+[3]Android：3+[4]CERO：A（全年齢対象）[5]ESRB：E（6歳以上）[6]PEGI：3[7]USK：0[8]ACB：PG[9]コンテンツアイコン
+ESRB：Alcohol and Tobacco ReferenceACB：Mild Themesテンプレートを表示
+『おじいちゃんの記憶を巡る旅』（おじいちゃんのきおくをめぐるたび、原題: Old Man's Journey）は、オーストリアのゲームソフト開発会社Broken Rulesが開発したパズルゲーム。
+
+目次
+
+1 概要
+2 開発
+3 受賞・ノミネート
+4 脚注
+5 外部リンク
+
+
+概要[編集]
+本作の物語は、一人暮らしの老爺を主人公として展開される。自分宛の手紙を受け取った主人公は手紙の差出人の元を訪れるため旅に出るが、その道中で目にする様々な光景によりかつて共に過ごしていた家族との記憶を思い起こし、懐旧と後悔の念を抱くことになる。作中では台詞や説明文が一切無く、物語の流れは主人公たちの仕草や要所で流れる回想シーンによって表現される。こうしたシーンを含む本作のグラフィックは全編にわたり絵本のようなタッチで描かれている。
+ゲーム画面は横視点で表示され、任意の地表をタップすることで主人公がその場所まで移動するが、多くの場合、道の寸断や障害物の存在などによりそのままでは進めない。この時、地形をドラッグして隆起または沈降させ各地形の輪郭同士を繋ぐことで進路を生成できる。ただし、主人公がいる地形は動かせない。ステージによっては、坂道を勢いよく転がり障害物を破壊する車輪や、草地の間を移動し進路を妨げる羊の群れなどの仕掛けもある。また、特定の箇所でタップやドラッグを行うことで物語が進行する場面があるほか、進行と関係ない箇所の一部でも反応が返ってくる。
+
+開発[編集]
+本作の開発は、Broken RulesのCEOであるフェリックス・ボハチュ（Felix Bohatsch）が所有していた写真がきっかけとなった。Broken Rulesがタッチデバイス向けソフトの企画を模索していた時期のある日、ボハチュが友人の写っている写真を眺めていたところ、ふと、その背景にある丘陵地帯を指で動かしたいという衝動が湧き、この中にキャラクターを置いて放浪の旅をさせるというアイデアが浮かんだ。また、ボハチュを含むBroken Rulesの社員のそれぞれが当時、仕事と家庭の両立の問題に直面していた事情から、放浪の旅と家族のエピソードを結びつけることが決まった[10]。
+本作の開発にあたり、インディーゲーム開発の資金援助組織「Indie Fund（英語版）」とウィーンの経済振興機関「ウィーン・ビジネス・エージェンシー（Vienna Business Agency）」の支援を受けている[10]。
+前述のように本作は絵本のような絵柄を特徴としている。ボハチュはこの発想の元について、欧州各国の絵はがきや観光地の写真のほか、アイルランドのアニメーション映画『ソング・オブ・ザ・シー 海のうた』、画家・イラストレーターのアイヴァンド・アール、Elle Michalka、井筒啓之、Szymon Biernacki、スコット・ウィルズの作品群から影響を受けたと語っている。また、ゲームソフトでは『モニュメントバレー（英語版）』『ブラザーズ : 2人の息子の物語』『Sword & Sworcery（英語版）』『Icycle: On Thin Ice』『Year Walk（英語版）』『Flowery』『風ノ旅ビト』の名前を挙げている[10]。
+
+受賞・ノミネート[編集]
+
+IndieCade（英語版） Europe 2016 「Media Choice Award」受賞[11]
+2017 Apple Design Awards（英語版） 受賞（他作品と共同）[3]
+App Store Games of the Year - Best of 2017 受賞（他作品と共同）[12]
+BIG Festival 2017 「Melhor Arte（Best Art Award）」受賞、「Prêmio Inovação（Innovation Award）」ノミネート[13]
+センス・オブ・ワンダーナイト2017 「Best Arts Award」受賞[14]
+BIC Awards 2017 「Excellence in Art」受賞[15]、「Grand Prix」「Excellence in Audio」「Excellence in Narrative」ノミネート[16][17][18]
+Golden Joystick Awards 2017 「Handheld/Mobile Game of the Year」ノミネート[19]
+Independent Games Festival（英語版） 2017 「Excellence in Visual Art」ノミネート[20]
+The Game Awards 2017（英語版） 「Best Mobile Game」ノミネート[21]
+Bolognaragazzi Digital Award 2018 フィクション部門受賞[22]
+2018 Taipei Game Show 「Grand Prix」「Best Visual Art」受賞[23]
+Google Play Indie Games Contest 2017 ノミネート[24]
+Italian Video Game Awards 2018 「Best Mobile Game」ノミネート[25]
+14th International Mobile Gaming Awards（英語版） 「Game Artist of 2017」受賞[26]
+2018 Google Play Awards 「Standout Indie」部門受賞[27]
+第45回 日本賞 「クリエイティブ・フロンティアカテゴリー優秀賞」受賞[28]
+
+脚注[編集]
+[脚注の使い方]
+
+
+^ a b c d e “Old Man's Journey Presskit” (英語).   Broken Rules. 2018年2月27日閲覧。
+
+^ “ゲームソフト｜おじいちゃんの記憶を巡る旅”.   PlayStation.com. 2018年6月17日閲覧。
+
+^ a b “おじいちゃんの記憶を巡る旅”.   App Store. 2018年2月27日閲覧。
+
+^ “おじいちゃんの記憶を巡る旅”.   Google Play. 2018年2月27日閲覧。
+
+^ “おじいちゃんの記憶を巡る旅”.   任天堂. 2018年2月27日閲覧。
+
+^ “Old Man's Journey for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2018年2月27日閲覧。
+
+^ “Old Man's Journey｜Nintendo Switch download software｜Games” (英語).   Nintendo UK. 2018年2月27日閲覧。
+
+^ “Old Man's Journey｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2018年2月27日閲覧。
+
+^ “Old Man's Journey” (英語).   Nintendo Australia. 2020年5月17日閲覧。
+
+^ a b c “「Old Man’s Journey -おじいちゃんの記憶を巡る旅」開発者メールインタビュー”.   ゲームライターコミュニティ (2017年10月26日). 2018年2月27日閲覧。
+
+^ “IndieCade Europe 2016 Recap” (英語).   IndieCade. 2018年2月27日閲覧。
+
+^ “Best of 2017” (英語).   App Store. 2018年2月27日閲覧。
+
+^ “Finalistas & Vencedores” (ポルトガル語).   BIG Festival. 2018年2月27日閲覧。
+
+^ “センス・オブ・ワンダーナイト2017”.   東京ゲームショウ2017. 2019年11月22日閲覧。
+
+^ “BIC Festival公式Twitter” (2017年9月29日). 2019年1月9日閲覧。
+
+^ “BIC Festival公式Twitter” (2017年9月29日). 2019年1月9日閲覧。
+
+^ “BIC Festival公式Twitter” (2017年9月29日). 2019年1月9日閲覧。
+
+^ “BIC Festival公式Twitter” (2017年9月29日). 2019年1月9日閲覧。
+
+^ “Public voting and the nominations for the 2017 Golden Joystick Awards are now up” (英語).   The Telegraph (2017年10月27日). 2018年2月27日閲覧。
+
+^ “Finalists & Winners 2017” (英語).   IGF. 2018年2月27日閲覧。
+
+^ “Awards” (英語).   The Game Awards. 2018年2月27日閲覧。
+
+^ “2018 OVERALL WINNERS” (英語).   Bologna Children's Book Fair. 2018年2月27日閲覧。
+
+^ “Indie Game Award 2018 Winners Announced: "Old Man’s Journey" Takes Home the IGA Grand Prix” (英語).   2018 Taipei Game Show (2018年1月25日). 2018年2月27日閲覧。
+
+^ “Winners” (英語).   Google Play Indie Games Contest. 2018年11月19日閲覧。
+
+^ “Italian Video Game Awards” (英語,イタリア語).   Italian Video Game Awards (2018年3月14日). 2018年3月21日閲覧。
+
+^ “Old Man's Journey” (英語).   International Mobile Gaming Awards. 2018年3月21日閲覧。
+
+^ “The winners of the 2018 Google Play Awards are ...” (英語).   Google Play (2018年5月8日). 2018年11月19日閲覧。
+
+^ “第45回 日本賞 優秀作品”.   日本賞. 2018年11月19日閲覧。
+
+
+外部リンク[編集]
+Old Man's Journey 公式サイト（英語）
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=おじいちゃんの記憶を巡る旅&oldid=83738434」から取得
+カテゴリ: 2017年のコンピュータゲームIPhone用ゲームソフトAndroid用ゲームソフトWindows用ゲームソフトMacOSのソフトウェアNintendo Switch用ソフトPlayStation 4用ソフトXbox One用ソフトオーストリアで開発されたコンピュータゲームパズルゲーム老人を題材とした作品訪ね旅を扱った作品
+

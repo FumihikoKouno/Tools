@@ -1,0 +1,112 @@
+
+
+
+
+
+Jotun
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Jotunジャンル
+アクションアドベンチャー対応機種
+Microsoft Windows, OS X, Linux, PlayStation 4, Wii U, Xbox One, Nintendo Switch[1]開発元
+Thunder Lotus Games発売元
+Thunder Lotus Games人数
+シングルプレイヤー発売日
+Microsoft Windows, OS X, Linux2015年9月29日2016年10月（パッケージ版）Wii U2016年9月8日PlayStation 4, Xbox One2016年9月8日Nintendo Switch2018年4月27日対象年齢
+CERO：B（12才以上対象）コンテンツアイコン:暴力テンプレートを表示
+『Jotun』は、カナダのゲーム開発スタジオThunder Lotus Games開発のアクションゲーム。家庭用ゲーム機向けの移植版は『Jotun: Valhalla Edition』のタイトルを用いている。
+
+目次
+
+1 プロット
+2 ゲームプレイ
+3 開発
+4 発売
+5 評価
+6 関連項目
+7 出典
+8 外部リンク
+
+
+プロット[編集]
+プレイヤーはヴァルハラに辿り着く前に急死したヴァイキングの女戦士、トーラとなり神から巨人族ヨトゥンを倒せばヴァルハラに行けると教わる[2]。
+
+ゲームプレイ[編集]
+手描きのフレーム・バイ・フレーム・アート・スタイル。戦闘の他に探索やパズルを解き、いくつかの敵と戦う。パズルは木、球、ブドウといったオブジェクトを使い、斧を振り下ろすこともある。物語を進めるためにプレイヤーはオブジェクト、ルーンを手に入れる必要があり、トーラが神力を授かるほこらもある。体力の上限を上げる黄金の林檎が隠されてもいる。戦闘の基本は斧を振り下ろす、叩く、回避。斧の振り下ろしは叩くより時間がかかるが攻撃力は上。叩くは弱攻撃で2、3回の連続攻撃が可能。回避は使うと転がる。プレイヤーはは神力のうちフリッグの回復、フレイヤのスピード、トールのハンマー、オーディンの槍、ロキのデコイ、ヘイムダルの楯を使用できる。神力は最初は2回覚えられて、後でもう1回増える。体力や神力を全回復できるミーミルの泉もある。
+メインエリアはギンヌンガガプと呼ばれ、そこから5つのエリアに移動できる。各エリアは2つのステージ構成でジェラ（第1ステージ）のみ例外。トーラはステージにあるルーンを集めるとヨトゥン5体のうち1体と戦える。ヨトゥン撃破後、彼はトーラの人生に関係する情報を得られる。
+
+開発[編集]
+PAX 2015でスクリーンショットとゲームプレイ映像が初公開された。2015年9月にPC版、後にCS版も発売された。本作はクラウドファンディングが行われ、Kickstarterで2299人から64000ドル以上集めた。Canadian Media Fundとモントリオール財団からも資金提供を受けた[3][4]。
+
+発売[編集]
+2016年10月、subscription box company、IndieBoxと協力してパッケージ版を発売した。シリアル番号付きのコレクターズエディションにはDRMフリーのゲームディスク、サウンドトラック、取扱説明書、Steamキー、カスタムデザイングッズが同梱[5]。
+
+評価[編集]
+評価集計結果媒体結果Metacritic(PC) 79/100[6](WU) 79/100[7](XONE) 73/100[8](PS4) 72/100[9]レビュー結果媒体結果デストラクトイド9/10 (PC)[10]ファミ通28/40[11]Game Revolution4.5/5 (PC)[12]3.5/5 (PS4)[13]GameSpot8/10 (PC)[14]8/10 (Xbox One)[14]8/10 (PS4)[14]IGN8/10 (PC)[15]NintendoLife9/10 (Wii U)[16]Nintendo World Report8.5/10 (Wii U)[17]
+Metacriticでは79/100のスコア[6]。Game Revolutionでは4.5/5のスコアで「Jotunはほんの少し陰鬱だが素晴らしい経験」と述べた[18]。Attack of the Fanboyでは5段階評価で4個半の星を与え「短い経験かもしれないが多くのプレイヤーは一度終えると非常に惚れ惚れしているだろう」と述べた[19]。IGNは8.0/10のスコアで「Jotunは北欧神話と美しい世界に生きる印象的な巨人のボスを通じた驚異的な旅」と述べた[15]。GameSpotは8.0/10のスコアで「私はトーラの物語をもう一度教えたい。年頃のために眠る前にもう1度教えたくなる」と述べた[14]。
+ファミ通クロスレビューでは7、7、7、7の28点[11]。レビュアーは「冒険や強大なボスとの攻防がしっかりと楽しめる、歯ごたえがある」「主人公が豆粒ほどになるくらいカメラを引いて映し出される風景は北欧神話の壮大、神秘さを味わえるのがいい」「手描きアニメで動くボスがかっこいい」とした一方「マップで現在地が分からないなどシステム面が不便」「高低差、奥行きが少々わかり辛く探索に手間がかかる」「ボスとの戦闘は面倒に感じる人もいるかもしれない」「攻撃の距離感が若干つかみづらい」とした[11]。また、「BestPickofThisWeek! 今週はコレを買え!」では同じ号でレビューした10作品のうち、レビュアー6人中4人が本作を選んだ[20]。
+IGN Japanでは6.7/10のスコアで巨人を倒したときの達成感、アニメーション、雰囲気のあるアイスランド語によるナレーションを賞賛、戦闘の攻撃パターンが少なく楽しさがかなり薄い、トーラの移動速度がテンポが少々悪くて簡単な探索、ボリューム、やりごたえ、日本版に1か所ある最大の盛り上がりシーンであるクライマックスの字幕切れを批判した[21]。
+
+関連項目[編集]
+Sundered
+出典[編集]
+
+
+^ Sal Romano. Jotun coming to PS4, Xbox One, and Wii U this summer, Gematsu, March 2, 2016.
+
+^ Rosenberg, Adam (2015年3月9日). “Our Six Favorite Games From PAX East 2015”.   Digital Trends. 2016年6月16日閲覧。
+
+^ “Thunder Lotus Games”. Jotungame.com. 2016年6月16日閲覧。
+
+^ “Jotun by William Dubé”. Kickstarter.com (2014年10月24日). 2016年6月16日閲覧。
+
+^ “Jotun | IndieBox” (英語). www.theindiebox.com. 2017年6月3日閲覧。
+
+^ a b “Jotun for PC Reviews”.   Metacritic. 2016年6月16日閲覧。
+
+^ “Jotun: Valhalla Edition for Wii U Reviews”.   Metacritic. 2018年4月13日閲覧。
+
+^ “Jotun: Valhalla Edition for Xbox One Reviews”.   Metacritic. 2018年4月13日閲覧。
+
+^ “Jotun: Valhalla Edition for PlayStation 4 Reviews”.   Metacritic. 2018年4月13日閲覧。
+
+^ “Review: Jotun”.   Destructoid (2016年1月17日). 2018年4月13日閲覧。
+
+^ a b c ファミ通2016年9月29日号 No.1450 271ページ
+
+^ “Jotun Review”.   Game Revolution (2015年9月29日). 2018年4月13日閲覧。
+
+^ “Jotun: Valhalla Edition Review”.   Game Revolution (2016年9月13日). 2018年4月13日閲覧。
+
+^ a b c d Clark, Justin (2015年10月15日). “Jotun Review”.   GameSpot. 2016年6月16日閲覧。
+
+^ a b “Jotun Review”. Uk.ign.com (2015年9月30日). 2016年6月16日閲覧。
+
+^ “Jotun: Valhalla Edition Review”.   Nintendo Life (2016年9月8日). 2018年4月13日閲覧。
+
+^ “Jotun: Valhalla Edition Review”.   Nintendo World Report (2016年9月9日). 2018年4月13日閲覧。
+
+^ “Jotun Review”. Gamerevolution.com (2015年9月29日). 2016年6月16日閲覧。
+
+^ Hanson, Kyle (2015年9月29日). “Jotun Review”.   Attack of the Fanboy. 2016年6月16日閲覧。
+
+^ ファミ通2016年9月29日号 No.1450 273ページ
+
+^ “Jotun - レビュー”.   IGN Japan. 2018年6月18日閲覧。
+
+
+外部リンク[編集]
+Official website
+Jotun（ヨトゥン ヴァルハラ版） | プレイステーション
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Jotun&oldid=81945630」から取得
+カテゴリ: 2015年のコンピュータゲームLinux用ゲームソフトNintendo Switch用ソフトPlayStation 4用ソフトWii U用ソフトWindows用ゲームソフトXbox One用ソフトカナダで開発されたコンピュータゲームアクションアドベンチャーゲーム北欧神話を題材とした作品ファンタジーコンピュータゲームUnityを採用したゲームソフトKickstarterで資金調達したコンピュータゲーム
+

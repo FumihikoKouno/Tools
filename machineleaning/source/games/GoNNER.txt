@@ -1,0 +1,150 @@
+
+
+
+
+
+GoNNER
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+GoNNERジャンル
+アクションゲームローグライクゲーム対応機種
+PC (Windows, MacOS, Linux)Android（5.1以降）[1]Nintendo SwitchPlayStation 4Xbox One開発元
+Art in Heart発売元
+Raw FuryNVIDIA Lightspeed Studios（Android）人数
+1人発売日
+PC2016年10月12日[2]Android2016年12月22日[3]Switch2017年6月29日[4]PS4 2018年5月15日[5] 2018年5月24日[6]XBOne2018年9月14日[7]対象年齢
+Android：7+[1]CERO：A（全年齢対象）[8][9]ESRB：E10+（10歳以上）[10][11][12]PEGI：7[13][14]USK：6（6歳未満提供禁止）[15][16]ACB：PG[17][18][19]IARC：7+[20]コンテンツアイコン
+Android：暴力 (軽度)[1]ESRB：Fantasy Violence, Crude Humor[10][11][12]PEGI：Violence[14]USK：Abstrakte Gewalt (abstract violence)[16]ACB：Scary Scenes[17][19]IARC：軽い暴力[20]テンプレートを表示
+GONNER2対応機種
+PC（Windows, MacOS, Linux）Xbox OneNintendo SwitchPlayStation 4開発元
+Art in Heart発売元
+Raw Fury発売日
+PC, Xbox One, Switch2020年10月22日[21]PS4未定[21]対象年齢
+IARC：3+ESRB：E10+（10歳以上）PEGI：3USK：6（6歳未満提供禁止）ACB：PGコンテンツアイコン
+ESRB：Crude Humor, Mild Fantasy ViolenceUSK：Abstrakte GewaltACB：Mild Crude Humourテンプレートを表示
+『GoNNER』（ゴーンナー）は、スウェーデンのインディーゲームスタジオArt in Heartが開発したアクションゲーム。2016年10月12日にPC版が発売され、その後にAndroidや各種家庭用ゲーム機向けにも移植されている。
+
+目次
+
+1 概要
+2 システム
+3 受賞・ノミネート
+4 脚注
+
+4.1 注釈
+4.2 出典
+
+
+5 外部リンク
+
+
+概要[編集]
+謎の生物イック（Ikk）が巨大クジラの友達サリー（Sally）に贈るプレゼントを求め、多くの敵が潜むダンジョンの内部を冒険する。ゲーム画面はサイドビューで描かれ、各エリアは自動生成により構造が毎回変化する。背景は黒色を基調とし、キャラクターは単色のビビッドカラーで描画されている。
+本作を開発する上で影響を受けたソフトとして、開発陣は、いずれもステージが自動生成されるインディーアクションゲーム『Downwell（英語版）』『Nuclear Throne』『The Binding of Isaac（英語版）』などを挙げている[22]。また、冒険の拠点に生えている巨木の描写について、スウェーデン出身の漫画家、Minna Sundberg（英語版）が手掛けるスチームパンクウェブコミック『Stand Still, Stay Silent（英語版）』に登場する巨木からインスピレーションを受けたと語っている[23]。
+2018年9月14日には新規マップ等を追加したバージョン『GoNNER - BLüEBERRY EDiTION』がXbox One向けに先行発売され[7]、他のプラットフォームでも同年12月19日配信の無料アップデートにより同内容となった[24][25]。
+2020年10月22日には、続編である『GONNER2』が発売された[26]。
+
+システム[編集]
+全部で4つのステージがあり、それぞれに、敵が配置されている4つのエリア、アイテムの販売店があるエリア、ボスキャラクターがいるエリアが含まれている。敵がいるエリアは前述のように毎回自動生成される。
+基本アクションとして、2段ジャンプや壁への張り付きのほか、敵への攻撃手段として銃器などの所持武器使用や踏みつけを行う。また、店や一部エリアで入手できるアイテムを装備すると能力が追加または変更される。装備アイテムの種類は、ライフの数などに影響する頭、前述の武器、その他様々な能力を得られるバックパックの3つのカテゴリに大別される。入手したアイテムは冒険開始前の拠点にストックされ、再出発時に任意のアイテムを取得することができる。
+敵を倒すと得点が加算され、敵を短時間に連続して攻撃するコンボが5回つながるごとに、店でのアイテム購入時などに使用する通貨が手に入る。また、ゲームプレイ自体には影響しないが、コンボが続くことでBGMのテンポが上がり、一定回数を超えると画面全体がサイケデリックな色調に変化する[27]。
+ライフが尽きると頭・武器・バックパックが周囲に吹き飛ぶ。この時、頭を拾って付け直すとゲームが続行されるが、頭が無い状態でダメージを受けると原則ミスとなる[注 1]。ここで一定数の通貨を支払うことでコンティニューできるが、足りない場合はゲームオーバーとなり、拠点まで戻される。獲得した得点がそれまでの最高を更新した場合はオンラインランキングに登録される。
+
+受賞・ノミネート[編集]
+Independent Games Festival（英語版） Awards 2017 「Excellence in Audio」受賞[28]
+2017 Nordic Game Awards 「Best Debut」受賞、「Best Audio」「Best Art」ノミネート[29]
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+
+
+^ 一部アイテムを装備していると、一度だけその場で復活できる。
+
+
+出典[編集]
+
+
+^ a b c “GoNNER”.   Google Play. 2018年8月20日閲覧。
+
+^ “Raw Fury公式Twitter” (2016年9月28日). 2020年6月15日閲覧。
+
+^ “GoNNER interview” (英語).   Pocket Gamer (2016年12月22日). 2018年8月20日閲覧。
+
+^ “ローグライク2Dアクションゲーム「GoNNER」のSwitch版が本日リリース”.   4Gamer.net (2017年6月29日). 2020年6月15日閲覧。
+
+^ “IGF 2017のオーディオ部門を制したArt in Heartの人気アクション「GoNNER」の海外PS4対応がアナウンス、発売は5月15日”.   doope! (2018年4月25日). 2020年6月15日閲覧。
+
+^ “GoNNER”.   4Gamer.net. 2020年6月15日閲覧。
+
+^ a b “Raw Fury公式Twitter” (2016年9月14日). 2020年6月15日閲覧。
+
+^ “GoNNER”.   任天堂. 2018年8月20日閲覧。
+
+^ “ゲームソフト｜GoNNER”.   プレイステーション. 2018年8月20日閲覧。
+
+^ a b “GoNNER for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2018年8月20日閲覧。
+
+^ a b “GoNNER on PS4” (英語).   Official PlayStation Store US. 2018年8月20日閲覧。
+
+^ a b “GoNNER - BLüEBERRY EDiTION” (英語).   Microsoft Store. 2020年6月15日閲覧。
+
+^ “GoNNER｜Nintendo Switch download software｜Games” (英語).   Nintendo UK. 2018年8月20日閲覧。
+
+^ a b “GoNNER on PS4” (英語).   Official PlayStation Store UK. 2018年8月20日閲覧。
+
+^ “GoNNER｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2018年8月20日閲覧。
+
+^ a b “GoNNER - BLüEBERRY EDiTION” (ドイツ語).   Microsoft Store de-DE. 2020年6月15日閲覧。
+
+^ a b “GoNNER” (英語).   Nintendo Australia. 2020年6月15日閲覧。
+
+^ “GoNNER” (英語).   Official PlayStation Store Australia. 2020年6月15日閲覧。
+
+^ a b “GoNNER - BLüEBERRY EDiTION” (英語).   Microsoft Store en-AU. 2020年6月15日閲覧。
+
+^ a b “GoNNER - BLüEBERRY EDiTION”.   Microsoft Store ja-JP. 2020年6月15日閲覧。
+
+^ a b “GONNER 2 launches October 22 for Xbox One, Switch, and PC, ‘soon after’ for PS4” (英語).   Gematsu (2020年10月16日). 2020年10月29日閲覧。
+
+^ “GoNNER Interview: A Colorful And Challenging Ride” (英語) (2018年7月30日). 2018年8月20日閲覧。
+
+^ “Design Interview: Crafting Gonner's modular abilities” (英語).   Gamasutra (2017年10月17日). 2018年8月20日閲覧。
+
+^ “GoNNER “BlüeBERRY EdiTION” update out now on Switch” (英語).   Nintendo Everything (2018年12月19日). 2020年6月15日閲覧。
+
+^ “ローグライクアクション「GoNNER」に，新しいヘッドやマップを追加する無料アップデート「BlüeBERRY EdiTION」が登場”.   4Gamer.net (2018年12月21日). 2020年6月15日閲覧。
+
+^ “人気ローグライクアクションの続編「GONNER2」が正式アナウンス、発売は2020年内”.   doope! (2020年6月14日). 2020年6月15日閲覧。
+
+^ “『GoNNER』～2Dプラットフォームシューターでオーディオ体験が評価された理由【インディーゲームレビュー】”.   ALIENWAREZONE (2017年3月31日). 2018年8月20日閲覧。
+
+^ “第19回「IGF Awards」受賞作品リスト―大賞は『Quadrilateral Cowboy』！”.   Game*Spark (2017年3月2日). 2018年8月20日閲覧。
+
+^ “Nordic Game Awards” (英語).   Nordic Game. 2018年8月20日閲覧。
+
+
+外部リンク[編集]
+GoNNER 公式サイト（英語）
+GoNNER - BLüEBERRY EDiTIONに関するカテゴリ:
+ Xbox One用ソフト 
+GONNER2に関するカテゴリ:
+ 2020年のコンピュータゲーム 
+ Windows用ゲームソフト 
+ MacOSのソフトウェア 
+ Linux用ゲームソフト 
+ Xbox One用ソフト 
+ Nintendo Switch用ソフト 
+ PlayStation 4用ソフト 
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=GoNNER&oldid=80647320」から取得
+カテゴリ: インディーゲーム2016年のコンピュータゲームWindows用ゲームソフトMacOSのソフトウェアLinux用ゲームソフトAndroid用ゲームソフトNintendo Switch用ソフトPlayStation 4用ソフトスウェーデンで開発されたコンピュータゲーム横スクロールアクションゲームローグライクゲーム
+

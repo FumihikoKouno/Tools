@@ -1,0 +1,174 @@
+
+
+
+
+
+Twitch
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+
+
+
+
+
+この項目では、ライブストリーミング配信ウェブサイトについて説明しています。ミニストリーのアルバムについては「トゥイッチ」をご覧ください。
+
+
+
+この記事には複数の問題があります。改善やノートページでの議論にご協力ください。
+
+出典がまったく示されていないか不十分です。内容に関する文献や情報源が必要です。（2021年3月）
+古い情報を更新する必要があります。（2021年3月）
+Twitch
+URL
+www.twitch.tvタイプ
+ストリーミングサービス運営者
+Amazon.com, Inc.アレクサランキング
+ 34位[1]営利性
+営利登録
+任意開始
+2011年6月6日 (2011-06-06)現在
+運営中
+Twitch Interactive, Inc.
+元の種類
+非公開その後
+Amazon.com Inc. により吸収設立
+2011年6月解散
+2014年9月本社
+アメリカ合衆国 従業員数
+100名 (2013年12月)ウェブサイト
+www.twitch.tv 
+Twitch（ツイッチ）[2]は、Amazon が提供するライブストリーミング配信プラットフォームである[3]。
+2011年6月に総合的なライブストリーミング配信サイト Justin.tv から、コンピュータゲームに特化したプラットフォームとして派生して立ち上げられた[4]。運営はサイト名と同名の組織が行っていたが、2014年8月、AmazonがTwitchを買収したことを正式に発表。それに関連して、Justin.tv の運営企業は Twitch に特化するため Twitch Interactive に社名を変更、2014年8月には Justin.tv は閉鎖された[5][6]。また音楽に関連したストリーミングも行われている。2015年の Twitch による公表では、一月あたり150万人以上の配信者と1億人以上の視聴者が存在する[7]。2016年8月17日にゲームコミュニティを運営しているCurse, Inc.を買収した[8]。
+
+概要[編集]
+コンシューマゲーム及びPCゲームといったゲームの生放送を中心としており、対象となるジャンルはゲームの実況プレイ、e-Sports大会やその他コンピュータゲーム（ビデオゲーム）に関連したイベントの配信である。配信はアーカイブが残せる仕様となっており、ライブ放送が終了した後でも視聴可能である。期間は14日までだが、Twitchパートナーを結んだ配信者、ないし月額サービスTwitchTurboに登録した場合は60日まで延長される。ビデオマネージャーからアーカイブをダウンロードして再アップロードすることで、手動でアーカイブを維持することも可能。
+主要となるのは冒頭の通りコンピュータゲームの配信であるが、配信者の雑談・顔出しチャット・ダンス・その他雑多なもの（IRL：InRealLife）や、音楽やライブドローイングなどクリエイター向けの配信（Creative）も配信ジャンルに設定されている。
+番組検索では様々なゲームタイトルが列挙されており、それらごとに配信されている番組数が把握できるようになっている。
+ログインしたユーザーは配信にコメントやスタンプが可能で、特にユーザーが配信者へのスポンサー登録を行うことも可能となっている。また、「Bit」という、Twitch内での通貨を使用した投げ銭（チップ）も可能。
+Amazonからの買収後は、Amazonの各サービスと連携したコンテンツが用意されている。Amazon内で配信されている映像作品をtwitch内でプライム会員の視聴者と一緒に閲覧できる「ウォッチパーティー」が代表。
+Twitch の利用者数はライブストリーミング全体の大きな割合を占めており、2013年10月には45万人のユニークユーザーがサイトを訪れており[9]:38、また2014年2月にはアメリカ合衆国で4番目に大きなインターネットトラフィックであった。
+2015年には中村鮎葉が入社し、日本での展開を始めた。
+
+脚注[編集]
+[脚注の使い方]
+
+
+^ “twitch.tv Competitive Analysis, Marketing Mix and Traffic - Alexa”.   Alexa Internet. 2020年12月10日閲覧。
+
+^ Twitch (2015年9月14日), “Twitch，TGS 2015の出展＆ステージイベント情報を公開” (プレスリリース), Aetas, http://www.4gamer.net/games/999/G999905/20150914106/ 2015年10月28日閲覧。 
+
+^ Wawro, Alex (2014年8月25日). “Amazon to acquire Twitch”. Gamasutra.   UBM plc. 2014年8月25日閲覧。
+
+^ TV, Destacados (2021年3月12日). “Cómo usar Twitch: todos los conceptos básicos, consejos y trucos” (スペイン語). Destacados TV Revista. 2021年5月24日閲覧。
+
+^ Machovech, Sam (2014年8月5日). “Streaming video site Justin.tv announces closure effective immediately”. Arstechnica. http://arstechnica.com/gaming/2014/08/streaming-video-site-justin-tv-announces-closure-effective-immediately/ 
+
+^ Popper, Ben (2014年8月5日). “Justin.tv, the live video pioneer that birthed Twitch, officially shuts down”. The Verge. http://www.theverge.com/2014/8/5/5971939/justin-tv-the-live-video-pioneer-that-birthed-twitch-officially-shuts 
+
+^ Sarah Needleman (2015年1月29日). “Twitch’s Viewers Reach 100 Million a Month”.   Wall Street Journal. 2015年10月8日閲覧。
+
+^ Freitas, Evan (2016年8月17日). “Say hi to Curse, the newest member of the Twitch family”. Twitch. http://blog.twitch.tv/twitch-and-curse-8ae2b20acf91/ 
+
+^ Ewalt, David M. (2013年12月2日). “The ESPN of Videogames” (paper). Forbes 
+
+
+外部リンク[編集]
+公式ウェブサイト
+Twitch Japan (@TwitchJP) - Twitter
+Twitch Error 2000
+表話編歴Twitch人
+ジャスティン・カン
+エメット・シアー
+マイケル・サイベル
+カイル・フォークト
+操作
+Justin.tv
+イベント
+TwitchCon
+Twitchライバル
+関連
+PogChamp
+
+ カテゴリ
+表話編歴ライブビデオストリーミングパーソナルライブストリーミング
+
+Stickam JAPAN!
+TwitCasting
+ふわっち
+LINE LIVE
+Pococha
+DokiDoki LIVE
+マシェLIVE
+17LIVE
+AfreecaTV
+LiveMe
+弾幕ビデオ
+ニコニコ生放送
+YY.com
+BIGO LIVE
+FC2LIVE
+bilibili
+ライブ機能付
+YouTube
+Facebook（Facebook Gaming）
+Instagram
+ミクチャ
+
+ビデオゲームライブストリーミング
+
+Mirrativ
+OPENREC
+Twitch
+Mildom
+弾幕ビデオ
+闘魚（Douyu）
+Nonolive
+虎牙直播（Huya.com）
+Nimo TV
+
+セレブリティライブストリーミング
+SHOWROOM
+マシェバラ
+エンタープライズ
+Vimeo Livestream
+IBM Watson Media
+Brightcove Live
+ライブストリーミングTV
+
+ABEMA
+NHK+
+スカパー!オンデマンド
+dTVチャンネル
+Hulu ライブTV
+Hulu + Live TV
+Sling TV
+YouTube TV
+芒果TV・直播
+WAVVE
+
+その他ライブビデオ配信
+国会インターネット審議中継
+Pixivスケッチライブ
+双方向ライブ
+Zoom
+Cisco Webex
+Microsoft Teams
+Google Meet
+
+
+
+この項目は、インターネットやウェブに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（PJ:コンピュータ/P:コンピュータ）。
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Twitch&oldid=83674904」から取得
+カテゴリ: Twitchカリフォルニア州の企業2011年設立の企業インターネットテレビ局コンピュータゲームのウェブサイトAmazon.comAmazon.comの買収動画共有サイト隠しカテゴリ: 出典を必要とする記事/2021年3月情報の更新が必要とされている項目/2021年インターネット関連のスタブ項目
+

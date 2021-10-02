@@ -1,0 +1,92 @@
+
+
+
+
+
+PLANET ALPHA
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+PLANET ALPHAジャンル
+アクションパズル対応機種
+Steam（Windows）Nintendo SwitchPlayStation 4Xbox One開発元
+Planet Alpha Game Studio発売元
+Team17（英語版）発売日
+Steam：2018年9月4日[1]Switch  2018年9月4日[2][3][4]PS4 2018年9月4日[5][6] 2018年11月1日[7]Xbox One 2018年9月4日[8][9]対象年齢
+CERO：C（15才以上対象）[2][7]ESRB：T（13歳以上）[3][5][8]PEGI：12[4][6][9]USK：12（12歳未満提供禁止）[10]コンテンツアイコン
+CERO：暴力[2][7]ESRB：Blood, Violence[3][5][8]PEGI：Violence[6][9]テンプレートを表示
+『PLANET ALPHA』（プラネット アルファ）は、デンマークのインディーゲームスタジオPlanet Alpha Game Studioが開発し、Team17（英語版）より発売されたアクションパズルゲーム。
+
+目次
+
+1 概要
+2 システム
+3 受賞・ノミネート
+4 脚注
+5 外部リンク
+
+
+概要[編集]
+とある惑星で一人取り残されたエンジニアの主人公を操作し、サイドビューで描かれた広大で多様なエリアを探検する。主人公は、昼夜を操る能力で周囲の状況を変化させるなどして謎を解きつつ、巨大な生物やロボット兵器などの攻撃をかいくぐるアクションも行うことになる。作品内では説明的な表現が一切なく、主人公が孤立した理由や惑星で起きている様々な出来事についての詳細も明かされない。
+本作の開発は2013年12月に開始された[11]。当初のタイトルは『Planet Alpha 31』で、ディレクターのAdrian Lazarは、FPS『ヒットマン』シリーズで知られるゲーム開発会社IO Interactive（英語版）などで仕事をする傍らで個人的なサイドプロジェクトとして一人で本作の開発を進めていたが開始から数か月で挫折、それからさらに数か月後にゲームエンジンをUnityからUnreal Engine 4に変更して開発が再開された[12]。2015年には、Unreal Engineの開発元であるEpic Gamesによる開発者支援制度「Unreal Dev Grant」の対象作品の一つに本作が選ばれて資金が提供され、その後、投資会社のCAPNOVAなどからも資金を得た[13][11]。
+本作は、発売元のTeam17にとって100作目の節目にあたる作品で、公式サイト等では本作が100作目であることを示す特別な企業ロゴが使用されている[14]。
+
+システム[編集]
+主人公は、ジャンプする、かがむ、登る、特定の物体を左右方向に運ぶといった基本アクションを行う。また、ゲーム内では時間の流れがあり昼夜の変化によって足場が現れたり植物が姿を変えたりするなど状況が変化するが、主人公は、この時間の流れを速める能力を有している。
+一部のエリアには異空間へ転移する地点が合計4箇所ある。この異空間はアクション性に特化した短めのステージで、通常よりも大きくジャンプでき、移動したり回転したりする足場を飛び移りながらゴールを目指す。ゴール到達後は元の世界へ戻りゲームが継続される。この異空間のクリアはゲーム全体のクリアに必須ではないが、4箇所全てをクリアするとエンディングが変化する。
+
+受賞・ノミネート[編集]
+Indie Prize Asia 2015 「Best in Show: Critic's Choice」「Best Game Art」「Most Promising Game in Development」受賞[15]
+2019 Nordic Game Awards 「Best Debut」受賞、「Best Art」「Best Audio」ノミネート[16]
+脚注[編集]
+[脚注の使い方]
+
+
+^ “PLANET ALPHA releases September 4th 2018!” (英語).   Team17 (2018年7月31日). 2019年7月10日閲覧。
+
+^ a b c “PLANET ALPHA”.   任天堂. 2019年7月10日閲覧。
+
+^ a b c “PLANET ALPHA for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2019年7月10日閲覧。
+
+^ a b “PLANET ALPHA｜Nintendo Switch download software｜Games” (英語).   Nintendo UK. 2019年7月10日閲覧。
+
+^ a b c “PLANET ALPHA” (英語).   PlayStation Store US. 2019年7月10日閲覧。
+
+^ a b c “PLANET ALPHA” (英語).   PlayStation Store UK. 2019年7月10日閲覧。
+
+^ a b c “PLANET ALPHA”.   公式PlayStation Store 日本. 2019年7月10日閲覧。
+
+^ a b c “PLANET ALPHA” (英語).   Microsoft Store. 2019年7月10日閲覧。
+
+^ a b c “PLANET ALPHA” (英語).   Microsoft Store en-GB. 2019年7月10日閲覧。
+
+^ “PLANET ALPHA｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2019年7月10日閲覧。
+
+^ a b “Presskit” (英語).   PLANET ALPHA. 2019年7月10日閲覧。
+
+^ “懐かしくも不思議な世界、Planet Alpha 31 の制作背景”.   Unreal Engine (2016年4月13日). 2019年7月10日閲覧。
+
+^ “新しい Unreal Dev Grant 受賞者”.   Unreal Engine (2015年3月20日). 2019年7月10日閲覧。
+
+^ “Team17’s 100th Game Celebration” (英語).   Team17 (2018年8月21日). 2019年7月10日閲覧。
+
+^ “Indie Prize” (英語). 2019年7月10日閲覧。
+
+^ “2019 Nordic Game Awards winners” (英語).   Nordic Game Community (2019年6月3日). 2019年7月10日閲覧。
+
+
+外部リンク[編集]
+Planet Alpha Game Studio 公式サイト（英語）
+Team17 公式サイト（英語）
+PLANET ALPHA (@PLANETALPHA) - Twitter
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=PLANET_ALPHA&oldid=80651623」から取得
+カテゴリ: 2018年のコンピュータゲームWindows用ゲームソフトNintendo Switch用ソフトPlayStation 4用ソフトXbox One用ソフトデンマークで開発されたコンピュータゲームアクションパズルUnreal Engineを採用したゲームソフトインディーゲーム
+

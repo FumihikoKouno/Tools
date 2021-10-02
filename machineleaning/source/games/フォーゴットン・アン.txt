@@ -1,0 +1,169 @@
+
+
+
+
+
+フォーゴットン・アン
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+フォーゴットン・アンForgotton Anneジャンル
+アクションパズル対応機種
+PC（Windows, MacOS）PlayStation 4Xbox OneNintendo SwitchiOS開発元
+ThroughLine Games発売元
+Steamスクウェア・エニックスGOG.com, MacOSThroughLine GamesPS4, XBOne, Switch スクウェア・エニックス コーラス・ワールドワイドiOS Hitcents（英語版） コーラス・ワールドワイド音楽
+Peter Due人数
+1人発売日
+PC：2018年5月15日[1]PS4, XBOne 2018年5月15日[1] 2019年2月28日[2]Switch 2018年11月9日[3] 2019年2月28日[2]iOS 2019年6月26日[4] 2019年8月1日[5]対象年齢
+MacOS：12+[6]CERO：A（全年齢対象）[7][8][9]ESRB：E10+（10歳以上）[10][11][12]PEGI：12[13][14][15]USK：6（6歳未満提供禁止）[16][17][18]ACB：PG[19][20][21]iOS：9+コンテンツアイコン
+MacOS：Infrequent/Mild Simulated Gambling, Infrequent/Mild Cartoon or Fantasy Violence, Infrequent/Mild Alcohol, Tobacco, or Drug Use or References[6]ESRB：Comic Mischief, Fantasy Violence, Mild Language, Use of Alchol and Tobacco[10][11]PEGI：Violence[13][14]ACB：Mild Fantasy Themes, Violence[19][20][21]エンジン
+Unityテンプレートを表示
+『フォーゴットン・アン』（Forgotton Anne）は、デンマークのインディーゲームスタジオThroughLine Gamesが開発したアクションパズルゲーム。
+
+目次
+
+1 概要
+2 システム
+3 挿入歌
+4 開発
+5 評価
+6 脚注
+7 外部リンク
+
+
+概要[編集]
+現実世界で人々から忘れられた物が転移してくる世界「フォゴットンランド」（Forgotten Lands）を舞台に、世界の秩序を守るべく活動する女性執行官・アン（Anne）と、物が擬人化された種族「フォゴットリング」（Forgotling）を巡る物語が展開される。フォゴットリングたちの中には現実世界への帰還を望む者がおり、アンの育ての親でもある老師ボンク（Bonku）は現実世界と通じる装置「イーサゲート」（Ether Bridge）の製造を進めているが、これをよく思わないフォゴットリングの反乱勢力が蜂起して各地を爆破する事案が発生する。アンは被害状況を調べようと現地へ赴くが、その中で、フォゴットリングたちを取り巻く現状やフォゴットンランドの成り立ちが徐々に明らかになっていく。
+本作のグラフィックは全編にわたりアニメ作品のように描かれ、イベントシーンとゲームプレイシーンがシームレスで進行する。また、BGMにはコペンハーゲン・フィルハーモニー管弦楽団（英語版）の演奏楽曲が用いられている[22]。
+
+システム[編集]
+プレイ画面はサイドビューで描画され、基本的に横スクロールで進行する。一部の箇所では、画面奥方向・手前方向へ移動することもある。
+アンが手に装着している手袋状の装置「アルカ」（arca）を起動すると、画面描写が暗視カメラ映像のようになる「アニマビジョン」に切り替わる。この状態では、フォゴットンランドにおける電気のようなエネルギー「アニマ」（anima）を目視できるようになる。画面上の箇所にカーソルを合わせ決定すると、アニマを抜き取ってアルカに充填したり、充填したアニマを別の場所に注入したりすることができる。アニマはフォゴットリングの体内にも蓄えられており、場面によってはアニマを抜く（＝命を奪う）かどうかを判断することになる。
+特別なアクションとして、アンの背中に装着する羽根状の装置「ウィング」（wing）により通常より高く跳躍するアクションや、アニマが流れる管のバルブを操作するアクションがあるが、これらはアニマが充填されている時のみ実行できる。また、一部エリアでは、充填したアニマが抜き取られる「アニマ吸剥機」や、アニマが充填されている時に纏わり付いてジャンプできなくなるフォゴットリングのかけらなど、様々な仕掛けが登場する。
+本作では、アンのライフやゲームオーバーといった概念は無い。一方で、ゲーム内で度々提示される選択肢の選び方やアンがとった行動により物語の展開が変化する。
+ゲームクリア後、タイトル画面で選択するファイルデータには「イーサゲートに入る」という項目が追加される。このモードでは、ゲーム内で収集したアイテムの閲覧要素のほか、物語の特定箇所からゲームを開始できる要素もある。この要素を用いたプレイ中、物語の分岐箇所で元データと異なる選択をしたまましばらく進めると、その後の展開のデータが自動的に書き換えられる。
+
+挿入歌[編集]
+Forgotten Anne
+作詞：ランディ・ラウベック（デンマーク語版）、作曲：Peter Due、歌：ランディ・ラウベック
+開発[編集]
+本作開発チームには、アニメ、映画、テレビの分野で幅広い経験を積んだメンバーが多く参加している。このうち、アニメーターのDebbie EkbergとSebastian Ljungdahlは東京で数年間アニメとゲームデザインについて学んだ経歴を持ち、この際には、アニメ映画『猫の恩返し』の監督などを務める森田宏幸やゲームソフト『逆転裁判』シリーズのアートディレクターとして知られる岩元辰郎らから教示を受けている。また、アートディレクターのBierbelg Haldは、デジタル背景画家としての仕事を始めて以降、アニメ制作会社のスタジオジブリやSTUDIO 4℃作品の背景を注視していると語っている[23]。
+本作の開発にあたっては、スクウェア・エニックスが欧州で展開しているインディーゲームスタジオ支援機構「Square Enix Collective」と、映画等の文化の支援を行うデンマークの政府機関・デンマーク映画協会（英語版）の支援を受けている[24][25]。
+
+評価[編集]
+IndieCade（英語版） 2018 ノミネート[26]
+BitSummit Volume 6 - BitSummit Awards 「インターナショナル賞」「エクセレンスインサウンド賞」ノミネート[27]
+Indigo Awards - Games Designカテゴリ「Animation for Games」「Illustration for Games」「PC Games」部門ゴールド受賞、「Character Design」部門シルバー受賞[28]
+Game Connection（英語版） Europe 2018 - Development Awards 「Best Casual Game」「Best Story / Storytelling」部門ノミネート[29]
+DreamHack Atlanta 2018 「Best Adventure」選出（他作品と共同）[30]
+9th Hollywood Music in Media Awards（英語版） 「Original Song - Video Game」部門ノミネート（挿入歌「Forgotten Anne」のノミネート）[31][32]
+2018 Golden Joystick Awards 「Best Storytelling」部門ノミネート[33]
+2018 Independent Games Festival（英語版） Awards 「Excellence in Visual Art」部門ノミネート[34]
+GameSpot Game Of The Year 2018: Editor's Spotlight Awards 受賞（他作品と共同）[35]
+Digital Culture Awards 2019 「Best storytelling techniques for emotional impact using emergent technology」部門ノミネート[36]
+22nd Annual D.I.C.E. Awards 「Outstanding Achievement in Original Music Composition」部門ノミネート[37]
+2019 G.A.N.G. Awards 「Music of the Year」「Best Music for an Indie Game」部門ノミネート[38]
+2018 The Aggie Awards（英語版） 「Best Side-scrollers」部門シルバー受賞（他作品と共同）[39]、「Best Story」「Best Character」「Best Animation」「Best Music」「Best Non-Traditional Adventure」部門ノミネート[40]
+16th International Mobile Gaming Awards（英語版） 「Excellence in Storytelling」受賞[41]
+脚注[編集]
+[脚注の使い方]
+
+
+^ a b “デンマーク産アニメ風2Dアドベンチャー『Forgotton Anne』リリース日決定！”.   Game*Spark (2018年4月13日). 2019年3月13日閲覧。
+
+^ a b “『フォーゴットン・アン』が発売。日本の名作アニメに影響を受けて作り上げられた世界観に注目”.   電撃オンライン (2019年2月28日). 2019年3月13日閲覧。
+
+^ “Forgotton Anne for Switch launches November 9” (英語).   Gematsu (2018年11月2日). 2020年10月10日閲覧。
+
+^ “Forgotton Anne Launches On IOS!” (英語).   Hitcents (2019年6月26日). 2020年10月10日閲覧。
+
+^ “「フォーゴットン・アン」のiOS版が配信決定！予約注文を開始”.   GAME Watch (2019年7月18日). 2020年10月10日閲覧。
+
+^ a b “Forgotton Anne” (英語).   Mac App Store. 2019年3月13日閲覧。
+
+^ “フォーゴットン・アン”.   プレイステーション. 2019年3月13日閲覧。
+
+^ “フォーゴットン・アン”.   Microsoft Store jp-JP. 2019年3月13日閲覧。
+
+^ “フォーゴットン・アン”.   任天堂. 2019年3月13日閲覧。
+
+^ a b “Forgotton Anne on PS4” (英語).   Official PlayStation Store US. 2019年3月13日閲覧。
+
+^ a b “Forgotton Anne” (英語).   Microsoft Store. 2019年3月13日閲覧。
+
+^ “Forgotton Anne for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2019年3月13日閲覧。
+
+^ a b “Forgotton Anne on PS4” (英語).   Official PlayStation Store UK. 2019年3月13日閲覧。
+
+^ a b “Forgotton Anne” (英語).   Microsoft Store en-GB. 2019年3月13日閲覧。
+
+^ “Forgotton Anne｜Nintendo Switch download software｜Games” (英語).   Nintendo UK. 2019年3月13日閲覧。
+
+^ “Forgotton Anne auf PS4” (ドイツ語).   Official PlayStation Store deutschland. 2019年3月13日閲覧。
+
+^ “Forgotton Anne”.   Microsoft Store de-DE. 2019年3月13日閲覧。
+
+^ “Forgotton Anne｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2019年3月13日閲覧。
+
+^ a b “Forgotton Anne” (英語).   Official PlayStation Store Australia. 2020年10月10日閲覧。
+
+^ a b “Forgotton Anne” (英語).   Microsoft Store en-AU. 2020年10月10日閲覧。
+
+^ a b “Forgotton Anne” (英語).   Nintendo Australia. 2020年10月10日閲覧。
+
+^ “フォーゴットン・アン”.   Chorus Worldwide. 2019年3月13日閲覧。
+
+^ “Forgotton Anne is an indie game that looks like a Studio Ghibli movie” (英語).   PC Gamer (2017年10月26日). 2019年3月13日閲覧。
+
+^ “stories from Collective” (英語).   Square Enix Collective. 2019年3月13日閲覧。
+
+^ “Håndtegnet adventurespil for fuld orkestermusik” (デンマーク語).   Det Danske Filminstitut (2018年5月15日). 2019年3月13日閲覧。
+
+^ “2018 FESTIVAL GAMES” (英語).   IndieCade. 2019年3月13日閲覧。
+
+^ ““BitSummit Awards”各賞ノミネートが発表、『BLACK BIRD』や『Boyfriend Dungeon』などが候補に【BitSummit Volume 6】”.   ファミ通.com (2018年5月12日). 2019年3月13日閲覧。
+
+^ “Indigo Awards” (英語).   Indigo. 2019年3月13日閲覧。
+
+^ “Game Connection Europe 2018 - Development Awards” (英語).   Game Connection. 2019年3月13日閲覧。
+
+^ “The List of 49 Indie Titles Coming to Atlanta: Quantity & Quality” (英語).   DreamHack. 2019年3月13日閲覧。
+
+^ “2018 Music In Visual Media Nominees” (英語).   Hollywood Music In Media Awards. 2019年3月13日閲覧。
+
+^ “2018 HMMA WINNERS” (英語).   Hollywood Music In Media Awards. 2018年11月15日時点のオリジナルよりアーカイブ。2019年3月13日閲覧。
+
+^ “『フォートナイト』がGOTY！「2018 Golden Joystick Awards」受賞作品リスト―生涯功労賞は宮崎英高氏”.   Game*Spark (2018年11月17日). 2019年3月13日閲覧。
+
+^ “Finalists and Winners” (英語).   IGF. 2019年3月5日時点のオリジナルよりアーカイブ。2019年3月13日閲覧。
+
+^ “Game Of The Year 2018: Editor's Spotlight Awards” (英語).   GameSpot (2018年12月20日). 2019年3月13日閲覧。
+
+^ “Press Release: Spring Nominations Closed” (英語).   Digital Culture Awards (2018年1月3日). 2019年3月13日閲覧。
+
+^ “「D.I.C.E.アワード」の受賞結果が発表。『ゴッド・オブ・ウォー』がゲーム・オブ・ザ・イヤー受賞、各賞もほぼ独占状態の結果に”.   電ファミニコゲーマー (2019年2月14日). 2019年3月13日閲覧。
+
+^ “2019 G.A.N.G. Awards Finalists” (英語).   Game Audio Network Guild (2019年2月14日). 2019年3月13日閲覧。
+
+^ “The Aggie Awards - The Best Adventure Games of 2018” (英語).   Adventure Gamers (2019年2月22日). 2019年3月13日閲覧。
+
+^ “2018 Aggie Award Nominees” (英語).   Adventure Gamers (2019年2月8日). 2019年3月13日閲覧。
+
+^ “Forgotton Anne” (英語).   International Mobile Gaming Awards. 2020年10月10日閲覧。
+
+
+外部リンク[編集]
+ThroughLine Games 公式サイト（英語）
+Square Enix Collective 紹介ページ（英語）
+コーラス・ワールドワイド 公式サイト
+Forgotton Anne (@ForgottonAnne) - Twitter
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=フォーゴットン・アン&oldid=83652688」から取得
+カテゴリ: 2018年のコンピュータゲームWindows用ゲームソフトMacOSのソフトウェアPlayStation 4用ソフトXbox One用ソフトNintendo Switch用ソフトIPhone用ゲームソフトデンマークで開発されたコンピュータゲームスクウェア・エニックスのゲームソフトアクションパズルUnityを採用したゲームソフトインディーゲーム
+

@@ -1,0 +1,480 @@
+
+
+
+
+
+The Witness
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+
+
+
+
+
+この項目では、ゲームについて説明しています。その他のウィットネスについては「ウィットネス」をご覧ください。
+
+The Witnessジャンル
+パズル対応機種
+Microsoft WindowsPlayStation 4Xbox OneAndroidmacOSiOS開発元
+Thekla, Inc.発売元
+Thekla, Inc.プロデューサー
+ジョナサン・ブローディレクター
+ジョナサン・ブローデザイナー
+ジョナサン・ブローシナリオ
+ゴエン・リージョナサン・ブロープログラマー
+ジョナサン・ブローイグナシオ・カスターニョサルバドール・ベル・ムルシアーノアンドリュー・スミス美術
+ルイ・アントニオオルソーリャ・スパーニョlエリック・アンダーソン人数
+シングルプレイヤー発売日
+Windows, PlayStation 4世界 2016年1月26日日本 2016年12月15日Xbox One世界 2016年9月13日Android世界 2017年1月16日macOS世界 2017年3月8日iOS世界 2017年発売予定テンプレートを表示
+『The Witness』（ザ・ウィットネス）は、Thekla[注釈 1], Inc.が開発し、販売している3Dパズルコンピュータゲームである。2016年1月に、Microsoft WindowsとPlayStation 4向けに販売開始され、その後Xbox One、Android、macOS向けのものも販売された。『Myst』を模しており、プレイヤーは大自然と人工物の織り成す島を自由に探索できる（オープンワールド）。島の至る所にあるパネルに表示された迷路風のパズルを解き進めていくが、パズルの法則は、視覚的ヒントや環境音を手掛かりにプレイヤー自身で見つけなければならないのが特徴。
+デザインリーダーのジョナサン・ブローは、言葉に頼らないコミュニケーションを使ったゲームを製作しようと考えた。注意深く観察して、突然答えが見つかったときの達成感をプレイヤーに感じてもらうことを目標とした。このゲームには約650個のパズルがあるが、ゲームクリアのためにすべて解く必要はない作りになっている。
+2009年の最初の発表のとき、開発はまだ前途多難の状況であった。Blowは、2008年の『Braid』の販売開始後すぐに開発を始めた。『Braid』の成功のおかげで、有能な人材を苦労なく集めることが可能で、島の建造物のデザインの際には、芸術家、建築家、設計家の力も借りることができた。ゲーム内で視覚言語を表現するために、専用のゲームエンジンが開発されたが、その結果開発が延滞し、発売予定日が2013年から2016年に変更された。ゲームエンジンの不具合で、当初の予定であるPlayStation 3とXbox 360向けの販売は断念となり、最終的にWindowsとPlayStation 4向けを最初に販売することとし、続けて他のプラットフォームに対応することとなった。
+The Witnessは、程よい難度のパズルと芸術的設計に対して広く称賛の声を得た。販売開始から一週間もせずに、Braidでは一年かかった10万本の売り上げを記録し、この地点で売り上げがゲームの全開発費を上回った。
+
+目次
+
+1 ゲームプレイ
+2 開発
+
+2.1 コンセプト
+2.2 資金調達と開発
+2.3 ゲームのデザイン・アート・サウンド
+2.4 マーケティングと発売
+
+
+3 評価
+4 賞
+5 脚注
+
+5.1 注釈
+5.2 出典
+
+
+6 外部リンク
+
+
+ゲームプレイ[編集]
+The Witnessは、視点がファーストパーソンのパズルアドベンチャーゲームである。主人公に名前はない。膨大な人工物と広大な自然で満たされた島をプレイヤーは探索していく。島は大まかに11のエリアに分かれており、最終到達目標となる山を囲むように配置されている。各エリアには金色のボックスがあり、これを活性化するために数多くのパズルを解かなければならない。活性化されると、ボックスから小塔が出て、山の頂上に向かってレーザー光が照射される。これでそのエリアをクリアしたことになる。山の内部にある真のゴールに辿り着くために、すべてのボックスを活性化する必要はない。しかし、11のボックスすべてを活性化することで表れるパズルもある[1]。オプションのパズルは島のあちこちにある。その中の一つに、ある場所からアクセスできるいわゆる「チャレンジ」があり、グリーグの『アニトラの踊り』と『山の魔王の宮殿にて』を聞きながら[2]、七分以内に自動生成された沢山のパズルを解いていく。このゲームには650を超えるパズルがあり、ジョナサン・ブローは、すべて解き終わるまでに80時間ほど掛かるだろうとしている[3]。中には、1%以下のプレイヤーしか自力で解けないだろうとブローが考えているパズルもある[4][5]。
+全パズルは迷路風の一筆書きパズルとなっている。円状のスタート地点から、円く途切れた半直線のゴールまで交差せずに繋ぐ。ただ単純に迷路を解けばよい訳ではなく、パズルのルールを満たすように正しく解かなければならない。スタートとゴールは一つとは限らない。正しいスタートを見極め、その時の状況に合わせたゴールまでつなぐ必要がある[6]。パズルには法則性を示す図絵が描かれている。例えば、黒い四角と白い四角がパズルの中にあるとき、プレイヤーは色ごとに別の領域に分かれるように一筆書きしなければならない[1]。周囲の環境を利用して解くパズルもある。例えば、パズルと似た形をした木を利用したり、床や壁に記されたシンボルを利用したりなどである[1][7][8]。各エリアのパズルにはそれぞれ共通点があり、エリアごとにまず図絵や記号のルールを理解するための簡単なパズルから始まっていく。後半・終盤では複数のルールを組み合わせたパズルが出てくる[9]。
+ほとんどのパズルは簡単に目視できるサイズのパネルに表示されており、解き終えると次のパズルへの道のりを示すケーブルが光るものもある。半透明のパネル越しに見える物体によって解くという、建築物と一体化したパズルもある[7][8]。風景の内に巧妙に隠されたパズルもあり、それらを解くためには正しい位置と視線の方向を見つけ出さなければならない[9]。プレイヤーはいつでも一筆書きモードになることができる。このモードの時、スクリーンは白枠で囲まれて移動ができなくなり、代わりに迷路を解く線を引けるようになる。パズルを解くか、諦めるとモードは解除される。解きたいパネルの前に立ってこのモードになるのが基本だが、背景内のパズルを解くために切り替えることもできる[9]。ほぼ全てのパズルは、正解か不正解かによって何らかの反応を示す[9]。
+各エリアは一本道で繋がっているわけではなく、自由に探索できるので、まだルールがわからない図絵の描かれたパズルに出会うこともある。出会ったパズルが解けなければ、一旦諦めて他の場所を散策し、頭を冷やしたり、図絵のルールの情報を集めまわることができる[10]。ブローは、このゲームにはただの迷路パズル以上のものがあるとしている。ブローによれば、「ポイントは、迷路が体現するものを理解した時に起きるプレイヤーの心境の変化にある。このゲームの迷路はただのパズルではなく、複雑で驚くべき何とも言えないコミュニケーションの集大成である[11]。」
+オーディオレコーダーが島中に散りばめられており、釈迦、バラス・スキナー、ウィリアム・キングドン・クリフォードなどからの引用文を聞くことができる[1][8][12][13]。語り手は、アシュレー・ジョンソン、フィル・ラマール、マシュー・ウォーターソン、テラ・ディヴァなどが演じる[14]。動画鑑賞できる場所もあり、ジェームス・バークの『コネクションズ』やアンドレイ・タルコフスキーの『ノスタルジア』の終盤などを見ることができる[15][13]。ゲーム内では、空間認識能力と遠近法を巧みに利用した錯視がいくつか見受けられる。例えば、別々の場所にある全く繋がりのない人間の像が、ある一点から見たとき手をつないでいるように見えるなど[16]。
+
+開発[編集]
+コンセプト[編集]
+ジョナサン・ブローは『Braid』の販売後ほどなくしてThe Witnessの構想を練り始めていた。2008年の大きな成功の後、ブローは「激しい開発地獄」から一旦休憩し、次に作るゲームを数か月掛けて思案していた。The Witnessの原型となるコンセプトについて、ブローは「とても野心的で挑戦的なもの」としている[17]。3Dのゲームを作ることに対して、ブローは2Dゲームの開発スタイルを引きずってしまわないか[17]と心配していたが、最終的にブローは意を決してThe Witnessの開発に取り掛かった[17]。実際の開発は2008年の終わりごろから始まった[18]。
+ゲームのコンセプトはブローが以前に構想していた未完成ゲームを基にしている。ブローによると、そのゲームには「魔法の瞬間」を味わえる面があり、それがゲームの体をなしているものだったという。The Witnessのゲームプレイは、この未完成作品の「魔法の瞬間」を受け継ぎ、独自の世界観と合わせて構成された。ブローは雰囲気を壊すネタバレにつながるとして、ゲームの仕組みや要素が先に知れ渡るのを避けた[17][19]。迷路風パズルのアイデアは、2002年頃にブローが思案していたゲームから生まれた。そのゲームでは、当時の流行りであるマウスジェスチャーを使って、魔法使いに魔法を唱えさせることができ、ジェスチャーの違いによって魔法の効果を弄ることができる。The Witnessの構成には、このコンセプトも元になっている[20]。
+The Witnessの開発目標の一つに、芸術作品としてのビデオゲームを体現するというものがあった。ブローは、「ビデオゲームというものが表現できる非言語的コミュニケーションを感じながら、媒介物としてのゲームを知覚することが重要である。」としている[21]。ゲーム名のThe Witness（立会人）は、このゲームのコアの部分である言葉を使わずにパズルの解法を見つけていくという、『Myst』(1993)に似た側面から来ている[22]。ブローはThe Witnessのデザインを、ゲーム開発のきっかけとなったMystに強く似せた。ブローが修正したいMystのデザインの一つに、ピクセル単位の小さな要素を扱うパズルがある問題があった。これでは何が起こるか見当もつかないまま、クリックを続けなければならなくなる。The Witnessでは、この問題をなくすために全てのパズルの根本的仕組みが一本化された。根本が同じでも、図絵の持つ法則性により多彩なパズルを作り出すことができる[3]。ゲーム中にプレイヤーが必要とするものは、各パズルのルールの仕組みと、「アドベンチャーゲームの持つ独特の曖昧さを切り崩す」意気込みだけである[23]。ゲーム内のパズルは、ただ解くためにある個別のパズルというよりは、それぞれが密接に関係しあっており、一つ一つが意味のあるものになるようにデザインされている[24][25]。
+重要なコンセプトの一つに、パズル解読と詮索を両立させ、The Witnessの世界を自由に散策できるようにし、非直線的なゲーム進行を作り出すことである。ブローが最初に作成した「その世界を世界足らしめる物体のヒント」となる二つのパズルを生かすように、世界観は設計された。これによって探索とパズル解読の両立を実現し、「了解可能」になるとブローは言う[26]。ブローは島をオープンワールドにして、解けないパズルがあれば一旦離れて他のパズルを解けるようにし、他のアドベンチャーゲームに見られるような単一の障害が突破できずに頓挫するのを防いだ[27][3]。ブローはパズルを、思わせぶりな蛇足が無いシンプルでクリアなものにしようとした。この手法は『Braid』と同じである[27]。ゲーム内に他の人物はおらず、落ちているオーディオレコーダーは島をより探索するよう暗に催促してくる。ブローは「美しき空間で感じる孤独感」を表現しようとした。レコーダーを見付ける順番は決まってないので、プレイヤーによって違うゲームの印象を感じてもらうようブローは望んでいる[17]。レコーダーが語る話は、初めは具体的のものにする予定だったが、ブローは後により抽象的で不明瞭なものにする事に決めた。これはBraidで使われた文章形式を踏襲している。これによりプレイヤーがストーリーに直接関わるのを防ぎ、代わりにレコーダーの話が何を意味しているのかを深く考えることができる[20]。開発者たちはレコーダーの話を、パズル解読がストーリー解読に繋がる事を示すものにした[27]。
+The Witnessの漠然とした世界観と物語においてブローは、プレイヤーが完遂のためにただ単純作業して「達成感を持たせる」のを避けるようデザインした。代わりにプレイヤーが島中を自由に散策できるようにし、その世界観を感じながらパズルの解法が思いつくようにした[17][28]。ブローは取得可能な業績の数を、単純に努力を称えるのに必要最低限のものにした[17]。ブローはThe Witnessを厳粛で「精錬されたゲーム」にするため、ゲーム中に表示される可能性のあるポップアップ画面に気を配っていたと話している[17]。
+ブローはThe Witnessを大衆向けではなく、高度な知能ゲームとして開発したと証言している。彼はこの戦略を「アンチ任天堂」としており、一般的な任天堂のゲームと違ってプレイヤーにほとんど何も情報を与えない[3]。プローによると、この時に開発されていたゲームのほとんどは、プレイヤーを「何も知らない人」として扱っており、The Witnessではプレイヤーを、「好奇心旺盛で知恵のある人」として扱うようにしたという[29]。ブローはこの考え方を、トマス・ピンチョンの『重力の虹』と対象化させる。この小説では「文章理解の手助けとなるもの」を付け加えようとせず、彼はこれをビデオゲームにも応用できると考えた[30]。ブローによると、タイムアタックのチャレンジで自動生成されるパズルは、比較的難しくなるようになっており、「どれだけ深くパズルのルールを理解しているか、どれだけ早く新パズルの解法を見いだせるかをテストする」よう仕向けているという[2]。
+
+資金調達と開発[編集]
+The Witnessは、ジョナサン・ブローの前作『Braid』の発売に続く形で2009年にアナウンスされた。この時、ブローはまだ具体的な販売方式についての計画を持っておらず、予算額の見積もりは約80万ドルとした[26][25]。
+ブローはThe Witnessの開発と販売のため、Thelka, Inc.を立ち上げた[31]。2009年12月からブローは、3Dアーティストと技術プログラマの両方をフルタイムでリモートワークすることとなった[17]。チーム内のフルタイムメンバーは2015年まで八人前後であった。2011年頃が多く[18]、ピークの時は15人であった[19]。細かい部分を含めれば、他にも関わっているアーティストやプログラマがいる。デヴィッド・ヘルマンは、Braidの開発の時アートデザインに関わっており、The Witnessのデザインの基礎部分も担当した[17]。エリック・ウルクハートは3Dアートワークの基礎を[32]、イグナシオ・カスターニョは照明や視覚効果のレンダリングシステムを開発した[33]。ブローは2011年から参加したグラフィックスアーティストのオルソーリャ・スパーニョに多大に感謝しており、彼は当初の貧相なビジョンを、完成版までに鮮明にした[3]。プログラムの大部分を自分で作る必要があったBraidの開発と違い、メンバーが多いのでブローはゲームのコアの部分に集中し、チームの意向を整理できるようになった[17]。
+The Witnessの開発には七年もの歳月を要した[34][11][35]。ブローはこれを、開発者たちがゲームのスコープを広げるために作業し続けた結果であるとしている。彼は、予定のスコープを縮めたり既存のゲームエンジンを使うなどの、当初の大望を脅かすようなコスト削減は避けた[3]。代わりに2014年春地点の『Braid』の売り上げ約4百万ドルを開発費に充てることにした[36][3]。2015年2月の時にはBraidの売り上げが頭打ちになり、さらに追加で財源を確保しなければならなくなった。ブローは、借金をしたとしても長い目で見れば元が取れると踏んだ[37]。最終的な開発費は6百万ドル程だったと言われている[10][38][25]。ブローはThe Witnessを、大手企業の後援の無いインディーゲームとしているが、プロジェクト規模の大きさと開発に掛けた費用は大手企業に迫るものであり、ゲーム開発産業の新たな方式を作り出した[31][39]。
+The Witnessが使うエンジンは開発者自らの手によって開発されたが、これにはかなりの期間を要した[3][10]。ブローはゲームエンジンが持てる能力をフルに生かすために、Unityのような既存のエンジンを使わず独自のエンジンを用意することを強調した[10]。オープンワールドのゲームではあるが、ゲームプレイとエンジン開発を簡素化するために、島全体が一つの領域になるようコンパクトにしている[18]。しかしこの影響で別の問題が生じた。エリアの構成・設計に関して、中央サーバーを経由せず個人単位で自由に開発する手段が必要となった。ブローとチームは、ゲームの世界データをテキストファイルにする汎用的で運用しやすいシステムを開発し、チームが各々の変更の様子を確認できるようにした[18]。さらに混乱を避けるために、一万近くの物体データに対して個別の定義を作った。このシステムは地形に関する情報も定義しており、ゲームエンジンがレンダリングするときに継ぎ目を作らないようにできる。専用のエディタもあり、既存のデータへのアクセスや新データの追加が簡単にできるようになっている[18]。
+2013年11月のブローとValve開発部によるSteamVRのミーティングの後、開発チームはThe Witnessの開発においてVRデバイスの法人サポートを受けていた。ブローはSteamVRがプレイヤーの島探索を促進すると考えた[40]。VRの技術的サポートは既に完了し、提供されてはいるが、VRの機能をフルに活用はさせていない。プログラマのアンドリュー・スミスによれば、体の動きと頭の動きを独立させてしまうと、「カンニングできて」しまうパズルがあるという[41]。
+
+ゲームのデザイン・アート・サウンド[編集]
+島のデザインや配置は開発初期から大体一貫しており、チームはパズルの作成と景観の表現、アート創作に専念できた。Ars Technicaの記者サム・マッコヴェックは、2012年と2015年にゲームのデモをプレイしたが、どちらの時も親近感が沸く世界観であったとしている[20]。島中に張り巡らされたパワーケーブルが、パネルや装置を繋ぐ役割をしているのがこのゲームの特徴である。攻略の際に「圧倒的な透明感」を作る重要な要素であるとブローは考えていたが、ゲームがマンネリ化してしまうことが後々わかってきた[26]。パワーケーブルのシステムは最後まで残ったが、プレイヤーを導く手段としてのケーブルの配置は、デザイナーによってより難しく調整された[26]。
+島はパズルと探索、案内物の均衡が上手く取れるように設計されている。自由度を限界まで上げて先読みしづらくすることで、「選択の混乱」を避けている[26]。アーティストのルイ・アントニオによると、ブローは最終目的地だとすぐにわかるような山を、プレイヤーが最初に見つけるように配置したかったという。ゲームは廃墟化した堀の中から外に出るところから始まる。当初の予定とは異なり、堀の外は山に面していない。ブローの目標に合うように、堀の位置と向きをうまく調整しようとしたが、ゲームプレイのバランスを保つために、まず小広場に出て、そこをさらに出ると山の全貌が見えるという方式になった[42]。この小広場はチュートリアルとしての意味もあり、プレイヤーにパズルの基本的な仕組みと探索の仕方を教えることができる。このおかげで、Theklaは公開する詳細情報に手間をかける必要がなくなった[43]。チームのアーティストは、道案内の要素を付けたいブローの考えをサポートするために、プレイヤーが思わず近づきたくなるような色、環境、人工物を整備した[44]。ブローは楽観的な感情を作り出すために、鮮やかな色と彩度でゲームが始まるようにした。ただし後半になると明るさは無くなっていく。また、パズルに集中できなくなることが無いように、ゲーム内の物体が視覚的に邪魔をしないよう心掛けた[27]。これらの事項を満たすため、ブローとチームはしばしば、初めてプレイする人の立場に立って、ゲームの世界がどう見えるのかを精査した。このため、開発初期のあった特徴が最後には跡を残さず消えているということがあった[19]。
+描画方式は簡略化を重視している。何の物体なのか理解できる最低限の表現で各物体は描画される。アントニオによると、この考え方の基は現実の写真や絵、『風ノ旅ビト』、『Team Fortress 2』、『ミラーズエッジ』などのゲームから来ているという[45]。少なくともプレイヤーが現在どのエリアにいるかは、景観で分かるようにするため、木の種類を変えるなどして、見分けが付くようにしている[46]。ブローのチームは、現実の建築を扱うFourm Design Studio、景観設計チームのFletcher Studioと共にThe Witnessの自然環境の表現を設計した[45]。Fourmの起業者ディアンナ・ヴァン・ブレンによると、彼らが作成したエリアは、三つに異なる時代背景をベースに設計されているという。必要に応じて最近の時代の建造物と初期の頃の構築物を合わせるなどしている[47]。こうした設計をメインの開発チームの提供することで、完成作品への見通しが立ちやすくなった[47]。建物によるガイドや説明は、「適切なディテールと脳内の状況把握能力によって没入感を得る」流れを島にもたらすとブローは考えている[38]。数多くの建造物が、腐敗の深度に関わらず完全に設計され、廃墟感も表現されていることにブローは自信を持っている。こうした建造物は、城の欠落した階段の中から木の支柱が見えるなどの緻密な描写を持ち、プレイヤーの没頭感を引き立たせる[43]。
+完成版において音楽は基本的に流れない。代わりにWabi Sabi Soundの開発した環境音を聞くことができる。ブローは音楽の追加に関して「このゲーム性に反する作業」と見なした[48]。プレイヤーの孤独感を作り出すため、島には全く動物がいないので、環境音の表現は困難を極めた[48]。ほとんどの環境音はWabi Sabi Soundのアンドリュー・ラッキーが、サンフランシスコ湾のエンジェル島で歩きながら録音したものである[49]。ラッキーは環境音を複数重ねて流すことで、音のバリエーションを多くすると同時に、継ぎ目のない音を表現できるようになった[49]。
+
+マーケティングと発売[編集]
+2010年のPenny Arcade Expoで初めて、ブローはこのゲームを静かに公にした。その時、他のインディーゲーム開発者クリス・ヒッカーとアンディ・シャッツと、ブースを共有していて、彼らも『SpyParty』と『Monaco: What's Yours Is Mine』のデモンストレーションをしていた。ブースのスペースは特に混乱なく三人で共有できていた。ブローはデモンストレーションをあまり目立たないようにし、長い列ができてプレイヤーの反応に集中できないのを避けた。ブロー自身も、Expoには参加しても表立つのは避けた[50]。The WitnessがExpoでプレイできたことは、Expo終了後にブローとKotakuのスティーファン・トティロによって広く明らかとなった。トティロはゲームを運よくプレイできたが、そのことをすぐに公にはしなかった[7][51]。Expoでゲームを軽く触った人や、Kotakuの記事を見た人は、The Witnessをよくある迷路パズルゲームと考えた。しかしブローは単なるパズルゲームではないことを強く主張した。彼は同じ苦悩を『Braid』でも経験している。ゲームプレイの一部分だけで、「謎を解くプロセスの間にプレイヤーが感じる心境の変化」を理解させることは難しい[11]。
+2010年の公開の時から、ブローはThe WitnessについてMicrosoft Windows版とiOS版の提供を宣言していて、ゲーム機に関してもXbox 360版とPlayStation 3版を提供する予定にしていた[34]。しばらく後、彼は考えを変えて、技術的な制約と追加で掛かる開発時間を考慮して、ゲーム機版の提供を断念することにした[11][35]。2011年11月に、ブローは追加で二人のプログラマを雇うことができ、その時ゲーム機版の提供について再び考え直した。ブローだけではゲーム機版の開発と提供は難しかったが、追加のメンバーのおかげで一つのゲーム機版なら開発できる望みができ、他の種類のゲーム機用についても後々提供する準備ができた[52]。ゲーム開発の過程でゲームエンジンもより複雑化し、ブローは第七世代ゲーム機版の開発を、「相対的なシステムスペック不足」を理由に断念した[53]。
+2012年、ハードウェアスペックが向上した次世代ゲーム機用のThe Witness開発が現実味を帯びてきた[53]。スペック不足を理由にWii Uは諦め、PlayStation 4かXbox Oneのどちらかを選ぶことになった。この時、Sonyはすでにハードウェア情報と開発キットを提供しており、ブローのようなインディーゲーム開発者をPlayStation 4の発売に備えて探していた。逆にMicrosoftはまだハードウェア情報を発表していなく、ブローはPlayStation 4用に開発することを決めた。この決定の理由は他にも、ゲームに興味を示したSonyのセールスマンとの交渉や、マイクロソフトの態度とは違う、ソニーの次世代機に対するトレンドの広さも含まれる[54][53][55][3][56]。ブローはこの決定に関して金銭的なやり取りは一切なかったと断言している[53]。ブローは後に、マイクロソフトとはやり取りがうまくいかなかった過去があると語っており、『Braid』の販売についても、マイクロソフトと話が噛み合わない事が多かったと語っている[55]。The Witnessの販売は、開発の遅れが無ければ、2013年にPlayStation 4版を発売し、Windows版とiOS版も並行して発売する予定となった。その他のゲーム機への後々の対応は、開発者のやる気次第となった[53]。
+予定の2013年を過ぎても、ゲームをより完璧にするためThe Witnessは開発中のままであった[57]。2015年9月、ブローは発売日を2016年1月26日に定め、まずPlayStation 4とMicrosoft Windows向けに、iOS版が後に続く形で発売するとアナウンスした[3]。ゲームの発売に関して、ESRBはXbox One版のレーティングを優先したが、ブローはXbox One版を販売する計画は一切ないことを強調した。しかし後々提供する可能性もあるとして、他の販売が確定しているOS、ゲーム機版と同時にレーティングを取得した[58]。発売の一週間ほど前に、価格は40ドルになるとアナウンスされた。ブローは「ゲームの内容に対して妥当」な価格としている[59]。これはインディーゲームの価格としては高いと、一部で批判を受けた。ゲーム評論家は、同価格帯のパズルゲーム『The Talos Principle』(2014)と比較して、ブローが述べていたプレイ時間が100時間ほどになる事を踏まえれば妥当であるとしている[60][61]。販売促進のため、開発チームは三つの「長めの」プローモーションビデオを作った。実験映画『コヤニスカッツィ』を踏襲して、島の特徴をキャプションなしで静かに表現している[62][63]。
+ブローは、パッケージ版を販売をするかしないかの議論があったことを述べており、その議論の中で、追加で必要になる製造と配布の手間を考慮して、販売しないことを決定した。しかしゲームが完成し、ネット販売を開始した後、後にパッケージ版販売の可能性があることを開発チームは述べている[64][31]。
+発売の後、ゲーム内の狭い視界や歩行時の上下移動などに対して気分が悪くなるなどの報告があった。ブローは視界と歩行が調整できるように修正中であるとしている[65]。2016年8月、Microsoft Windows版がアップデートされ、NvidiaのAnselに対応した。これにより、超高画質とVRデバイスを扱るようになった[66]。ソニーのPlayStation 4 Proの発表に続いて、ブローは滑らかな4K解像度に対応するため、PlayStation 4 Pro用の修正パッチを開発することを決めた。また、PlayStation 4とPlayStation 4 Pro向けにハイダイナミックレンジのサポートも検討している[67]。
+Xbox One版は2016年9月13日に発売された[68]。2016年8月の地点で、ブローはモバイルデバイス用に画質と動作を最適化する必要があるiOS版の開発も視野に入れていることを明言している[69]。SHIELD TV用となるAndroid版は、2017年1月16日にネット配信が開始された[70]。
+
+評価[編集]
+評価集計結果媒体結果Metacritic(PC) 87/100[71](PS4) 87/100[72]レビュー結果媒体結果デストラクトイド10/10[73]ゲーム・インフォーマー9.25/10[74]Game Revolution[75]GameSpot9/10[76]GamesRadar+[77]Giant Bomb[78]IGN10/10[79]PC Gamer US89/100[80]Polygon8/10[81]VideoGamer.com10/10[82]US Gamer2/5[83]
+The Witnessは、販売開始からすぐに称賛の声が上がった。2016年現在、Metacriticの総合スコアは、Microsoft Windows版については20人のレビューから100点中87点[71]、PlayStation 4版には82人のレビューから100点中87点となっている[72]。
+IGNのクロイ・ラッドは、最高傑作として10点中10点を付け、「華麗で印象強く、謎解きの幸福感が尽きない、よくデザインされたゲームである。」と評価した[79]。VG247のブレンナ・ヒラーは、ただパズルを解き続けるだけでは終わらないファーストパーソンの使い方と、「探索すると理解不能なパズルが意味のあるパズルに代わっていく」右肩上がりの学習曲線を体感できる点を高く評価した[84]。Slant Magazineのアーロン・リッチオは、山の内部に入るときに「不気味な転換」があると考えている。島の上のパズルと異なり、奇妙な雰囲気でパズルも嫌に複雑であるとしている[12]。
+Wiredのジェイク・マンシーは、ゲームは印象的だが、説明やガイドがないのは「ゲームを敬遠する」事になりえると指摘している[85]。またその後、ブローが小説『重力の虹』を比較対象としたことについて、小説と比較して、島の生き生きさが足りないと追加で述べている[86]。Eurogamerのオリー・ウェルシュは、「分かった！」という瞬間を沢山経験できることを高く評価し、『ゴルトベルク変奏曲』に似たものがあるとしているが、パズルが見せる語りが不必要に過剰で、「すでに芸術に域に到達しているものを、さらに強調する必要はなかった」としている[87]。Polygonのジャスティン・マクエロイは、10点中8点とし、「高揚感を得られるがイライラもする」としている。彼はパズルを解くのに掛かる時間の長さを問題点とし、短気な人ならすぐ攻略を見てしまうだろうとしている。「そのまま他力でゲームを終わらせることもあり得る」[81]。US Gamerのボブ・マッキーはより批判的で、5点中2点としている。ビジュアルと設定は評価しつつも、パズルの異様な難しさと「間違いの何が間違いなのかの情報が不明瞭すぎる」ことについて、「ブローはプレイヤーを過信しすぎている」と指摘している[83]。
+The Witnessの考察に関しては、様々なものが提唱されている[88]。ゲームの意味の解読についてGamesRadarのデヴィッド・ロバーツは、The Witnessのプレイには認知論の領域における直感の意義に通じるものがあるとしている。パズルを解くにつれて、プレイヤーは背景に隠されたパズルを認知していくようになる。（「真のエンド」と思われる）映像を見るためには、プレイヤーが最初に出会うであろう背景に隠されたパズルを解く必要がある。「一連の旅路の終わりが、最初につながり、それが真の終わりに繋がる。認知の循環である[13]。」
+ブローによると、販売開始から一週間ほどで、The Witnessの売り上げは『Braid』の最初一年間の売り上げ量まで到達した[89]。この一週間の間に10万本の売り上げがあり、5百万ドルを超える利益が出たという。開発費の回収が順調に進んだため、ThelkaはiOS、Android、macOS、Xbox One版も作る方向に進んだ[90][91]。この期間、ブローは違法トレントサイトで、Braidの時を上回るほどのダウンロード数をWindows版The Witnessが記録していることに気づいていた。The Witnessに強いコピー制限を付けることは、「ユーザーの自由を尊重するため」に避けていたが、「次回作からは」考えを変えて海賊版対策をするだろうとブローは語っている[92]。
+
+賞[編集]
+
+
+年
+賞
+カテゴリ
+結果
+脚注
+
+
+2016
+
+Golden Joystick Awards 2016
+
+Best Original Game
+
+ノミネート
+
+[93][94]
+
+
+Best Visual Design
+
+ノミネート
+
+
+Best Indie Game
+
+ノミネート
+
+
+Best Gaming Moment (Unlocking the secret of Psalm 46)
+
+ノミネート
+
+
+Game of the Year
+
+ノミネート
+
+
+PlayStation Game of the Year
+
+ノミネート
+
+
+Global Game Awards 2016
+
+Best Adventure
+
+ノミネート
+
+[95]
+
+
+Best Indie
+
+ノミネート
+
+
+Best Open World
+
+ノミネート
+
+
+Best Original Game
+
+ノミネート
+
+
+The Game Awards 2016
+
+Best Independent Game
+
+ノミネート
+
+[96][97]
+
+
+Giant Bomb's 2016 Game of the Year Awards
+
+Best Moment or Sequence
+
+受賞
+
+[98]
+
+
+Best Game
+
+ノミネート
+
+[99]
+
+
+ゲーム・デベロッパーズ・チョイス・アワード
+
+Best Design
+
+ノミネート
+
+[100]
+
+
+Innovation Award
+
+ノミネート
+
+
+2017 SXSWゲーム賞
+
+Excellence in Design
+
+ノミネート
+
+[101]
+
+
+Excellence in Art
+
+ノミネート
+
+
+13th British Academy Games Awards
+
+Game Design
+
+ノミネート
+
+[102]
+
+
+Game Innovation
+
+ノミネート
+
+
+Best Debut
+
+ノミネート
+
+
+Original Property
+
+ノミネート
+
+脚注[編集]
+注釈[編集]
+
+
+^ 発音: [ˈtɛk ˌlä]
+
+
+出典[編集]
+
+
+^ a b c d Amini, Tina (2013年6月13日). “Jonathan Blow Thinks Adventure Games Are Bad. So He's Making One.”. Kotaku.   Gawker Media. 2013年6月14日閲覧。
+
+^ a b Totilo, Stephan (2016年2月15日). “Wrestling With The Witness' Most Difficult, Divisive Puzzle”. Kotaku.   Gawker Media. 2016年2月15日閲覧。
+
+^ a b c d e f g h i j Kollar, Philip (2015年9月17日). “The Witness: The creator of Braid talks about his fiendishly difficult new game”. Polygon.   Vox Media. 2015年9月17日閲覧。
+
+^ Massongill, Justin (2015年9月21日). “The Witness: Inside One of 2016's Most Important Games”. PlayStation Blog.   Sony Computer Entertainment America. 2015年9月21日閲覧。
+
+^ O'Connor, James (2015年9月23日). “The Witness contains 600 puzzles, one of which only “1% of players” will probably solve”. VG247.   Videogaming247. 2015年9月23日閲覧。
+
+^ Webster, Andrew (2014年6月13日). “'The Witness' is the modern day 'Myst' you've been waiting for”. The Verge.   Vox Media. 2016年2月22日閲覧。
+
+^ a b c Totilo, Stephen (2010年9月6日). “A Tantalizing Session With The Witness, The Next Game From The Creator Of Braid”. Kotaku.   Gawker Media. 2010年9月6日閲覧。
+
+^ a b c Donlan, Christian (2011年8月24日). “The Witness - Preview”. Eurogamer.   Gamer Network. 2011年8月24日閲覧。
+
+^ a b c d Machkovech, Sam (2016年1月25日). “The Witness review: A haunting, beautiful, coldly logical puzzle allegory”. Ars Technica.   Condé Nast. 2016年1月27日閲覧。
+
+^ a b c d Moore, Bo (2015年9月17日). “This Sprawling Puzzle Game May Be Your Next Obsession”. Wired.   Condé Nast. 2015年9月17日閲覧。
+
+^ a b c d Bramwell, Tom (2010年10月22日). “Jonathan Blow asks fans to "have faith"”. Eurogamer.   Gamer Network. 2010年10月22日閲覧。
+
+^ a b Riccio, Aaron (2016年2月1日). “The Witness - Game Review”. Slant. 2016年2月1日閲覧。
+
+^ a b c Roberts, David (2016年2月3日). “That 'Eureka' moment: what The Witness is really about”. GamesRadar.   Future US. 2016年2月4日閲覧。
+
+^ Nunneley, Stephany (2016年1月14日). “The Witness cast includes Phil LaMarr and Ashley Johnson, new screenshots released”. VG247.   Videogaming247. 2016年1月14日閲覧。
+
+^ Martin, Garreth (2016年1月27日). “The Unsubtle Subtlety of The Witness”. Paste.   Paste Media Group. 2016年1月27日閲覧。
+
+^ Sullivan, Lucas (2016年2月1日). “Hidden images in The Witness”. GamesRadar.   Future US. 2016年2月1日閲覧。
+
+^ a b c d e f g h i j k Parkin, Simon (2010年12月6日). “Catching Up With Jonathan Blow”. Gamasutra.   UBM TechWeb. 2010年12月6日閲覧。
+
+^ a b c d e Blow, Jonathan (2011年12月28日). “In-depth: Concurrent World Editing, On The Cheap”. Gamasutra.   UBM TechWeb. 2011年12月28日閲覧。
+
+^ a b c Alexander, Leigh (2014年6月6日). “The Witness: Modeling epiphany”. Gamasutra.   UBM TechWeb. 2016年1月26日閲覧。
+
+^ a b c Machkovech, Sam (2015年9月17日). “The man and the island: Wandering through Jonathan Blow’s The Witness”. Ars Technica.   Condé Nast. 2015年9月18日閲覧。
+
+^ Byrd, Christopher (2016年2月2日). “‘The Witness’ review: A daunting, confounding, maddening, and beautiful game”. Washington Post. https://www.washingtonpost.com/news/comic-riffs/wp/2016/02/02/the-witness-review-a-daunting-confounding-maddening-and-beautiful-game/ 2016年2月2日閲覧。 
+
+^ Snider, Mike (2013年6月19日). “Bearing witness to 'The Witness'”. USA Today. 2013年6月19日閲覧。
+
+^ Tach, Dave (2013年6月13日). “The Witness is an adventure-puzzle game about non-verbal communication”. Polygon.   Vox Media. 2016年2月22日閲覧。
+
+^ Maiberg, Emanuel (2015年10月28日). “With 100 Hours of Puzzles, 'The Witness' Is the Kind of Gamble Gaming Needs”. Vice.   Vice Media. 2015年11月2日閲覧。
+
+^ a b c Parkin, Simon (2016年1月29日). “The Prickly Genius of Jonathan Blow”. The New Yorker.   Condé Nast. 2016年1月29日閲覧。
+
+^ a b c d e Nutt, Christian (2011年8月8日). “Bearing Witness”. Gamasutra.   UBM TechWeb. 2016年1月25日閲覧。
+
+^ a b c d Pandell, Lexi (2016年1月4日). “Q&A: Jonathan Blow on The Witness and the state of indie games”. Gamasutra.   UBM TechWeb. 2016年1月4日閲覧。
+
+^ Narcisse, Evan (2016年1月28日). “Five Years Ago, Jonathan Blow Knew Just What The Witness Would Be”. Kotaku.   Gawker Media. 2016年1月28日閲覧。
+
+^ Hillier, Brenna (2016年1月28日). “Who is The Witness for? We asked Jonathan Blow”. VG247.   Videogaming247. 2016年1月28日閲覧。
+
+^ Marsh, Calum (2016年1月27日). “Jonathan Blow: 'I want to make games for people who read Gravity's Rainbow'”. The Guardian.   Guardian News and Media. 2016年1月27日閲覧。
+
+^ a b c Calvin, Alex (2016年2月18日). “"The Witness isn't an indie game"”. Market for Home Computing and Video Games.   New Bay Media. 2016年2月18日閲覧。
+
+^ Purchese, Robert (2010年3月1日). “Braid maker shows The Witness”. Eurogamer.   AOL Tech. 2010年3月2日閲覧。
+
+^ Blow, Jonathan (2010年3月1日). “Graphics Tech: Precomputed Lighting”. The Witness.   Thekla, Inc.. 2010年3月2日閲覧。
+
+^ a b Barber, Tyler (2009年8月4日). “Johnathan Blow Announces New Game”. GameSpy.   IGN Entertainment. 2010年3月2日閲覧。
+
+^ a b Wiltshire, Alex (2011年9月27日). “Jonathan Blow interview”. Edge.   Future Publishing. 2011年11月3日時点のオリジナルよりアーカイブ。2011年9月28日閲覧。
+
+^ Parkin, Simon (2014年4月3日). “The Guilt of the Video-Game Millionaires”. The New Yorker.   Condé Nast. 2015年9月17日閲覧。
+
+^ Handrahan, Matthew (2015年2月9日). “Jon Blow has gone into debt to finish The Witness”. GamesIndustry.biz.   Gamer Network. 2015年9月17日閲覧。
+
+^ a b Webster, Andrew (2016年1月26日). “The creators of The Witness on how they made a 100-hour puzzle game”. The Verge.   Vox Media. 2016年1月26日閲覧。
+
+^ Conditt, Jessica (2016年1月21日). “Traveling through time with 'Braid' creator Jonathan Blow”. Engadget.   AOL Tech. 2016年1月21日閲覧。
+
+^ Tach, Dave (2014年1月24日). “How Valve tech convinced Jonathan Blow to add VR to The Witness”. Polygon.   Vox Media. 2016年2月16日閲覧。
+
+^ Saed, Sharid (2016年2月15日). “Playing The Witness in VR “is far from optimal”, VR version “problematic””. VG247.   Videogaming247. 2016年2月15日閲覧。
+
+^ Kerr, Chris (2016年2月16日). “Find out how the world of The Witness was brought to life”. Gamasutra.   UBM TechWeb. 2016年2月16日閲覧。
+
+^ a b Smith, Adam (2016年2月19日). “How does The Witness teach without words?”. Rock, Paper, Shotgun. 2016年2月19日閲覧。
+
+^ Antonio, Luis (2016年). “The Art of The Witness - Entry Yard”. Art of Luis. 2016年2月16日閲覧。
+
+^ a b Antonio, Luis (2014年3月20日). “The Art of the Witness”. GDC Vault.   UBM TechWeb. 2016年1月26日閲覧。
+
+^ Wawro, Alex (2014年10月31日). “The Witness artist reminds us to keep it simple, stupid”. Gamasutra.   UBM TechWeb. 2016年1月27日閲覧。
+
+^ a b Van Buren, Deanna (2015年10月12日). “Architecture in Video Games: Designing for Impact”. Gamasutra.   UBM TechWeb. 2016年1月25日閲覧。
+
+^ a b Hillier, Brenna (2015年11月20日). “The Witness “Long Screenshot” trailer emphasises music-free sound design”. VG247.   Videogaming247. 2015年11月22日閲覧。
+
+^ a b Gardiner, Bryan (2016年1月26日). “Why all the audio for The Witness was recorded on location”. Gamasutra.   UBM TechWeb. 2016年1月26日閲覧。
+
+^ Watts, Steve (2010年9月7日). “The Witness Quietly Debuted at PAX”. 1UP.com.   IGN Entertainment. 2010年9月7日閲覧。
+
+^ Blow, Jonathan (2010年9月6日). “We showed The Witness secretly at PAX… in plain sight.”. The Witness.   Thekla, Inc.. 2010年9月6日閲覧。
+
+^ Miller, Matt (2011年12月2日). “Is The Witness Coming To Consoles?”. Game Informer.   GameStop. 2011年12月5日閲覧。
+
+^ a b c d e Tolito, Stephan (2013年2月21日). “How The Witness Became a PS4 Game (And Why PC/iOS Owners Can Remain Happy)”. Kotaku.   Gawker Media. 2013年2月21日閲覧。
+
+^ McWhertor, Michael (2013年2月20日). “The Witness from Jonathan Blow to debut on PS4 as timed console exclusive”. Polygon.   Vox Media. 2013年2月20日閲覧。
+
+^ a b “How The Witness Became a PS4 Game”. Kotaku.   Gawker Media (2013年2月21日). 2015年4月9日閲覧。
+
+^ Machkovech, Sam (2015年9月17日). “How Sony snagged Jonathan Blow’s The Witness away from the Xbox One”. Ars Technica.   Condé Nast. 2015年9月18日閲覧。
+
+^ Macy, Seth G. (2014年8月20日). “Jonathan Blow's The Witness is Nearly Completion”. IGN. 2016年1月26日閲覧。
+
+^ Sarkar, Samit (2016年1月18日). “The Witness rated for Xbox One, but developer currently has 'no plans' for it”. Polygon. 2016年1月18日閲覧。
+
+^ Parkin, Simon (2016年2月7日). “Is the price of a video game ever really right?”. The Guardian.   Guardian News and Media. 2016年2月7日閲覧。
+
+^ Chalk, Andy (2016年1月19日). “The Witness preorders go live with a $40 price tag”. PC Gamer.   Future US. 2016年1月19日閲覧。
+
+^ Klepek, Patrick (2016年1月19日). “Jonathan Blow’s next puzzle game, The Witness, arrives January 26”. Kotaku.   Gawker Media. 2016年1月19日閲覧。
+
+^ Antonio, Luis (2016年). “The Art of 'The Witness'”. Art of Luis. 2016年2月16日閲覧。
+
+^ Hillier, Brenna (2016年1月4日). “The Witness gets another beautifully quiet "Long Screenshot" trailer”. VG247.   Videogaming247. 2016年2月16日閲覧。
+
+^ Chalk, Andy (2015年12月23日). “A boxed edition of The Witness is "seeming likely"”. PC Gamer.   Future US. 2016年1月3日閲覧。
+
+^ Yin-Poole, Wesley (2016年2月1日). “Does The Witness make you feel sick?”. Eurogamer.   Gamer Network. 2016年2月1日閲覧。
+
+^ Summers, Nick (2016年8月23日). “Capture 'The Witness' with NVIDIA's Ansel camera”. Engadget.   AOL Tech. 2016年8月23日閲覧。
+
+^ Makuch, Eddie (2016年9月8日). “PS4 Pro Patch for The Witness on the Way”. GameSpot. 2016年9月8日閲覧。
+
+^ Makuch, Eddie (2016年9月13日). “PSA: The Witness Out Now on Xbox One”. GameSpot. 2016年9月13日閲覧。
+
+^ Rad, Chloi (2016年8月23日). “The Witness for Xbox One Announced”. IGN.   IGN Entertainment. 2016年8月23日閲覧。
+
+^ “Play the Award-Winning Puzzle Adventure, The Witness, Now Available on NVIDIA SHIELD TV”. SHIELD Blog. 2017年2月15日閲覧。
+
+^ a b “The Witness for PC Reviews”. Metacritic.   CBS Interactive. 2016年4月27日閲覧。
+
+^ a b “The Witness for PlayStation 4 Reviews”. Metacritic.   CBS Interactive. 2016年4月27日閲覧。
+
+^ Makedonski, Brett (2016年1月25日). “The Witness Review”. Destructoid.   ModernMethod. 2016年1月25日閲覧。
+
+^ Juba, Joe (2016年1月25日). “The Witness - Creating Complexity From Simplicity”. Game Informer.   GameStop. 2016年1月25日閲覧。
+
+^ Almogi, Gil (2016年1月25日). “The Witness Review”. Game Revolution.   CraveOnline. 2016年1月25日閲覧。
+
+^ Mahardy, Mike (2016年1月25日). “The Witness Review”. GameSpot.   CBS Interactive. 2016年1月25日閲覧。
+
+^ Hurley, Leon (2016年1月25日). “The Witness review”. GamesRadar.   Future US. 2016年1月25日閲覧。
+
+^ Shoemaker, Brad (2016年1月25日). “The Witness Review”. Giant Bomb.   CBS Interactive. 2016年1月25日閲覧。
+
+^ a b Rad, Chloi (2016年1月25日). “The Witness Review”. IGN.   IGN Entertainment. 2016年1月25日閲覧。
+
+^ Evans-Thirlwell, Edwin (2016年1月25日). “The Witness review”. PC Gamer.   Future US. 2016年1月25日閲覧。
+
+^ a b McElroy, Justin (2016年1月25日). “The Witness review”. Polygon.   Vox Media. 2016年1月25日閲覧。
+
+^ Orry, Tom (2016年1月25日). “The Witness Review”. VideoGamer.com.   Candy Banana. 2016年1月25日閲覧。
+
+^ a b Mackey, Bob (2016年1月28日). “The Witness PlayStation 4 Review: Cast Away”. US Gamer.   Gamer Network. 2016年2月19日閲覧。
+
+^ Hiller, Brenna (2016年1月25日). “The Witness Review – Do yourself a favour: don’t use a guide”. VG247.   Videogaming247. 2016年1月25日閲覧。
+
+^ Muncy, Jack (2016年1月25日). “The Witness is Driving Me Insane”. Wired.   Condé Nast. 2016年1月25日閲覧。
+
+^ Muncy, Jake (2016年2月11日). “Now That I Beat the Witness, I See What's Wrong With It”. Wired.   Condé Nast. 2016年2月11日閲覧。
+
+^ Welsh, Oli (2016年1月25日). “The Witness review”. Eurogamer. 2016年1月26日閲覧。
+
+^ Matulef, Jeffrey (2016年2月19日). “Nobody is sure what The Witness is about”. Eurogamer.   Gamer Network. 2016年2月19日閲覧。
+
+^ Parlock, Joe (2016年1月31日). “The Witness is already almost outselling Braid's entire first year”. Destructoid.   ModernMethod. 2016年1月31日閲覧。
+
+^ Nutt, Christian (2016年2月2日). “The Witness has grossed over $5 million, selling 100k+ in a week”. Gamasutra.   UBM TechWeb. 2016年2月2日閲覧。
+
+^ Makuch, Eddie (2016年2月2日). “The Witness Sells 100,000 Copies, Xbox One Version Being Considered”. GameSpot.   CBS Interactive. 2016年2月2日閲覧。
+
+^ Makuch, Eddie (2016年1月29日). “The Witness Is Being Pirated a Lot, Dev Says”. GameSpot.   CBS Interactive. 2016年1月29日閲覧。
+
+^ Sheridan, Connor (2016年11月18日). “Overwatch scoops five awards, Firewatch wins Best Indie Game: Here are all the Golden Joystick 2016 winners”. GamesRadar. 2017年3月27日閲覧。
+
+^ Loveridge, Sam (2016年9月15日). “Golden Joystick Awards 2016 voting now open to the public”. Digital Spy. 2016年10月29日閲覧。
+
+^ https://www.game-debate.com/awards/2016/nominee/the-witness
+
+^ Makuch, Eddie (2016年11月16日). “All the 2016 Game Awards Nominees”. GameSpot. 2016年11月16日閲覧。
+
+^ Stark, Chelsea (2016年12月1日). “The Game Awards: Here’s the full winners list”. 2016年12月5日閲覧。
+
+^ “Giant Bomb's 2016 Game of the Year Awards: Day Four”. 2017年3月27日閲覧。
+
+^ “Giant Bomb's 2016 Game of the Year Awards: Day Five”. 2017年3月27日閲覧。
+
+^ Makuch, Eddie (2017年1月4日). “Game of the Year Nominees and More Revealed for Game Developers Choice Awards”. GameSpot. 2017年1月4日閲覧。
+
+^ Makuch, Eddie (2017年1月25日). “All The 2017 SXSW Game Award Nominees”. GameSpot. 2017年3月5日閲覧。
+
+^ wbber, Jordan Erica (2017年3月9日). “Bafta games awards 2017: Inside and Uncharted 4 lead the way”. The Guardian. 2017年3月9日閲覧。
+
+
+外部リンク[編集]
+公式ウェブサイト
+The Witness - PlayStation
+The Witness - Steam
+The Art of 'The Witness' – The Witnessのアーティスト、ルイ・アントニオのブログ。ゲームのアートについての情報を公開している。
+コンピュータゲームポータル
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=The_Witness&oldid=83365344」から取得
+カテゴリ: 2016年のコンピュータゲームアドベンチャーゲームIOSのゲームオープンワールドゲームPlayStation 4用ソフトパズルゲームアメリカで開発されたコンピュータゲームWindows用ゲームソフト
+

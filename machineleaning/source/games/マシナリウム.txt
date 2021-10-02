@@ -1,0 +1,268 @@
+
+
+
+
+
+マシナリウム
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+マシナリウムMachinariumジャンル
+アドベンチャーゲーム対応機種
+PC（Windows, OS X, Linux）Windows PhoneiOSBlackBerryAndroidPlayStation 3PlayStation VitaPlayStation 4Nintendo Switch開発元
+Amanita Design（英語版）発売元
+Amanita DesignPLAYISM（ PS3, PS Vita, PS4）デザイナー
+Jakub Dvorský音楽
+Tomáš Dvořák人数
+1人発売日
+PC, Win Phone：2009年10月16日iOS：2011年9月8日BlackBerry：2011年11月21日Android：2012年5月10日PS3 2012年9月6日[1] 2012年10月9日 2014年12月24日[2]PS Vita 2013年3月26日 2013年5月1日 2014年12月24日[2]PS4 2016年9月1日 2016年9月21日 2016年10月18日Switch 2018年11月1日対象年齢
+IARC：7+CERO：A（全年齢対象）ESRB：E10+（10歳以上）PEGI：7USK：0コンテンツアイコン
+IARC：軽い暴力ESRB：Comic Mischief, Use of TobaccoPEGI：Violenceエンジン
+Adobe Flashテンプレートを表示
+『マシナリウム』（英: Machinarium）は、チェコのインディーゲームスタジオAmanita Design（英語版）によって開発されたポイント・アンド・クリック型アドベンチャーゲーム。日本語版はPLAYISMがローカライズを行っている。
+
+目次
+
+1 ゲームプレイ
+2 プロット
+3 開発
+4 評価
+
+4.1 海賊恩赦
+
+
+5 サウンドトラック
+6 エディション
+7 その他のメディア
+8 脚注
+
+8.1 注釈
+8.2 出典
+
+
+9 外部リンク
+
+
+ゲームプレイ[編集]
+マシナリウムの目的は、パズルやクイズなどを解くことにある。パズルは、従来のいわゆる「ポイント・アンド・クリック」系アドベンチャー・ストーリーに見られるオーバーワールドによってリンクされ、プレイヤーは手の届く範囲オブジェクトのみをクリックできる。
+マシナリウムには台詞が一切存在しない。その代わりにアニメの吹き出しが使われており、独特の世界観が形成されている。イースター・エッグとして収録されているバッグストーリーでは一部の場面でのみ吹き出しが使用されている。
+2つのヒントシステムがあり、レベルが上がるごとに1回ヒントを見られるが、段々と曖昧な内容になっていくものと、ミニゲームをクリアすることでいつでも閲覧できる手引書がついている。台詞と同様、攻略の手引きには文字も言葉もなく、その時のパズルとその解決法が、スケッチを通じて説明されている。
+
+プロット[編集]
+高い塔の頂上から街を見下ろすところから物語は始まる。ジョセフと呼ばれるロボット[Note 1]はスクラップとして捨てられるが、自分を直して動き出す。街に行くと塔を爆破しようとする3人の犯罪者、Black Cap Brotherhoodを目撃するが、ジョセフは発見され捕まってしまう。監禁場所から逃れて市民を助け始めると悪戯を働いているBrotherhoodを発見、彼らの部屋を水浸しにさせ（無力化させたまま）料理をさせられている自分のガールフレンドのベルタを探す。彼女はまだ助け出せないため塔を昇っていく。塔に仕掛けられた爆弾を解除、最上階に到達するとそこで今までの経緯が判明。街の「頭（"head"）」の巨大ロボットが部屋の中央に鎮座、無能力化していた。ジョセフはBlack Cap Brotherhoodを倒し、彼らはその場でベルタを誘拐するまで3人で幸せに暮らしていたことを思い出す。Brotherhoodの計画を阻止、ベルタを助け出した。2人は友人たちに別れを告げ、夕日に向って旅立つ。
+
+開発[編集]
+マシナリウムは7人のチェコ人の開発者によって3年をかけて開発された。資金は自らの貯金を使ったという。マーケティング予算はたった1000ドルだった[4]。
+Xbox 360用ゲームとして半年間開発した。Xbox Live Arcadeで配信される予定だったがMicrosoftは最終的に配信しないことにした。開発者たちはゲームを発表するために第三者へアプローチすることに消極的だった。Xbox Live Arcadeの売上から開発者への利益が大きく減る事を意味している。アマニタ・デザインはソニーへアプローチ、PlayStationネットワークで配信するためゲームを提出した[5]。
+続編に関しては、「可能性はある」が、「そこまで先のことはあまり考えない」とJakub Dvorskýが述べている。[6]
+
+評価[編集]
+評価集計結果媒体結果GameRankings(PC) 84.3%[7]Metacritic(iOS) 88/100[8](PSV) 88/100[9](PC) 85/100[10](PS3) 78/100[11]レビュー結果媒体結果Edge8/10[12]Eurogamer8/10[13]ファミ通32/40[14]GameSpot8.0/10[15]IGN(PS3) 8.0/10[16]  (PC) 8.1/10[17]PC Gamer UK73%[18]PC Gamer US79%[19]受賞媒体受賞IGFExcellence in Visual Art (2009)[17]KotakuPC Game of the Year 2009 Runner-up[20]AggieBest Independent Adventure[21], Best Adventure of 2009 Runner-Up, Best Graphic Design[22], Best Music[23], Best Animation[24]IndiecadeAesthetics (2008)[25]
+ゲームレビューサイトのGame RankingsとMetacriticでは84.78%と85%という平均スコアを得た。[17][10]。
+PS4版はファミ通クロスレビューでは8、8、8、8の32点でゴールド殿堂入り[14]。レビュアーは体が伸び縮みするなどのロボットの愛嬌のあるアクション、謎解き、アイテムのひねった使い道、ヒントの見せ方、グラフィック、アニメーション、BGMを賞賛した[14]。また、「BestPickofThisWeek! 今週はコレを買え!」では同じ号でレビューした10作品のうち、レビュアー6人中4人が本作を選んだ[26]。
+第12回目のIndependent Games Festival[27]にてExcellence in Visual Art賞を受賞し、PC Gamerの2009年度のベスト・サウンドトラック賞も受賞した。[28] Academy of Interactive Arts & Sciences[29]よりOutstanding Achievement in Art Direction賞にノミネートされ、Paris Game Festivalではベスト・インディーズ・ゲームのカテゴリーでMilthon賞にもノミネートされた。[30]
+ゲーミングサイトのKotakuにはTorchlightとともに「PC Game of the Year 2009」賞にもノミネートされ、2位に。受賞したのはEmpire: Total Warだった。[31]Gamasutra、Gamerview、そしてトルコのTom's HardwareもMachinariumを「Best Indie Game of 2009」とした。[32][33][34]AceGamezもMachinariumを「Best Traditional Adventure Game of 2009」とした。[35]
+2011年、Adventure Gamersアドベンチャーゲームトップ100で本作を17位に選んだ[36]。
+
+海賊恩赦[編集]
+2010年8月5日、Adventure Gamers調べによれば本作を購入したプレイヤーは全体の5-15％だったと発表した[37]。売上増のため価格が20ドルから5ドルに値下げされ[38]、8月12日までだったキャンペーンは8月16日まで延長[39]、この「恩赦」期間中に2万本売り上げた[40]。
+
+サウンドトラック[編集]
+Tomáš Dvořák が作詞、作曲、ミックス、プロデュースした。2009年10月21日にデジタル・フォーマット（mp3とFLAC）でリリースされた。アルバムには14曲が含まれている。
+Machinariumが2009年度のPC Gamerベスト・サウンドトラック賞を受賞した。[41]
+
+エディション[編集]
+ ヤクブ・ドヴォルスキー（デザイナー）
+ Tomáš Dvořák（コンポ―サー、サウンドトラック）
+マシナリウムはいくつかのパッケージ、デジタルフォーマットで発売された
+
+パッケージ
+Machinarium Collector's Edition (イギリス版) – DVD、デジタル形式のサウンドトラック、サウンドトラックCD、プリントウォークスルー、A3ポスター付属、コンセプトアートを収録。OS:Windows、Mac（Linuxなし）[42]。2010年3月5日発売。
+Mашинариум (Machinarium) (ロシア版) – DVD、サウンドトラックCD付属。OS:Windows、Mac（Linuxなし）[43]
+Machinarium (ドイツ版) – ゲームディスク、サウンドトラックCD、Samorost 2、ポスター付属。OS:Windows、Mac（Linuxなし）[44]
+Machinarium （フランス版) – ゲームディスク、サウンドトラックCD、Samorost 2、ポスター付属。OS:Windows、Mac（Linuxなし）[45]
+Machinarium (イタリア版) – ゲームディスク。OS:Windows（Mac、Linuxなし）[46]
+Machinarium (チェコ版) – ゲームディスク、MP3サウンドトラック付属。OS:Windows、Mac（Linuxなし）[47]
+Machinarium (スロバキア版) – ゲームディスク、MP3サウンドトラック付属。OS:Windows（Linuxなし）[47]
+Machinarium (ポーランド版) – ゲームDVD、サウンドトラック、FLAC/MP3デジタル形式のEPアルバムポースター付属DVD。OS:Windows、Mac（特製の金属箱に梱包）[48]
+デジタル
+Amanita Design Store – Win、Mac、Linux版。FLAC/MP3形式のサウンドトラック収録。2009年10月16日発売[49]。
+Steam – Win版、Mac版。2009年10月16日発売[50]。
+GOG.com – Win、Mac、Linux版。「Machinarium：Collector's Edition」にはゲームの他、サウンドトラック、アートワーク、資料が特典[51]。
+Desura – Win、Mac、Linux版。サウンドトラック収録。2010年12月19日発売[52][53]。
+Impulse – Win版[54]
+Direct2Drive – Win版[55]
+GamersGate – Win、Mac版[56]
+Mac App Store – Mac版。2011年3月18日発売[57]。
+Playism (日本) – Win、Mac版。2011年5月11日発売[58]
+家庭用ゲーム機
+PlayStation 3、PlayStation Vita、PlayStation 4、Nintendo Switchで発売。
+発売中止
+Xbox 360（XBLA） - 発売に向けて半年制作。だがXbox Live Arcadeでは発売しないことをMicrosoftが決定[5]。
+Wii（Wiiウェア） - 発売予定はあったが、2011年11月時点でWiiウェアの40MB制限を理由に中止[59]。
+タブレット
+iPad 2 - 2011年9月8日配信
+BlackBerry PlayBook - 2011年11月21日配信
+Android - 2012年5月10日配信
+iPad 1 - 2013年10月16日にv2.0を配信
+動作可能な他のプラットフォーム
+HP TouchPad - Flash PC版が動作可能[60]。
+その他のメディア[編集]
+ジョセフはプラットフォーム・ゲームのSuper Meat Boyではプレイヤーキャラクターとして登場[61]。ilomiloではカメオ出演、アマニタ・デザイン第2作のBotaniculaにもカメオ出演した。
+ジョセフはFabian Gonzalezが制作したVideo Game Character alphabetにも登場。
+ジョセフはRunner2とキャラクターDLCとしてコラボレーションした。
+本作とそのサウンドトラックはEstablishment Magazine Issue 1で発表されたAndrew Galanの詩『The Machingeon』に影響を与えた[62]。
+
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+
+
+^ 「ロボット」という言葉を考案したヨゼフ・チャペックに由来[3]
+
+
+出典[編集]
+
+
+^ “Machinarium”. 2012年9月8日閲覧。
+
+^ a b “PLAYISMのPSプラットフォーム対応ソフト第1弾「TorqueL」「Machinarium」が配信開始”.   4Gamer.net (2014年12月24日). 2019年8月1日閲覧。
+
+^ “Game Reviews – Machinarium (PC)”. Digital Spy. 2010年2月15日閲覧。
+
+^ "The 12th Annual Independent Games Festival – Finalists and Winners". ThinkServices. 2010年2月10日時点のオリジナルよりアーカイブ。2009年10月16日閲覧。
+
+^ a b "Machinarium dev moves on to Sony after Microsoft passes on publishing its critical darling". Cite webテンプレートでは|accessdate=引数が必須です。 (説明)
+
+^ Matthew Reynolds (2011年3月28日). “Exclusive: 'Machinarium' coming to PS3, Wii in 2011”. Digital Spy. http://www.digitalspy.co.uk/gaming/news/a311437/machinarium-coming-to-ps3-wii-in-2011.html 2011年5月5日閲覧。 
+
+^ “Machinarium for PC”.   GameRankings. 2010年1月2日閲覧。
+
+^ “Machinarium”. Metacritic. 2016年1月16日閲覧。
+
+^ “Machinarium”. Metacritic. 2016年1月16日閲覧。
+
+^ a b “Machinarium (pc) reviews”.   Metacritic. 2010年1月3日閲覧。
+
+^ “Machinarium”. Metacritic. 2016年1月16日閲覧。
+
+^ “Machinarium (PC) Review”.   Edge Online. p. 1 (2009年10月15日). 2009年10月16日閲覧。
+
+^ Whitehead, Dan (2009年10月17日). “Machinarium (PC) Review”.   EuroGamer. p. 2. 2009年10月16日閲覧。
+
+^ a b c ファミ通2016年9月29日号 No.1450 271ページ
+
+^ “Machinarium Review”.   Gamespot.com. p. 1 (2009年11月9日). 2010年1月3日閲覧。
+
+^ “Machinarium Review”.   IGN.com (2012年9月18日). 2012年9月18日閲覧。
+
+^ a b c “Machinarium Review”.   IGN.com (2009年10月20日). 2012年9月18日閲覧。
+
+^ PC Gamer UK Jan 2010, page 75
+
+^ PC Gamer US Christmas 2009, page 98
+
+^ “The Best PC Games Of 2009”.   Kotaku (2010年1月22日). 2018年6月17日閲覧。
+
+^ “2009 Aggie Awards - page 15”.   Adventure Gamers (2010年2月17日). 2018年6月17日閲覧。
+
+^ “2009 Aggie Awards - page 8”.   Adventure Gamers (2010年2月17日). 2018年6月17日閲覧。
+
+^ “2009 Aggie Awards - page 10”.   Adventure Gamers (2010年2月17日). 2018年6月17日閲覧。
+
+^ “2009 Aggie Awards - page 9”.   Adventure Gamers (2010年2月17日). 2018年6月17日閲覧。
+
+^ “Browse by Award Winners”.   Indiecade (n.d.). 2018年6月17日閲覧。
+
+^ ファミ通2016年9月29日号 No.1450 273ページ
+
+^ “Wake up to video game sleeper hits”.   MSNBC. 2009年10月17日時点のオリジナルよりアーカイブ。2009年10月18日閲覧。
+
+^ “Machinarium Has The Best Soundtrack Of The Year (2009) According To PC Gamer”.   Amanita Design Blog. 2010年8月25日閲覧。
+
+^ “Awards Category Details: Outstanding Achievement in Art Direction”.   Academy of Interactive Arts & Sciences. 2010年10月22日閲覧。
+
+^ "Milthon European Games Awards - 2010 Nominees". 2012年8月8日時点のオリジナルよりアーカイブ。2010年8月25日閲覧。
+
+^ “The Best PC Games Of 2009”. Kotaku (Gawker Media). (2010年1月21日). http://kotaku.com/5452366/the-best-pc-games-of-2009 2010年10月22日閲覧。 
+
+^ "Gamasutra's Best Of 2009: Top 10 Indie Games". Gamasutra. 2010年8月26日閲覧。
+
+^ “Os Melhores do Ano 2009” (ポルトガル語).   Gamerview. 2009年12月22日時点のオリジナルよりアーカイブ。2010年8月26日閲覧。
+
+^ “Yılın Bağımsız Yapımı” (トルコ語).   tom's oyun. 2010年8月26日閲覧。
+
+^ "The Acegamez Awards 2009 – Winners". AceGamez. 2010年1月17日時点のオリジナルよりアーカイブ。2010年8月26日閲覧。
+
+^ AG Staff (30 December 2011). "Top 100 All-Time Adventure Games". Adventure Gamers. 2012年6月4日時点のオリジナルよりアーカイブ。 Cite webテンプレートでは|accessdate=引数が必須です。 (説明)
+
+^ “Machinarium Pirate Amnesty”.   Amanita Design Blog. 2010年8月25日閲覧。
+
+^ “Machinarium suffers 90% piracy rate, offers $5 amnesty sale”.   Ars Technica. 2010年8月25日閲覧。
+
+^ “Machinarium Pirate Amnesty Extended, Stats Revealed”.   Amanita Design Blog. 2010年8月25日閲覧。
+
+^ “Pirate Amnesty Is Over”.   Amanita Design Blog. 2010年8月25日閲覧。
+
+^ “Machinarium Has The Best Soundtrack Of The Year (2009) According To PC Gamer”.   Amanita Design Blog. 2010年8月25日閲覧。
+
+^ Machinarium Collector's Edition page at Lace Mamba Global website
+
+^ “Машинариум”. 2016年1月16日閲覧。
+
+^ Machinarium (German Edition) website
+
+^ Machinarium (French Edition) website
+
+^ “Machinarium”. Multiplayer.it. 2016年1月16日閲覧。
+
+^ a b “Security Check Required”. 2016年1月16日閲覧。
+
+^ Polish publisher's website. Archived 20 January 2012 at the Wayback Machine.
+
+^ “Store – Amanita Design”. 2016年1月16日閲覧。
+
+^ “Machinarium on Steam”. 2016年1月16日閲覧。
+
+^ “Machinarium: Collector's Edition for download $9.99”.   GOG.com. 2013年8月17日閲覧。
+
+^ “Machinarium Windows, Mac, Linux game”. Desura. 2016年1月16日閲覧。
+
+^ “Engadget”. Engadget. 2016年1月16日閲覧。
+
+^ “PC Games”. 2016年1月16日閲覧。
+
+^ Machinarium on Direct2Drive
+
+^ “Machinarium”. GamersGate. 2016年1月16日閲覧。
+
+^ Amanita Design s.r.o (2011年3月18日). “Machinarium”. Mac App Store. 2016年1月16日閲覧。
+
+^ Machinarium on Playism Archived 17 May 2011 at the Wayback Machine.
+
+^ James Newton (2010年9月9日). “XGen Studios Readying Machinarium and Super Motherload for WiiWare”. Nintendo Life. http://wiiware.nintendolife.com/news/2010/09/xgen_studios_readying_machinarium_and_super_motherload_for_wiiware 2010年9月10日閲覧。 
+
+^ “Machinarium on webOS”.  オリジナルの2011年9月27日時点におけるアーカイブ。. https://web.archive.org/web/20110927045028/http://forums.precentral.net/hp-touchpad-apps/290298-machinarium-webos.html 
+
+^ “Josef from Machinarium is in Super Meat Boy PC”.   destructoid.com. 2010年11月13日閲覧。
+
+^ "Establishment Magazine Issue 1". The Machingeon. The United Kingdom: Knives Forks and Spoons Press. August 2012. p. 50. Cite webテンプレートでは|accessdate=引数が必須です。 (説明)
+
+
+外部リンク[編集]
+Official site with online Flash demo
+マシナリウム | Playism
+典拠管理 
+BNF: cb16999667h (データ)
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=マシナリウム&oldid=83648866」から取得
+カテゴリ: インディーゲーム2009年のコンピュータゲームFLASHゲームWindows用ゲームソフトWindows PhoneのソフトウェアMacOSのソフトウェアLinux用ゲームソフトIOSのゲームAndroid用ゲームソフトPlayStation 3用ソフトPlayStation Vita用ソフトPlayStation 4用ソフトNintendo Switch用ソフトアドベンチャーゲームチェコで開発されたコンピュータゲームスチームパンク・コンピュータゲームロボットを主人公としたコンピュータゲーム隠しカテゴリ: テンプレート呼び出しエラーのあるページ/CS1/accessdate関連WebarchiveテンプレートのウェイバックリンクBNF識別子が指定されている記事
+

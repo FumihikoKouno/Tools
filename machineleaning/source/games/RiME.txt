@@ -1,0 +1,119 @@
+
+
+
+
+
+RiME
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+RiMEジャンル
+アクションパズル対応機種
+Steam（Windows）PlayStation 4Xbox OneNintendo Switch開発元
+Tequila Works（英語版）Tantalus Media（英語版）（Switch）[1]発売元
+Grey Box, Six Foot音楽
+David García Díaz人数
+1人発売日
+Steam：2017年5月26日[2]PS4 2017年5月26日[3][4][5]XBOne 2017年5月26日[6][7]Switch 2017年11月14日[8] 2017年11月16日[9] 2017年11月17日[10]対象年齢
+CERO：A（全年齢対象）[3][9]ESRB：E10+（10歳以上）[4][6][8]PEGI：7[5][7][10]USK：6（6歳未満提供禁止）[11][12][13]コンテンツアイコン
+ESRB：Fantasy Violence[4][6][8]PEGI：Fear, Violence[5][7][10]テンプレートを表示
+『RiME』（ライム）は、スペインのインディーゲームスタジオTequila Works（英語版）が開発した3Dアクションパズルゲーム。
+
+目次
+
+1 概要
+2 システム
+3 エンディング曲
+4 開発
+5 評価
+6 脚注
+7 外部リンク
+
+
+概要[編集]
+とある無人島に漂着し目を覚ました主人公の少年が、大地や遺跡、海中など変化に富んだ舞台を冒険し、やがて、自らの身に起きた運命が明らかになっていく。広大なオープンワールドの世界の各所には様々な仕掛けがあり、これらを駆使して謎を解くことで先へ進め物語も進行する。作品内ではヒントなどの説明的な表現はなく主人公が掛声以外の台詞を発することもないため、ゲームの進め方や物語の全容の解釈はプレイヤーの判断に委ねられることになる。
+Tequila WorksのCEOを務めるRaúl Rubio Munárrizは、本作のアートスタイルについて、画家のホアキン・ソローリャが主に描く地中海と光の表現、同じく画家のサルバドール・ダリの絵画における余白、画家・彫刻家のジョルジョ・デ・キリコが手掛けた構造物から影響を受けたとしている[14]。また、映画では20世紀中期の作品『アルゴ探検隊の大冒険』『シンバッド七回目の航海』やスタジオジブリのアニメ映画『千と千尋の神隠し』『もののけ姫』、システム面で影響を受けたゲームソフトとしては『ジャック×ダクスター2』『DARK SOULS』を挙げている[14][1]。
+
+システム[編集]
+主人公が実行可能なアクションはジャンプや壁への掴まり、ブロックの押し引きなど一般的なものがほとんどだが、一部には、主人公が声を挙げることで作動する仕掛けもある。敵が登場する場面では直接攻撃はできず、周囲の仕掛けなどを活用し対応する必要がある。敵の攻撃を受けたり崖下に転落したりなどするとミス扱いで直前の場面からプレイが再開される。ゲームオーバーのような大きなペナルティはない。
+本作の物語は5つのステージに分かれており、ゲームクリア後には、タイトル画面から各ステージを選択しその初めの部分からプレイできるようになる。なお、各ステージの題名は、医学者のエリザベス・キューブラー＝ロスの著書『死ぬ瞬間』の中で記された、人が死を受け入れるまでの段階を示す5つの言葉「否認」「怒り」「取引」「抑鬱」「受容」が充てられている。
+
+エンディング曲[編集]
+La Canción del Mar
+作曲・演奏：David García Díaz、歌：Silvia Guillem Cofreces
+Forgotten City
+作曲：リンジー・スターリング, Stephen Anderson、演奏：リンジー・スターリング
+開発[編集]
+本作の開発は『Echoes of Siren』のタイトルで開始された[1]。当初の2013年時にはマイクロソフトと契約しXbox Live Arcade用ソフトとすることを目指していたが、マイクロソフトが求めていたマルチプレイ機能とソーシャル機能の欠如から却下となった[15]。その後、ソニーが発売元となる契約を結んでPlayStation 4専用ソフトとなり、2013年8月に行われたゲーム見本市「gamescom 2013」で紹介映像が公開された[1][16]。しかし、それから約2年間、表立った情報公開は行われなかった。Tequila WorksのCEOであるRaúl Rubio Munárrizはインタビューで、開発開始から数か月後のgamescom 2013で発表したのは早すぎたとし、映像を公開すべきではなかったと語っている[17]。2016年8月、Tequila Worksは、ソニーとの独占契約を解消してTequila Works自身が知的財産権を保有すること、および、Grey BoxとSix Footとの発売元契約を結んだことを発表し、本作はSteamと各種家庭用ゲーム機で発売されることとなった[17]。
+開発当初は舞台全てがオープンワールドの仕様だったが、製品版ではステージごとにエリアが区切られた限定的なオープンワールドとなっている。また、主人公が飲食する要素やスタミナ・健康状態に気を配るシステムも搭載されていたが、製品版では無くなっている[18]。
+
+評価[編集]
+2017 Golden Joystick Awards 「Best Audio」ノミネート[19]
+21st Annual D.I.C.E. Awards（英語版） 「Outstanding Achievement in Original Music Composition」ノミネート[20]
+2018 NAVGTR（英語版） Awards 「Original Dramatic Score, New IP」ノミネート[21]
+2018 Game Audio Network Guild Awards 「Music of the Year」「Best Original Soundtrack Album」ノミネート[22]
+脚注[編集]
+[脚注の使い方]
+
+
+^ a b c d “4年の時を経てリリースされる『RiME』”.   Red Bull (2017年2月22日). 2019年9月19日閲覧。
+
+^ “新作パズルアドベンチャー「Rime」のPS4/Xbox One/PC版ローンチが5月26日に決定、Nintendo Switch版の発売は今夏”.   doope! (2017年3月9日). 2019年9月19日閲覧。
+
+^ a b “RiME”.   プレイステーション. 2019年9月19日閲覧。
+
+^ a b c “RiME” (英語).   Official PlayStation Store US. 2019年9月19日閲覧。
+
+^ a b c “RiME” (英語).   Official PlayStation Store UK. 2019年9月19日閲覧。
+
+^ a b c “RiME” (英語).   Microsoft Store. 2019年9月19日閲覧。
+
+^ a b c “RiME” (英語).   Microsoft Store en-GB. 2019年9月19日閲覧。
+
+^ a b c “RiME for Nintendo Switch - Nintendo Game Details” (英語).   Nintendo of America. 2019年9月19日閲覧。
+
+^ a b “RiME”.   任天堂. 2019年9月19日閲覧。
+
+^ a b c “RiME｜Nintendo Switch download software｜Games” (英語).   Nintendo UK. 2019年9月19日閲覧。
+
+^ “RiME” (ドイツ語).   Offizieller PlayStation Store Deutschland. 2019年9月19日閲覧。
+
+^ “RiME” (英語).   Microsoft Store de-DE. 2019年9月19日閲覧。
+
+^ “RiME｜Nintendo Switch Download-Software｜Spiele” (ドイツ語).   Nintendo Deutschland. 2019年9月19日閲覧。
+
+^ a b “Interview with Rime's Creative Director, Raul Rubio Munarriz” (英語).   IGN (2014年2月7日). 2017年6月6日時点のオリジナルよりアーカイブ。2019年9月19日閲覧。
+
+^ “Leaked Rime document presents gameplay features” (英語).   Gematsu (2014年2月19日). 2019年9月19日閲覧。
+
+^ “プレイステーション4用ソフト『RIME』はノスタルジー漂うオープンワールドのアドベンチャーゲーム【gamescom 2013】”.   ファミ通.com (2013年8月21日). 2019年9月19日閲覧。
+
+^ a b “Rime interview: Tequila Works CEO discusses troubled development and split from Sony” (英語).   Yahoo News Canada (2016年8月24日). 2019年9月19日閲覧。
+
+^ “Rime is a gorgeous exploration game set in a mysterious paradise” (英語).   PC Gamer (2017年2月8日). 2019年9月19日閲覧。
+
+^ “GOTYは『ゼルダの伝説 BotW』に決定！「2017 Golden Joystick Awards」受賞作品リスト”.   Game*Spark (2017年11月18日). 2019年9月19日閲覧。
+
+^ “第21回「D.I.C.E. Award」ノミネート作品発表―『Horizon Zero Dawn』は10部門ノミネート！”.   Game*Spark (2018年1月13日). 2019年9月19日閲覧。
+
+^ “Horizon: Zero Dawn Scores Big at NAVGTR Awards With Seven Wins” (英語).   Wccftech (2018年3月22日). 2019年9月19日閲覧。
+
+^ “2018 Awards” (英語).   Game Audio Network Guild. 2019年9月19日閲覧。
+
+
+外部リンク[編集]
+Grey Box 公式サイト（英語）
+RiME - Facebook
+RiME (@RiMEGame) - Twitter
+RiME - Tumblr
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=RiME&oldid=83594410」から取得
+カテゴリ: 2017年のコンピュータゲームWindows用ゲームソフトPlayStation 4用ソフトXbox One用ソフトNintendo Switch用ソフトスペインで開発されたコンピュータゲームアクションパズルオープンワールドゲームUnreal Engineを採用したゲームソフト無人島を舞台としたコンピュータゲーム
+

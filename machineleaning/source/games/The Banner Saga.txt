@@ -1,0 +1,163 @@
+
+
+
+
+
+The Banner Saga
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+The Banner Saga
+ジャンル
+タクティカルRPG対応機種
+AndroidiOSLinuxMicrosoft WindowsOS XPlayStation 4Xbox OneNintendo SwitchPlayStation Vita (Cancelled)開発元
+Stoic Studio（英語版）発売元
+Versus Evil（英語版）デザイナー
+Alex Thomasシナリオ
+Alex Thomasプログラマー
+John Watson音楽
+オースティン・ウィントリー美術
+Arnie Jorgensen人数
+シングルプレイヤー, multiplayer発売日
+Windows, OS X, Linux, iOS, Android2014年1月14日PlayStation 4, Xbox One2016年1月12日Nintendo Switch2018年5月17日対象年齢
+CERO：C（15才以上対象）コンテンツアイコン:暴力テンプレートを表示
+The Banner SagaはStoic Studio（英語版）開発、Versus Evil（英語版）が発売したタクティカルRPG。日本ではPlayStation 4で2016年9月1日配信。
+北欧神話をモチーフとした架空世界を舞台としたゲームで、人間を見下すドレッジと呼ばれる者とプレイヤーのキャラバンの戦いの物語。2人の主人公を操作できるがストーリーは最終的に1つに合流する。プレイヤーの選択によって変化するインタラクティブストーリーが特徴。
+バイオウェアから独立した3人によって設立されたStoic Studioのデビュー作。Kickstarterクラウドファンディングプラットフォームから資金提供を受けた。手描きのアニメーション、アートスタイルはアイヴァンド・アール、ラルフ・バクシ、ドン・ブルースにインスパイアされている。音楽はオースティン・ウィントリーがDallas Wind Symphony演奏で制作した。発売前、Banner Saga：Factionsのタイトルでスタンドアローン版が無料で配布された。
+発売時から批評家たちにアートスタイル、戦闘、ストーリーが賞賛された。続編としてThe Banner Saga 2、The Banner Saga 3がある。
+
+目次
+
+1 ゲームプレイ
+
+1.1 ファクション
+
+
+2 ストーリー
+3 開発
+4 サウンドトラック
+5 評価
+6 続編とその他のメディア
+7 出典
+8 外部リンク
+
+
+ゲームプレイ[編集]
+ 開発中のターンベースの戦闘コンポーネントのクリーンショット
+本作はインタラクティブストーリーでプレイヤーの選択によってイベントが発生することもある。2人の主人公を操作できるがストーリーは最終的に1つに合流する。ファイナルファンタジータクティクス、シャイニング・フォース 神々の遺産に影響されたターンベースのシングルプレイストーリーで、プレイヤーは補助能力を持つキャラクターをパーティを編成、操作できる。若年の1人の主人公に焦点を当てたり、商品を買ったり、敗北後にセーブされているデータを再ロードするなどしてアクション指向のコンピュータRPGのよくあるパターンを意図的に回避している。代わりに開発者はプレイヤーのキャラバン全体の話でプレイヤーが敗北しても結果を受け入れることを促す意図があった[1]。
+人間を見下すドレッジを中心に率いているBellowerたちと戦う。戦争のために送られてきた放浪軍はBellowerの弱点を発見、キャラバンはVarl男たちの運命を決める苦渋の決断を下す。一方、大蛇が大地震を起こし、世界が暗闇に包まれる。第2章では軍隊がArberrangの街に進軍。Bolverk率いる傭兵部隊RavensはBellowerの体を調べるためにMannaharrへ向かう。
+
+ファクション[編集]
+発売前、ターンベースのマルチプレイ戦闘コンポーネントがスタンドアローン版「The Banner Saga：Factions」がSteamで無料配布された。期間は2013年2月18日から2月25日まで[2]。プレイヤーは16のクラスから6人の戦闘メンバーでチーム対戦が可能[3]。主にユーザインタフェースにStrandの街を使用、レイヤーはプレイモード、その機能にアクセスするため街の建物を選択。Stoic Studioは「ストーリーが進むにつれて街も変化する」としていた[4]。
+
+ストーリー[編集]
+人間とVarlsと呼ばれる巨人のような生物が住む世界で物語が始まる数週間前、太陽の動きが止まり、永遠に夕暮れ時となったヴァイキングの伝説的世界で、古来より絶滅しているとされてきたドレッジが全てを抹殺するために現れる。
+西のVarl Vogniは古くからの友人のHakon、Varlの元戦士のUbin、才人Eirikなど何人かの仲間たちとVarl の都、Grofheimで同盟を締結するためArberrangの王子のLudinを護衛していた。だがVedrfellの街でドレッジと遭遇したVogniが殺され、Hakonがキャラバンの指揮を執ることになった。彼らは道を行くとキャラバンが何度もドレッジと遭遇、リッジホーンの遺跡を巡りながら塔の頂上に女性の死体とそばに気絶した男、Eyvindを発見、彼を助けた。さらに進むがEyvindは同伴者がまだ生存していると信じてHakonにリッジーホーンに戻ることを無駄足かもしれない上でお願いする。キャラバンはGrofheimに到着、だがドレッジに侵略された後だった。
+国の反対側では猟師のRookと娘のAletteがSkogrの家付近で1体のドレッジと遭遇、急いで町とVarlの友人Iverの元へ向かい、ドレッジに襲われた村を見つける。族長の妻Oddleif、村の生き残りたちとFrostvellrの町へ逃げる。だが町も安全でないことが分かり、避難場所を探し求めるが仕方なくEinartoftのヴァール要塞に避難する。EinartoftのVarlは最初は人間を入れること拒否するが長らく行方知れずだったYngvarと呼ばれる伝説的存在のIverが彼らを説得する。
+EinartoftではRook、Aletteとその仲間、Hakon、Ludin王子、Grofheimに取り残された後に要塞に避難した者たちがいた。彼らはVarlの王、Jorundrと会う。Einartoftがドレッジと無敵のBellowerに包囲されているという絶望的な状況であることが判明する。王はBevererとの戦いで腕を負傷、砦に通じる橋を壊さず、みなは敵と戦うしかなかった。EyvindがBellowerを邪魔してIverを救おうとすると遠くから大蛇が現れ戦闘、ドレッジが慄いて後退した。
+一方、Hakonが遺跡でEyvindを見つけたときそばにいた女性、Junoが目覚めると大蛇が彼女を殺そうとしていた。だが失敗、彼女は大蛇と話すと世界に残された物を飲み込もうとしていたことを伝え、世界を支配する「暗闇」に深く悩まされているとする。大蛇が去った後、JunoはEyvindとコンタクト、Sigrholmの街の南側で彼女と落ち合うよう促した。
+EyvindはSigrholmへ向かうことをRookに嘆願。Rookも同調してEinartoftの運命はもう決しているとしてUbinや他の生存者も数時間後には陥落すると危機感を露わにした。キャラバンがSigrholmに到着したがJunoが見つからない。Rookは要塞都市Boersgardが唯一の希望でそこに避難すると決める。VarlのBolverkが率いる傭兵部隊が支配するボートが残っていない混乱真っ只中の別の街を見つける。Boersgardは海とドレッジの群れの間に挟まれている。毎日多くのドレッジとの攻防があるが備蓄がなくなり戦闘が広範囲に及ぶとRookたちは唯一の希望として船を建造する考えがある。街が陥落
+しそうになった頃、Hakon、Ludin王子、Einartoftを逃れたVarlの軍がJunoに救われる。安心も束の間、Belloweとドレッジがやってくる。JunoはRookにの手を借りつつ魔法の矢を作る。Bellowerが負けると、ドレッジは敗走、死にはしないが矢が相手の心を打ち負かし、昏睡させる。プレイヤーはRookかAletteのどちらかが矢を放つか選択することになる。矢はBellowerに当たりドレッジも敗走するがBellowerが射手を殺してしまう。しばらくの後、RookとHakonのキャラバンは合体して殺された射手との最後の別れ、葬儀を終えた後、悲しみに暮れるなか新しく作られたボートをBoersgardとRavensに残す。
+
+開発[編集]
+ コンセプトアートワーク
+開発者のAlex Thomas、Arnie Jorgensen、John WatsonはStar Wars: The Old Republicを制作した後、バイオウェアを退社、自分が楽しめるゲームを作ろうとした[5]。この計画はクラウドファンディングKickstarterで資金調達した。2012年3月19日に受付開始されたが[5]翌日には目標の100,000米ドルに達した[6]。最終的に20042人から723,886米ドル集まった[7]。
+制作のために集められた開発者は「使い古された」エルフ、ドワーフ、オークといったダイナミックなものを避けるためにヴァイキングからインスパイアされたファンタジー世界となった。1959年のディズニー映画『眠れる森の美女』のアイヴァンド・アールのアートやラルフ・バクシ、ドン・ブルースの絵に影響を受けた本作は主に手描きのアニメーションシーケンス、文字、背景である[8]。開発者たちは『ゲーム・オブ・スローンズ』『The Black Company』のような大人たちのための成熟したゲーム作ろうとした。彼らはキャラクターとの関係を築き、選択肢によってストーリーを構築することができるようにしたのはプレイヤーを感情的にゲームに関与させるためだった[8]。
+
+サウンドトラック[編集]
+オーケストラなメロディはオースティン・ウィントリーが制作、National Academy of Video Game Trade Reviewers（NAVGTR）[7][9]で新規IPとしてオリジナル・ドラマティック・スコアにノミネートされた。ソリストはマルカー、ピーター・ホーレンス、Jóhann Sigurðarson、テイラー・デイビスで、合奏したのはダラス・ウィンド・シンフォニー[10][11]。アメリカ、テキサス州のマイヤーソンシンフォニーセンターで録音された[12]。
+
+評価[編集]
+評価集計結果媒体結果Metacritic(PC) 80/100 (PS4) 79/100 (XONE) 76/100  (iOS) 92/100
+本作はMetacriticで「全体的に肯定的なレビュー」を意味する82/100のスコア（32の批評家レビュー）を獲得[13]。iOS版は90/100で「全般的な賞賛」とされた[14]。
+IGNでは芸術性と選択肢で左右される多数の物語の両方で優れているとした。批評家は手強くだがやりがいのある戦闘システムを厳しいとした。だがサウンドトラックが美しく、ゲームプレイの仕組みを理解しやすかったとしている[15]。Eurogamerは戦闘のパターンに欠けること批判、芸術性とエレガントな戦闘システムを賞賛した[16]。Hardcore Gamerはディープで魅力的な戦闘や機能品質と生産価値を賞賛した[17]。
+GameSpotは7/10のスコアで「面白いアイデアと楽しい戦闘で多くが美しいゲーム」とした[18]。Eurogamerは8/10のスコアで「爽快感のある戦略的なRPGで魅力の感じる物語を提供している」とした[19]。
+The Banner Saga Complete PackはDwellers Included awardedで4.5/5を獲得、「プレイしたとき最初にこのゲームがどれほど美しいかに気付く。キャラクターのバッググラウンド、アニメーション、ゲームのあらゆる視覚面で絶対的に素晴らしい」と述べた[20]。
+ファミ通クロスレビューでは8、7、7、8の30点でシルバー殿堂入り[21]。レビュアーは力と防御のどちらを削るかを決める戦闘が独特で戦略性が高いことやアニメショーンのグラフィックを賞賛した一方で戦闘のインターフェースを少し扱いやすい方ほしいかった、セーブがオートセーブのみ、ボリュームが少ない、ロードが多いことを指摘、物語はついては壮大で魅力的とした者と固有名詞が多くて説明不足、飲み込み辛いとする者で分かれた[21]。また、「BestPickofThisWeek! 今週はコレを買え!」では同じ号でレビューした10作品のうち、レビュアー6人中1人が本作を選んだ[22]。
+IGN Japanでは8.4/10のスコアで世界観、ビジュアル、音楽、独特の戦闘メカニクスを賞賛、ストーリーテーリングがぎこちない、リソースマネジメントが単調だと批判した[23]。また、慣れが解決してくれるとして日本のRPGに影響を受けているが日本では馴染みのないプレイヤーを「あなた」と呼びかけることで戸惑わせる、誰が喋っているのかわからなくなる会話シーンを挙げた[23]。
+
+続編とその他のメディア[編集]
+The Banner Saga 2は2014年12月発表[24]、2016年4月19日発売[25]。ミニチュアゲームThe Banner Saga: Warbands,が2015年8月発売[26]。前日譚小説『The Gift of Hadrborg』がJames Fadeley作で2016年8月発売[27]。2017年1月、Stoic StudioはThe Banner Saga 3の制作のためKickstarterでクラウドファンディングを開始した[28]。2017年3月、416,986ドルに達して目標金額200kドルをクリアした[29]。
+
+出典[編集]
+
+
+^ “Interview with Stoic on Banner Saga”. Live Pixel. (2012年8月23日).  オリジナルの2012年8月25日時点におけるアーカイブ。. https://web.archive.org/web/20120825060105/http://thelivepixel.com/2012/08/22/interview-with-stoic-on-banner-saga 2012年8月22日閲覧。 
+
+^ “Banner Saga Out Now For Backers, Everyone Next Week”.   Rock, Paper, Shotgun. 2013年2月20日閲覧。
+
+^ Pinsof, Allistair (2012年9月19日). “Preview: The Banner Saga Factions”. Destructoid. http://www.destructoid.com/preview-the-banner-saga-factions-235135.phtml 2012年9月21日閲覧。 
+
+^ “The City of Strand”.   Stoic (2012年7月13日). 2012年7月24日閲覧。
+
+^ a b Curtis, Tom (2012年3月19日). “When ex-BioWare devs make their own strategy RPG”. Gamasutra. http://www.gamasutra.com/view/news/165823/When_exBioWare_devs_make_their_own_strategy_RPG.php 2012年3月19日閲覧。 
+
+^ Mattis, Jeff (2012年3月21日). “The Banner Saga reaches Kickstarter funding goal in under two days”. Shack News. http://www.shacknews.com/article/72973/the-banner-saga-reaches-kickstarter-funding-goal-in-under-two 2012年3月22日閲覧。 
+
+^ a b Kickstarter. “The Banner Saga”. 2012年4月21日閲覧。
+
+^ a b Mattas, Jeff (2012年3月6日). “The Banner Saga 'in the vein of Game of Thrones;' Kickstarter launching soon”. Shacknews. http://www.shacknews.com/article/72726/the-banner-saga-in-the-vein-of-game-of-thrones 2012年3月19日閲覧。 
+
+^ "NAVGTR Awards (2014)". National Academy of Video Game Trade Reviewers. 2015年2月26日時点のオリジナルよりアーカイブ。2020年5月10日閲覧。
+
+^ Wintory, Austin. “The Banner Saga”.   Bandcamp. 2014年1月13日閲覧。
+
+^ 
+Peele, Britton (2014年3月12日). “How The Banner Saga’s soundtrack found roots with the Dallas Wind Symphony”. 2016年1月26日閲覧。
+
+^ “The Banner Saga”. Reference Recordings.   Reference Recordings. 2017年3月13日閲覧。
+
+^ “The Banner Saga”.   Metacritic. 2014年1月14日閲覧。
+
+^ “The Banner Saga”.   Metacritic. 2014年1月14日閲覧。
+
+^ Johnson, Leif (2014年1月14日). “HIGH NORSEPOWER”. IGN. http://www.ign.com/articles/2014/01/14/the-banner-saga-review-2 2014年1月14日閲覧。 
+
+^ Harman, Stace (2014年1月14日). “The Banner Saga review: Trooping the colour”. Eurogamer. http://www.eurogamer.net/articles/2014-01-14-the-banner-saga-review 2014年1月14日閲覧。 
+
+^ Thew, Geoff (2014年1月14日). “Review: The Banner Saga - Chapter 1”.   Hardcore Gamer. 2014年1月19日閲覧。
+
+^ VanOrd, Kevin (2014年1月14日). “The Banner Saga review: An Axe To Grind”. GameSpot. 2016年3月14日閲覧。
+
+^ Harman, Stace (2014年1月14日). “The Banner Saga review: Trooping the Color”. Eurogamer. 2016年3月14日閲覧。
+
+^ Perez, Mike (2017年5月2日). “Review: Banner Saga Complete Pack with Survival Mode”. Dwellers Included. 2017年5月9日閲覧。
+
+^ a b ファミ通2016年9月29日号 No.1450 271ページ
+
+^ ファミ通2016年9月29日号 No.1450 273ページ
+
+^ a b “The Banner Saga - レビュー”.   IGN Japan. 2016年9月2日閲覧。
+
+^ “The Banner Saga 2 Announced”. IGN.   Ziff Davis (2014年12月5日). 2015年8月2日閲覧。
+
+^ “E3 2015: The Banner Saga 2 is a Deeper, Darker Sequel”. Hardcore Gamer (2015年6月25日). 2015年8月2日閲覧。
+
+^ “The Banner Saga Goes The Way Of The Board Game”. Rock, Paper, Shotgun (2015年8月2日). 2015年8月2日閲覧。
+
+^ Fadeley, James. “The Gift of Hadrborg”.   Versus Evil. 2018年4月3日閲覧。
+
+^ “The Banner Saga 3 Confirmed With Kickstarter Campaign, Is The Last Game In The Trilogy”. gamespot.com. 2017年1月28日閲覧。
+
+^ Kris Ligman (2017年3月4日). “Why the makers of Banner Saga went back to Kickstarter for their third game”. Zam. 2017年3月14日閲覧。
+
+
+外部リンク[編集]
+
+
+
+ウィキメディア・コモンズには、The Banner Sagaに関連するカテゴリがあります。
+公式ウェブサイト
+The Official Banner Saga Wiki
+The Banner Saga（バナーサーガ） | プレイステーション
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=The_Banner_Saga&oldid=83652380」から取得
+カテゴリ: 2014年のコンピュータゲームAndroid用ゲームソフトIOSのゲームLinux用ゲームソフトNintendo Switch用ソフトWindows用ゲームソフトXbox One用ソフトPlayStation 4用ソフトアメリカで開発されたコンピュータゲームシミュレーションRPGファンタジーコンピュータゲームKickstarterで資金調達したコンピュータゲーム隠しカテゴリ: Template:コンピュータゲームの画像を指定した項目
+

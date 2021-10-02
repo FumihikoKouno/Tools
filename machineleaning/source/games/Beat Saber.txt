@@ -1,0 +1,116 @@
+
+
+
+
+
+Beat Saber
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+この記事は検証可能な参考文献や出典が全く示されていないか、不十分です。出典を追加して記事の信頼性向上にご協力ください。出典検索?: "Beat Saber" – ニュース · 書籍 · スカラー · CiNii · J-STAGE · NDL · dlib.jp · ジャパンサーチ · TWL（2019年6月）
+Beat Saberジャンル
+音楽ゲーム対応機種
+Microsoft WindowsPlayStation 4（PlayStation VR）アーケード開発元
+Beat Games発売日
+PlayStation VR 2018年11月20日[1] 2019年3月Steam：2019年5月Oculus Store：2019年5月アーケード版：2019年11月デバイス
+Oculus RiftHTC ViveWindows Mixed RealityPlayStation VRテンプレートを表示
+『Beat Saber』（ビートセイバー）はチェコのBeat Gamesが開発したVR対応の音楽ゲームである。
+本作は前方から来るブロックをプレイヤーが持つ両手の剣を使って切り、点数を稼ぐ仕組みとなっている[2]。
+Microsoft Windowsを搭載したPC上でOculus Rift、Oculus Quest、HTC Vive、Windows Mixed Reality、またPlayStation VRでプレイすることができる。Steam、Oculus Storeでは2018年5月からアーリーアクセス版としてリリースされた[3] のち、2019年5月に正式販売された。日本ではPlayStation VR版が2019年3月に発売された。
+さらに、2019年11月には日本国内でアーケード版のロケテストが開始された[4]。
+
+目次
+
+1 開発・販売
+
+1.1 選曲
+
+
+2 反響
+3 脚注
+4 外部リンク
+
+
+開発・販売[編集]
+ 左から右：ウラジミール・"ロキ"・フリンチャール（プログラマー）,Michaela Dvořáková（マーケティングディレクター）, ヤロスラフ・ベック（英語版）（音楽）。ゲーム・デベロッパーズ・チョイス・アワード 2019にて
+映像外部リンク
+ If You Want to ESCAPE with Me...Beat Saber
+2016年ごろ、ヤン・イラフスキーとウラジミール・"ロキ"・フリンチャールの二人は『カメレオンラン』の開発を終え、本作の開発に移行した[2]。
+本作の仕組みは「2つの剣でキューブを切り裂く」というシンプルなものであるが故にまねされやすいことを理解していた開発チームは、開発期間の大半をゲームの構成要素のブラッシュアップに利用した[2]。
+2017年、本作のα版の予告編が公開された[2]。同じくチェコ出身の作曲家の ヤロスラフ・ベック（英語版）はこれを見て開発チームへの参加を決意し、彼らに連絡を取った[2]。
+アーリーアクセス版が公開される少し前に当たる2018年1月、ヤンが開発中の本作に関する動画をSNSに投稿したところ、8,000リツイートと17,000いいねを得た[2]。
+その後、ベックはLIVという会社と接触し、LIVとの交流の中で「VRのために作ったリズムゲームはただのリズムゲームではなく、音楽を感じることができる全く新しい方法で音楽を楽しむものだ」という啓示を得たともぐらゲームスとのインタビューの中で振り返っている[2]。
+そして、開発チームはBeat Gamesという会社を立ち上げ、ベックがCEOにおさまった[2]。
+Steamでのアーリーアクセス版が発売された後、レベルエディタも出すという発表がなされたが、2019年5月までに延期された[5][6]。
+その後、PlayStation4版が 2018年11月20日に発売された[1]。
+2019年3月、カナダのレコード会社・モンスターキャット（英語版）の楽曲10曲を収録した有料DLCが発売された[7]。
+また、同年のエイプリルフールには、同レーベルに所属するノイズストーム（英語版）の『クラブ・レイブ（英語版）』が無料で配信された[8]。
+さらに、同年5月2日、アーリーアクセスの公開から1周年記念として、開発初期バージョンである"Beat Saber Origins"が無料で配布された[9][10]。
+2019年5月21日、PC版が正式に発売された[5]。
+2019年11月26日、 Facebook, Inc. は本作の開発元であるBeat Gamesを買収してOculus Studiosの傘下に収めたことを発表した。この買収によって他社VRデバイス向けの『Beat Saber』の開発に支障をきたすものではないことを明らかにし[11]、Beat Gamesはプラハのインディーズゲームスタジオとしての活動を継続する。
+また、同スタジオは360度モードの開発を進めている[12]。
+
+選曲[編集]
+本作には、エレクトロニック・ダンスミュージックを中心とした楽曲が多く使われている[13]。
+2020年1月29日、日本のミュージシャン・かめりあの楽曲3曲が無料配信された[14][15]。
+
+反響[編集]
+本作はアーリーアクセス版の発売から1か月で10万本を売り上げた[16]。
+また、バーチャルYoutuberをはじめとする多くのプレイヤーによって本作のプレイ動画がインターネット上に投稿された[17]。
+
+脚注[編集]
+
+
+^ a b “Beat Saber”. PlayStation. 2018年11月28日閲覧。
+
+^ a b c d e f g h “VRゲーム「Beat Saber」が話題を集めたワケ CEOインタビュー（後編）”. MoguraVR.   もぐらゲームス (2018年7月1日). 2020年3月12日閲覧。
+
+^ Hunt, Cale (2018年4月5日). “Beat Saber: Everything we know about the VR rhythm game”. Windows Central. 2018年5月9日閲覧。
+
+^ 株式会社インプレス (2020年2月9日). “【JAEPO 2020】斬撃でビートを刻む爽快感！ アーケード向けVRアクション「BEATSABER ARCADE MACHINE」” (日本語). GAME Watch. 2020年3月12日閲覧。
+
+^ a b Cox, Matt (2019年5月21日). “Beat Saber bops out of early access”. Rock Paper Shotgun. 2019年5月21日閲覧。
+
+^ Horti, Samuel (2018年5月6日). “VR rhythm game Beat Saber, now the highest rated game on Steam, releasing level editor next week”. PC Gamer. 2018年5月9日閲覧。
+
+^ Horti, Samuel (March 16, 2019). “Beat Saber releases first paid DLC music pack”. PC Gamer. https://www.pcgamer.com/beat-saber-releases-first-paid-dlc-song-pack-contains-10-tracks/ 2019年3月16日閲覧。. 
+
+^ “Crab Rave is the Latest Free Beat Saber Song, Available Now”. PlayStation LifeStyle (2019年4月1日). 2019年4月14日閲覧。
+
+^ “「Beat Saber」発売1周年を記念して、開発初期のプロトタイプ版を無料配布”. MoguraVR.   もぐらゲームス (2019年5月11日). 2020年3月12日閲覧。
+
+^ “Beat Saber Releases Origins Early Build To Celebrate First Anniversary”. techmoneyfit.com (2019年3月4日). 2019年5月10日閲覧。
+
+^ Robertson, Adi (2019年11月26日). “Facebook is buying Beat Saber’s development studio” (英語). The Verge. 2019年11月27日閲覧。
+
+^ Holt, Kris (November 26, 2019), Facebook buys 'Beat Saber' creator Beat Games, https://www.engadget.com/2019/11/26/oculus-vr-beat-saber/ 2019年11月27日閲覧。 
+
+^ “Beat Saber、エクササイズ向けの新曲「FitBeat」無料提供。切りまくって運動不足解消”. Engadget 日本版 (2020年4月13日). 2020年5月2日閲覧。
+
+^ “Three New Free Beat Saber Songs Arrive In New Update From Cametek” (2019年1月29日). 2020年3月12日閲覧。
+
+^ “「Beat Saber」にEDMアーティスト・かめりあの楽曲が無料で追加配信！”. MoguraVR.   もぐらゲームス (2019年7月26日). 2020年3月12日閲覧。
+
+^ “大ヒットVRゲームの舞台裏に迫る「Beat Saber」CEOインタビュー（前編）”. MoguraVR.   もぐらゲームス (2018年6月30日). 2020年3月13日閲覧。
+
+^ “名プレイ・珍プレイも？ 話題のVRリズムゲーム『Beat Saber』VTuberのプレイ動画6選”. MoguraVR.   もぐらゲームス (2018年6月17日). 2020年3月13日閲覧。
+
+
+外部リンク[編集]
+公式ウェブサイト
+Beat Saber (@BeatSaber) - Twitter
+
+
+この項目は、コンピュータゲームに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（P:コンピュータゲーム / PJコンピュータゲーム）。
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Beat_Saber&oldid=78494695」から取得
+カテゴリ: 2018年のコンピュータゲームPlayStation VR用ソフトチェコで開発されたコンピュータゲーム音楽ゲームUnityを採用したゲームソフト隠しカテゴリ: 出典を必要とする記事/2019年6月ウィキペディアとウィキデータで異なる公式ウェブサイトコンピュータゲーム関連のスタブ記事
+

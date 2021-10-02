@@ -1,0 +1,145 @@
+
+
+
+
+
+バトルフィールド2042
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+（Battlefield 2042から転送）
+
+
+ナビゲーションに移動
+検索に移動
+Upcoming first-person shooter gameTemplate:SHORTDESC:Upcoming first-person shooter game
+
+
+
+
+
+「バトルフィールド2142」とは異なります。
+
+
+この項目は、発売前あるいは配信・稼働開始前のコンピュータゲームを扱っています。情報が解禁されていくに従い、この項目の内容も大きく変化することがありますのでご注意ください。投稿者は推測や予想を加えないようにしてください。投稿の際は脚注などを用いて随時その記述の根拠となる情報源を明記することを忘れないでください。
+バトルフィールド2042Battlefield 2042
+ジャンル
+FPS対応機種
+Microsoft WindowsPlayStation 4PlayStation 5Xbox OneXbox Series X/S開発元
+EA DICECriterion Games[注釈 1]運営元
+エレクトロニック・アーツ販売元
+エレクトロニック・アーツシリーズ
+バトルフィールドシリーズ人数
+[オンラインモード]1-128人運営開始日
+2021年10月22日利用料金
+有料（買い切り型）対象年齢
+審査中エンジン
+Frostbite 4テンプレートを表示
+バトルフィールド2042(Battlefield 2042、BF2042)はEA DICEとCriterion Gamesによって開発されたFPSゲームである。2021年10月より、エレクトロニック・アーツから発売予定である。
+2013年に発売されたバトルフィールド4の直接的な続編であり、2042年に人類の戦争が起きたとする架空の物語である。
+2021年10月22日より、PC(Microsoft Windows)、PlayStation 4、PlayStation 5、Xbox One、Xbox Series X/Sのプラットフォーム向けにリリース予定である。
+今作で登場するマップは、東アジア、中東[1]、大韓民国、シンガポール、エジプト、カタール、南極、フランス領ギアナを舞台としている[2][3]。
+ゲームプレイトレーラーは 2021年6月13日に公開される予定である[4]。
+
+目次
+
+1 ゲームシステム
+
+1.1 スペシャリスト
+
+
+2 説明文 =
+3 脚注
+4 外部リンク
+
+
+ゲームシステム[編集]
+本作ではキャンペーンモードが無くなり、マルチプレイモードのみに特化している。またこれまでのシリーズで最大64人だったものが、初めて最大128人対戦に対応している（Xbox OneとPS4のみ最大64人）。マルチプレイのゲームルールには、コンクエスト、ブレークスルー、ハザードゾーンが実装されている。マップは、オービット、アワーグラス、カレイドスコープ、マニフェスト、ディスカード、ブレイクウェイ、リニューアルがある[5]。
+他にもAIを用いたBOT兵士が導入されている。これはソロで練習したり、フレンドとパーティを組んで少人数でプレイするといった使い方ができる。
+
+スペシャリスト[編集]
+シリーズで初めて導入された要素として、兵科固有の能力をもつスペシャリストというシステムが実装されている。これに伴い、これまでに兵科選択で採用されてきたクラス制が廃止された。各スペシャリストには、それぞれ異なった専門技能を持ち、それ以外の装備品はフルカスタマイズして出撃可能となっている[6]。発売時点では4人のスペシャリストが実装されているが、発売後のアップデートにより順次新たなスペシャリストが追加予定である[7]。
+
+ウェブスター・マケイ
+「グラップリングフック」 - 壁に吸着するロープを発射して、自分の体を吸着位置まで引き寄せる。
+「俊敏」 - 銃のサイトを覗いた状態での移動速度が速い。
+マリア・ファルック
+「注射器ピストル」 - 味方に注射器を発射して回復させる。敵に発射するとダメージを与える。
+「軍医」 - ダウンした味方を蘇生する。
+ピョートル・ガスコヴィスキィ　コードネーム：ボリス
+「SG-36セントリーシステム」 - 特定のエリア内で検出された敵を自動的にスポットする。
+「セントリーオペレーター」 - セントリーガンでロックオンした対象をスポットする。
+ウィカス・ヴァン・デール　コードネーム：キャスパー
+「OV-P偵察ドローン」 - 動く標的をスポットし、EMPにより敵を混乱させる。
+「モーションセンサー」 - 敵の接近を警告してくれる。
+説明文 =[編集]
+
+
+^ Additional work by DICE Los Angeles, EA Gothenburg, and Criterion Games
+
+
+脚注[編集]
+
+
+^ Hornshaw, Phil (2021年6月9日). “Battlefield 2042 Is Fully Multiplayer, Trailer And October Release Date Revealed”. https://www.gamespot.com/articles/battlefield-2042-is-fully-multiplayer-trailer-and-october-release-date-revealed/1100-6492552/ 2021年6月9日閲覧。 
+
+^ Conditt, Jessica (2021年6月9日). “Everything you need to know about 'Battlefield 2042'”. Engadget. 2021年6月9日閲覧。
+
+^ “次の「バトルフィールド」は次世代へ！ 「Battlefield 2042」の詳細が明らかに（Impress Watch）” (日本語). Yahoo!ニュース. 2021年6月10日閲覧。
+
+^ Wen, Alan (2021年6月9日). “'Battlefield 6' confirmed as 'Battlefield 2042' with cinematic trailer”. NME. https://www.nme.com/news/gaming-news/battlefield-6-confirmed-as-battlefield-2042-with-cinematic-trailer-2964821 2021年6月9日閲覧。 
+
+^ https://www.ea.com/ja-jp/games/battlefield/battlefield-2042/game-overview/maps
+
+^ https://www.ea.com/ja-jp/games/battlefield/battlefield-2042/game-overview/specialists
+
+^ https://www.ea.com/ja-jp/games/battlefield/battlefield-2042/game-overview/specialists
+
+
+外部リンク[編集]
+バトルフィールド 2042
+Battlefield 2042 - Steam
+Battlefield 2042 - Epic Games Store
+Battlefield 2042 - Origin
+Battlefield Japan (@Battlefield_EAJ) - Twitter
+Battlefield 2042 - YouTubeプレイリスト
+Battlefield 2042 - YouTubeチャンネル
+表話編歴バトルフィールドシリーズメインシリーズ
+バトルフィールド1942
+ロード・トゥ・ローマ
+シークレット・ウェポン
+バトルフィールド2
+バトルフィールド3
+バトルフィールド4
+バトルフィールド1
+バトルフィールドV
+バトルフィールド2042
+スピンオフ作品
+バトルフィールド ベトナム
+バトルフィールド2 モダンコンバット
+バトルフィールド2142
+バトルフィールド1943
+バトルフィールド ハードライン
+バッドカンパニーシリーズ
+バトルフィールド バッド カンパニー
+バトルフィールド バッド カンパニー2
+ベトナム
+Free-to-play
+Battlefield Heroes
+Battlefield Online
+Battlefield Play4Free
+関連項目
+エレクトロニック・アーツ
+DICE
+Visceral Games
+Frostbite
+
+ カテゴリ
+ コモンズ
+ Portal:コンピュータゲーム
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=バトルフィールド2042&oldid=83980572」から取得
+カテゴリ: コンピュータゲームの新製品バトルフィールドエレクトロニック・アーツのゲームソフトファーストパーソン・シューティングゲームPlayStation 4用ソフトPlayStation 5用ソフトスウェーデンで開発されたコンピュータゲームWindows用ゲームソフトXbox One用ソフトXbox Series X/S用ソフト隠しカテゴリ: ページ名の表示が無視されているページ短い説明がある記事Template:コンピュータゲームの画像を指定した項目
+

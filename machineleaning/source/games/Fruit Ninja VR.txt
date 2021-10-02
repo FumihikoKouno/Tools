@@ -1,0 +1,145 @@
+
+
+
+
+
+Fruit Ninja
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Fruit Ninjaジャンル
+アーケード対応機種
+iOS, Android, Windows Phone, Symbian (Nokia), Bada (Samsung), Windows 8, Xbox 360 (XBLA)開発元
+ハーフブリック・スタジオ（英語版）販売元
+iTunes、Google Play、Windowsストア、Zune Software、Nokia Store、Samsung Appsバージョン
+1.8.1 (iOS)1.7.6 (Android)1.1.0.0 (Windows Phone)1.6.2 (Symbian)1.0.1 (bada)人数
+シングルプレーヤー、マルチプレイヤー（英語版） (iPad、Kinect)メディア
+ダウンロード発売日
+iPod Touch, iPhone2010年4月21日[1]iPad2010年7月14日[2]Android2010年9月17日[3]Windows Phone 72010年12月22日[4]Symbian OS2011年3月[5]Bada OS2011年3月29日[6]Xbox 3602011年4月10日[7]Windows 82012年6月7日[8]対象年齢
+ESRB: EPEGI: 3 (Kinect)USK: 0 (Kinect)必要環境
+iOS: 3.0以降Xbox 360: Kinectテンプレートを表示
+Fruit Ninja（iPadではFruit Ninja HD、Nvidia Tegra 2搭載Android端末ではFruit Ninja THD）とはオーストラリア・ブリスベンにあるハーフブリック・スタジオ（英語版）が開発したコンピュータゲームである。2010年4月21日にiPod TouchとiPhone向けで、同年7月12日にiPad向けで、9月17日にAndroid端末向けにリリースされた。さらに12月22日にWindows Phone向けで、2011年3月にサムスンのBadaとノキアのSymbianそれぞれの公式アプリケーション販売サイトでリリースが開始された。E3 2011直後の2011年8月10日にXbox 360用でKinectに対応したFruit Ninja Kinectが、2012年6月7日にはWindows 8向けのFruit Ninjaが発売された。Fruit Ninja FXというアーケードバージョンもある。プレイヤーは空中に投げられたフルーツを指で使用端末のタッチスクリーンをスワイプする形でスライスしなければならない。Xbox 360の場合はプレイヤーの腕と手の動作でスライスをする。リーダーボード（英語版）やマルチプレイヤーといった複数のゲームモードがある。
+批評家やプレーヤーから好評を得ており、2010年9月時点で300万ダウンロード、同年12月に400万ダウンロード、そして2011年3月時点で全プラットフォームで2000万ダウンロードを達成した。2012年5月には3億ダウンロードを達成し、アメリカ合衆国における全iPhoneの3分の1にインストールされたとされる。レビュアーは低コストながら夢中にさせるゲーム性は優れた価値を生み出すとしている。彼らはゲームをオンラインマルチプレイヤー、達成モード、リーダーボードを対応させたハーフブリックによるサポートやアップデートを特に賞賛している。数人の批評家はゲームの難易度曲線の不均一性を挙げている。
+
+目次
+
+1 ゲーム内容
+2 開発と展開
+3 評価
+4 脚注
+5 外部リンク
+
+
+ゲーム内容[編集]
+Fruit Ninjaではタッチスクリーンを通してブレードを操作することでフルーツをスライスする。フルーツが画面の中で投げられた時にプレイヤーは指で画面をなぞるようにスワイプすることでフルーツは真っ二つにスライスされる[9]。一回のスワイプで複数のフルーツをスライスした場合にエクストラポイントが与えられ、複数の指で同時にスライスすることも可能。プレイヤーは全てのフルーツをスライスせねばならず3個スライスしそこねるとゲーム終了となるが、スコアを100点ごと（100点、200点、300点〜）積み重ねるとスライスミスが1個取り消しになる（その時点で1個もスライスミスしていない場合は除く）。時々爆弾も画面の中で投げられるがスライスしてしまうと爆発してゲーム終了となってしまう[9]。
+様々なモードがあり、画面において爆弾の投擲による妨害が無い状態でハイスコアを目指す禅モードや[10]、60秒の制限でハイスコアを目指すアーケードモードがある。アーケードモードはバナナがアイテムとなり、限られた時間内で通常スライスの2倍の得点が入るダブル（青縞のバナナ）、画面内のフルーツの個数が増えるフレンジー（赤縞のバナナ、熱狂と表示）、全てのフルーツの動きが短時間遅くなるフリーズ（凍結しているバナナ）が効果として出る。クラシックとアーケードモードでは特別なザクロが登場するが、アーケードモードではゲームの最後に必ず登場し、プレイヤーは複数回エクストラポイントを得るためにスライスできる。またクラシックとアーケードモードでは同じように非常にレアなドラゴンフルーツも登場しスライスすると50ポイントがもらえる[11]。
+Fruit Ninjaの2周年を記念したときにハーフブリックはアップデートでTrufflesという豚とGutsuという人物が登場するGutsu's Cartという新機能をリリースした。各ゲームモードにおいて稼いだスターフルーツを使ってGutsu's Cartにて買い物ができる[12]。カートで購入してゲームで使えるアイテムは3つあり、爆裂イチゴ（Berry Blast）はイチゴをスライスして爆発させることで5エクストラポイントが手に入る。ピーチな時間（Peachy Time）は禅モードとアーケードモードにおいてモモをスライスしたら制限時間が2秒延長される。爆弾そらし（Bomb Deflect）は爆弾をスライスする前に逸らせることで爆発を防ぐ。各ゲーム後に得られるスターフルーツはスコアに比例する。また、ややレアなスターフルーツをスライスすると、1回ごとに数十から数百個のスターフルーツを獲得できる。[12]。
+マルチゲームプレイはアップルのGame Centerを使ったiOSデバイスに対応しており、競争的なゲームプレイを可能にするリーダーボードや達成モード機能がある。マルチプレイマッチではプレイヤーのブレードの色は青で対戦者のブレードは赤である。白輪郭のフルーツは中立と見なされ、どちらのプレイヤーでもスライスでき、スライスしたら3ポイント入る。プレイヤーは対戦者のフルーツを避けながら自身のフルーツをスライスしなければならない[13][14]。iPadバージョンではグラフィックが強化され、ネットワークを介しない形でのマルチプレイに対応しており、画面が半分に分けられ、双方とも半分の画面でプレイすることになる[2]。またハイスコアをOpenFeint、Twitter、Facebookで共有することができる[10]。
+
+開発と展開[編集]
+ハーフブリックの最高マーケティング責任者であるフィル・ラーセンはGameSpotのインタビューでFruit Ninjaの開発について語っており、「我々はインディーズゲーム、PSN、XBLAといったたくさんの違ったルートに挑戦し、iPhoneで何が起きるかや基本的な数多くの研究を行い、非常にうまくいったゲームを作った。」と語っている。彼はさらに会社の新作ゲームに関するブレインストーミング過程について語り、「Fruit Ninjaはこの過程で生み出されたが、我々はなんだか特別でそれを通してファーストトラックになるために決定したと認識している。」と述べている[15]。Fruit Ninjaのチーフデザイナーであるルーク・マスカットはタッチスクリーンプラットフォームの一意性と短期間の開発サイクルがさらにハーフブリックがゲームを開発するモチベーションになったとしている[16]。
+最初のリリースは2010年4月21日でiPod TouchとiPhone対応だった。その後Fruit Ninja HDの名でiPad対応版を同年7月12日に、9月17日にAndroid端末に移植した。11月2日にゲームプレイのダイナミクスを調整したFruit Ninjaのアーケードモードを発表し[11]、2日後の4日にリリースした[17]。12月にFruit NinjaとFruit Ninja HDのLiteバージョンをiOS向けにリリースし、同時にデモバージョンも提供した[18]。同月22日にWindows Phone 7用をリリースした[4]。フィル・ラーセンは異なる市場戦略によるiOSアプリケーションの早期リリース体制が必要とし、「最高のゲームを生み出しても3日で凋落する可能性がある。トップに君臨し続けるにはアップデートと詳細な広報でゲームを支える適切な時間と適切なバックアップ計画が必要だ。」と述べた[15]。2011年1月21日、Android版のアップデートでアーケードモード、リーダーボード、アイスブレードが可能になった[19]。同年6月にはWindowsにも移植された[20]。またドリームワークスのアニメ映画「長ぐつをはいたネコ」とコラボレーションしたスピンオフエディションも各デバイスでリリースされた。
+2011年3月、ハーフブリックはFacebook移植版をFruit Ninja Frenzyとして発表したが[21]、リリース日までは発表されなかったものの無料になるとしている。Facebook移植版は「60秒のゲームプレイで数多くのパワーアップ、解除可能、達成モード付き」としている[21]。加えて、Twisted Pixel Games開発のKinect対応ゲームであるThe Gunstringerの特典としてXbox Live Marketplaceでダウンロードできるようになった。同年8月24日にFruit Ninja Kinectがダウンロードコンテンツとしてリリースされ、Storm Seasonと銘打った3つのXbox Liveの達成モードと新しいビジュアルテーマが搭載された[22]。同年中頃にゲームセンター据置機版がFruit Ninja FXの名で登場した[23]。2012年3月、ハーフブリックはBlueStacksと提携しAndroid版Fruit Ninjaを世界中のMicrosoft Windowsでプレイできるようすると発表した。このBlueStacksはリリースから10日目で100万ダウンロードを達成している[24]。
+
+評価[編集]
+評価レビュー結果媒体結果GameZone7/10[10]IGN8.5/10[1]App Spy[25]GameZebo[26]Slide to Play4/4[27]Touch Arcade[9]Android Games
+Fruit Ninjaは批評家やプレイヤーから好意的に受け止められている。iOS版は公開から1ヶ月で20万本売れ[16]、3ヶ月目で100万本以上の売り上げを達成し[28]、2010年9月に200万本まで達し、12月で総計400万本の売り上げを見せた[29]。2011年3月時点のダウンロード数は全プラットフォームで2000万本に[30]、2012年5月時点で3億ダウンロードを達成しアメリカ合衆国のiPhoneの3分の1にインストールされている計算としている[31]。Windows Phone 7版は2010年12月28日付けでダウンロード数1位を記録した[32]。タイム誌は50 Best iPhone Appsの1つに列挙した[33]。Xbox Live Arcade版もリリース初年で739,000以上ダウンロードされた[34]。
+レビュアーは総体的な面白みがこのゲームに凝縮されているとしている。IGNのレヴィ・ブチャナンは「楽しい、楽しい、楽しい」「瞬間的な喜び」と述べており[1]、Slide to Playのクリス・リードは行列に並んでいる時の完璧な暇つぶしとしており「時間を半分にスライスするようなもの」としている[27]。GameZeboのジム・スクワイヤーズはシンプルだけど病みつきになると[26]、DIYGamerのジェフ・ギブソンは「Fruit NinjaはApp Storeの次の大物になる」と述べている[35]。数人のレビュアーは価格とハーフブリックの継続的なゲームのアップデートに対する取り組みを絶賛している。GameZoneのジェームズ・ピコバーは「多分ベストな部分はこのゲームでも完全ではない」とし[10]、利用可能で賞賛すべき価値と価格の比となっている未来のゲームモードであると[10]、App Spyのアンドリュー・ネズヴァドバはハーフブリックの取り組みとアップデートについて「壮大としか言いようがない」と述べており[25]またゲームのグラフィックを甘美と賞賛している[25]。BuzzFocusのレビュアーもゲームの安価を賞賛し、「プレイヤーは本当に今このアプリをダウンロードする必要がある」と述べている[36]。
+ゲームのスコアリングシステムや難易度に関しては様々な反応がある。Slide to Playのクリス・リードはゲームの難易度曲線を上げるべきだと[27]、App Spyのアンドリュー・ネズヴァドバはハイスコアをだすためのボーナスアイテムがランダムでより難しいと述べている[25]。DIYGamerのジェフ・ギブソンも同じ感情を持つとしている[35]。GameZoneのジェームズ・ピコバーもDIYGamerのジェフ・ギブソンもIGNのレヴィ・ブチャナンもTwitterやFacebookを通して家族や友だちにスコアを自慢できることを賞賛している[1][10][35]。
+
+
+脚注[編集]
+
+
+^ a b c d Buchanan, Levi (2010年4月28日). “Fruit Ninja Review”.   IGN. 2010年12月22日閲覧。
+
+^ a b Hinkle, David (2010年7月12日). “Fruit Ninja HD slices up the iPad later this week”.   Joystiq. 2010年12月22日閲覧。
+
+^ “Fruit Ninja for Android”.   GameSpot. 2010年12月22日閲覧。
+
+^ a b Rubino, Daniel (2010年12月21日). “Pocket God and Fruit Ninja both live in the Marketplace”.   Windows Phone Central. 2010年12月27日閲覧。
+
+^ “Fruit Ninja for Symbian”.   All About Symbian. 2011年4月2日閲覧。
+
+^ “Fruit Ninja for Bada”.   Samsung Apps. 2011年4月13日閲覧。
+
+^ Hinkle, David (2011年6月6日). “Xbox Live Summer of Arcade 2011 kicks off July 20”.   Joystiq. 2011年6月7日閲覧。
+
+^ “Fruit Ninja for Windows 8”.   Windows 8 Apps. 2012年8月10日閲覧。
+
+^ a b c “'Fruit Ninja' Review – All Ninja Hate Fruit”.   Touch Arcade (2010年4月21日). 2010年12月22日閲覧。
+
+^ a b c d e f Pikover, James (2010年6月29日). “Fruit Ninja - iPhone”.   GameZone. 2010年12月22日閲覧。
+
+^ a b Robinson, Black (2010年11月2日). ““Fruit Ninja” Reveals New Arcade Mode”.   Mashable. 2010年12月22日閲覧。
+
+^ a b Fletcher, JC (2012年5月21日). “Fruit Ninja celebrates two year anniversary with new powerups, free iOS codes”.   Joystiq. 2012年8月21日閲覧。
+
+^ Larsen, Phil (2010年9月17日). “Fruit Ninja Update With Game Center!”.   Halfbrick. 2010年12月22日閲覧。
+
+^ Larsen, Phil (2010年9月29日). “Fruit Ninja Gets More Game Center!”.   Halfbrick. 2010年12月22日閲覧。
+
+^ a b “Halfbrick Interview With Phil Larson”.   GameSpot (2010年11月28日). 2010年12月22日閲覧。
+
+^ a b Hinkle, David. “Halfbrick shares Fruit Ninja sales numbers, how to succeed on the App store”.   Joystiq. 2010年5月10日閲覧。
+
+^ Larsen, Phil (2010年11月4日). “Fruit Ninja Arcade Mode is Live!”.   Halfbrick. 2010年12月22日閲覧。
+
+^ Larsen, Phil (2010年12月22日). “Fruit Ninja Lite and More!”.   Halfbrick. 2010年12月22日閲覧。
+
+^ Larsen, Phil (2011年1月21日). “Android Fruit Ninja adds Arcade Mode!”.   Halfbrick. 2011年1月21日閲覧。
+
+^ “Slice fruits using your mouse in Fruit Ninja HD for PC!”.   eins.my (2011年6月30日). 2011年9月9日閲覧。
+
+^ a b Hinkle, David (2011年3月3日). “Fruit Ninja Frenzy to plant seeds on Facebook”.   Joystiq. 2011年3月9日閲覧。
+
+^ McElroy, Griffin (2011年8月24日). “Fruit Ninja Kinect DLC brings the thunder tomorrow {update: Today!}”.   Joystiq. 2011年8月25日閲覧。
+
+^ Sheridan, Trevor (2011年7月5日). “Fruit Ninja Is Now Playing On a 46″ Touch Screen Arcade Machine As Fruit Ninja FX”.   Apple 'n' Apps. 2012年4月4日閲覧。
+
+^ Empson, Rip (2012年4月10日). “Android On Your PC: Qualcomm Invests In BlueStacks After Beta Sees 1M Downloads In 10 Days”.   TechCrunch. 2012年4月10日閲覧。
+
+^ a b c d Nesvadba, Andrew. “Fruit Ninja Review”.   App Spy. 2010年12月22日閲覧。
+
+^ a b Squires, Jim (2010年5月13日). “Fruit Ninja Review”.   GameZebo. 2010年12月22日閲覧。
+
+^ a b c Reed, Chris (2010年9月17日). “Fruit Ninja Review”.   Slide to Play. 2010年12月22日閲覧。
+
+^ “FRUIT NINJA SELLS ONE MILLION COPIES WORLDWIDE ON IPHONE AND IPOD TOUCH”.   Gamasutra (2010年7月5日). 2010年12月22日閲覧。
+
+^ McElroy, Justin (2010年9月23日). “Fruit Ninja sells two million”.   Joystiq. 2010年12月22日閲覧。
+
+^ Hinkle, David (2011年3月3日). “Fruit Ninja surpasses 20 million total downloads”.   Joystiq. 2011年3月9日閲覧。
+
+^ Crook, Jordan (2012年5月31日). “Fruit Ninja Tops 300M+ Downloads After Two Years, Now Installed On 1/3 Of All U.S. iPhones”. TechCrunch.   TechCrunch. 2012年7月1日閲覧。
+
+^ Roberts, Matt (2010年12月28日). “Twitter /@matthewjroberts”.   Matt Roberts via Twitter. 2010年12月29日閲覧。 “Congrats to friends @halfbrick on FN #1 paid download on #WP7 USA Marketplace! (big surprise ... :)”
+
+^ Starr, Miral (2011年1月27日). “50 Best iPhone Apps 2011”.   Time. 2011年1月27日閲覧。
+
+^ Langley, Ryan (2012年1月20日). “Xbox Live Arcade by the numbers - the 2011 year in review”.   Gamasutra. 2012年1月23日閲覧。
+
+^ a b c Gibson, Geoff (2010年4月21日). “Can I Get a Smoothie?  Fruit Ninja Review”.   DIYGamer. 2010年12月22日閲覧。
+
+^ Bags (2010年4月25日). “iPhone Game Review: Fruit Ninja”.   BuzzFocus. 2010年12月22日閲覧。
+
+
+外部リンク[編集]
+
+
+
+ポータル コンピュータゲーム
+公式ウェブサイト
+Developer website
+Fruit Ninja - App Store
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Fruit_Ninja&oldid=83650293」から取得
+カテゴリ: Android用ゲームソフトIOSのゲームIPhone用ゲームソフト忍者を題材としたコンピュータゲームオーストラリアで開発されたコンピュータゲームXbox 360用ソフトXbox Live Arcade対応ソフトWindows用ゲームソフト果物を題材とした作品隠しカテゴリ: ウィキペディアとウィキデータで異なる公式ウェブサイトウィキデータにあるiTunesアプリID
+

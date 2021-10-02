@@ -1,0 +1,97 @@
+
+
+
+
+
+ローラーコースタータイクーン
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+ローラーコースタータイクーンジャンル
+経営シミュレーションゲーム発売元
+Micro Prose→Infogrames→Atari主な製作者
+クリス・ソイヤー1作目
+RollerCoaster Tycoon（1999年10月）最新作
+RollerCoaster Tycoon ADVENTURES（2019年3月）公式サイト
+RollerCoaster Tycoonテンプレートを表示
+ローラーコースタータイクーン(RollerCoaster Tycoon)は遊園地経営シミュレーションゲーム。または、そのシリーズ名。一般的に、頭文字を取って「RCT」と略されている（世界共通）。「タイクーン」系列の経営ゲームの中でも特に人気が高い。Windows、MacOS、SteamOSなどのPCに限らず、Xbox、PlayStation 4、Nintendo Switch、ニンテンドー3DSなどのコンシューマーゲーム、iOS、Android、Kindleなどの携帯デバイスにおいても幅広く発売された。内容はどれもローラーコースター（ジェットコースター）を中心とした遊園地経営ゲームである。
+
+目次
+
+1 沿革
+2 シリーズ一覧
+3 脚注
+4 関連項目
+5 外部リンク
+
+
+沿革[編集]
+1999年 - Micro Proseより、「RollerCoaster Tycoon」をリリース。
+2002年 - Infogramesより、「RollerCoaster Tycoon」のゲームエンジンはそのまま、シナリオ・施設等を強化した「RollerCoaster Tycoon 2」をリリース。
+2004年 - Atariより、「RollerCoaster Tycoon3」をリリース。
+2005年 - 開発の第一線から退いたクリス・ソイヤーが、Atari社に対し、シリーズのロイヤリティー支払いの不足分480万ドルを請求する訴訟を起こした[1]。2008年に両者が示談で合意したが[2]、それまでの間、シリーズの開発・販売が停滞する。
+2012年 - AtariとN-Spaceにより、ニンテンドー3DS版「RollerCoaster Tycoon 3D」をリリース。
+2014年 - Atariより、スマートフォン・タブレット版「RollerCoaster Tycoon 4 Mobile」をリリース。
+2016年 - Atariより、12年ぶりのPC版である「RollerCoaster Tycoon WORLD」をリリース。
+2016年 - Atariより、「RollerCoaster Tycoon」と「RollerCoaster Tycoon 2」をリメイクした「RollerCoaster Tycoon Classic」をiOS・Android・Windows向けにリリース。クリス・ソイヤーも開発に携わっている[3]。
+2017年 - Atariより、スマートフォン・タブレット版「RollerCoaster Tycoon TOUCH」をリリース。
+2018年 - Atariより、PlayStation 4版「RollerCoaster Tycoon JOYRIDE」をリリース。
+2019年 - Atariより、Nintendo Switch、Windows版「RollerCoaster Tycoon ADVENTURES」をリリース。
+シリーズ一覧[編集]
+RollerCoaster Tycoon (Windows版)
+1999年10月リリース。クリス・ソイヤー率いる製作チームが開発した。販売元はMicro Prose。遊園地園内にプレイヤーが自由にローラーコースターを敷設出来る上、当時としては視覚的に優れていた点が高く評価され、世界で700万本以上を売り上げた大ヒット作となる[2]。
+借金のリスクが少ない・普通にプレーすれば入場料金が年月に比例して高くなるなど経営ゲームとしての難度は低く、各マップ毎の攻略方法にも、それほど個性は無い。どちらかと言えば、経営よりコースターの建設そのものを楽しむ事がプレイの中心となる。プレイ画面は、軸測投影であり、ビットマップグラフィックス的な表現となっている。
+日本語版は2001年10月25日に、キッズステーション(メディアクエスト)やエレクトロニック・アーツから発売された。2003年頃にサイバーフロントからも安価版として発売された。
+RollerCoaster Tycoon 2 (Windows版)
+2002年リリース。開発には、クリス・ソイヤーの他に、Infogrames社のチームが加わっている。販売元はInfogrames。「RollerCoaster Tycoon」のゲームエンジンはそのまま、シナリオ・施設等を強化した。
+日本語版は2003年7月25日に、メディアカイトやアタリジャパンから発売された。
+RollerCoaster Tycoon (Xbox版)
+2003年3月リリース。販売元はインフォグラム。「RollerCoaster Tycoon（1作目）」の移植版。
+RollerCoaster Tycoon 3 (Windows版)
+2004年リリース。クリス・ソイヤーは開発の第一線から退き、開発元はFrontier Developments社となった。販売元はAtari。ゲーム内容のすべての要素が一新された。ゲームエンジンも完全に新規設計され、グラフィックが3DCG化されている。本作では、従来からのコースター設計に加え、自分の設計したコースターやパークを主観視点から、楽しむ事も出来るようになっている。世界で1000万本以上を売り上げた大ヒット作となる[4]。
+日本語版は2005年3月25日に、アタリジャパンから発売された。
+RollerCoaster Tycoon 3D (ニンテンドー3DS版)
+2012年リリース。販売元はAtariとN-Space。現在は販売終了。
+RollerCoaster Tycoon 4 Mobile (iOS・Android・Kindle版)
+2014年リリース。発売元はAtari。14か国語に対応しており、日本語も対応している。アイテム課金方式で、ゲーム自体は無償。
+RollerCoaster Tycoon WORLD (Windows・SteamOS版)
+2016年3月30日リリース。発売元はRCTO Productions・Atari。開発元はNvizzio Creations社。15か国語に対応しており、日本語も対応している。Frontier Developments社は開発から退き、テーマパーク建設シミュレーションゲーム「Planet Coaster」を自社で発売している。
+RollerCoaster Tycoon CLASSIC (Windows・iOS・Android・Kindle版)
+2016年12月22日リリース。発売元はAtari。開発元はOrigin8社。「RollerCoaster Tycoon」と「RollerCoaster Tycoon 2」をリメイクした。クリス・ソイヤーも開発に携わっている[3]。
+RollerCoaster Tycoon JOYRIDE (PlayStation 4版)
+2018年リリース。発売元はAtari。開発元はNvizzio Creations社。
+RollerCoaster Tycoon ADVENTURES (Windows・Nintendo Switch版)
+2019年3月10日リリース。発売元はAtari。開発元はNvizzio Creations社。
+脚注[編集]
+[脚注の使い方]
+
+
+^ Games writer sues Atari in $5m royalties dispute (By Holden Frith; November 8, 2005) Times Online 2016年2月23日閲覧
+
+^ a b 苦難の時を経て、シリーズ最新作『RollerCoaster Tycoon World』が発売へ。待望のリリースといわくつきの過去 AUTOMATON 2016年2月22日閲覧
+
+^ a b Yin-Poole, Wesley (2016年3月3日). “A big interview with Chris Sawyer, the creator of RollerCoaster Tycoon” (英語). Eurogamer. 2019年9月7日閲覧。
+
+^ テーマーパーク建設シム「Planet Coaster」のアーリーアクセス版が，「Alpha 2」にバージョンアップ 4gamer 2016年11月3日閲覧
+
+
+関連項目[編集]
+タイクーン
+経営シミュレーションゲーム
+ミニスケープ
+プラネットコースター - 3の開発元Frontier Developmentsが新たに発売したシリーズ。
+外部リンク[編集]
+公式ウェブサイト（英語）
+RollerCoaster Tycoon - Facebook（英語）
+RollerCoaster Tycoon (@OfficialRCT) - Twitter（英語）
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=ローラーコースタータイクーン&oldid=83647386」から取得
+カテゴリ: 経営シミュレーションゲームミニスケープローラーコースターコンピュータゲームのシリーズ遊園地を舞台としたコンピュータゲームWindows用ゲームソフトMacintosh用ゲームソフトニンテンドー3DS用ソフトXbox用ソフトPlayStation 4用ソフトNintendo Switch用ソフトIPhone用ゲームソフトIPad用ゲームソフトAndroid用ゲームソフトミリオンセラーのゲームソフト1999年のコンピュータゲーム2002年のコンピュータゲーム2004年のコンピュータゲーム2005年のコンピュータゲーム2012年のコンピュータゲーム2014年のコンピュータゲーム2016年のコンピュータゲーム2017年のコンピュータゲーム2018年のコンピュータゲーム2019年のコンピュータゲーム
+

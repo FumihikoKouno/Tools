@@ -1,0 +1,238 @@
+
+
+
+
+
+メディアプレーヤー
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+
+
+
+
+
+この項目では、パソコンの再生ソフト全般について説明しています。
+マイクロソフトが作成したものについては「Windows Media Player」をご覧ください。
+携帯型などでデータを再生する機器については「デジタルメディアプレーヤー」をご覧ください。
+
+
+
+
+
+
+
+物理的なメディアを再生する機器については「音響機器」、「映像機器」をご覧ください。
+
+
+ メディアプレーヤー (media player) は、コンピュータ上で、動画（映像）や音声のファイルを再生するためのアプリケーションソフトウェアである。一般的には複数のファイルフォーマットの再生に対応している。ひとつのファイルフォーマットに特化したソフトはフォーマットごとに「○○プレーヤー」と呼ばれることが普通であるからである。
+メディアプレーヤーは次のように分類される。
+
+プラットフォーム（オペレーティングシステムとハードウェア）による分類—複数のプラットフォームに対応したソフトもある。
+対応するファイルフォーマット、コーデックによる分類
+ネットワークへの対応による分類—ストリーミングコンテンツへの対応。
+著作権保護のため暗号化されたファイルへの対応による分類
+メディアプレーヤーの中には、iTunesのようにデジタルオーディオプレーヤーと連携し、音楽の転送・管理を行うものがある。
+なおこういったアプリケーションソフトウェアとは別に、それひとつで完結した携帯機器としてのデジタルメディアプレーヤーがある。これは前述のデジタルオーディオプレーヤーの考えを拡張、楽曲や音声の再生だけではなく、動画などにも対応する機器であり、パソコン側の各種ファイルを読み込ませて再生させることを目的とする。
+
+代表的なメディアプレーヤー[編集]
+DVD プレーヤー - AppleのmacOS付属
+iTunes - アップル
+PowerDVD - サイバーリンク
+QuickTime Player - アップル
+VLCメディアプレーヤー-　VideoLAN
+Windows Media Player - マイクロソフトのMicrosoft Windowsに付属
+WinDVD - コーレル
+その他のメディアプレーヤー[編集]
+
+
+
+1by1
+5KPlayer[1]
+Adobe Media Player - アドビ
+Adrenalin
+ALShow
+BeatJam
+Billy
+BS.Player（英語版）
+Coolplayer（フランス語版）
+Digital Theatre
+DivX Player
+Dynamo
+Enjoy DVDおよびEnjoy Blu-ray
+Evil Player
+Foobar2000
+GOM Player
+H2k6
+KbMedia Player
+Kodi
+KMPlayer
+Leawo Blu-ray Player[2]
+Mac Blu-ray Player（Windows版もある）
+Media Go
+Media Player Classic（MPC-BE）
+MidRadio Player
+MPlayer
+
+
+
+
+PotPlayer
+PSOFT CHRONOPlayer
+Quintessential Player
+RealPlayer
+SD-Jukebox
+sMedio[3]
+Snow Player
+SoundPlayer Lilith
+TotalMedia Theatre
+Winamp
+Xine
+x-アプリ
+Zoom Player
+真空波動研
+ビデオ
+映画 & テレビ - マイクロソフトのMicrosoft Windowsに付属
+Groove ミュージック - マイクロソフトのMicrosoft Windowsに付属
+など。
+ 
+
+
+関連項目[編集]
+オープンソースのメディアプレーヤー一覧
+表話編歴メディアプレーヤーWindows
+商用
+CD Player
+DVD Player
+Iriver plus 3
+PowerDVD
+The Core Media Player
+TotalMedia Theatre
+Windows Media Center
+Windows Media Player
+WinDVD
+Yahoo! Music Jukebox
+Zune
+フリーウェア
+Adobe Media Player
+CrystalPlayer
+Dell MediaDirect
+foobar2000
+GOM Player
+InterActual Player
+jetAudio
+K-Multimedia Player
+MadCat Media Browser
+Media Go
+MediaMonkey
+Media Player Classic
+Mod4Win
+Mpxplay
+MusicBee
+MusikCube
+QuickPlayer
+Quintessential Player
+RealPlayer
+Style Jukebox
+Winamp
+WinPlay3
+
+Windows Phone
+Windows Media Player Mobile
+macOS
+商用
+CenterStage
+Chroma
+DVD Player
+Mac Blu-ray Player
+Peel
+フリーウェア
+Audion
+Cog
+Perian
+Plexapp
+QuickTime
+
+Linux
+Audacious
+Baudline
+cmus
+Decibel Audio Player
+Exaile
+Gnome Music Player Client
+Helix
+JuK
+Kaffeine
+LinuxMCE
+Lsongs
+Mpg123
+Muine
+Music on Console
+Music Player Daemon
+Noatun
+Ogle DVD Player
+Rhythmbox
+Unix Amiga Delitracker Emulator
+Xine
+XMMS
+ビデオ
+Garnet OS
+Pocket Tunes
+クロスプラットフォーム
+商用
+CoreAVC CorePlayer
+Core Pocket Media Player
+フリーウェア
+Adobe Flash Player
+Adobe Shockwave
+Amarok
+Banshee
+Boxee
+Clementine
+DivX Player
+ffplay
+iTunes
+Kodi
+Miro
+MPlayer
+mpv
+IINA
+SMPlayer
+RealTimes
+VLCメディアプレーヤー
+Zinf
+
+技術
+コーデック
+コンテナフォーマット
+デマルチプレクサ
+インターネットラジオ
+インターネットテレビ (ウェブテレビ)
+プレイリスト
+メディアリソースロケーター
+音楽視覚化
+ポッドキャスト
+関連項目
+ビデオプレーヤー
+比較
+オーディオプレーヤー
+比較
+ポータブルメディアプレーヤー
+比較
+HDメディアプレーヤー
+ホームシアターPC
+ホームシアター
+録音録画再生機器のボタン
+
+ カテゴリ
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=メディアプレーヤー&oldid=83869841」から取得
+カテゴリ: メディアプレーヤーソフト
+

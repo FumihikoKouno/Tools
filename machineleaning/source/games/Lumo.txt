@@ -1,0 +1,87 @@
+
+
+
+
+
+Lumo (ゲーム)
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Lumoジャンル
+アクションパズル対応機種
+PC（Windows, MacOS, Linux）PlayStation 4Xbox OnePlayStation VitaNintendo Switch開発元
+Triple Eh?Just Add Water（英語版）（PS4, XBOne, PSVita）Spiral House（Switch）発売元
+Rising Star Gamesデザイナー
+Gareth Noyce音楽
+Dopedemand人数
+1人発売日
+PC：2016年5月24日[1]PS4 2016年5月24日[2][1] 2016年10月20日[3]XBOne 2016年6月22日[4][5]PSVita 2016年7月5日[6][7] 2016年10月20日[8]Switch 2017年11月16日[9][10] 2017年11月20日[11]対象年齢
+CERO：A（全年齢対象）[3][8][9]ESRB：E10+（10歳以上）[2][4][6][11]PEGI：3[7][5][10]USK：0[12][13][14]コンテンツアイコン
+ESRB：Fantasy Violence, Mild Blood[2][4][11]テンプレートを表示
+『Lumo』（ルーモ）は、イギリスのインディーゲームスタジオTriple Eh?が開発しRising Star Gamesより発売された3Dアクションパズルゲーム。
+
+目次
+
+1 概要
+2 システム
+3 脚注
+4 外部リンク
+
+
+概要[編集]
+とあるゲームソフトの中に吸い込まれてしまった主人公が、広大なダンジョンを探索しながら元の世界への帰還を目指すという物語。ダンジョンは多くの小部屋で構成されたフロアが複数階層にわたり、その多くに様々なギミックが施されている。
+本作のグラフィックは、全編にわたりクォータービュー（斜め見下ろし視点）で表現されている。本作開発者のGareth Noyceは、ゲームクリエイターのジョン・リトマン（英語版）とバーニー・ドラモンドが1980年代から1990年代にかけて開発したクォータービューのゲーム（『Head Over Heels（英語版）』や『Monster Max（英語版）』など）を好んでプレイしており、自分でもこうしたゲームを作りたいと考えていた。そうした中、ゲームクリエイターのステ・ピックフォード（英語版）とTwitter上で繋がり、彼がかつて手掛けたクォータービューのゲーム『ソルスティスII』について意見交換を行った。この際にピックフォードから激励されたことを受け、Noyceは本作のプロトタイプの制作に取り掛かった[15]。
+
+システム[編集]
+主人公の初期アクションは小ジャンプのみだが、序盤で手に入るアイテムによりジャンプ力が上がるほか、中盤で入手する杖「ライトワンド」を用いると通常は見えない床を照らし出したり一部の敵を攻撃したりすることができる。
+ダンジョンの各所には、コイン、カセットテープ、アヒルの玩具などの収集アイテムが配置されている。このうち、アヒルの取得状況はエンディングの演出に関係している。
+本作のゲームモードは、通常モード以外に、主人公の残り数（最大3）の概念がありマップ表示とセーブが不可の「クラシック」モードもある。
+
+脚注[編集]
+[脚注の使い方]
+
+
+^ a b “Rising Star Games公式Twitter” (2016年5月24日). 2019年12月6日閲覧。
+
+^ a b c “Lumo” (英語).   Official PlayStation Store US. 2019年12月6日閲覧。
+
+^ a b “Lumo”.   プレイステーション. 2019年12月6日閲覧。
+
+^ a b c “Lumo” (英語).   Microsoft Store. 2019年12月6日閲覧。
+
+^ a b “Lumo” (英語).   Microsoft Store en-GB. 2019年12月6日閲覧。
+
+^ a b “Lumo” (英語).   Official PlayStation Store US. 2019年12月6日閲覧。
+
+^ a b “Lumo” (英語).   Official PlayStation Store UK. 2019年12月6日閲覧。
+
+^ a b “Lumo”.   プレイステーション. 2019年12月6日閲覧。
+
+^ a b “Lumo”.   任天堂. 2019年12月6日閲覧。
+
+^ a b “Lumo” (英語).   Nintendo UK. 2019年12月6日閲覧。
+
+^ a b c “Lumo” (英語).   Nintendo of America. 2019年12月6日閲覧。
+
+^ “Lumo” (ドイツ語).   PlayStation Store Deutschland. 2019年12月6日閲覧。
+
+^ “Lumo” (ドイツ語).   Microsoft Store de-DE. 2019年12月6日閲覧。
+
+^ “Lumo” (ドイツ語).   Nintendo Deutschland. 2019年12月6日閲覧。
+
+^ “Interview: Gareth Noyce on Lumo, Classic Games and Striking out on His Own” (英語).   God is a Geek (2015年12月7日). 2019年12月6日閲覧。
+
+
+外部リンク[編集]
+公式サイト（英語）
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Lumo_(ゲーム)&oldid=77409206」から取得
+カテゴリ: 2016年のコンピュータゲームWindows用ゲームソフトMacOSのソフトウェアLinux用ゲームソフトPlayStation 4用ソフトXbox One用ソフトPlayStation Vita用ソフトNintendo Switch用ソフトイギリスで開発されたコンピュータゲームアクションパズル
+

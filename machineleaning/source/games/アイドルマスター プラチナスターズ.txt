@@ -1,0 +1,342 @@
+
+
+
+
+
+アイドルマスター プラチナスターズ
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+アイドルマスターシリーズ > アイドルマスター プラチナスターズ 
+アイドルマスター プラチナスターズジャンル
+アイドル育成ライブゲーム対応機種
+PlayStation 4開発元
+バンダイナムコスタジオ発売元
+バンダイナムコエンターテインメントプロデューサー
+久夛良木勇人シナリオ
+東義人田中絵美シリーズ
+アイドルマスターシリーズ人数
+1人メディア
+Blu-ray Disc発売日
+ 2016年7月28日[1]
+ 2016年9月28日
+[2]
+
+[3]対象年齢
+CERO：B（12才以上対象）GRAC:12(12+/12歳利用可)コンテンツアイコン
+セクシャル(CERO)テンプレートを表示
+『アイドルマスター プラチナスターズ』（THE IDOLM@STER PLATINUM STARS）は、バンダイナムコスタジオ開発のアイドル育成ゲーム[4]。アイドルマスターシリーズの作品では初のPlayStation 4専用タイトルとして日本では2016年7月28日に[1]、韓国と台湾では2016年9月28日に発売された[2][3]。
+
+目次
+
+1 概要
+2 ゲームシステム
+3 登場キャラクター
+4 収録楽曲
+5 CD
+6 脚注
+
+6.1 注釈
+6.2 出典
+
+
+7 外部リンク
+
+
+概要[編集]
+プレイヤーが765プロの新人プロデューサーとして奮闘。物語の舞台となるのは合宿所。そこで、13人のアイドルたちと生活しながら交流を深めていきトップアイドルへ導いていく。
+当作品は他のシリーズとは繋がりの無いパラレルワールド設定となっている[5]。
+本作ではPlayStation 4の性能を活かした様々な新技術や新たな映像表現を採用している。その一つがヴァリアブルトゥーンという技術で『アイドルマスター2』で採用されたセンシティブトゥーンに続く新技術である。トゥーンレンダリングは3Dのポリゴンモデルをイラストのように表現する技術だが、それに3Dのように細かな陰影をつけることができるようになっている。特にライブシーンの演出に力を入れていて、カメラワークの幅を広げたり、観客席の約50000本のペンライトの動きを制御したりして臨場感と迫力が増している。また登場アイドルのモデリングも刷新し、より表情を豊かにできるように現在開発中だと坂上陽三総合プロデューサーは語っている[5]。
+2015年7月18日に行われた『アイドルマスター』10周年記念ライブイベント「THE IDOLM@STER M@STERS OF IDOL WORLD!! 2015」にて『アイドルマスター（仮称）』として発表され[6]、2016年1月26日にファミ通.comにてタイトルが正式発表された。
+パッケージには通常版と限定版が有り、限定版にはライブ音源CDや限定版用オリジナル衣装用プロダクトコードなどが付属する[1]。
+
+ゲームシステム[編集]
+この節の加筆が望まれています。
+ここでは、本作特有のシステムや新規追加・変更されたシステムについて解説する。
+
+プロデュース
+プロデュースは12週で1シーズン（季節）、ファンの総数によりプロデューサーランクが上昇する。ランクが上昇すると新たな楽曲が使用可能となったり、同時にプロデュースできるアイドルの人数が増えていく。ただし、OFAのようにプロデュースアイドルが減るようなことはない。
+各シーズン終了時には「オールスターライブ」が開催される。オールスターライブはプロデュースしていないアイドルも含む13名全員が登場する。3曲連続で行うライブと、メドレー形式の曲を使用するメドレーライブに分かれている。
+ライブ部分は一新され、曲と難易度ごとに異なる、画面上に流れてくるボタンをタイミングよく押す、リズムゲーム形式に変更となり、クリア条件もプレイスコアのみになっている。
+OFAで各アイドルが持っていたスキルについては、今回はアクセサリや衣装についており、複数人での思い出アピールやエクストリームバーストはそのスキルを持ったアクセサリや衣装を着用した場合のみ使えるようになった。
+アイドルの能力はボーカル・ダンス・ビジュアルの属性がなくなり、替わりにアピール値・バーストランク・思い出ランクが設定された。
+アピール値は経験値を稼ぎレベルを上げることで、バーストランクと思い出ランクはライブでエクストリームバーストと思い出アピールをそれぞれ使用した回数の累計で上昇する。アピールの回数についてはそのアピールに参加したアイドルにのみ加算される（トリオのライブでデュオアピールを行った場合、その2人に思い出アピールの回数が加算される）。
+ライブ
+出演するライブを選択する。
+ライブごとに属性が設定されており、その属性に合わせたステージ衣装を着ると獲得スコアが倍になる。
+クリアするとファンとマニー、経験値が獲得でき、ランダムでファンからプレゼント（衣装やアクセサリ、アイテム等）を送られることがある。
+ファンを一定数獲得する毎にランクアップライブが出来るようになり、これをクリアするとリーダーになっているアイドルのランクが上昇する。
+ランクアップライブは3曲連続でプレイした総スコアにより判定される。
+営業・レッスン
+ライブ以外の仕事とレッスンはここにまとめられている。アイドルランクが上がるごとに上位の営業・レッスンが行えるようになる。
+通常営業
+リーダーに指定しているアイドル単独の仕事。歌以外のプロモーション的な仕事を行う。マニーを稼げる。
+資金営業
+雑誌やテレビの取材を受ける。ファン数が増える。実行にはマニーが必要。
+レッスン
+能力を鍛える。ファン数は増えないが、ライブよりも大きく能力を上げられる。実行にはマニーが必要。
+セッティング
+ライブ衣装やユニットの編成、使用楽曲、リーダーの変更を行う。
+仕立屋
+ステージ衣装やアクセサリのお仕立てやお直しができる。
+登場キャラクター[編集]
+詳細は「THE IDOLM@STERの登場人物」を参照
+登場キャラクターのスリーサイズや身長、年齢などに変更はない。
+
+収録楽曲[編集]
+◎はクインテット対応楽曲、☆はオールスター対応楽曲であることを示す。また、初めてゲームで使用された曲は太字で表記する。
+
+初期収録曲
+Happy!!（◎☆新曲）
+ザ・ライブ革命でSHOW!（◎☆新曲）
+THE IDOLM@STER（アーケード版より）
+my song（『L4U』より）
+私はアイドル♡（Xbox360版より）
+GO MY WAY!!（Xbox360版より）
+Honey Heartbeat（◎『2』より）
+キミ＊チャンネル（『OFA』より）
+READY!!（◎アニメ『THE IDOLM@STER』より）
+CHANGE!!!!（◎アニメ『THE IDOLM@STER』より）
+自分REST@RT（◎アニメ『THE IDOLM@STER』より）
+99 Nights（◎『OFA』より）
+ビジョナリー（『SHINY FESTA』より）
+edeN（『SHINY FESTA』より）
+Vault That Borderline!（『SHINY FESTA』より）
+七彩ボタン（PS3版『2』より）
+キラメキラリ（CDシリーズ「MASTER ARTIST」より）
+いっぱいいっぱい（CDシリーズ「MASTER ARTIST」より）
+キラキラいっぱいWAY!!MEDLEY（☆メドレーライブ専用曲。「GO MY WAY!!」「キラメキラリ」「いっぱいいっぱい」のメドレー）
+THE H@PPY LIVE!MEDLEY（☆メドレーライブ専用曲。「THE IDOLM@STER」「ザ・ライブ革命でSHOW!」「Happy!!」のメドレー）
+カタログ創刊号収録
+Miracle Night（◎新曲）
+I Want（CDシリーズ「MASTER ARTIST」より）
+目が逢う瞬間（CDシリーズ「MASTER ARTIST」より）
+カタログ2号収録
+僕たちのResistance（新曲）
+オーバーマスター（◎『SP』より）
+Do-Dai（『L4U』より）
+カタログ3号収録
+アマテラス（新曲）
+きゅんっ！ヴァンパイアガール（『2』より）
+迷走Mind（CDシリーズ「MASTER ARTIST」より）
+カタログ4号収録
+L・O・B・M（◎CDシリーズ「MASTER SPECIAL」より）
+フタリの記憶（CDシリーズ「MASTER ARTIST」より）
+Here we go!!（アーケード版より）
+カタログ5号収録
+神さまのBirthday（CDシリーズ「MASTERWORK」より）
+ONLY MY NOTE（◎『OFA』より）
+My Best Friend（XBox360版より）
+カタログ6号収録
+Little Match Girl（『2』より）
+9:02pm（アーケード版より）
+i（CDシリーズ「MASTER ARTIST」より）
+
+CD[編集]
+THE IDOLM@STER PLATINUM MASTER
+『プラチナスターズ』用の新曲のフルバージョンを収録したCDシリーズ。発売元は日本コロムビア。
+詳細は「THE IDOLM@STER PLATINUM MASTER」を参照
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+
+
+出典[編集]
+
+
+^ a b c  【プラチナスターズ】発売予定日が2016年7月28日（木）に決定!!　限定版、初回封入特典の内容も公開中!!. バンダイナムコエンターテインメント. (2016-04-06). http://idolmaster.jp/blog/?p=19414 2016年4月6日閲覧。. 
+
+^ a b  아이돌마스터 플래티넘 스타즈 ｜ PlayStation® 공식 사이트. PlayStation公式サイト(韓国語). https://www.playstation.co.kr/game/4595 2017年7月28日閲覧。. 
+
+^ a b  《偶像大師 白金星光》8 月 6 日舉辦舞台活動 邀請製作人及 4 位聲優登台和玩家見面. 巴哈姆特. (2016-08-03). https://gnn.gamer.com.tw/7/135447.html 2017年7月28日閲覧。. 
+
+^ 【先出し週刊ファミ通】『アイドルマスター プラチナスターズ』アイドルたちの新たな舞台はPS4！ファミ通.com 2016年1月26日
+
+^ a b “第1報 アイドルマスター プラチナスターズ”. 週刊ファミ通 (カドカワ株式会社):  12-15. (2016-01-28). https://www.enterbrain.co.jp/product/magazine/fami_weekly/15000040 2016年1月28日閲覧。. 
+
+^ PS4™『アイドルマスター(仮称)』をお披露目！ ｢太鼓の達人｣とのコラボゲームも発表された｢アイドルマスター｣10周年記念ライブイベントレポート！ PlayStation.Blog 2015年7月24日
+
+
+外部リンク[編集]
+THE IDOLM@STER OFFICIAL WEB
+アイドルマスター プラチナスターズ 公式サイト
+表話編歴アイドルマスターシリーズ（バンダイナムコエンターテインメント）
+作品一覧ゲーム
+アーケード
+Xbox 360
+LIVE FOR YOU!
+SP
+Dearly Stars
+2
+シンデレラガールズ
+スターライトステージ
+ビューイングレボリューション
+SHINY FESTA
+ミリオンライブ!
+シアターデイズ
+ワンフォーオール
+SideM
+LIVE ON ST@GE!
+GROWING STARS
+マストソングス
+プラチナスターズ
+ステラステージ
+シャイニーカラーズ
+ポップリンクス
+スターリットシーズン
+登場人物
+ゲーム（およびゲーム準拠作品）の登場人物
+ミリオンライブ!の登場人物
+アニメ
+XENOGLOSSIA
+2011年版アニメ
+劇場版
+ぷちます!
+シンデレラガールズ
+シンデレラガールズ劇場
+SideM
+理由あってMini!
+ミリオンライブ!
+漫画
+ぷちます!
+シンデレラガールズ劇場
+ミリオンライブ!
+パチスロ
+LIVE in SLOT!
+テレビドラマ
+THE IDOLM@STER.KR
+音楽
+楽曲一覧
+THE IDOLM@STER
+シンデレラガールズ
+ミリオンライブ!
+SideM
+楽曲記事
+微熱S.O.S!!
+残酷よ希望となれ
+Colorful Days
+オーバーマスター
+The world is all one !!
+SMOKY THRILL
+READY!!
+CHANGE!!!!
+ら♪ら♪ら♪わんだぁらんど
+M@STERPIECE
+ラムネ色 青春
+虹色ミラクル
+Dreaming!
+Yes! Party Time!!
+Beyond The Dream
+なんどでも笑おう
+CDシリーズ
+765プロ
+MASTERPIECE
+MASTERWORK
+MASTER ARTIST
+MASTER LIVE
+ファミソン8BIT
+MASTER OF MASTER
+MASTER SPECIAL
+DREAM SYMPHONY
+Vocal Collection
+BEST OF 765+876=!!
+MASTER ARTIST 2
+ANIM@TION MASTER
+Jupiter
+生っすかSPECIAL
+Twelve Seasons!
+GRE@TEST BEST!
+TO D@NCE TO
+Twelve Campaigns!
+MASTER ARTIST 3
+PLATINUM MASTER
+MASTER PRIMAL
+STELLA MASTER
+MASTER ARTIST 4
+シンデレラガールズ
+CINDERELLA MASTER
+jewelries!
+ANIMATION PROJECT
+STARLIGHT MASTER
+LITTLE STARS!
+MASTER SEASONS!
+TO D@NCE TO
+STARLIGHT for the NEXT!
+3chord
+STARLIGHT GOLD RUSH!
+ミリオンライブ!
+LIVE THE@TER PERFORMANCE
+LIVE THE@TER HARMONY
+LIVE THE@TER SOLO COLLECTION
+LIVE THE@TER DREAMERS
+THE@TER ACTIVITIES
+LIVE THE@TER FORWARD
+MILLION THE@TER GENERATION
+M@STER SPARKLE
+THE@TER BOOST
+MILLION THE@TER WAVE
+THE@TER CHALLENGE
+SideM
+ST@RTING LINE
+ANNIVERSARY DISC
+ORIGIN@L PIECES
+Cybernetics Wars ZERO
+ANIMATION PROJECT
+WORLD TRE@SURE
+WakeMini! MUSIC COLLECTION
+Best Game 2
+NEW STAGE EPISODE
+KR
+KR MUSIC
+シャイニーカラーズ
+BRILLI@NT WING
+FR@GMENT WING
+GR@DATE WING
+COLORFUL FE@THERS
+L@YERED WING
+
+
+ラジオ
+ラジオ大阪
+THE IDOLM@STER RADIO
+THE IDOLM@STER STATION!!!（第1期）
+animate.tv
+ラジオdeアイマSHOW!
+Radio For You!
+P.S.プロデューサー
+ラジオdeアイマSTAR☆
+ラジオdeアイマCHU!!
+HiBiKi Radio Station
+アイマスタジオ
+デレラジ / デレラジA / デレラジ☆
+ニコニコ生放送
+THE IDOLM@STER MillionRADIO
+CINDERELLA PARTY!
+THE IDOLM@STER STATION!!!（第2期）
+315プロNight!
+THE IDOLM@STER MUSIC ON THE RADIO
+その他
+春香とやよいの弥生式らじお
+WEBラジ☆ショッピングマスター
+THE IDOLM@STER STATION!!+
+はばたきラジオステーション
+
+関連項目
+アイドルマスタープロジェクト
+Real Girls Project
+
+
+
+この項目は、コンピュータゲームに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（P:コンピュータゲーム / PJコンピュータゲーム）。
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=アイドルマスター_プラチナスターズ&oldid=79627121」から取得
+カテゴリ: アイドルマスター (765PRO ALLSTARS)アイドルマスターのコンピュータゲーム2016年のコンピュータゲームPlayStation 4用ソフト育成シミュレーションゲーム隠しカテゴリ: 書きかけの節のある項目コンピュータゲーム関連のスタブ記事
+

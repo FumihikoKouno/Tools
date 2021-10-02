@@ -1,0 +1,137 @@
+
+
+
+
+
+Teslagrad
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+
+
+ナビゲーションに移動
+検索に移動
+Teslagradテスラグラッドジャンル
+アクションパズル対応機種
+Steam（Windows, MacOS, Linux）Wii UPlayStation 3PlayStation 4PlayStation VitaXbox OneNintendo Switch開発元
+Rain Games発売元
+Rain Gamesユニティ･ゲームズ･ジャパン（Wii U）スクウェア・エニックス（PS3, PS4, PS Vita）フライハイワークス（Switch）人数
+1人メディア
+ダウンロード販売発売日
+Steam：2013年12月14日Wii U 2014年9月11日 2015年3月11日（2016年12月28日に配信終了）[1]PS3 / PS4 2014年12月3日 2015年2月18日 2015年4月14日PS Vita 2015年6月26日 2015年11月24日 2016年4月28日XBOne 2016年3月9日Switch 2017年11月16日 2017年12月7日対象年齢
+CERO：A（全年齢対象）ESRB：E（6歳以上）PEGI：7USK：6（6歳未満提供禁止）コンテンツアイコン
+ESRB: Mild Fantasy ViolencePEGI: Violenceエンジン
+Unity売上本数
+160万本（2016年3月時点、Steam, Wii U, PS3, PS4, PS Vita版総計）[2][3]テンプレートを表示
+『Teslagrad』（テスラグラッド）[注 1]は、ノルウェーのインディーゲームスタジオRain Gamesが開発したアクションパズルゲーム。Steam、Wii U、PlayStation 3、PlayStation 4、PlayStation Vita、Xbox One、Nintendo Switch用のソフトとして発売されたが、このうち日本のWii U版は2016年12月28日に配信を終了している[1]。
+
+目次
+
+1 概要
+2 システム
+3 評価
+4 エピソード
+5 脚注
+
+5.1 注釈
+5.2 出典
+
+
+6 外部リンク
+
+
+概要[編集]
+磁力の仕掛けが施された塔「Tesla Tower」の内部を、主人公の少年が様々なアイテムやテクニックを駆使しながら冒険する。サイドビューで描かれた広大なエリアを探索するアクションゲーム形式、いわゆる「メトロイドヴァニア（英語版）」の要素に、前述の磁力にまつわるパズルゲーム要素が複合している。
+ゲームを進める中で、舞台となる王国、そして主人公を含む能力者「Teslamancer」たちが歩んできた闇の歴史が明らかになる。こうした描写について作中では台詞や説明文が示されず、塔の内部の小劇場で上演される人形劇や壁面に飾られた歴史画、各所で手に入る巻物の画像といった美術要素のみで表現している。
+作中のグラフィックには、100以上に及ぶ手描きイラストを用いている。これらは古い北欧・東欧の文化やスチームパンクのジャンルから影響を受け、特有の世界観が構築されている[4][5]。
+
+システム[編集]
+冒険する塔の内部には、磁気を帯びた仕掛けや磁場が発生している部屋が数多く存在する。磁極は赤と青の二色で表現され、同色同士は反発、異色同士は吸着する。
+冒険の進行により、以下の装備品が手に入る（名前が併記されているものは、左がNintendo Switch版以外、右がNintendo Switch版）。
+
+マグネグローブ - 金属製の物や一部の敵を殴ることにより、磁極を切り替えたり磁気を帯びさせたりできる。
+ブリンクブーツ / テレポートブーツ - 目前の数歩分先の場所へ瞬間移動できる。間に鉄格子や敵が存在する場合はこれをすり抜ける。
+ポラリティクローク / ポーラーフード - 自分の体に磁気を帯びさせ、周囲の帯磁物や磁場に反応させることができる。
+テスラスタッフ - 前方へ向けて磁気を発射し、離れた場所にある物に対してマグネグローブと同様の効果を与える。遠距離攻撃にも用いる。
+前述のように、塔内部の各所には収集アイテムの巻物が配置されている。これらはゲーム終盤で訪れるエリアに入るために最低15巻を集める必要があり、36巻全てを集めるとゲームクリア後のエンディングが変化する。
+
+評価[編集]
+評価集計結果媒体結果GameRankings(Wii U) 80.55%[6](PC) 78%[7](PS4) 75%[8]Metacritic(Wii U) 79/100[9](PC) 77/100[10](PS4) 77/100[11]レビュー結果媒体結果NintendoLife9/10[12]Nintendo World Report8/10[13]
+本作は肯定的なレビューを受けた。Wii U版はレビューアグリケーティングサイトGameRankingsでは11のレビューで80.55%、Metacriticでは15のレビューで79/100のスコア[6][9]。PC版は5のレビューで78%、15のレビューで77/100のスコア[7][10]、PS4版は4のレビューで75%、11のレビューで77/100のスコア[8][11]。
+Nintendo Lifeはノスタルジックな音楽、手描きのアートワーク、頭をひねらせるパズルを賞賛[12]。Nintendo World Reportは芸術スタイルを賞賛したが、高難易度とWii Uゲームパッドをあまり使わないことを批判した[13]。
+PS3、PS4版はファミ通クロスレビューでは7、7、7、8の29点[14]。レビュアーはパズルが多彩、アクション要素もあり上手く解けると気持ちいい、テキストや台詞がない演出が見事とした一方で難易度が高くてヒントもほとんどなくボス戦は繰り返しプレイが必要になるため救済措置が欲しかった者と解くと爽快であるためいい意味で「マゾゲー」とした者で分かれた他、PS3版はエリア移動で読み込みがあるとした[14]。
+
+
+エピソード[編集]
+『Teslagrad』の名称は、19世紀中期から20世紀中期にかけて活動した電気技師のニコラ・テスラから採られている。また、本作の最終ボスとしても登場する国王の表情は、ニコラ・テスラのデスマスクをモチーフにしている[15]。
+本作はRain Gamesの処女作だが、それ以前にはトップビューのオンライン対戦アクションゲーム『Minute Mayhem』を開発していた。この作品は発売に至らなかったが、作品内に登場する4つの国家のうちの1つ「Elektropia」の王都Teslagradに舞台の焦点を絞り新たに開発されたのが本作である[2][16][注 2]。
+本作と同じくRain Gamesが開発し2017年に発売されたゲームソフト『World to the West』は本作の25年から30年後の時代が舞台で、成長した本作の主人公とその娘・ルミナが登場する[17]。
+カナダのインディーゲームスタジオ13AM Games開発のアクションゲーム『Runbow』とアメリカのインディーゲームスタジオLowe Bros. Studios開発の対戦アクションゲーム『Indie Pogo』では、本作の主人公が操作キャラクターの一人として登場する[18][19]。
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+
+
+^ 日本のNintendo Switch版は片仮名表記の『テスラグラッド』を公式名としている。
+
+^ なお、「Elektropia」と他の3つの国家「Motorland」「Mesmer」「Angloria」は、後述のソフト『World to the West』における4人の操作キャラクターの出身地名となっている。
+
+
+出典[編集]
+
+
+^ a b “Teslagrad｜Wii U”.   任天堂. 2018年6月9日閲覧。
+
+^ a b “About” (英語).   Rain Games. 2018年6月9日閲覧。
+
+^ Copeland, Wesley (2016年3月8日). “Electromagnetic puzzler Teslagrad heads to Xbox One this week” (英語). IGN.   Ziff Davis. 2018年9月15日閲覧。
+
+^ “teslagrad.com” (英語).   Rain Games. 2018年6月9日閲覧。
+
+^ “Presskit” (英語).   Rain Games. 2018年6月9日閲覧。
+
+^ a b “Teslagrad for Wii U”.   GameRankings. 2016年2月1日閲覧。
+
+^ a b “Teslagrad for PC”.   GameRankings. 2016年2月1日閲覧。
+
+^ a b “Teslagrad for PlayStation 4”.   GameRankings. 2016年2月1日閲覧。
+
+^ a b “Teslagrad for Wii U Reviews”.   Metacritic. 2016年2月1日閲覧。
+
+^ a b “Teslagrad for PC Reviews”.   Metacritic. 2016年2月1日閲覧。
+
+^ a b “Teslagrad for PlayStation 4 Reviews”.   Metacritic. 2016年2月1日閲覧。
+
+^ a b Shapiro, Jake (2014年9月11日). “Teslagrad (Wii U eShop) Review”.   Nintendo Life. 2016年2月1日閲覧。
+
+^ a b Bonds, Curtis (2014年9月11日). “Teslagrad Review”.   Nintendo World Report. 2016年2月1日閲覧。
+
+^ a b ファミ通No.1369 2015年3月12日号 202ページ
+
+^ “Teslagrad Interview with Rain Games” (英語).   Nintendo World Report (2014年8月25日). 2018年6月9日閲覧。
+
+^ “Minute Mayhem” (英語).   Rain Games. 2018年6月9日閲覧。
+
+^ “VGB Feature: World to the West Interview with Rain Games Artist Ole Ivar Rudi” (英語).   VGBlogger (2016年4月18日). 2018年6月9日閲覧。
+
+^ “Runbow adds a new round of crossover characters” (英語).   Nintendo Everything (2015年8月10日). 2018年9月15日閲覧。
+
+^ “Indie Pogo” (英語).   Lowe Bros. Studios. 2018年9月15日閲覧。
+
+
+外部リンク[編集]
+Rain Games公式サイト（英語）
+ユニティ･ゲームズ･ジャパン公式サイト（2017年5月20日時点のアーカイブ）
+スクウェア・エニックス公式サイト
+フライハイワークス公式サイト
+テスラグラッドに関するカテゴリ:
+ Nintendo Switch用ソフト 
+ フライハイワークスのゲームソフト 
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=Teslagrad&oldid=78309301」から取得
+カテゴリ: 2013年のコンピュータゲームWindows用ゲームソフトMacOSのソフトウェアLinux用ゲームソフトWii U用ソフトPlayStation 3用ソフトPlayStation 4用ソフトPlayStation Vita用ソフトXbox One用ソフトアクションパズルノルウェーで開発されたコンピュータゲームスクウェア・エニックスのゲームソフトスチームパンク・コンピュータゲームUnityを採用したゲームソフト
+
